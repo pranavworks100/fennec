@@ -1,0 +1,49 @@
+name: 🕷️ Daily News Scraper
+
+on:
+  schedule:
+    # Runs every day at 13:00 UTC (adjust to your preferred timezone)
+    - cron: "0 13 * * *"
+  workflow_dispatch: # Allow manual trigger from GitHub UI
+
+permissions:
+  contents: write # Required to commit news.json back to main
+
+jobs:
+  scrape:
+    name: Fetch & Commit news.json
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python 3.12
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: "pip"
+
+      - name: Install Python dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run Fennec scraper
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python scrape.py
+
+      - name: Commit updated news.json
+        run: |
+          git config --local user.email "fennec-bot@users.noreply.github.com"
+          git config --local user.name "Fennec Bot 🦊"
+          git add public/news.json
+          # Only commit if there are actual changes
+          if git diff --staged --quiet; then
+            echo "No changes to news.json — skipping commit."
+          else
+            git commit -m "📰 Daily news update — $(date -u '+%A, %B %d, %Y')"
+            git push
+          fi
