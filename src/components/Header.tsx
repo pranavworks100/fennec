@@ -54,7 +54,7 @@ export function Header({ dark, onToggle }: Props) {
         </button>
 
         <a
-          href="https://github.com/yourusername/fennec"
+          href="https://github.com/pranavworks100/fennec"
           target="_blank"
           rel="noopener noreferrer"
           className="github-link"
