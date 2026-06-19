@@ -1,90 +1,90 @@
 {
   "meta": {
     "date": "Friday, June 19, 2026",
-    "scene_summary": "We are currently speedrunning the apocalypse while the infrastructure is still running on a expired SSL certificate.",
+    "scene_summary": "We are building the future on top of infrastructure that is currently having a nervous breakdown.",
     "ratio_statement": "5:5"
   },
   "cooking": [
     {
       "id": 1,
-      "domain": "terrapower.com",
-      "headline": "Meta is speedrunning the 'DIY Nuclear Power Plant' achievement",
-      "summary": "Meta is buying eight nuclear reactors just to keep their AI training clusters running without a power grid meltdown. It's the ultimate flex for a company that just really wants to make sure their GPUs never have to take a nap.",
-      "plain_english": "Meta has signed a contract to purchase electricity from eight upcoming nuclear power plants to support its massive data center energy requirements.",
-      "source_url": "https://neutronbytes.com/2026/01/09/terrapower-in-mega-deal-with-meta-for-eight-natrium-345-mw-advanced-nuclear-plants/"
+      "domain": "oracle.com",
+      "headline": "Project Valhalla is finally arriving after a decade of 'it's coming soon'",
+      "summary": "Java's long-awaited attempt to fix memory layout is finally hitting JDK 28 after a development cycle longer than most of our careers. It turns out that refactoring the entire memory model is the ultimate group project where nobody graduates for ten years.",
+      "plain_english": "The Java programming language is introducing a significant update to improve how data is stored and managed in computer memory.",
+      "source_url": "https://www.jvm-weekly.com/p/project-valhalla-explained-how-a"
     },
     {
       "id": 2,
       "domain": "meta.com",
-      "headline": "Governments are trying to set a bedtime for the internet",
-      "summary": "Countries are racing to restrict social media access for kids, effectively trying to ground an entire generation from their digital playgrounds. It's like telling a kid to stay off the grass, except the grass is an infinite scroll of dopamine and the fence is made of legislation.",
-      "plain_english": "Several countries are implementing new laws to restrict or ban children from using social media platforms.",
+      "headline": "Governments are trying to set a bedtime for the entire internet",
+      "summary": "Countries are rushing to ban social media for kids, effectively trying to ground an entire generation from their digital living rooms. It is a bold move, assuming the kids haven't already figured out how to bypass parental controls with a simple VPN side quest.",
+      "plain_english": "Multiple countries are introducing legislation to restrict or prohibit social media usage by minors.",
       "source_url": "https://www.reuters.com/legal/government/australia-europe-countries-move-curb-childrens-social-media-access-2026-06-18/"
     },
     {
       "id": 3,
-      "domain": "zhipu-ai.cn",
-      "headline": "GLM-5.2 is basically a supercomputer that lives in your nightmares",
-      "summary": "GLM-5.2 is the most capable open-weight model yet, provided you have a spare data center to actually run it. Trying to host this locally is like buying a Ferrari and realizing you have to build your own private highway to drive it to the grocery store.",
-      "plain_english": "A highly capable artificial intelligence model has been released for public use, but it requires extremely powerful computer hardware that is difficult for most individuals to access.",
-      "source_url": "https://vettedconsumer.com/glm-5-2-the-most-powerful-open-weight-model-yet-and-the-brutal-reality-of-running-it-locally/"
+      "domain": "hite-space.com",
+      "headline": "Mars is now just another sandbox for Big Tech egos",
+      "summary": "NASA just picked Eric Schmidt's rocket startup for a Mars mission, officially turning the final frontier into the latest corporate tech merger. It's like watching two billionaire kids fight over who gets to play with the most expensive Lego set in the solar system.",
+      "plain_english": "NASA has selected White Space, a rocket company founded by Eric Schmidt, to participate in a mission to Mars.",
+      "source_url": "https://techcrunch.com/2026/06/17/nasa-picks-eric-schmidts-rocket-company-for-mars-mission-setting-up-a-race-with-spacex/"
     },
     {
       "id": 4,
-      "domain": "oracle.com",
-      "headline": "Project Valhalla has been in the works longer than most startups",
-      "summary": "After a decade of development, Java is finally getting value types to make memory management less of a headache. It's the ultimate 'I'll get to it eventually' project that actually finished, proving that sometimes even the slowest group project partners do show up on the final day.",
-      "plain_english": "The Java programming language is introducing a new feature called Project Valhalla that improves how the system handles data to increase performance and efficiency.",
-      "source_url": "https://www.jvm-weekly.com/p/project-valhalla-explained-how-a"
+      "domain": "zhipuai.cn",
+      "headline": "GLM-5.2 is the smartest model you can run, provided you own a small power plant.",
+      "summary": "GLM-5.2 claims the title of most powerful open model, finally giving you the performance you've always wanted for your local machine. It's perfect if your hobby is training AI models and your side project is bankrupting your local utility provider.",
+      "plain_english": "A new high-performance artificial intelligence model has been released for public use, but it requires significant computer hardware to operate effectively.",
+      "source_url": "https://vettedconsumer.com/glm-5-2-the-most-powerful-open-weight-model-yet-and-the-brutal-reality-of-running-it-locally/"
     },
     {
       "id": 5,
-      "domain": "hiteocean.com",
-      "headline": "NASA just gave a billionaire a Mars contract, as if we're playing real-life SimCity now.",
-      "summary": "NASA has tapped Eric Schmidt's rocket venture to compete with SpaceX for Mars missions, proving that space exploration is just a high-stakes group project where the richest kids get to choose the equipment. It's comforting to know that even on another planet, the same corporate rivalries from Silicon Valley will be there to greet us.",
-      "plain_english": "NASA has selected Eric Schmidt's aerospace company to participate in missions to Mars, creating a new competitor to SpaceX for government space contracts.",
-      "source_url": "https://techcrunch.com/2026/06/17/nasa-picks-eric-schmidts-rocket-company-for-mars-mission-setting-up-a-race-with-spacex/"
+      "domain": "fable.com",
+      "headline": "Pylint got a Rust rewrite, because waiting for your linter to finish is so 2024.",
+      "summary": "Fable ported Pylint to Rust, proving that if a tool isn't fast enough to run every time you press save, it's essentially a brick. It turns out the only thing developers hate more than writing documentation is watching a progress bar.",
+      "plain_english": "The software tool used to check Python code for errors has been rewritten in the Rust programming language to improve its processing speed.",
+      "source_url": "https://pypi.org/project/prylint/"
     }
   ],
   "cooked": [
     {
       "id": 6,
-      "domain": "amazon.com",
-      "headline": "EU prepares to tell AWS and Azure that being the internet's landlord is a full-time job",
-      "summary": "The EU is planning to classify major cloud providers as gatekeepers, which is basically the regulatory equivalent of being put on academic probation. It turns out that when you host the entire internet, the government eventually wants to sit on the board of directors.",
-      "plain_english": "European regulators are moving to label Amazon Web Services and Microsoft Azure as gatekeepers, subjecting them to stricter competition rules under the Digital Services Act.",
+      "domain": "aws.amazon.com",
+      "headline": "EU regulators are about to treat AWS and Azure like the neighborhood HOA",
+      "summary": "The EU is moving to classify cloud giants as gatekeepers, effectively giving them the same regulatory headache as social media apps. It turns out that when you host half the internet, the government eventually decides you need a hall monitor.",
+      "plain_english": "European regulators plan to label Amazon and Microsoft as gatekeepers under the Digital Services Act, subjecting their cloud infrastructure services to stricter oversight.",
       "source_url": "https://www.heise.de/en/news/Report-EU-to-soon-classify-AWS-and-Azure-as-gatekeepers-under-DSA-11337873.html"
     },
     {
       "id": 7,
       "domain": "apple.com",
-      "headline": "Apple's A12 and A13 chips just found their permanent guest pass for hackers.",
-      "summary": "Apple silicon is basically the fortress that forgot to lock the back door, and there is no firmware update coming to fix it. It is the hardware equivalent of realizing your 'unbreakable' bike lock was actually made of chocolate.",
-      "plain_english": "A permanent security vulnerability has been discovered in Apple's A12 and A13 processors that cannot be fixed with a software update.",
+      "headline": "Apple's A12 and A13 chips just discovered their 'unpatchable' personality trait",
+      "summary": "Researchers found a hardware-level exploit in older Apple silicon that software updates literally cannot fix. It is the tech equivalent of realizing your front door lock is permanently jammed from the inside.",
+      "plain_english": "A permanent security vulnerability has been identified in Apple's A12 and A13 processors that cannot be resolved through standard software updates.",
       "source_url": "https://www.macrumors.com/2026/06/18/a12-and-a13-chips-facing-exploit/"
     },
     {
       "id": 8,
-      "domain": "letsencrypt.org",
-      "headline": "Let's Encrypt had a minor existential crisis with SSL renewals today.",
-      "summary": "The service that automates the internet's security decided to take a sick day, leaving everyone scrambling to renew their certificates manually. It is like the one guy who handles the keys to the office deciding to go on an unannounced vacation.",
-      "plain_english": "Let's Encrypt experienced a technical issue that caused failures in the automated renewal process for digital security certificates.",
-      "source_url": "https://letsencrypt.status.io/#2026"
+      "domain": "amazon.com",
+      "headline": "Amazon's AI strategy is so green that questioning it is now an HR violation",
+      "summary": "Amazon is investigating employees who spoke out against the environmental impact of their massive AI data center expansion. It is the corporate equivalent of building a bonfire in your living room and firing anyone who complains about the smoke.",
+      "plain_english": "Amazon is investigating employees who publicly criticized the company's expansion of data centers used for artificial intelligence.",
+      "source_url": "https://www.cnbc.com/2026/06/18/amazon-engineers-ai-data-center-opposition.html"
     },
     {
       "id": 9,
-      "domain": "amazon.com",
-      "headline": "Amazon's AI strategy is apparently 'agree or you're fired'",
-      "summary": "Amazon is investigating engineers who dared to question the environmental impact of their AI data centers. It turns out the only thing Amazon hates more than unionization is a developer who accidentally performs a code review on the company's PR department.",
-      "plain_english": "Amazon is investigating employees who publicly criticized the company's plans to expand data centers for artificial intelligence.",
-      "source_url": "https://www.cnbc.com/2026/06/18/amazon-engineers-ai-data-center-opposition.html"
+      "domain": "letsencrypt.org",
+      "headline": "Let's Encrypt had a minor identity crisis, and your SSL certificates felt it",
+      "summary": "A hiccup in the renewal process left developers scrambling to fix certificates that decided to stop working out of nowhere. It is the digital version of your landlord changing the locks on your apartment because they forgot how to verify your rent payment.",
+      "plain_english": "Let's Encrypt experienced technical issues that caused errors during the automated renewal of security certificates for websites.",
+      "source_url": "https://letsencrypt.status.io/#2026"
     },
     {
       "id": 10,
       "domain": "elkjop.no",
-      "headline": "Turns out 'I didn't read the terms' isn't a valid legal defense for the company either.",
-      "summary": "Elkjop ignored a warning that their forced consent practices were illegal, and five years later, they've paid €1.8 million to learn that the user isn't the only one who skips the fine print. It's the ultimate lesson in technical debt: the interest on ignoring compliance is significantly higher than just fixing the bug.",
-      "plain_english": "The retailer Elkjop was fined 1.8 million euros for using illegal forced consent methods to collect customer data.",
+      "headline": "The 'I told you so' fee is officially 1.8 million euros",
+      "summary": "A privacy advocate spent five years warning Elkjop that their forced consent model was illegal, only for the company to find out the hard way that ignoring tickets doesn't make them disappear. It turns out that 'ignoring the QA feedback' is a lot more expensive when the auditor is a government agency.",
+      "plain_english": "A retail company was fined 1.8 million euros for using illegal methods to force customers to provide consent for data processing.",
       "source_url": "https://www.thatprivacyguy.com/blog/elkjop-forced-consent-fine/"
     }
   ]
