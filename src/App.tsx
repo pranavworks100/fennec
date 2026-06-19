@@ -19,14 +19,29 @@ function App() {
     localStorage.setItem("fennec-theme", dark ? "dark" : "light");
   }, [dark]);
 
+  // Polling configuration (ms)
+  const POLL_INTERVAL_MS = 300_000; // 5 minutes
+
+  // Load feed once and then poll periodically. Uses cache-busting query
+  // param and `cache: 'no-store'` to avoid stale cached responses.
   useEffect(() => {
-    fetch("./news.json")
-      .then((r) => {
-        if (!r.ok) throw new Error("Failed to load news feed.");
-        return r.json();
-      })
-      .then(setData)
-      .catch((e) => setError(e.message));
+    let mounted = true;
+    async function load() {
+      try {
+        const res = await fetch(`/news.json?ts=${Date.now()}`, { cache: "no-store" });
+        if (!res.ok) throw new Error("Failed to load news feed.");
+        const json = await res.json();
+        if (mounted) setData(json);
+      } catch (e) {
+        if (mounted) setError((e as Error).message);
+      }
+    }
+    load();
+    const id = setInterval(load, POLL_INTERVAL_MS);
+    return () => {
+      mounted = false;
+      clearInterval(id);
+    };
   }, []);
 
   if (error) {
