@@ -28,7 +28,7 @@ function App() {
     let mounted = true;
     async function load() {
       try {
-        const res = await fetch(`/news.json?ts=${Date.now()}`, { cache: "no-store" });
+        const res = await fetch(`./news.json?ts=${Date.now()}`, { cache: "no-store" });
         if (!res.ok) throw new Error("Failed to load news feed.");
         const json = await res.json();
         if (mounted) setData(json);
