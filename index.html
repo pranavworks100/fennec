@@ -7,6 +7,18 @@
     <meta name="description" content="Fennec — zero-cost, ultra-premium daily tech news digest for software engineers." />
     <meta name="theme-color" content="#000000" />
     <title>Fennec — Daily Tech Digest</title>
+    <script>
+      (function(){
+        try {
+          // If user hasn't chosen a theme, default to dark to avoid LCP flash
+          if (!localStorage.getItem('fennec-theme')) {
+            document.documentElement.setAttribute('data-theme', 'dark');
+          }
+        } catch (e) {
+          // noop
+        }
+      })();
+    </script>
   </head>
   <body>
     <div id="root"></div>

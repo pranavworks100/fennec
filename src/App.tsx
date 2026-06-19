@@ -10,7 +10,8 @@ function App() {
   const [dark, setDark] = useState(() => {
     const saved = localStorage.getItem("fennec-theme");
     if (saved) return saved === "dark";
-    return window.matchMedia("(prefers-color-scheme: dark)").matches;
+    // Default to dark for first-time visitors
+    return true;
   });
 
   useEffect(() => {
