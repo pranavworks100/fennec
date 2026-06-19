@@ -3,6 +3,8 @@
 > Zero-cost, ultra-premium daily tech news digest for software engineers.
 > Runs fully serverless on GitHub. No hosting fees. No databases. No nonsense.
 
+Live site: https://pranavworks100.github.io/fennec/
+
 ---
 
 ## How It Works
@@ -34,7 +36,7 @@ A **Vite + React + TypeScript** frontend hosted on **GitHub Pages** reads `news.
 ## Local Setup
 
 ### Prerequisites
-- Node.js 18+
+- Node.js 20+ (CI uses Node 20)
 - Python 3.11+
 - A [Gemini API key](https://aistudio.google.com/apikey) (free tier works)
 
@@ -95,6 +97,16 @@ Name:  GEMINI_API_KEY
 Value: your_key_here
 ```
 
+Or via GitHub CLI:
+
+```bash
+gh secret set GEMINI_API_KEY --body "your_gemini_api_key_here"
+```
+
+Notes:
+- The workflows read `GEMINI_API_KEY` from repository secrets; do not store your key in the repo.
+- You can trigger the scraper manually from Actions → Daily News Scraper → Run workflow to test the secret.
+
 ### 4. Push to main
 
 Both workflows trigger automatically:
@@ -123,7 +135,7 @@ The scraper is intentionally opinionated. Edit `scrape.py` to change:
 - **`MODEL`** — swap to `gemini-3.1-flash-lite`, `gemini-2.0-flash`, or `gemini-1.5-pro`
 - **`fetch_signals` prompt** — change which topics/companies are included
 - **`curate_and_format` prompt** — adjust the tone, wit level, or format
-- **Cron schedule** in `scrape.yml` — change `0 7 * * *` to any time you want
+- **Cron schedule** in `scrape.yml` — currently set to `0 13 * * *` (13:00 UTC); change the cron expression to a different UTC time if desired
 
 ---
 
@@ -137,6 +149,8 @@ fennec/
 │       └── deploy.yml      # On push: builds + deploys to Pages
 ├── public/
 │   ├── favicon.svg
+│   ├── logo.png
+│   ├── logo-dark.png
 │   └── news.json           # Generated daily by scrape.py
 ├── src/
 │   ├── components/
@@ -149,13 +163,16 @@ fennec/
 │   ├── App.tsx
 │   ├── main.tsx
 │   └── index.css
-├── scrape.py               # Python scraper (LangGraph + Gemini)
-├── requirements.txt
-├── dev.sh                  # Local dev runner
+├── scrape.py               # Python scraper (HN + RSS + LangGraph + Gemini)
+├── requirements.txt        # Python dependencies (google-genai, langgraph, feedparser...)
+├── dev.sh                  # Local dev helper (setup, scrape, start dev server)
+├── .env.example            # Example env vars (do NOT commit real secrets)
 ├── index.html
 ├── package.json
+├── package-lock.json
 ├── vite.config.ts
-└── tsconfig.json
+├── tsconfig.json
+└── tsconfig.node.json
 ```
 
 ---

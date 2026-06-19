@@ -1,91 +1,91 @@
 {
   "meta": {
     "date": "Friday, June 19, 2026",
-    "scene_summary": "We are busy building the future with nuclear power and AI agents while the current version of the internet is busy being broken or held for ransom.",
-    "ratio_statement": "5:5"
+    "scene_summary": "We're building the future on nuclear-powered hardware just to watch AI agents break it in real-time.",
+    "ratio_statement": "6:4"
   },
   "cooking": [
     {
       "id": 1,
       "domain": "meta.com",
       "headline": "Meta is buying enough nuclear power to make your utility bill feel personally attacked",
-      "summary": "Meta is partnering with TerraPower to build eight nuclear reactors just to keep their data centers running. It's comforting to know that while your local grid struggles to handle a microwave and a hairdryer, the metaverse is powered by its own private Manhattan Project.",
-      "plain_english": "Meta has signed an agreement with TerraPower to construct eight small modular nuclear reactors to provide electricity for its data centers.",
+      "summary": "Meta is bankrolling eight nuclear reactors just to keep their data centers running, effectively turning 'Have you tried turning it off and on again?' into a literal fission event. At this rate, the next version of Llama is going to have its own dedicated power grid and a cooling tower in the backyard.",
+      "plain_english": "Meta has signed a deal to purchase power from eight new nuclear reactors to support the growing energy demands of its data centers.",
       "source_url": "https://neutronbytes.com/2026/01/09/terrapower-in-mega-deal-with-meta-for-eight-natrium-345-mw-advanced-nuclear-plants/"
     },
     {
       "id": 2,
-      "domain": "oracle.com",
-      "headline": "Project Valhalla has been in development longer than some of your interns have been alive.",
-      "summary": "Java's most anticipated update is finally arriving after a decade of waiting, proving that enterprise software development runs on geological timescales. It is essentially the 'we have food at home' of language features, just served ten years later.",
-      "plain_english": "The Java programming language is introducing a significant update that improves how data is stored and managed in memory to increase performance.",
+      "domain": "openjdk.org",
+      "headline": "Project Valhalla is finally arriving after a decade-long side quest",
+      "summary": "Java's Project Valhalla is finally hitting JDK 28 after ten years of development, which is basically an eternity in tech years. It's the ultimate 'I promise I'm almost there' project that actually managed to show up to the party.",
+      "plain_english": "Project Valhalla introduces significant performance improvements to the Java programming language after a decade of development.",
       "source_url": "https://www.jvm-weekly.com/p/project-valhalla-explained-how-a"
     },
     {
       "id": 3,
-      "domain": "microsoft.com",
-      "headline": "TypeScript 7.0 is here, because your type definitions weren't complex enough already.",
-      "summary": "Microsoft is pushing out another major update that promises to make your codebase more robust while simultaneously making your build times feel like a hostage situation. It is the perfect excuse to spend your entire sprint refactoring code that was working perfectly fine.",
-      "plain_english": "Microsoft has released a pre-release version of TypeScript 7.0, which includes new features and improvements for the programming language.",
+      "domain": "typescriptlang.org",
+      "headline": "TypeScript 7.0 is here to remind you that your types are still wrong",
+      "summary": "TypeScript 7.0 has entered release candidate status, promising to make our complex type definitions even more sophisticated. It's essentially a new set of rules for a game we've been playing for years, just to ensure we spend more time fighting the compiler than writing code.",
+      "plain_english": "Microsoft has released a pre-final version of TypeScript 7.0, which introduces new features and improvements to the programming language.",
       "source_url": "https://devblogs.microsoft.com/typescript/announcing-typescript-7-0-rc/"
     },
     {
       "id": 4,
-      "domain": "tester.army",
-      "headline": "AI agents are now doing the QA work you definitely forgot to finish",
-      "summary": "TesterArmy is launching AI agents to handle app testing, effectively outsourcing the most tedious part of your release cycle. It's the digital equivalent of hiring a group project member who actually shows up to do the work.",
-      "plain_english": "TesterArmy has released automated software agents that test web and mobile applications for bugs and functionality issues.",
-      "source_url": "https://tester.army"
+      "domain": "zhipuai.cn",
+      "headline": "GLM-5.2 is the smartest model you can't actually run",
+      "summary": "GLM-5.2 just dropped as the new king of open models, proving once again that your local GPU is basically just a glorified space heater. It's the ultimate flex until you realize you need a small power plant and a second mortgage to get it to output a single token.",
+      "plain_english": "A highly capable artificial intelligence model has been released for public use, though it requires significant computer hardware to operate.",
+      "source_url": "https://vettedconsumer.com/glm-5-2-the-most-powerful-open-weight-model-yet-and-the-brutal-reality-of-running-it-locally/"
     },
     {
       "id": 5,
-      "domain": "godotengine.org",
-      "headline": "Godot 4.7 just dropped and it's still the engine that refuses to sell its soul",
-      "summary": "Godot keeps shipping updates without forcing a subscription model or a soul-crushing EULA down your throat. It turns out you don't actually need to pay a licensing tax to make a game that runs better than your current project.",
-      "plain_english": "The latest version of the free, open-source Godot game engine has been released with new features and improvements.",
-      "source_url": "https://godotengine.org/releases/4.7/"
+      "domain": "google.com",
+      "headline": "WebGPU is finally making browsers fast enough to regret our life choices",
+      "summary": "Hitting 255 tokens per second on a browser is a massive win for WebGPU, proving we can now run complex AI directly in the tab you forgot to close. It's impressive tech, but it mostly just means your browser can now drain your laptop battery while you're procrastinating on three different things at once.",
+      "plain_english": "New software optimizations allow web browsers to run artificial intelligence models significantly faster than before.",
+      "source_url": "https://xcancel.com/xenovacom/status/2067289897111638484"
+    },
+    {
+      "id": 6,
+      "domain": "tester.army",
+      "headline": "TesterArmy lets AI agents break your code so you don't have to",
+      "summary": "We've finally reached the point where we can outsource our QA to AI agents, effectively automating the most tedious part of the group project. It's all fun and games until the AI agent realizes it's being paid to find bugs and starts reporting your entire codebase as a 'feature'.",
+      "plain_english": "TesterArmy is a service that uses autonomous AI agents to perform automated testing on web and mobile applications.",
+      "source_url": "https://tester.army"
     }
   ],
   "cooked": [
     {
-      "id": 6,
+      "id": 7,
       "domain": "github.com",
-      "headline": "GitHub is currently hosting a 10,000-repo malware party nobody wanted",
-      "summary": "Someone found 10,000 repositories distributing Trojan malware, proving once again that 'git clone' is the digital equivalent of eating food off a subway floor. At this point, I'm not sure if GitHub is a code repository or just a very elaborate distribution network for people who hate their own OS.",
-      "plain_english": "A security researcher identified 10,000 GitHub repositories that were intentionally distributing Trojan malware to users.",
+      "headline": "10,000 GitHub repos are just malware in a trench coat",
+      "summary": "Someone scanned the platform and found 10,000 repositories masquerading as legitimate tools while actually being Trojan horses. It turns out the most dangerous 'git clone' command isn't a merge conflict, it's the one that installs a backdoor on your machine.",
+      "plain_english": "A security researcher identified 10,000 GitHub repositories that were created to distribute malicious software disguised as useful code.",
       "source_url": "https://orchidfiles.com/github-repositories-distributing-malware/"
     },
     {
-      "id": 7,
+      "id": 8,
       "domain": "letsencrypt.org",
-      "headline": "Let's Encrypt had a rough morning, and so did every HTTPS site using it",
-      "summary": "The internet's favorite free security blanket hit a snag during certificate renewals today. It turns out that when the automated handshake fails, the entire web feels like it's being held together by a single piece of scotch tape.",
-      "plain_english": "Let's Encrypt experienced technical issues that prevented many websites from automatically renewing their security certificates.",
+      "headline": "The internet's free security blanket just hit the snooze button",
+      "summary": "Let's Encrypt had some renewal errors today, briefly putting the entire internet's SSL certificates at risk. It's the digital equivalent of forgetting to pay your rent while you're already standing outside your front door.",
+      "plain_english": "Let's Encrypt experienced technical issues that prevented some websites from automatically renewing their security certificates.",
       "source_url": "https://letsencrypt.status.io/#2026"
     },
     {
-      "id": 8,
+      "id": 9,
       "domain": "amazon.com",
-      "headline": "Amazon is investigating employees who pointed out the irony of their AI climate impact",
-      "summary": "Amazon is reportedly digging into staff who questioned the environmental cost of building more AI data centers. Nothing says 'forward-thinking tech giant' quite like launching a corporate investigation into people who read the company's own sustainability reports.",
-      "plain_english": "Amazon is investigating employees who publicly criticized the company's expansion of data centers used for artificial intelligence.",
+      "headline": "Amazon is investigating employees for expressing concern about AI data centers",
+      "summary": "Amazon is launching internal investigations into engineers who publicly questioned the environmental impact of their AI data center expansion. It turns out the only thing the company wants to scale faster than their AI models is their intolerance for internal dissent.",
+      "plain_english": "Amazon is reviewing the conduct of employees who publicly criticized the company's plans to increase energy usage for artificial intelligence infrastructure.",
       "source_url": "https://www.cnbc.com/2026/06/18/amazon-engineers-ai-data-center-opposition.html"
     },
     {
-      "id": 9,
-      "domain": "sk.com",
-      "headline": "SK Telecom is learning that global AI expansion comes with a side of geopolitical red tape",
-      "summary": "SK Telecom is caught in the crossfire of export controls while trying to help Anthropic build a global AI platform. It turns out that selling frontier tech across borders is a lot harder than just pushing to production.",
-      "plain_english": "SK Telecom is facing regulatory scrutiny regarding its partnership with Anthropic due to international export control laws on advanced artificial intelligence technology.",
-      "source_url": "https://www.wired.com/story/sk-telecom-anthropic-mythos-export-controls/"
-    },
-    {
       "id": 10,
-      "domain": "elkjop.no",
-      "headline": "Elkjop learned the hard way that 'forced consent' is just a fancy term for a €1.8M invoice",
-      "summary": "A privacy advocate spent five years warning the company that their consent practices were illegal, only for them to ignore it until the regulators showed up. It turns out that 'ignoring the developer' is a great way to speedrun a massive regulatory fine.",
-      "plain_english": "The retail company Elkjop was fined 1.8 million euros for using unlawful methods to obtain customer consent for data processing.",
-      "source_url": "https://www.thatprivacyguy.com/blog/elkjop-forced-consent-fine/"
+      "domain": "anthropic.com",
+      "headline": "Anthropic's export control drama is the new 'who let the intern push to prod'",
+      "summary": "Anthropic is caught in a geopolitical tug-of-war over tech exports, proving that even the smartest AI models can't outrun international trade law. It turns out that 'global expansion' is a lot harder when your hardware is treated like a restricted weapon system.",
+      "plain_english": "Anthropic is facing regulatory scrutiny regarding the export of its artificial intelligence technology to international markets.",
+      "source_url": "https://www.wired.com/story/sk-telecom-anthropic-mythos-export-controls/"
     }
   ]
 }

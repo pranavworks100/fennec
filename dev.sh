@@ -10,6 +10,14 @@ set -e
 SKIP_SCRAPE=false
 SETUP_ONLY=false
 
+# Detect python executable (prefer python3, fallback to python)
+PYTHON_CMD=python3
+if ! command -v "$PYTHON_CMD" >/dev/null 2>&1; then
+  if command -v python >/dev/null 2>&1; then
+    PYTHON_CMD=python
+  fi
+fi
+
 for arg in "$@"; do
   case $arg in
     --skip)   SKIP_SCRAPE=true ;;
@@ -37,9 +45,9 @@ fi
 # ── 2. Install Python deps ───────────────────────────────────
 echo ""
 echo "📦 Checking Python dependencies..."
-if ! python3 -c "import google.genai, langgraph, pydantic" 2>/dev/null; then
+if ! $PYTHON_CMD -c "import google.genai, langgraph, pydantic, feedparser" 2>/dev/null; then
   echo "   → Installing from requirements.txt..."
-  pip3 install -r requirements.txt --quiet
+  pip install -r requirements.txt --quiet
 else
   echo "   ✓ Python deps already installed"
 fi
@@ -65,7 +73,7 @@ if [ "$SKIP_SCRAPE" = false ]; then
   echo ""
   echo "🕷️  Running scraper..."
   echo "──────────────────────────"
-  python3 scrape.py
+  $PYTHON_CMD scrape.py
   echo "──────────────────────────"
 fi
 

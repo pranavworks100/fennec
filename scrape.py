@@ -62,6 +62,12 @@ TOP_N           = 10
 # Batch size for roast stage
 ROAST_BATCH_SIZE = 2
 
+# Rest times
+PRE_BATCH_SLEEP_SECONDS = 60
+BETWEEN_BATCH_SLEEP_SECONDS = 60
+POST_BATCH_SLEEP_SECONDS = 60
+RETRY_SLEEP_SECONDS = 60
+
 # RSS feeds — curated high-signal tech sources
 RSS_FEEDS = [
     # ── News sources ─────────────────────────────
@@ -128,7 +134,7 @@ def clean_domain(v: str) -> str:
     return v.lstrip("www.").strip().lower()
 
 
-def generate_with_retries(max_attempts: int = 5, backoff_base: int = 2, **kwargs):
+def generate_with_retries(max_attempts: int = 5, backoff_base: int = RETRY_SLEEP_SECONDS, **kwargs):
     for attempt in range(1, max_attempts + 1):
         try:
             return client.models.generate_content(**kwargs)
@@ -136,7 +142,7 @@ def generate_with_retries(max_attempts: int = 5, backoff_base: int = 2, **kwargs
             print(f"   ⚠️  ServerError attempt {attempt}/{max_attempts}: {e}")
             if attempt == max_attempts:
                 raise
-            time.sleep(backoff_base ** (attempt - 1))
+            time.sleep(RETRY_SLEEP_SECONDS)
         except genai_errors.ClientError as e:
             print(f"   ⚠️  ClientError attempt {attempt}/{max_attempts}: {e}")
             retry_delay = None
@@ -151,7 +157,7 @@ def generate_with_retries(max_attempts: int = 5, backoff_base: int = 2, **kwargs
             if attempt == max_attempts:
                 raise
             print(f"      → retrying in {retry_delay}s...")
-            time.sleep(retry_delay)
+            time.sleep(RETRY_SLEEP_SECONDS)
         except Exception:
             raise
 
@@ -534,6 +540,9 @@ def roast_and_classify(state: AgentState) -> AgentState:
     roasted: list[dict] = []
     batches   = [articles[i:i + ROAST_BATCH_SIZE] for i in range(0, len(articles), ROAST_BATCH_SIZE)]
 
+    print(f"   ⏳ Waiting {PRE_BATCH_SLEEP_SECONDS}s before starting roast...")
+    time.sleep(PRE_BATCH_SLEEP_SECONDS)
+
     for batch_num, batch in enumerate(batches, start=1):
         print(f"   → Batch {batch_num}/{len(batches)} ({len(batch)} articles)...")
 
@@ -697,11 +706,14 @@ Return ONLY valid JSON matching this schema:
                 last_error = e
                 print(f"     ⚠️  Batch {batch_num} attempt {attempt} failed: {e}")
                 if attempt < max_retries:
-                    time.sleep(2 ** attempt)
+                    time.sleep(RETRY_SLEEP_SECONDS)
 
         if not success:
             print(f"     ✗ Batch {batch_num} failed all retries: {last_error}")
             return AgentState(**{**state.model_dump(), "error": str(last_error)})
+        if batch_num < len(batches):
+            print(f"   ⏳ Waiting {BETWEEN_BATCH_SLEEP_SECONDS}s before next batch...")
+            time.sleep(BETWEEN_BATCH_SLEEP_SECONDS)
 
     print(f"   ✓ Roasted {len(roasted)} items total")
     return AgentState(**{**state.model_dump(), "roasted_items": roasted})
@@ -710,6 +722,8 @@ Return ONLY valid JSON matching this schema:
 # ── STAGE 3: SCENE SUMMARY ───────────────────────────────────
 def summarize_scene(state: AgentState) -> AgentState:
     """Write scene_summary; compute ratio_statement in Python."""
+    print(f"   ⏳ Waiting {POST_BATCH_SLEEP_SECONDS}s before scene summary...")
+    time.sleep(POST_BATCH_SLEEP_SECONDS)
     print("🎬 Writing scene summary...")
 
     if not state.roasted_items:
