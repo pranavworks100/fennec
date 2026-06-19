@@ -1,91 +1,91 @@
 {
   "meta": {
     "date": "Friday, June 19, 2026",
-    "scene_summary": "We're building the future on nuclear-powered hardware just to watch AI agents break it in real-time.",
-    "ratio_statement": "6:4"
+    "scene_summary": "We are currently speedrunning the apocalypse while the infrastructure is still running on a expired SSL certificate.",
+    "ratio_statement": "5:5"
   },
   "cooking": [
     {
       "id": 1,
-      "domain": "meta.com",
-      "headline": "Meta is buying enough nuclear power to make your utility bill feel personally attacked",
-      "summary": "Meta is bankrolling eight nuclear reactors just to keep their data centers running, effectively turning 'Have you tried turning it off and on again?' into a literal fission event. At this rate, the next version of Llama is going to have its own dedicated power grid and a cooling tower in the backyard.",
-      "plain_english": "Meta has signed a deal to purchase power from eight new nuclear reactors to support the growing energy demands of its data centers.",
+      "domain": "terrapower.com",
+      "headline": "Meta is speedrunning the 'DIY Nuclear Power Plant' achievement",
+      "summary": "Meta is buying eight nuclear reactors just to keep their AI training clusters running without a power grid meltdown. It's the ultimate flex for a company that just really wants to make sure their GPUs never have to take a nap.",
+      "plain_english": "Meta has signed a contract to purchase electricity from eight upcoming nuclear power plants to support its massive data center energy requirements.",
       "source_url": "https://neutronbytes.com/2026/01/09/terrapower-in-mega-deal-with-meta-for-eight-natrium-345-mw-advanced-nuclear-plants/"
     },
     {
       "id": 2,
-      "domain": "openjdk.org",
-      "headline": "Project Valhalla is finally arriving after a decade-long side quest",
-      "summary": "Java's Project Valhalla is finally hitting JDK 28 after ten years of development, which is basically an eternity in tech years. It's the ultimate 'I promise I'm almost there' project that actually managed to show up to the party.",
-      "plain_english": "Project Valhalla introduces significant performance improvements to the Java programming language after a decade of development.",
-      "source_url": "https://www.jvm-weekly.com/p/project-valhalla-explained-how-a"
+      "domain": "meta.com",
+      "headline": "Governments are trying to set a bedtime for the internet",
+      "summary": "Countries are racing to restrict social media access for kids, effectively trying to ground an entire generation from their digital playgrounds. It's like telling a kid to stay off the grass, except the grass is an infinite scroll of dopamine and the fence is made of legislation.",
+      "plain_english": "Several countries are implementing new laws to restrict or ban children from using social media platforms.",
+      "source_url": "https://www.reuters.com/legal/government/australia-europe-countries-move-curb-childrens-social-media-access-2026-06-18/"
     },
     {
       "id": 3,
-      "domain": "typescriptlang.org",
-      "headline": "TypeScript 7.0 is here to remind you that your types are still wrong",
-      "summary": "TypeScript 7.0 has entered release candidate status, promising to make our complex type definitions even more sophisticated. It's essentially a new set of rules for a game we've been playing for years, just to ensure we spend more time fighting the compiler than writing code.",
-      "plain_english": "Microsoft has released a pre-final version of TypeScript 7.0, which introduces new features and improvements to the programming language.",
-      "source_url": "https://devblogs.microsoft.com/typescript/announcing-typescript-7-0-rc/"
-    },
-    {
-      "id": 4,
-      "domain": "zhipuai.cn",
-      "headline": "GLM-5.2 is the smartest model you can't actually run",
-      "summary": "GLM-5.2 just dropped as the new king of open models, proving once again that your local GPU is basically just a glorified space heater. It's the ultimate flex until you realize you need a small power plant and a second mortgage to get it to output a single token.",
-      "plain_english": "A highly capable artificial intelligence model has been released for public use, though it requires significant computer hardware to operate.",
+      "domain": "zhipu-ai.cn",
+      "headline": "GLM-5.2 is basically a supercomputer that lives in your nightmares",
+      "summary": "GLM-5.2 is the most capable open-weight model yet, provided you have a spare data center to actually run it. Trying to host this locally is like buying a Ferrari and realizing you have to build your own private highway to drive it to the grocery store.",
+      "plain_english": "A highly capable artificial intelligence model has been released for public use, but it requires extremely powerful computer hardware that is difficult for most individuals to access.",
       "source_url": "https://vettedconsumer.com/glm-5-2-the-most-powerful-open-weight-model-yet-and-the-brutal-reality-of-running-it-locally/"
     },
     {
-      "id": 5,
-      "domain": "google.com",
-      "headline": "WebGPU is finally making browsers fast enough to regret our life choices",
-      "summary": "Hitting 255 tokens per second on a browser is a massive win for WebGPU, proving we can now run complex AI directly in the tab you forgot to close. It's impressive tech, but it mostly just means your browser can now drain your laptop battery while you're procrastinating on three different things at once.",
-      "plain_english": "New software optimizations allow web browsers to run artificial intelligence models significantly faster than before.",
-      "source_url": "https://xcancel.com/xenovacom/status/2067289897111638484"
+      "id": 4,
+      "domain": "oracle.com",
+      "headline": "Project Valhalla has been in the works longer than most startups",
+      "summary": "After a decade of development, Java is finally getting value types to make memory management less of a headache. It's the ultimate 'I'll get to it eventually' project that actually finished, proving that sometimes even the slowest group project partners do show up on the final day.",
+      "plain_english": "The Java programming language is introducing a new feature called Project Valhalla that improves how the system handles data to increase performance and efficiency.",
+      "source_url": "https://www.jvm-weekly.com/p/project-valhalla-explained-how-a"
     },
     {
-      "id": 6,
-      "domain": "tester.army",
-      "headline": "TesterArmy lets AI agents break your code so you don't have to",
-      "summary": "We've finally reached the point where we can outsource our QA to AI agents, effectively automating the most tedious part of the group project. It's all fun and games until the AI agent realizes it's being paid to find bugs and starts reporting your entire codebase as a 'feature'.",
-      "plain_english": "TesterArmy is a service that uses autonomous AI agents to perform automated testing on web and mobile applications.",
-      "source_url": "https://tester.army"
+      "id": 5,
+      "domain": "hiteocean.com",
+      "headline": "NASA just gave a billionaire a Mars contract, as if we're playing real-life SimCity now.",
+      "summary": "NASA has tapped Eric Schmidt's rocket venture to compete with SpaceX for Mars missions, proving that space exploration is just a high-stakes group project where the richest kids get to choose the equipment. It's comforting to know that even on another planet, the same corporate rivalries from Silicon Valley will be there to greet us.",
+      "plain_english": "NASA has selected Eric Schmidt's aerospace company to participate in missions to Mars, creating a new competitor to SpaceX for government space contracts.",
+      "source_url": "https://techcrunch.com/2026/06/17/nasa-picks-eric-schmidts-rocket-company-for-mars-mission-setting-up-a-race-with-spacex/"
     }
   ],
   "cooked": [
     {
+      "id": 6,
+      "domain": "amazon.com",
+      "headline": "EU prepares to tell AWS and Azure that being the internet's landlord is a full-time job",
+      "summary": "The EU is planning to classify major cloud providers as gatekeepers, which is basically the regulatory equivalent of being put on academic probation. It turns out that when you host the entire internet, the government eventually wants to sit on the board of directors.",
+      "plain_english": "European regulators are moving to label Amazon Web Services and Microsoft Azure as gatekeepers, subjecting them to stricter competition rules under the Digital Services Act.",
+      "source_url": "https://www.heise.de/en/news/Report-EU-to-soon-classify-AWS-and-Azure-as-gatekeepers-under-DSA-11337873.html"
+    },
+    {
       "id": 7,
-      "domain": "github.com",
-      "headline": "10,000 GitHub repos are just malware in a trench coat",
-      "summary": "Someone scanned the platform and found 10,000 repositories masquerading as legitimate tools while actually being Trojan horses. It turns out the most dangerous 'git clone' command isn't a merge conflict, it's the one that installs a backdoor on your machine.",
-      "plain_english": "A security researcher identified 10,000 GitHub repositories that were created to distribute malicious software disguised as useful code.",
-      "source_url": "https://orchidfiles.com/github-repositories-distributing-malware/"
+      "domain": "apple.com",
+      "headline": "Apple's A12 and A13 chips just found their permanent guest pass for hackers.",
+      "summary": "Apple silicon is basically the fortress that forgot to lock the back door, and there is no firmware update coming to fix it. It is the hardware equivalent of realizing your 'unbreakable' bike lock was actually made of chocolate.",
+      "plain_english": "A permanent security vulnerability has been discovered in Apple's A12 and A13 processors that cannot be fixed with a software update.",
+      "source_url": "https://www.macrumors.com/2026/06/18/a12-and-a13-chips-facing-exploit/"
     },
     {
       "id": 8,
       "domain": "letsencrypt.org",
-      "headline": "The internet's free security blanket just hit the snooze button",
-      "summary": "Let's Encrypt had some renewal errors today, briefly putting the entire internet's SSL certificates at risk. It's the digital equivalent of forgetting to pay your rent while you're already standing outside your front door.",
-      "plain_english": "Let's Encrypt experienced technical issues that prevented some websites from automatically renewing their security certificates.",
+      "headline": "Let's Encrypt had a minor existential crisis with SSL renewals today.",
+      "summary": "The service that automates the internet's security decided to take a sick day, leaving everyone scrambling to renew their certificates manually. It is like the one guy who handles the keys to the office deciding to go on an unannounced vacation.",
+      "plain_english": "Let's Encrypt experienced a technical issue that caused failures in the automated renewal process for digital security certificates.",
       "source_url": "https://letsencrypt.status.io/#2026"
     },
     {
       "id": 9,
       "domain": "amazon.com",
-      "headline": "Amazon is investigating employees for expressing concern about AI data centers",
-      "summary": "Amazon is launching internal investigations into engineers who publicly questioned the environmental impact of their AI data center expansion. It turns out the only thing the company wants to scale faster than their AI models is their intolerance for internal dissent.",
-      "plain_english": "Amazon is reviewing the conduct of employees who publicly criticized the company's plans to increase energy usage for artificial intelligence infrastructure.",
+      "headline": "Amazon's AI strategy is apparently 'agree or you're fired'",
+      "summary": "Amazon is investigating engineers who dared to question the environmental impact of their AI data centers. It turns out the only thing Amazon hates more than unionization is a developer who accidentally performs a code review on the company's PR department.",
+      "plain_english": "Amazon is investigating employees who publicly criticized the company's plans to expand data centers for artificial intelligence.",
       "source_url": "https://www.cnbc.com/2026/06/18/amazon-engineers-ai-data-center-opposition.html"
     },
     {
       "id": 10,
-      "domain": "anthropic.com",
-      "headline": "Anthropic's export control drama is the new 'who let the intern push to prod'",
-      "summary": "Anthropic is caught in a geopolitical tug-of-war over tech exports, proving that even the smartest AI models can't outrun international trade law. It turns out that 'global expansion' is a lot harder when your hardware is treated like a restricted weapon system.",
-      "plain_english": "Anthropic is facing regulatory scrutiny regarding the export of its artificial intelligence technology to international markets.",
-      "source_url": "https://www.wired.com/story/sk-telecom-anthropic-mythos-export-controls/"
+      "domain": "elkjop.no",
+      "headline": "Turns out 'I didn't read the terms' isn't a valid legal defense for the company either.",
+      "summary": "Elkjop ignored a warning that their forced consent practices were illegal, and five years later, they've paid €1.8 million to learn that the user isn't the only one who skips the fine print. It's the ultimate lesson in technical debt: the interest on ignoring compliance is significantly higher than just fixing the bug.",
+      "plain_english": "The retailer Elkjop was fined 1.8 million euros for using illegal forced consent methods to collect customer data.",
+      "source_url": "https://www.thatprivacyguy.com/blog/elkjop-forced-consent-fine/"
     }
   ]
 }
