@@ -1,90 +1,90 @@
 {
   "meta": {
     "date": "Saturday, June 20, 2026",
-    "scene_summary": "We are busy teaching AI to cure diseases while our own infrastructure is busy forgetting how to navigate a map and keep a kernel stable.",
+    "scene_summary": "We are currently in a race to build the future while simultaneously breaking everything that currently works.",
     "ratio_statement": "4:6"
   },
   "cooking": [
     {
       "id": 1,
       "domain": "anthropic.com",
-      "headline": "John Jumper is taking his AlphaFold energy to Anthropic",
-      "summary": "The man who basically solved protein folding is moving from Google to Anthropic, proving that even AI geniuses need a change of scenery. It is the corporate equivalent of your best group project partner switching teams right before the final presentation.",
-      "plain_english": "John Jumper, a lead scientist known for his work on the AlphaFold protein-prediction system, has announced he is joining the AI company Anthropic.",
+      "headline": "AlphaFold's mastermind just moved to the Anthropic side of the fence.",
+      "summary": "John Jumper is taking his protein-folding genius from Google to Anthropic for the next chapter. It's like watching the star player of a championship team transfer right before the playoffs start.",
+      "plain_english": "John Jumper, a lead researcher known for his work on the AlphaFold protein-folding AI, has left Google DeepMind to join the artificial intelligence company Anthropic.",
       "source_url": "https://twitter.com/JohnJumperSci/status/2068001285173834106"
     },
     {
       "id": 2,
-      "domain": "gps.gov",
-      "headline": "GPS is just a suggestion now, apparently",
-      "summary": "Satellite data shows that GPS signal tampering is happening on a massive scale, turning global navigation into a game of 'guess where I am.' At this point, relying on GPS for anything important is like trusting a group project partner who hasn't answered a text in three weeks. More details in the original article.",
-      "plain_english": "New satellite observations indicate that the intentional interference and spoofing of GPS signals is occurring much more frequently and over a wider area than previously estimated.",
-      "source_url": "https://www.space.com/space-exploration/satellites/its-quite-a-bit-more-than-we-expected-satellite-reveals-immense-scale-of-gps-signal-tampering"
+      "domain": "openai.com",
+      "headline": "Amazon decides a movie about Sam Altman is bad for business",
+      "summary": "Amazon canceled a biopic about the OpenAI CEO right after signing a massive partnership with his company. It's hard to keep the PR narrative tight when your business partner is also the main character of a potentially unflattering documentary.",
+      "plain_english": "Amazon has canceled plans to produce a film about Sam Altman following a new business agreement between Amazon and OpenAI.",
+      "source_url": "https://www.the-independent.com/arts-entertainment/films/news/sam-altman-biopic-amazon-openai-deal-b2999321.html"
     },
     {
       "id": 3,
-      "domain": "lrt.lt",
-      "headline": "Crowdsourced drone detection is the ultimate neighborhood watch",
-      "summary": "A Lithuanian startup is turning consumer-grade hardware into a distributed sensor network for spotting drones. It's essentially a community-led bug bounty program where the bug is a missile and the patch is an air raid siren.",
-      "plain_english": "A Lithuanian startup has created an open-source network that uses distributed sensors to identify and track Shahed-type drones.",
-      "source_url": "https://www.lrt.lt/en/news-in-english/19/2965205/lithuanian-startup-launches-open-source-network-to-detect-shahed-type-drones"
+      "domain": "eff.org",
+      "headline": "A new bill tries to stop the government from 'asking' nicely for censorship",
+      "summary": "The government has been leaning on platforms to silence speech through polite suggestion rather than actual law. It is the digital equivalent of a landlord 'strongly recommending' you move out before your lease is actually up.",
+      "plain_english": "A proposed bill aims to prevent government officials from pressuring social media companies to remove legal content.",
+      "source_url": "https://www.eff.org/deeplinks/2026/06/new-bill-takes-aim-government-pressure-silence-lawful-online-speech"
     },
     {
       "id": 4,
-      "domain": "regjeringen.no",
-      "headline": "Norway is ghosting AI in elementary school",
-      "summary": "Norway is basically telling AI to stay in the lobby while the kids focus on learning how to write without a transformer model holding their hand. It turns out that when you outsource your homework to a chatbot, the only thing you actually learn is how to be a professional prompt engineer by age eight.",
-      "plain_english": "The Norwegian government has implemented strict restrictions on the use of artificial intelligence tools in elementary schools.",
-      "source_url": "https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/"
+      "domain": "lrt.lt",
+      "headline": "Open-source drone detection is the ultimate group project for national security",
+      "summary": "A Lithuanian startup is crowdsourcing drone detection, proving that if you give the internet enough sensors, it will eventually build a defense system. It turns out the best way to track military hardware is to treat it like a public API that everyone can ping.",
+      "plain_english": "A Lithuanian startup has created an open-source network that uses distributed sensors to identify and track Shahed-type drones.",
+      "source_url": "https://www.lrt.lt/en/news-in-english/19/2965205/lithuanian-startup-launches-open-source-network-to-detect-shahed-type-drones"
     }
   ],
   "cooked": [
     {
       "id": 5,
       "domain": "openai.com",
-      "headline": "Companies are realizing that AI tokens cost more than interns",
-      "summary": "Businesses are finally looking at their AWS bills and realizing that 'AI. powered' is just fancy shorthand for 'burning through the quarterly budget.' It turns out that automating everything is great until the CFO realizes the API usage is costing more than the entire dev team's coffee budget.",
-      "plain_english": "Many companies are reducing their use of artificial intelligence tools due to high operational costs and budget constraints.",
+      "headline": "Companies are realizing that 'AI everything' isn't free.",
+      "summary": "Businesses are finally looking at their cloud bills and realizing that the AI hype cycle is starting to hit their bottom line. It turns out that burning cash to generate hallucinations isn't a sustainable business model for everyone.",
+      "plain_english": "Many companies are reducing their use of artificial intelligence tools because the high costs associated with these services are negatively impacting their budgets.",
       "source_url": "https://www.ft.com/content/1d37cc08-e0aa-45a4-a45d-4ad282529314"
     },
     {
       "id": 6,
       "domain": "archlinux.org",
-      "headline": "The AUR is officially the 'trust me bro' of package management",
-      "summary": "The Arch User Repository is basically a community-run potluck where someone occasionally brings a poisoned casserole. It turns out that trusting random scripts from the internet is only fun until your system starts acting like it's possessed.",
-      "plain_english": "Hackers have been inserting malicious code into community-contributed software packages on the Arch Linux platform.",
+      "headline": "The Arch User Repository is currently speedrunning a trust exercise",
+      "summary": "Malicious actors are injecting malware into AUR packages, turning the community's favorite convenience feature into a liability. It turns out that 'installing from source' is only as safe as the stranger who last touched the repo.",
+      "plain_english": "Users of the Arch User Repository have been targeted by malicious software hidden within community-contributed installation packages.",
       "source_url": "https://lwn.net/SubscriberLink/1077619/f7b07c5489fdd43a/"
     },
     {
       "id": 7,
-      "domain": "kernel.org",
-      "headline": "A 13-year game of long-con hide and seek in the Linux kernel",
-      "summary": "Someone managed to hide a backdoor in the Linux kernel for over a decade, which is the ultimate 'it works on my machine' nightmare. If you think your tech debt is bad, just remember someone has been babysitting a malicious commit since the Obama administration.",
-      "plain_english": "A malicious piece of code remained hidden within the Linux kernel software for thirteen years before being discovered.",
-      "source_url": "https://anchor.host/from-a-7-kb-file-to-a-13-year-backdoor-operation/"
-    },
-    {
-      "id": 8,
       "domain": "microsoft.com",
-      "headline": "Windows 11 update treats your desktop like a beta test",
-      "summary": "Microsoft managed to break the Recycle Bin, which is honestly the most meta way to tell users their operating system is trash. It's the digital equivalent of an office manager accidentally locking the building's only exit during a fire drill.",
-      "plain_english": "A recent Windows 11 update has introduced software bugs that cause the Recycle Bin, OneDrive, and the overall operating system to become unstable.",
+      "headline": "Windows 11 update accidentally deletes your files and your peace of mind",
+      "summary": "Microsoft pushed an update that nuked the Recycle Bin and broke OneDrive, essentially turning your OS into a digital scavenger hunt. It's comforting to know that even a trillion-dollar company still struggles with the 'delete' key.",
+      "plain_english": "A recent Windows 11 software update caused technical issues including the malfunction of the Recycle Bin and synchronization errors with OneDrive.",
       "source_url": "https://www.techspot.com/news/112831-microsoft-confirms-weird-recycle-bin-bug-windows-11.html"
     },
     {
+      "id": 8,
+      "domain": "gps.gov",
+      "headline": "GPS is just a suggestion now",
+      "summary": "Satellite data shows that signal tampering is happening on a massive scale, effectively turning our global navigation system into a game of 'guess where you actually are.' It's the digital equivalent of someone moving all the traffic cones while you're trying to merge onto the highway. More details in the original article.",
+      "plain_english": "New satellite observations indicate that GPS signals are being manipulated and interfered with far more frequently and extensively than previously realized.",
+      "source_url": "https://www.space.com/space-exploration/satellites/its-quite-a-bit-more-than-we-expected-satellite-reveals-immense-scale-of-gps-signal-tampering"
+    },
+    {
       "id": 9,
-      "domain": "ashingtonpost.com",
-      "headline": "Jeff Bezos just updated his 'worst investment' list in the most public way possible",
-      "summary": "Jeff Bezos publicly labeled the Washington Post his worst investment while handing out pink slips to hundreds of staff members. It's the corporate equivalent of firing your entire group project team because you regret choosing the subject matter.",
-      "plain_english": "Jeff Bezos publicly criticized his ownership of the Washington Post as his least successful investment while announcing the layoff of 300 employees.",
-      "source_url": "https://gizmodo.com/jeff-bezos-called-washington-post-his-worst-investment-and-staff-he-laid-off-terrible-people-2000773533"
+      "domain": "regjeringen.no",
+      "headline": "Norway is ghosting AI in elementary schools",
+      "summary": "Norway is basically putting AI in detention to save the curriculum from becoming a giant copy-paste operation. It turns out that teaching kids how to think is still harder than teaching a LLM how to hallucinate.",
+      "plain_english": "The Norwegian government has implemented strict restrictions on the use of artificial intelligence tools in elementary schools.",
+      "source_url": "https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/"
     },
     {
       "id": 10,
       "domain": "gov.uk",
-      "headline": "The UK is trying to put the internet back in a box",
-      "summary": "The UK government wants to ban social media for under-16s, which is a bold strategy to win a fight against the entire youth population. It's like trying to stop a DDoS attack by politely asking the packets to please go home and read a book instead.",
-      "plain_english": "The United Kingdom is considering legislation to prohibit social media access for individuals under the age of 16.",
+      "headline": "The UK wants to age-gate the internet with the precision of a junior dev's regex",
+      "summary": "The UK government is trying to ban social media for under-16s, which is essentially asking a teenager to stop using a VPN. It's the legislative equivalent of trying to fix a memory leak by unplugging the server.",
+      "plain_english": "The United Kingdom is proposing a law that would prohibit children under 16 from using social media platforms.",
       "source_url": "https://www.eff.org/deeplinks/2026/06/uks-new-under-16-social-media-ban-will-cause-more-harm-it-prevents"
     }
   ]
