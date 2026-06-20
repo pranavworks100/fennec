@@ -1,91 +1,91 @@
 {
   "meta": {
-    "date": "Friday, June 19, 2026",
-    "scene_summary": "We are building the future on top of infrastructure that is currently having a nervous breakdown.",
-    "ratio_statement": "5:5"
+    "date": "Saturday, June 20, 2026",
+    "scene_summary": "We are busy teaching AI to cure diseases while our own infrastructure is busy forgetting how to navigate a map and keep a kernel stable.",
+    "ratio_statement": "4:6"
   },
   "cooking": [
     {
       "id": 1,
-      "domain": "oracle.com",
-      "headline": "Project Valhalla is finally arriving after a decade of 'it's coming soon'",
-      "summary": "Java's long-awaited attempt to fix memory layout is finally hitting JDK 28 after a development cycle longer than most of our careers. It turns out that refactoring the entire memory model is the ultimate group project where nobody graduates for ten years.",
-      "plain_english": "The Java programming language is introducing a significant update to improve how data is stored and managed in computer memory.",
-      "source_url": "https://www.jvm-weekly.com/p/project-valhalla-explained-how-a"
+      "domain": "anthropic.com",
+      "headline": "John Jumper is taking his AlphaFold energy to Anthropic",
+      "summary": "The man who basically solved protein folding is moving from Google to Anthropic, proving that even AI geniuses need a change of scenery. It is the corporate equivalent of your best group project partner switching teams right before the final presentation.",
+      "plain_english": "John Jumper, a lead scientist known for his work on the AlphaFold protein-prediction system, has announced he is joining the AI company Anthropic.",
+      "source_url": "https://twitter.com/JohnJumperSci/status/2068001285173834106"
     },
     {
       "id": 2,
-      "domain": "meta.com",
-      "headline": "Governments are trying to set a bedtime for the entire internet",
-      "summary": "Countries are rushing to ban social media for kids, effectively trying to ground an entire generation from their digital living rooms. It is a bold move, assuming the kids haven't already figured out how to bypass parental controls with a simple VPN side quest.",
-      "plain_english": "Multiple countries are introducing legislation to restrict or prohibit social media usage by minors.",
-      "source_url": "https://www.reuters.com/legal/government/australia-europe-countries-move-curb-childrens-social-media-access-2026-06-18/"
+      "domain": "gps.gov",
+      "headline": "GPS is just a suggestion now, apparently",
+      "summary": "Satellite data shows that GPS signal tampering is happening on a massive scale, turning global navigation into a game of 'guess where I am.' At this point, relying on GPS for anything important is like trusting a group project partner who hasn't answered a text in three weeks. More details in the original article.",
+      "plain_english": "New satellite observations indicate that the intentional interference and spoofing of GPS signals is occurring much more frequently and over a wider area than previously estimated.",
+      "source_url": "https://www.space.com/space-exploration/satellites/its-quite-a-bit-more-than-we-expected-satellite-reveals-immense-scale-of-gps-signal-tampering"
     },
     {
       "id": 3,
-      "domain": "hite-space.com",
-      "headline": "Mars is now just another sandbox for Big Tech egos",
-      "summary": "NASA just picked Eric Schmidt's rocket startup for a Mars mission, officially turning the final frontier into the latest corporate tech merger. It's like watching two billionaire kids fight over who gets to play with the most expensive Lego set in the solar system.",
-      "plain_english": "NASA has selected White Space, a rocket company founded by Eric Schmidt, to participate in a mission to Mars.",
-      "source_url": "https://techcrunch.com/2026/06/17/nasa-picks-eric-schmidts-rocket-company-for-mars-mission-setting-up-a-race-with-spacex/"
+      "domain": "lrt.lt",
+      "headline": "Crowdsourced drone detection is the ultimate neighborhood watch",
+      "summary": "A Lithuanian startup is turning consumer-grade hardware into a distributed sensor network for spotting drones. It's essentially a community-led bug bounty program where the bug is a missile and the patch is an air raid siren.",
+      "plain_english": "A Lithuanian startup has created an open-source network that uses distributed sensors to identify and track Shahed-type drones.",
+      "source_url": "https://www.lrt.lt/en/news-in-english/19/2965205/lithuanian-startup-launches-open-source-network-to-detect-shahed-type-drones"
     },
     {
       "id": 4,
-      "domain": "zhipuai.cn",
-      "headline": "GLM-5.2 is the smartest model you can run, provided you own a small power plant.",
-      "summary": "GLM-5.2 claims the title of most powerful open model, finally giving you the performance you've always wanted for your local machine. It's perfect if your hobby is training AI models and your side project is bankrupting your local utility provider.",
-      "plain_english": "A new high-performance artificial intelligence model has been released for public use, but it requires significant computer hardware to operate effectively.",
-      "source_url": "https://vettedconsumer.com/glm-5-2-the-most-powerful-open-weight-model-yet-and-the-brutal-reality-of-running-it-locally/"
-    },
-    {
-      "id": 5,
-      "domain": "fable.com",
-      "headline": "Pylint got a Rust rewrite, because waiting for your linter to finish is so 2024.",
-      "summary": "Fable ported Pylint to Rust, proving that if a tool isn't fast enough to run every time you press save, it's essentially a brick. It turns out the only thing developers hate more than writing documentation is watching a progress bar.",
-      "plain_english": "The software tool used to check Python code for errors has been rewritten in the Rust programming language to improve its processing speed.",
-      "source_url": "https://pypi.org/project/prylint/"
+      "domain": "regjeringen.no",
+      "headline": "Norway is ghosting AI in elementary school",
+      "summary": "Norway is basically telling AI to stay in the lobby while the kids focus on learning how to write without a transformer model holding their hand. It turns out that when you outsource your homework to a chatbot, the only thing you actually learn is how to be a professional prompt engineer by age eight.",
+      "plain_english": "The Norwegian government has implemented strict restrictions on the use of artificial intelligence tools in elementary schools.",
+      "source_url": "https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/"
     }
   ],
   "cooked": [
     {
+      "id": 5,
+      "domain": "openai.com",
+      "headline": "Companies are realizing that AI tokens cost more than interns",
+      "summary": "Businesses are finally looking at their AWS bills and realizing that 'AI. powered' is just fancy shorthand for 'burning through the quarterly budget.' It turns out that automating everything is great until the CFO realizes the API usage is costing more than the entire dev team's coffee budget.",
+      "plain_english": "Many companies are reducing their use of artificial intelligence tools due to high operational costs and budget constraints.",
+      "source_url": "https://www.ft.com/content/1d37cc08-e0aa-45a4-a45d-4ad282529314"
+    },
+    {
       "id": 6,
-      "domain": "aws.amazon.com",
-      "headline": "EU regulators are about to treat AWS and Azure like the neighborhood HOA",
-      "summary": "The EU is moving to classify cloud giants as gatekeepers, effectively giving them the same regulatory headache as social media apps. It turns out that when you host half the internet, the government eventually decides you need a hall monitor.",
-      "plain_english": "European regulators plan to label Amazon and Microsoft as gatekeepers under the Digital Services Act, subjecting their cloud infrastructure services to stricter oversight.",
-      "source_url": "https://www.heise.de/en/news/Report-EU-to-soon-classify-AWS-and-Azure-as-gatekeepers-under-DSA-11337873.html"
+      "domain": "archlinux.org",
+      "headline": "The AUR is officially the 'trust me bro' of package management",
+      "summary": "The Arch User Repository is basically a community-run potluck where someone occasionally brings a poisoned casserole. It turns out that trusting random scripts from the internet is only fun until your system starts acting like it's possessed.",
+      "plain_english": "Hackers have been inserting malicious code into community-contributed software packages on the Arch Linux platform.",
+      "source_url": "https://lwn.net/SubscriberLink/1077619/f7b07c5489fdd43a/"
     },
     {
       "id": 7,
-      "domain": "apple.com",
-      "headline": "Apple's A12 and A13 chips just discovered their 'unpatchable' personality trait",
-      "summary": "Researchers found a hardware-level exploit in older Apple silicon that software updates literally cannot fix. It is the tech equivalent of realizing your front door lock is permanently jammed from the inside.",
-      "plain_english": "A permanent security vulnerability has been identified in Apple's A12 and A13 processors that cannot be resolved through standard software updates.",
-      "source_url": "https://www.macrumors.com/2026/06/18/a12-and-a13-chips-facing-exploit/"
+      "domain": "kernel.org",
+      "headline": "A 13-year game of long-con hide and seek in the Linux kernel",
+      "summary": "Someone managed to hide a backdoor in the Linux kernel for over a decade, which is the ultimate 'it works on my machine' nightmare. If you think your tech debt is bad, just remember someone has been babysitting a malicious commit since the Obama administration.",
+      "plain_english": "A malicious piece of code remained hidden within the Linux kernel software for thirteen years before being discovered.",
+      "source_url": "https://anchor.host/from-a-7-kb-file-to-a-13-year-backdoor-operation/"
     },
     {
       "id": 8,
-      "domain": "amazon.com",
-      "headline": "Amazon's AI strategy is so green that questioning it is now an HR violation",
-      "summary": "Amazon is investigating employees who spoke out against the environmental impact of their massive AI data center expansion. It is the corporate equivalent of building a bonfire in your living room and firing anyone who complains about the smoke.",
-      "plain_english": "Amazon is investigating employees who publicly criticized the company's expansion of data centers used for artificial intelligence.",
-      "source_url": "https://www.cnbc.com/2026/06/18/amazon-engineers-ai-data-center-opposition.html"
+      "domain": "microsoft.com",
+      "headline": "Windows 11 update treats your desktop like a beta test",
+      "summary": "Microsoft managed to break the Recycle Bin, which is honestly the most meta way to tell users their operating system is trash. It's the digital equivalent of an office manager accidentally locking the building's only exit during a fire drill.",
+      "plain_english": "A recent Windows 11 update has introduced software bugs that cause the Recycle Bin, OneDrive, and the overall operating system to become unstable.",
+      "source_url": "https://www.techspot.com/news/112831-microsoft-confirms-weird-recycle-bin-bug-windows-11.html"
     },
     {
       "id": 9,
-      "domain": "letsencrypt.org",
-      "headline": "Let's Encrypt had a minor identity crisis, and your SSL certificates felt it",
-      "summary": "A hiccup in the renewal process left developers scrambling to fix certificates that decided to stop working out of nowhere. It is the digital version of your landlord changing the locks on your apartment because they forgot how to verify your rent payment.",
-      "plain_english": "Let's Encrypt experienced technical issues that caused errors during the automated renewal of security certificates for websites.",
-      "source_url": "https://letsencrypt.status.io/#2026"
+      "domain": "ashingtonpost.com",
+      "headline": "Jeff Bezos just updated his 'worst investment' list in the most public way possible",
+      "summary": "Jeff Bezos publicly labeled the Washington Post his worst investment while handing out pink slips to hundreds of staff members. It's the corporate equivalent of firing your entire group project team because you regret choosing the subject matter.",
+      "plain_english": "Jeff Bezos publicly criticized his ownership of the Washington Post as his least successful investment while announcing the layoff of 300 employees.",
+      "source_url": "https://gizmodo.com/jeff-bezos-called-washington-post-his-worst-investment-and-staff-he-laid-off-terrible-people-2000773533"
     },
     {
       "id": 10,
-      "domain": "elkjop.no",
-      "headline": "The 'I told you so' fee is officially 1.8 million euros",
-      "summary": "A privacy advocate spent five years warning Elkjop that their forced consent model was illegal, only for the company to find out the hard way that ignoring tickets doesn't make them disappear. It turns out that 'ignoring the QA feedback' is a lot more expensive when the auditor is a government agency.",
-      "plain_english": "A retail company was fined 1.8 million euros for using illegal methods to force customers to provide consent for data processing.",
-      "source_url": "https://www.thatprivacyguy.com/blog/elkjop-forced-consent-fine/"
+      "domain": "gov.uk",
+      "headline": "The UK is trying to put the internet back in a box",
+      "summary": "The UK government wants to ban social media for under-16s, which is a bold strategy to win a fight against the entire youth population. It's like trying to stop a DDoS attack by politely asking the packets to please go home and read a book instead.",
+      "plain_english": "The United Kingdom is considering legislation to prohibit social media access for individuals under the age of 16.",
+      "source_url": "https://www.eff.org/deeplinks/2026/06/uks-new-under-16-social-media-ban-will-cause-more-harm-it-prevents"
     }
   ]
 }
