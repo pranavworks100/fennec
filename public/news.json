@@ -1,91 +1,91 @@
 {
   "meta": {
-    "date": "Saturday, June 20, 2026",
-    "scene_summary": "We are currently in a race to build the future while simultaneously breaking everything that currently works.",
-    "ratio_statement": "4:6"
+    "date": "Sunday, June 21, 2026",
+    "scene_summary": "We are finally modernizing our infrastructure just in time for the AI to start demanding our government IDs.",
+    "ratio_statement": "7:3"
   },
   "cooking": [
     {
       "id": 1,
-      "domain": "anthropic.com",
-      "headline": "AlphaFold's mastermind just moved to the Anthropic side of the fence.",
-      "summary": "John Jumper is taking his protein-folding genius from Google to Anthropic for the next chapter. It's like watching the star player of a championship team transfer right before the playoffs start.",
-      "plain_english": "John Jumper, a lead researcher known for his work on the AlphaFold protein-folding AI, has left Google DeepMind to join the artificial intelligence company Anthropic.",
-      "source_url": "https://twitter.com/JohnJumperSci/status/2068001285173834106"
+      "domain": "kernel.org",
+      "headline": "Linux finally breaks up with strncpy after a six-year drama",
+      "summary": "It took 360 patches and six years of emotional labor to finally evict the most dangerous function in the C standard library. It's the coding equivalent of finally moving out of a toxic apartment that had a habit of leaking security vulnerabilities.",
+      "plain_english": "The Linux kernel developers have officially removed a problematic function used for copying strings that was frequently associated with security vulnerabilities.",
+      "source_url": "https://www.phoronix.com/news/Linux-7.2-Drops-strncpy"
     },
     {
       "id": 2,
-      "domain": "openai.com",
-      "headline": "Amazon decides a movie about Sam Altman is bad for business",
-      "summary": "Amazon canceled a biopic about the OpenAI CEO right after signing a massive partnership with his company. It's hard to keep the PR narrative tight when your business partner is also the main character of a potentially unflattering documentary.",
-      "plain_english": "Amazon has canceled plans to produce a film about Sam Altman following a new business agreement between Amazon and OpenAI.",
-      "source_url": "https://www.the-independent.com/arts-entertainment/films/news/sam-altman-biopic-amazon-openai-deal-b2999321.html"
+      "domain": "systemd.io",
+      "headline": "Systemd 261 just dropped, and it's still trying to do your laundry",
+      "summary": "Systemd continues its quest to manage every single atom on your Linux machine by adding even more tools to the pile. At this rate, the next version will probably handle your taxes and schedule your dentist appointments too.",
+      "plain_english": "The systemd software suite has released version 261, which introduces new utilities for system installation, image management, and storage control.",
+      "source_url": "https://www.phoronix.com/news/systemd-261"
     },
     {
       "id": 3,
-      "domain": "eff.org",
-      "headline": "A new bill tries to stop the government from 'asking' nicely for censorship",
-      "summary": "The government has been leaning on platforms to silence speech through polite suggestion rather than actual law. It is the digital equivalent of a landlord 'strongly recommending' you move out before your lease is actually up.",
-      "plain_english": "A proposed bill aims to prevent government officials from pressuring social media companies to remove legal content.",
-      "source_url": "https://www.eff.org/deeplinks/2026/06/new-bill-takes-aim-government-pressure-silence-lawful-online-speech"
+      "domain": "gov.uk",
+      "headline": "The UK Home Office dropped £75M on 'PoliceAI', ensuring the future of law enforcement is just like our code.",
+      "summary": "The government is betting millions that AI can fix public order, which is a great way to ensure the bugs in our legal system now come with a subscription fee. It's the ultimate group project where the AI does all the heavy lifting and we just hope it doesn't decide to interpret the law creatively.",
+      "plain_english": "The United Kingdom's Home Office has invested 75 million pounds into a new artificial intelligence project designed to support police operations.",
+      "source_url": "https://www.publictechnology.net/2026/06/15/public-order-justice-and-rights/home-office-launches-75m-policeai-to-capitalise-on-artificial-intelligence/"
     },
     {
       "id": 4,
-      "domain": "lrt.lt",
-      "headline": "Open-source drone detection is the ultimate group project for national security",
-      "summary": "A Lithuanian startup is crowdsourcing drone detection, proving that if you give the internet enough sensors, it will eventually build a defense system. It turns out the best way to track military hardware is to treat it like a public API that everyone can ping.",
-      "plain_english": "A Lithuanian startup has created an open-source network that uses distributed sensors to identify and track Shahed-type drones.",
-      "source_url": "https://www.lrt.lt/en/news-in-english/19/2965205/lithuanian-startup-launches-open-source-network-to-detect-shahed-type-drones"
+      "domain": "amd.com",
+      "headline": "AMD adds memory encryption back, proving that 'oops' is a valid product roadmap strategy",
+      "summary": "AMD decided that memory encryption was actually a feature people wanted after all, so they're patching it back in via BIOS. It's like turning in your final project, realizing you forgot the bibliography, and frantically editing the Google Doc ten minutes before the deadline.",
+      "plain_english": "AMD is releasing a software update in July that restores memory encryption features to its Ryzen 9000 series processors.",
+      "source_url": "https://www.tomshardware.com/pc-components/cpus/amd-will-reinstate-memory-encryption-on-ryzen-9000-cpus-through-a-bios-update-in-july-tsme-is-coming-back-after-valuable-community-feedback"
+    },
+    {
+      "id": 5,
+      "domain": "google.com",
+      "headline": "IPv6 finally hits 50% adoption, reaching the 'halfway there' milestone of a 30-year-old project",
+      "summary": "Google has finally reached the 50% mark for IPv6 traffic, which is a massive achievement if you ignore that we started this migration back in the 90s. At this rate, we might actually finish the transition before the heat death of the universe.",
+      "plain_english": "Half of all web traffic accessed through Google services now uses the IPv6 networking protocol instead of the older IPv4 standard.",
+      "source_url": "https://blog.apnic.net/2026/04/28/google-hits-50-ipv6/"
+    },
+    {
+      "id": 6,
+      "domain": "smpte.org",
+      "headline": "SMPTE standards are finally free, so you can stop roleplaying as a pirate to find the specs",
+      "summary": "SMPTE has finally unlocked their massive library of media standards for the public instead of keeping them behind a paywall. It's nice to know we can finally read the documentation without needing a corporate procurement budget or a back-alley link.",
+      "plain_english": "The Society of Motion Picture and Television Engineers has made its technical standards available for free to the public.",
+      "source_url": "https://www.smpte.org/blog/smpte-makes-its-standards-freely-accessible-openingstandards-library-to-the-global-media-technology-community"
+    },
+    {
+      "id": 7,
+      "domain": "martinfowler.com",
+      "headline": "Martin Fowler drops the guide on making AI agents actually do their jobs",
+      "summary": "Building reliable agentic systems is essentially just managing a team of interns who hallucinate under pressure. It turns out the secret to AI reliability is treating it like a chaotic group project where you have to double-check every single contribution.",
+      "plain_english": "Martin Fowler has published a guide on how to design and implement AI agent systems that perform tasks reliably and consistently.",
+      "source_url": "https://martinfowler.com/articles/reliable-llm-bayer.html"
     }
   ],
   "cooked": [
     {
-      "id": 5,
-      "domain": "openai.com",
-      "headline": "Companies are realizing that 'AI everything' isn't free.",
-      "summary": "Businesses are finally looking at their cloud bills and realizing that the AI hype cycle is starting to hit their bottom line. It turns out that burning cash to generate hallucinations isn't a sustainable business model for everyone.",
-      "plain_english": "Many companies are reducing their use of artificial intelligence tools because the high costs associated with these services are negatively impacting their budgets.",
-      "source_url": "https://www.ft.com/content/1d37cc08-e0aa-45a4-a45d-4ad282529314"
-    },
-    {
-      "id": 6,
-      "domain": "archlinux.org",
-      "headline": "The Arch User Repository is currently speedrunning a trust exercise",
-      "summary": "Malicious actors are injecting malware into AUR packages, turning the community's favorite convenience feature into a liability. It turns out that 'installing from source' is only as safe as the stranger who last touched the repo.",
-      "plain_english": "Users of the Arch User Repository have been targeted by malicious software hidden within community-contributed installation packages.",
-      "source_url": "https://lwn.net/SubscriberLink/1077619/f7b07c5489fdd43a/"
-    },
-    {
-      "id": 7,
-      "domain": "microsoft.com",
-      "headline": "Windows 11 update accidentally deletes your files and your peace of mind",
-      "summary": "Microsoft pushed an update that nuked the Recycle Bin and broke OneDrive, essentially turning your OS into a digital scavenger hunt. It's comforting to know that even a trillion-dollar company still struggles with the 'delete' key.",
-      "plain_english": "A recent Windows 11 software update caused technical issues including the malfunction of the Recycle Bin and synchronization errors with OneDrive.",
-      "source_url": "https://www.techspot.com/news/112831-microsoft-confirms-weird-recycle-bin-bug-windows-11.html"
-    },
-    {
       "id": 8,
-      "domain": "gps.gov",
-      "headline": "GPS is just a suggestion now",
-      "summary": "Satellite data shows that signal tampering is happening on a massive scale, effectively turning our global navigation system into a game of 'guess where you actually are.' It's the digital equivalent of someone moving all the traffic cones while you're trying to merge onto the highway. More details in the original article.",
-      "plain_english": "New satellite observations indicate that GPS signals are being manipulated and interfered with far more frequently and extensively than previously realized.",
-      "source_url": "https://www.space.com/space-exploration/satellites/its-quite-a-bit-more-than-we-expected-satellite-reveals-immense-scale-of-gps-signal-tampering"
+      "domain": "anthropic.com",
+      "headline": "Claude now wants to see your ID, because apparently AI needs to know who it's ghosting.",
+      "summary": "Anthropic is moving toward identity verification for advanced features, effectively turning your LLM into a bouncer at a club you never wanted to enter. It's a bold strategy to make sure only real people get to experience the thrill of being hallucinated at by a machine.",
+      "plain_english": "Anthropic is requiring users to provide government identification to access specific high-level features of their AI service.",
+      "source_url": "https://old.reddit.com/r/ClaudeAI/comments/1ubm53n/official_anthropic_to_require_identity/"
     },
     {
       "id": 9,
-      "domain": "regjeringen.no",
-      "headline": "Norway is ghosting AI in elementary schools",
-      "summary": "Norway is basically putting AI in detention to save the curriculum from becoming a giant copy-paste operation. It turns out that teaching kids how to think is still harder than teaching a LLM how to hallucinate.",
-      "plain_english": "The Norwegian government has implemented strict restrictions on the use of artificial intelligence tools in elementary schools.",
-      "source_url": "https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/"
+      "domain": "tesla.com",
+      "headline": "Tesla's Autopilot thinks the front door is the optimal parking spot",
+      "summary": "Tesla's self-driving software has decided that structural engineering is merely a suggestion. It turns out that 'full self-driving' doesn't include the ability to distinguish a residential living room from a parking space.",
+      "plain_english": "A Tesla vehicle operating on Autopilot crashed into a house in Texas, resulting in a fatality.",
+      "source_url": "https://abcnews.com/US/tesla-allegedly-autopilot-mode-crashes-texas-house-woman/story?id=134062374"
     },
     {
       "id": 10,
-      "domain": "gov.uk",
-      "headline": "The UK wants to age-gate the internet with the precision of a junior dev's regex",
-      "summary": "The UK government is trying to ban social media for under-16s, which is essentially asking a teenager to stop using a VPN. It's the legislative equivalent of trying to fix a memory leak by unplugging the server.",
-      "plain_english": "The United Kingdom is proposing a law that would prohibit children under 16 from using social media platforms.",
-      "source_url": "https://www.eff.org/deeplinks/2026/06/uks-new-under-16-social-media-ban-will-cause-more-harm-it-prevents"
+      "domain": "vmware.com",
+      "headline": "When the virtualization layer becomes the litigation layer",
+      "summary": "Tesco is suing VMware because apparently, the only thing more stable than a virtual machine is a multi-year legal battle. Nothing says enterprise software excellence like a breach of contract suit from your own customers.",
+      "plain_english": "The supermarket chain Tesco has initiated a lawsuit against VMware alleging a breach of contract.",
+      "source_url": "https://www.theregister.com/software/2025/09/03/supermarket-giant-tesco-sues-vmware-for-breach-of-contract/1420651"
     }
   ]
 }
