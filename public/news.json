@@ -1,91 +1,91 @@
 {
   "meta": {
-    "date": "Sunday, June 21, 2026",
-    "scene_summary": "We are finally modernizing our infrastructure just in time for the AI to start demanding our government IDs.",
-    "ratio_statement": "7:3"
+    "date": "Monday, June 22, 2026",
+    "scene_summary": "We are busy building the future on top of infrastructure that is currently screaming for help.",
+    "ratio_statement": "6:4"
   },
   "cooking": [
     {
       "id": 1,
-      "domain": "kernel.org",
-      "headline": "Linux finally breaks up with strncpy after a six-year drama",
-      "summary": "It took 360 patches and six years of emotional labor to finally evict the most dangerous function in the C standard library. It's the coding equivalent of finally moving out of a toxic apartment that had a habit of leaking security vulnerabilities.",
-      "plain_english": "The Linux kernel developers have officially removed a problematic function used for copying strings that was frequently associated with security vulnerabilities.",
-      "source_url": "https://www.phoronix.com/news/Linux-7.2-Drops-strncpy"
+      "domain": "chevron.com",
+      "headline": "Chevron is now basically a cloud provider's personal extension cord",
+      "summary": "Chevron just signed a 20-year deal to power Microsoft's data centers, effectively pivoting from oil tycoon to digital landlord. It's nice to know that your future cloud compute bills will be directly tied to the price of a barrel of crude.",
+      "plain_english": "Chevron has entered a long-term agreement to supply electricity to Microsoft for its data center operations in West Texas.",
+      "source_url": "https://www.chevron.com/newsroom/2026/q2/chevron-signs-20-year-power-agreement-with-microsoft-for-west-texas-data-center"
     },
     {
       "id": 2,
-      "domain": "systemd.io",
-      "headline": "Systemd 261 just dropped, and it's still trying to do your laundry",
-      "summary": "Systemd continues its quest to manage every single atom on your Linux machine by adding even more tools to the pile. At this rate, the next version will probably handle your taxes and schedule your dentist appointments too.",
-      "plain_english": "The systemd software suite has released version 261, which introduces new utilities for system installation, image management, and storage control.",
-      "source_url": "https://www.phoronix.com/news/systemd-261"
+      "domain": "siliconvalley.com",
+      "headline": "Tech workers are finally hitting the 'no' button on the AI hype train",
+      "summary": "Employees are increasingly pushing back against the frantic AI pivot, proving that even the people building the tools are tired of the feature creep. It is the corporate equivalent of realizing your boss's 'urgent' project is actually just a vanity metric that nobody asked for.",
+      "plain_english": "Technology employees are organizing to protest and challenge the rapid, industry-wide focus on artificial intelligence development.",
+      "source_url": "https://www.techpolicy.press/tech-workers-are-fighting-against-silicon-valleys-ai-push/"
     },
     {
       "id": 3,
-      "domain": "gov.uk",
-      "headline": "The UK Home Office dropped £75M on 'PoliceAI', ensuring the future of law enforcement is just like our code.",
-      "summary": "The government is betting millions that AI can fix public order, which is a great way to ensure the bugs in our legal system now come with a subscription fee. It's the ultimate group project where the AI does all the heavy lifting and we just hope it doesn't decide to interpret the law creatively.",
-      "plain_english": "The United Kingdom's Home Office has invested 75 million pounds into a new artificial intelligence project designed to support police operations.",
-      "source_url": "https://www.publictechnology.net/2026/06/15/public-order-justice-and-rights/home-office-launches-75m-policeai-to-capitalise-on-artificial-intelligence/"
+      "domain": "meta.com",
+      "headline": "Meta's training data collection is the new 'please don't touch my stuff'",
+      "summary": "Meta is effectively asking employees to hand over their work as the secret sauce for future AI models, and people are finally drawing a line in the sand. It is the corporate equivalent of your landlord asking for the keys to your apartment so they can rent out your bedroom while you're at work.",
+      "plain_english": "Employees have started a petition to object to Meta using their internal work data to train artificial intelligence models.",
+      "source_url": "https://mcipetition.com/"
     },
     {
       "id": 4,
-      "domain": "amd.com",
-      "headline": "AMD adds memory encryption back, proving that 'oops' is a valid product roadmap strategy",
-      "summary": "AMD decided that memory encryption was actually a feature people wanted after all, so they're patching it back in via BIOS. It's like turning in your final project, realizing you forgot the bibliography, and frantically editing the Google Doc ten minutes before the deadline.",
-      "plain_english": "AMD is releasing a software update in July that restores memory encryption features to its Ryzen 9000 series processors.",
-      "source_url": "https://www.tomshardware.com/pc-components/cpus/amd-will-reinstate-memory-encryption-on-ryzen-9000-cpus-through-a-bios-update-in-july-tsme-is-coming-back-after-valuable-community-feedback"
+      "domain": "apertvs.ai",
+      "headline": "Another day, another 'sovereign' AI foundation enters the chat",
+      "summary": "Everyone is launching their own open foundation model to avoid relying on Big Tech, as if the AI landscape isn't already a crowded group project. It's the digital equivalent of every friend group insisting they need their own private Discord server instead of just using the main one.",
+      "plain_english": "Apertus has released an open-source artificial intelligence model designed for independent organizations to use without relying on major technology companies.",
+      "source_url": "https://apertvs.ai/"
     },
     {
       "id": 5,
-      "domain": "google.com",
-      "headline": "IPv6 finally hits 50% adoption, reaching the 'halfway there' milestone of a 30-year-old project",
-      "summary": "Google has finally reached the 50% mark for IPv6 traffic, which is a massive achievement if you ignore that we started this migration back in the 90s. At this rate, we might actually finish the transition before the heat death of the universe.",
-      "plain_english": "Half of all web traffic accessed through Google services now uses the IPv6 networking protocol instead of the older IPv4 standard.",
-      "source_url": "https://blog.apnic.net/2026/04/28/google-hits-50-ipv6/"
+      "domain": "ziglang.org",
+      "headline": "Mitchell Hashimoto is single-handedly funding the Zig economy",
+      "summary": "Mitchell Hashimoto just dropped another $400k on the Zig Software Foundation, proving that if you like a tool enough, you eventually just start paying its rent. It's like being the only person in a group project who actually enjoys the work and decides to buy snacks for the whole team.",
+      "plain_english": "Software developer Mitchell Hashimoto has donated $400,000 to the organization that manages the development of the Zig programming language.",
+      "source_url": "https://mitchellh.com/writing/zig-donation-2026"
     },
     {
       "id": 6,
-      "domain": "smpte.org",
-      "headline": "SMPTE standards are finally free, so you can stop roleplaying as a pirate to find the specs",
-      "summary": "SMPTE has finally unlocked their massive library of media standards for the public instead of keeping them behind a paywall. It's nice to know we can finally read the documentation without needing a corporate procurement budget or a back-alley link.",
-      "plain_english": "The Society of Motion Picture and Television Engineers has made its technical standards available for free to the public.",
-      "source_url": "https://www.smpte.org/blog/smpte-makes-its-standards-freely-accessible-openingstandards-library-to-the-global-media-technology-community"
-    },
-    {
-      "id": 7,
-      "domain": "martinfowler.com",
-      "headline": "Martin Fowler drops the guide on making AI agents actually do their jobs",
-      "summary": "Building reliable agentic systems is essentially just managing a team of interns who hallucinate under pressure. It turns out the secret to AI reliability is treating it like a chaotic group project where you have to double-check every single contribution.",
-      "plain_english": "Martin Fowler has published a guide on how to design and implement AI agent systems that perform tasks reliably and consistently.",
-      "source_url": "https://martinfowler.com/articles/reliable-llm-bayer.html"
+      "domain": "deno.com",
+      "headline": "Deno wants to live on your desktop, because the browser isn't enough",
+      "summary": "Deno is launching a desktop runtime to let you build apps that run locally with all the modern trimmings. It's like they looked at Electron and decided to fix the 'my RAM is crying' problem once and for all.",
+      "plain_english": "Deno has introduced a new way for developers to create desktop applications using their software environment.",
+      "source_url": "https://docs.deno.com/runtime/desktop/"
     }
   ],
   "cooked": [
     {
+      "id": 7,
+      "domain": "palantir.com",
+      "headline": "The Canadian government spent $46M on Palantir without telling anyone",
+      "summary": "Canada funneled nearly $47 million into a secret Palantir contract, proving that transparency is just a suggestion when you have enough data to crunch. It's like finding a massive recurring subscription charge on your company card that nobody remembers approving.",
+      "plain_english": "The Canadian government allocated $46.8 million for a confidential contract with the data analytics company Palantir.",
+      "source_url": "https://theijf.org/brief/canadian-palantir-contract-amendments-obd"
+    },
+    {
       "id": 8,
-      "domain": "anthropic.com",
-      "headline": "Claude now wants to see your ID, because apparently AI needs to know who it's ghosting.",
-      "summary": "Anthropic is moving toward identity verification for advanced features, effectively turning your LLM into a bouncer at a club you never wanted to enter. It's a bold strategy to make sure only real people get to experience the thrill of being hallucinated at by a machine.",
-      "plain_english": "Anthropic is requiring users to provide government identification to access specific high-level features of their AI service.",
-      "source_url": "https://old.reddit.com/r/ClaudeAI/comments/1ubm53n/official_anthropic_to_require_identity/"
+      "domain": "nsf.gov",
+      "headline": "The NSF is trading long-term discovery for short-term hype cycles",
+      "summary": "The government is gutting basic research budgets to fund the latest tech trends, because why fund the next foundation of physics when you can subsidize a shiny new chatbot? It is like selling your house to buy a lottery ticket because you heard someone else won big.",
+      "plain_english": "The National Science Foundation is reallocating money from fundamental scientific research programs to support new technology initiatives.",
+      "source_url": "https://www.science.org/content/article/exclusive-nsf-slashes-research-programs-support-new-tech-initiative-insiders-say"
     },
     {
       "id": 9,
-      "domain": "tesla.com",
-      "headline": "Tesla's Autopilot thinks the front door is the optimal parking spot",
-      "summary": "Tesla's self-driving software has decided that structural engineering is merely a suggestion. It turns out that 'full self-driving' doesn't include the ability to distinguish a residential living room from a parking space.",
-      "plain_english": "A Tesla vehicle operating on Autopilot crashed into a house in Texas, resulting in a fatality.",
-      "source_url": "https://abcnews.com/US/tesla-allegedly-autopilot-mode-crashes-texas-house-woman/story?id=134062374"
+      "domain": "openai.com",
+      "headline": "Codex is speedrunning the destruction of your SSD",
+      "summary": "OpenAI's logging bug is currently writing terabytes of data to your local drive like it's trying to win a storage-filling contest. It turns out the most dangerous thing your AI assistant does isn't hallucinating code, but silently murdering your hardware.",
+      "plain_english": "A software bug in OpenAI's Codex tool is causing it to save excessive amounts of data, which can prematurely wear out computer storage drives.",
+      "source_url": "https://github.com/openai/codex/issues/28224"
     },
     {
       "id": 10,
-      "domain": "vmware.com",
-      "headline": "When the virtualization layer becomes the litigation layer",
-      "summary": "Tesco is suing VMware because apparently, the only thing more stable than a virtual machine is a multi-year legal battle. Nothing says enterprise software excellence like a breach of contract suit from your own customers.",
-      "plain_english": "The supermarket chain Tesco has initiated a lawsuit against VMware alleging a breach of contract.",
-      "source_url": "https://www.theregister.com/software/2025/09/03/supermarket-giant-tesco-sues-vmware-for-breach-of-contract/1420651"
+      "domain": "go.dev",
+      "headline": "UUIDv7 is now just a static number in a trench coat",
+      "summary": "Golang's UUIDv7 implementation on browsers is currently hardcoded to 7000, making every generated ID identical. It's essentially the software equivalent of a group project where everyone just copies the same wrong answer.",
+      "plain_english": "A technical error in the Go programming language causes it to generate the same identification number repeatedly when used in web browsers.",
+      "source_url": "https://github.com/golang/go/issues/80084"
     }
   ]
 }
