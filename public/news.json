@@ -1,91 +1,91 @@
 {
   "meta": {
-    "date": "Monday, June 22, 2026",
-    "scene_summary": "We are busy building the future on top of infrastructure that is currently screaming for help.",
-    "ratio_statement": "6:4"
+    "date": "Tuesday, June 23, 2026",
+    "scene_summary": "We are building the future with one hand while the other hand is desperately trying to unplug our own smart TVs.",
+    "ratio_statement": "3:7"
   },
   "cooking": [
     {
       "id": 1,
-      "domain": "chevron.com",
-      "headline": "Chevron is now basically a cloud provider's personal extension cord",
-      "summary": "Chevron just signed a 20-year deal to power Microsoft's data centers, effectively pivoting from oil tycoon to digital landlord. It's nice to know that your future cloud compute bills will be directly tied to the price of a barrel of crude.",
-      "plain_english": "Chevron has entered a long-term agreement to supply electricity to Microsoft for its data center operations in West Texas.",
-      "source_url": "https://www.chevron.com/newsroom/2026/q2/chevron-signs-20-year-power-agreement-with-microsoft-for-west-texas-data-center"
+      "domain": "ultralytics.com",
+      "headline": "YOLO26 just dropped to make sure your webcam never misses a beat",
+      "summary": "Ultralytics released another vision model, which is great news if you enjoy updating your dependencies every time you blink. It is the tech equivalent of a software update that promises to see everything, assuming you can actually get it to compile.",
+      "plain_english": "Ultralytics has released a new version of their real-time computer vision model designed to improve performance and integration.",
+      "source_url": "https://arxiv.org/abs/2606.03748"
     },
     {
       "id": 2,
-      "domain": "siliconvalley.com",
-      "headline": "Tech workers are finally hitting the 'no' button on the AI hype train",
-      "summary": "Employees are increasingly pushing back against the frantic AI pivot, proving that even the people building the tools are tired of the feature creep. It is the corporate equivalent of realizing your boss's 'urgent' project is actually just a vanity metric that nobody asked for.",
-      "plain_english": "Technology employees are organizing to protest and challenge the rapid, industry-wide focus on artificial intelligence development.",
-      "source_url": "https://www.techpolicy.press/tech-workers-are-fighting-against-silicon-valleys-ai-push/"
+      "domain": "arxiv.org",
+      "headline": "A 3B model is body-slamming the giants because apparently size isn't everything",
+      "summary": "VibeThinker is out here proving you don't need a supercomputer to outsmart the heavyweights if your training math is actually good. It's the AI equivalent of the scrawny kid in the gym who somehow benches more than the entire varsity team.",
+      "plain_english": "A small artificial intelligence model with three billion parameters has achieved performance results superior to larger models using new training techniques.",
+      "source_url": "https://arxiv.org/abs/2606.16140"
     },
     {
       "id": 3,
-      "domain": "meta.com",
-      "headline": "Meta's training data collection is the new 'please don't touch my stuff'",
-      "summary": "Meta is effectively asking employees to hand over their work as the secret sauce for future AI models, and people are finally drawing a line in the sand. It is the corporate equivalent of your landlord asking for the keys to your apartment so they can rent out your bedroom while you're at work.",
-      "plain_english": "Employees have started a petition to object to Meta using their internal work data to train artificial intelligence models.",
-      "source_url": "https://mcipetition.com/"
-    },
-    {
-      "id": 4,
-      "domain": "apertvs.ai",
-      "headline": "Another day, another 'sovereign' AI foundation enters the chat",
-      "summary": "Everyone is launching their own open foundation model to avoid relying on Big Tech, as if the AI landscape isn't already a crowded group project. It's the digital equivalent of every friend group insisting they need their own private Discord server instead of just using the main one.",
-      "plain_english": "Apertus has released an open-source artificial intelligence model designed for independent organizations to use without relying on major technology companies.",
-      "source_url": "https://apertvs.ai/"
-    },
-    {
-      "id": 5,
-      "domain": "ziglang.org",
-      "headline": "Mitchell Hashimoto is single-handedly funding the Zig economy",
-      "summary": "Mitchell Hashimoto just dropped another $400k on the Zig Software Foundation, proving that if you like a tool enough, you eventually just start paying its rent. It's like being the only person in a group project who actually enjoys the work and decides to buy snacks for the whole team.",
-      "plain_english": "Software developer Mitchell Hashimoto has donated $400,000 to the organization that manages the development of the Zig programming language.",
-      "source_url": "https://mitchellh.com/writing/zig-donation-2026"
-    },
-    {
-      "id": 6,
-      "domain": "deno.com",
-      "headline": "Deno wants to live on your desktop, because the browser isn't enough",
-      "summary": "Deno is launching a desktop runtime to let you build apps that run locally with all the modern trimmings. It's like they looked at Electron and decided to fix the 'my RAM is crying' problem once and for all.",
-      "plain_english": "Deno has introduced a new way for developers to create desktop applications using their software environment.",
-      "source_url": "https://docs.deno.com/runtime/desktop/"
+      "domain": "canada.ca",
+      "headline": "Canada is speedrunning a nuclear renaissance to keep the lights on",
+      "summary": "Canada decided that building ten nuclear reactors is the only way to satisfy our collective hunger for more compute and air conditioning. It's a bold move to trade long-term grid stability for the ability to keep training models without blowing a fuse.",
+      "plain_english": "The Canadian government has announced a strategic plan to build up to ten new nuclear reactors by 2040 to increase power generation capacity.",
+      "source_url": "https://www.cbc.ca/news/politics/federal-nuclear-strategy-9.7244509"
     }
   ],
   "cooked": [
     {
+      "id": 4,
+      "domain": "linuxfoundation.org",
+      "headline": "Linux Secure Boot certificates are expiring like a forgotten grocery item",
+      "summary": "The security certificates that keep your boot process locked down are hitting their expiration date, creating a massive headache for distro maintainers. It turns out that digital security is a lot like a fridge; if you don't check the dates, you're going to have a very bad time.",
+      "plain_english": "The digital security certificates used to verify the Linux operating system during startup are expiring, which requires updates to prevent system errors.",
+      "source_url": "https://lwn.net/Articles/1029767/"
+    },
+    {
+      "id": 5,
+      "domain": "meta.com",
+      "headline": "Meta's AI training program was caught stalking its own employees",
+      "summary": "Meta was using an internal tool to track employee keystrokes to train AI, only to have the data leak and expose the whole operation. Nothing says 'innovation' quite like accidentally turning your office into a surveillance state for the sake of a chatbot.",
+      "plain_english": "Meta paused a project that recorded employee activity, including keystrokes, to train artificial intelligence after the data was exposed.",
+      "source_url": "https://www.businessinsider.com/meta-ai-training-data-leak-exposed-employee-activity-across-company-2026-6"
+    },
+    {
+      "id": 6,
+      "domain": "oracle.com",
+      "headline": "Oracle is shedding 20,000 employees to optimize for 'efficiency'",
+      "summary": "Oracle cut 20,000 roles this year, proving that even a tech giant treats its workforce like a legacy codebase that needs refactoring. It's the corporate equivalent of deleting your entire 'node_modules' folder and hoping the project still compiles.",
+      "plain_english": "Oracle has reduced its global workforce by approximately 20,000 employees over the past year.",
+      "source_url": "https://www.bbc.com/news/articles/c4gy0x0j5deo"
+    },
+    {
       "id": 7,
-      "domain": "palantir.com",
-      "headline": "The Canadian government spent $46M on Palantir without telling anyone",
-      "summary": "Canada funneled nearly $47 million into a secret Palantir contract, proving that transparency is just a suggestion when you have enough data to crunch. It's like finding a massive recurring subscription charge on your company card that nobody remembers approving.",
-      "plain_english": "The Canadian government allocated $46.8 million for a confidential contract with the data analytics company Palantir.",
-      "source_url": "https://theijf.org/brief/canadian-palantir-contract-amendments-obd"
+      "domain": "spacex.com",
+      "headline": "SpaceX stock just hit a gravity-defying low",
+      "summary": "SpaceX shares dropped 14% in a single day, putting the price back below its IPO launch. It turns out that when you aim for Mars, sometimes the only thing that actually hits the ground is your stock performance.",
+      "plain_english": "The stock price for SpaceX fell by 14% in one day, causing its value to drop below its initial public offering price.",
+      "source_url": "https://finance.yahoo.com/quote/SPCX/"
     },
     {
       "id": 8,
-      "domain": "nsf.gov",
-      "headline": "The NSF is trading long-term discovery for short-term hype cycles",
-      "summary": "The government is gutting basic research budgets to fund the latest tech trends, because why fund the next foundation of physics when you can subsidize a shiny new chatbot? It is like selling your house to buy a lottery ticket because you heard someone else won big.",
-      "plain_english": "The National Science Foundation is reallocating money from fundamental scientific research programs to support new technology initiatives.",
-      "source_url": "https://www.science.org/content/article/exclusive-nsf-slashes-research-programs-support-new-tech-initiative-insiders-say"
+      "domain": "spacex.com",
+      "headline": "SpaceX just had a liquidity event that would make a day trader weep",
+      "summary": "The market decided that $400 billion in value was just a suggestion and deleted it in a single session. It turns out that when you go to the moon, your valuation eventually has to come back down to Earth.",
+      "plain_english": "SpaceX experienced a significant decrease in its total market valuation following a recent period of growth.",
+      "source_url": "https://www.ft.com/content/c11d08ed-6668-4678-b829-1d50acbd12d4"
     },
     {
       "id": 9,
-      "domain": "openai.com",
-      "headline": "Codex is speedrunning the destruction of your SSD",
-      "summary": "OpenAI's logging bug is currently writing terabytes of data to your local drive like it's trying to win a storage-filling contest. It turns out the most dangerous thing your AI assistant does isn't hallucinating code, but silently murdering your hardware.",
-      "plain_english": "A software bug in OpenAI's Codex tool is causing it to save excessive amounts of data, which can prematurely wear out computer storage drives.",
-      "source_url": "https://github.com/openai/codex/issues/28224"
+      "domain": "lg.com",
+      "headline": "Your smart TV is now a side hustle for residential proxies",
+      "summary": "Half the apps on your TV are turning your home internet into a public relay station without asking. It's the digital equivalent of finding out your landlord is renting out your living room while you're at work.",
+      "plain_english": "Many applications on LG smart televisions include software that allows third parties to route internet traffic through the user's home network.",
+      "source_url": "https://spur.us/blog/smart-tv-apps-residential-proxy-sdks"
     },
     {
       "id": 10,
-      "domain": "go.dev",
-      "headline": "UUIDv7 is now just a static number in a trench coat",
-      "summary": "Golang's UUIDv7 implementation on browsers is currently hardcoded to 7000, making every generated ID identical. It's essentially the software equivalent of a group project where everyone just copies the same wrong answer.",
-      "plain_english": "A technical error in the Go programming language causes it to generate the same identification number repeatedly when used in web browsers.",
-      "source_url": "https://github.com/golang/go/issues/80084"
+      "domain": "anthropic.com",
+      "headline": "Claude is having a collective mid-life crisis today",
+      "summary": "Anthropic's models are currently throwing errors, proving that even the smartest AI needs a mental health day sometimes. It is the digital equivalent of showing up to work and immediately forgetting how to do your job.",
+      "plain_english": "Claude's AI services are currently experiencing technical issues that are causing high error rates for users.",
+      "source_url": "https://status.claude.com/incidents/jbhf20wjmzrf"
     }
   ]
 }
