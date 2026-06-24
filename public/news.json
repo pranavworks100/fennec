@@ -1,91 +1,91 @@
 {
   "meta": {
-    "date": "Tuesday, June 23, 2026",
-    "scene_summary": "We are building the future with one hand while the other hand is desperately trying to unplug our own smart TVs.",
-    "ratio_statement": "3:7"
+    "date": "Wednesday, June 24, 2026",
+    "scene_summary": "We are busy building the future with one hand while the other tries to stop the rails from falling off.",
+    "ratio_statement": "7:3"
   },
   "cooking": [
     {
       "id": 1,
-      "domain": "ultralytics.com",
-      "headline": "YOLO26 just dropped to make sure your webcam never misses a beat",
-      "summary": "Ultralytics released another vision model, which is great news if you enjoy updating your dependencies every time you blink. It is the tech equivalent of a software update that promises to see everything, assuming you can actually get it to compile.",
-      "plain_english": "Ultralytics has released a new version of their real-time computer vision model designed to improve performance and integration.",
-      "source_url": "https://arxiv.org/abs/2606.03748"
+      "domain": "europa.eu",
+      "headline": "European bureaucracy is speedrunning the 'everyone is a suspect' update",
+      "summary": "The European Commission is bypassing standard parliamentary debate to push through mandatory message scanning laws. It is the legislative equivalent of 'I'm the manager here, so stop asking questions and just install the spyware.'",
+      "plain_english": "The European Commission president has taken steps to bypass parliamentary opposition to implement legislation that would mandate the scanning of private digital communications.",
+      "source_url": "https://www.politico.eu/article/president-vs-parliament-roberta-metsola-overrides-meps-bid-force-child-abuse-law/"
     },
     {
       "id": 2,
-      "domain": "arxiv.org",
-      "headline": "A 3B model is body-slamming the giants because apparently size isn't everything",
-      "summary": "VibeThinker is out here proving you don't need a supercomputer to outsmart the heavyweights if your training math is actually good. It's the AI equivalent of the scrawny kid in the gym who somehow benches more than the entire varsity team.",
-      "plain_english": "A small artificial intelligence model with three billion parameters has achieved performance results superior to larger models using new training techniques.",
-      "source_url": "https://arxiv.org/abs/2606.16140"
+      "domain": "ecb.europa.eu",
+      "headline": "The EU is trying to hard-fork the global credit card system",
+      "summary": "The European Union is pushing for a digital euro to finally stop paying 'middleman fees' to American payment giants. It's essentially the financial version of deciding to host your own server because you're tired of the platform's terms of service.",
+      "plain_english": "The European Union has moved closer to launching a digital currency to reduce reliance on American credit card networks like Visa and Mastercard.",
+      "source_url": "https://finance.yahoo.com/markets/currencies/articles/ecb-secures-key-parliamentary-backing-102718449.html"
     },
     {
       "id": 3,
-      "domain": "canada.ca",
-      "headline": "Canada is speedrunning a nuclear renaissance to keep the lights on",
-      "summary": "Canada decided that building ten nuclear reactors is the only way to satisfy our collective hunger for more compute and air conditioning. It's a bold move to trade long-term grid stability for the ability to keep training models without blowing a fuse.",
-      "plain_english": "The Canadian government has announced a strategic plan to build up to ten new nuclear reactors by 2040 to increase power generation capacity.",
-      "source_url": "https://www.cbc.ca/news/politics/federal-nuclear-strategy-9.7244509"
+      "domain": "apple.com",
+      "headline": "Swift Package Index just got a golden ticket to the Apple orchard",
+      "summary": "Apple officially brought the Swift Package Index team in-house to help curate the ecosystem's library of code. It turns out the best way to get your open-source project noticed is to become the official infrastructure for the entire language.",
+      "plain_english": "Apple has acquired the Swift Package Index, a website used to discover and manage software packages for the Swift programming language.",
+      "source_url": "https://swiftpackageindex.com/blog/swift-package-index-joins-apple"
+    },
+    {
+      "id": 4,
+      "domain": "deepset.ai",
+      "headline": "Haystack just made building RAG apps feel less like a hostage negotiation with your database.",
+      "summary": "Haystack is trying to standardize the chaos of building production-ready AI agents so you don't have to reinvent the plumbing every week. It's a great way to build a RAG pipeline, provided you actually have data that isn't just a pile of unreadable PDFs.",
+      "plain_english": "Haystack is an open-source framework designed to help developers build applications that use artificial intelligence to retrieve and process information.",
+      "source_url": "https://haystack.deepset.ai/"
+    },
+    {
+      "id": 5,
+      "domain": "alibabacloud.com",
+      "headline": "Qwen-AgentWorld is teaching AI models to live in a simulation so they stop breaking your production code.",
+      "summary": "By training agents in a 'world model' environment, developers are essentially giving AI a sandbox to play in before they start breaking real-world tasks. It's like letting the group project partner fail a few practice exams so they don't tank your actual grade.",
+      "plain_english": "Qwen-AgentWorld provides a virtual environment for training and testing artificial intelligence agents to improve their ability to perform complex tasks in the real world.",
+      "source_url": "https://arxiv.org/abs/2606.24597"
+    },
+    {
+      "id": 6,
+      "domain": "rubyllm.com",
+      "headline": "RubyLLM is here to make your AI integrations feel like a gem",
+      "summary": "Ruby developers have finally created a unified wrapper for AI providers, effectively turning complex API calls into something that doesn't feel like a chore. It's the perfect tool for when you want to build the next big thing without reading ten different sets of documentation.",
+      "plain_english": "RubyLLM is a software library that allows developers to easily connect their Ruby applications to various artificial intelligence services through a single interface.",
+      "source_url": "https://rubyllm.com/"
+    },
+    {
+      "id": 7,
+      "domain": "mozilla.org",
+      "headline": "Pact wants to prove you're human without showing your ID",
+      "summary": "Mozilla is working on a way to verify your identity online without handing over your entire life story to every website you visit. It's like having a bouncer at the door who checks that you're of age but doesn't bother asking for your home address or social security number.",
+      "plain_english": "Pact is a new system designed to allow users to verify their credentials or age on websites while keeping their personal identity anonymous.",
+      "source_url": "https://hacks.mozilla.org/2026/06/pact-anonymous-credentials-for-the-web/"
     }
   ],
   "cooked": [
     {
-      "id": 4,
-      "domain": "linuxfoundation.org",
-      "headline": "Linux Secure Boot certificates are expiring like a forgotten grocery item",
-      "summary": "The security certificates that keep your boot process locked down are hitting their expiration date, creating a massive headache for distro maintainers. It turns out that digital security is a lot like a fridge; if you don't check the dates, you're going to have a very bad time.",
-      "plain_english": "The digital security certificates used to verify the Linux operating system during startup are expiring, which requires updates to prevent system errors.",
-      "source_url": "https://lwn.net/Articles/1029767/"
-    },
-    {
-      "id": 5,
-      "domain": "meta.com",
-      "headline": "Meta's AI training program was caught stalking its own employees",
-      "summary": "Meta was using an internal tool to track employee keystrokes to train AI, only to have the data leak and expose the whole operation. Nothing says 'innovation' quite like accidentally turning your office into a surveillance state for the sake of a chatbot.",
-      "plain_english": "Meta paused a project that recorded employee activity, including keystrokes, to train artificial intelligence after the data was exposed.",
-      "source_url": "https://www.businessinsider.com/meta-ai-training-data-leak-exposed-employee-activity-across-company-2026-6"
-    },
-    {
-      "id": 6,
-      "domain": "oracle.com",
-      "headline": "Oracle is shedding 20,000 employees to optimize for 'efficiency'",
-      "summary": "Oracle cut 20,000 roles this year, proving that even a tech giant treats its workforce like a legacy codebase that needs refactoring. It's the corporate equivalent of deleting your entire 'node_modules' folder and hoping the project still compiles.",
-      "plain_english": "Oracle has reduced its global workforce by approximately 20,000 employees over the past year.",
-      "source_url": "https://www.bbc.com/news/articles/c4gy0x0j5deo"
-    },
-    {
-      "id": 7,
-      "domain": "spacex.com",
-      "headline": "SpaceX stock just hit a gravity-defying low",
-      "summary": "SpaceX shares dropped 14% in a single day, putting the price back below its IPO launch. It turns out that when you aim for Mars, sometimes the only thing that actually hits the ground is your stock performance.",
-      "plain_english": "The stock price for SpaceX fell by 14% in one day, causing its value to drop below its initial public offering price.",
-      "source_url": "https://finance.yahoo.com/quote/SPCX/"
-    },
-    {
       "id": 8,
-      "domain": "spacex.com",
-      "headline": "SpaceX just had a liquidity event that would make a day trader weep",
-      "summary": "The market decided that $400 billion in value was just a suggestion and deleted it in a single session. It turns out that when you go to the moon, your valuation eventually has to come back down to Earth.",
-      "plain_english": "SpaceX experienced a significant decrease in its total market valuation following a recent period of growth.",
-      "source_url": "https://www.ft.com/content/c11d08ed-6668-4678-b829-1d50acbd12d4"
+      "domain": "nvidia.com",
+      "headline": "The AI bubble just hit its first speed bump",
+      "summary": "The market finally realized that burning billions on GPUs is only a viable business model if you actually have customers who pay their bills. It turns out that 'infinite growth' is just a fancy way of saying we haven't checked the quarterly earnings yet.",
+      "plain_english": "Global stock markets experienced a significant decline as investors sold off shares in companies heavily focused on artificial intelligence.",
+      "source_url": "https://www.theguardian.com/business/2026/jun/23/ai-stocks-sell-off-us-markets"
     },
     {
       "id": 9,
-      "domain": "lg.com",
-      "headline": "Your smart TV is now a side hustle for residential proxies",
-      "summary": "Half the apps on your TV are turning your home internet into a public relay station without asking. It's the digital equivalent of finding out your landlord is renting out your living room while you're at work.",
-      "plain_english": "Many applications on LG smart televisions include software that allows third parties to route internet traffic through the user's home network.",
-      "source_url": "https://spur.us/blog/smart-tv-apps-residential-proxy-sdks"
+      "domain": "deutschebahn.com",
+      "headline": "Germany's entire rail network just got a 'connection reset by peer'",
+      "summary": "Germany's rail system completely stalled because their radio communication network decided to take an unscheduled vacation. It turns out that even in a country famous for efficiency, everything is just one dropped packet away from a total system shutdown.",
+      "plain_english": "All train services in Germany were suspended due to a major failure in the railway's radio communication system.",
+      "source_url": "https://english.news.cn/20260624/65f1b6192cd947e28849776a5aef05c6/c.html"
     },
     {
       "id": 10,
-      "domain": "anthropic.com",
-      "headline": "Claude is having a collective mid-life crisis today",
-      "summary": "Anthropic's models are currently throwing errors, proving that even the smartest AI needs a mental health day sometimes. It is the digital equivalent of showing up to work and immediately forgetting how to do your job.",
-      "plain_english": "Claude's AI services are currently experiencing technical issues that are causing high error rates for users.",
-      "source_url": "https://status.claude.com/incidents/jbhf20wjmzrf"
+      "domain": "meta.com",
+      "headline": "Meta's employee-tracking software got snooped on by its own employees",
+      "summary": "Meta had to pause its internal surveillance program after someone accidentally leaked the tracking data to the rest of the company. It's hard to justify keeping tabs on everyone's productivity when your security posture has the structural integrity of a wet paper bag.",
+      "plain_english": "Meta has suspended an internal tool used to track employee activity after a security breach exposed sensitive information about the program.",
+      "source_url": "https://www.wired.com/story/meta-pauses-employee-tracking-program-following-internal-security-breach/"
     }
   ]
 }
