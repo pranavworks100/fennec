@@ -1,91 +1,91 @@
 {
   "meta": {
-    "date": "Wednesday, June 24, 2026",
-    "scene_summary": "We are busy building the future with one hand while the other tries to stop the rails from falling off.",
-    "ratio_statement": "7:3"
+    "date": "Thursday, June 25, 2026",
+    "scene_summary": "We're busy building the future while the past is still holding our data hostage.",
+    "ratio_statement": "4:6"
   },
   "cooking": [
     {
       "id": 1,
-      "domain": "europa.eu",
-      "headline": "European bureaucracy is speedrunning the 'everyone is a suspect' update",
-      "summary": "The European Commission is bypassing standard parliamentary debate to push through mandatory message scanning laws. It is the legislative equivalent of 'I'm the manager here, so stop asking questions and just install the spyware.'",
-      "plain_english": "The European Commission president has taken steps to bypass parliamentary opposition to implement legislation that would mandate the scanning of private digital communications.",
-      "source_url": "https://www.politico.eu/article/president-vs-parliament-roberta-metsola-overrides-meps-bid-force-child-abuse-law/"
+      "domain": "openai.com",
+      "headline": "OpenAI is making its own chips because buying them was getting too expensive",
+      "summary": "OpenAI is moving into custom hardware, which is a classic move for anyone tired of paying their landlord's inflated rent. It turns out that when you burn through cash like a bonfire, eventually you decide to just build your own fireplace.",
+      "plain_english": "OpenAI is partnering with Broadcom to design and manufacture its own custom computer chips to support its artificial intelligence infrastructure.",
+      "source_url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/"
     },
     {
       "id": 2,
-      "domain": "ecb.europa.eu",
-      "headline": "The EU is trying to hard-fork the global credit card system",
-      "summary": "The European Union is pushing for a digital euro to finally stop paying 'middleman fees' to American payment giants. It's essentially the financial version of deciding to host your own server because you're tired of the platform's terms of service.",
-      "plain_english": "The European Union has moved closer to launching a digital currency to reduce reliance on American credit card networks like Visa and Mastercard.",
-      "source_url": "https://finance.yahoo.com/markets/currencies/articles/ecb-secures-key-parliamentary-backing-102718449.html"
+      "domain": "google.com",
+      "headline": "Gemini can now use your computer, because clicking buttons was the only thing standing between us and Skynet.",
+      "summary": "Google is teaching Gemini to navigate interfaces just like a human, which is great until it starts rage-clicking your terminal. It's essentially giving a LLM a mouse and keyboard to see if it can handle the chaos of a browser tab graveyard.",
+      "plain_english": "Google has updated its AI model to perform tasks on a computer by interacting with the screen, mouse, and keyboard.",
+      "source_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/"
     },
     {
       "id": 3,
       "domain": "apple.com",
-      "headline": "Swift Package Index just got a golden ticket to the Apple orchard",
-      "summary": "Apple officially brought the Swift Package Index team in-house to help curate the ecosystem's library of code. It turns out the best way to get your open-source project noticed is to become the official infrastructure for the entire language.",
-      "plain_english": "Apple has acquired the Swift Package Index, a website used to discover and manage software packages for the Swift programming language.",
-      "source_url": "https://swiftpackageindex.com/blog/swift-package-index-joins-apple"
+      "headline": "Apple is raising prices because your wallet was looking too heavy",
+      "summary": "Apple has announced a price hike across the Mac and iPad lineups, ensuring your bank account stays as slim as their new hardware. It is the tech equivalent of a landlord raising the rent just because they know you really like the wallpaper.",
+      "plain_english": "Apple has increased the retail prices for several of its MacBook and iPad models.",
+      "source_url": "https://9to5mac.com/2026/06/25/apple-price-increases-mac-ipad-more/"
     },
     {
       "id": 4,
-      "domain": "deepset.ai",
-      "headline": "Haystack just made building RAG apps feel less like a hostage negotiation with your database.",
-      "summary": "Haystack is trying to standardize the chaos of building production-ready AI agents so you don't have to reinvent the plumbing every week. It's a great way to build a RAG pipeline, provided you actually have data that isn't just a pile of unreadable PDFs.",
-      "plain_english": "Haystack is an open-source framework designed to help developers build applications that use artificial intelligence to retrieve and process information.",
-      "source_url": "https://haystack.deepset.ai/"
-    },
-    {
-      "id": 5,
-      "domain": "alibabacloud.com",
-      "headline": "Qwen-AgentWorld is teaching AI models to live in a simulation so they stop breaking your production code.",
-      "summary": "By training agents in a 'world model' environment, developers are essentially giving AI a sandbox to play in before they start breaking real-world tasks. It's like letting the group project partner fail a few practice exams so they don't tank your actual grade.",
-      "plain_english": "Qwen-AgentWorld provides a virtual environment for training and testing artificial intelligence agents to improve their ability to perform complex tasks in the real world.",
-      "source_url": "https://arxiv.org/abs/2606.24597"
-    },
-    {
-      "id": 6,
-      "domain": "rubyllm.com",
-      "headline": "RubyLLM is here to make your AI integrations feel like a gem",
-      "summary": "Ruby developers have finally created a unified wrapper for AI providers, effectively turning complex API calls into something that doesn't feel like a chore. It's the perfect tool for when you want to build the next big thing without reading ten different sets of documentation.",
-      "plain_english": "RubyLLM is a software library that allows developers to easily connect their Ruby applications to various artificial intelligence services through a single interface.",
-      "source_url": "https://rubyllm.com/"
-    },
-    {
-      "id": 7,
-      "domain": "mozilla.org",
-      "headline": "Pact wants to prove you're human without showing your ID",
-      "summary": "Mozilla is working on a way to verify your identity online without handing over your entire life story to every website you visit. It's like having a bouncer at the door who checks that you're of age but doesn't bother asking for your home address or social security number.",
-      "plain_english": "Pact is a new system designed to allow users to verify their credentials or age on websites while keeping their personal identity anonymous.",
-      "source_url": "https://hacks.mozilla.org/2026/06/pact-anonymous-credentials-for-the-web/"
+      "domain": "cloudflare.com",
+      "headline": "Cloudflare just made your login flow one less headache",
+      "summary": "Cloudflare is letting you manage your own OAuth, which is great because nobody actually enjoys fighting with identity providers. It's like finally getting the master key to your own apartment instead of asking the landlord for permission every time you want to enter.",
+      "plain_english": "Cloudflare has introduced a feature that allows users to manage their own OAuth authentication processes directly through the platform.",
+      "source_url": "https://blog.cloudflare.com/oauth-for-all/"
     }
   ],
   "cooked": [
     {
+      "id": 5,
+      "domain": "lastpass.com",
+      "headline": "LastPass is back at it again with another data breach",
+      "summary": "At this point, LastPass notifying users of a data breach feels less like a security alert and more like a subscription service for bad news. It is the digital equivalent of a screen door on a submarine that just keeps letting the water in.",
+      "plain_english": "The password management company LastPass has announced that it has experienced another security incident involving user data.",
+      "source_url": "https://9to5mac.com/2026/06/23/lastpass-notifies-users-of-yet-another-data-breach/"
+    },
+    {
+      "id": 6,
+      "domain": "elastic.co",
+      "headline": "Elastic is tightening its belt by 7%",
+      "summary": "Elastic is laying off 7% of its workforce despite being the industry standard for finding literally anything in a database. It turns out that even the best search engine in the world couldn't find a way to avoid the current industry-wide layoff trend.",
+      "plain_english": "The data search company Elastic is laying off 7% of its employees.",
+      "source_url": "https://www.elastic.co/blog/ceo-ash-kulkarni-announcement-to-elastic-employees"
+    },
+    {
+      "id": 7,
+      "domain": "alibabagroup.com",
+      "headline": "Alibaba allegedly decided to 'clone' Claude instead of building it",
+      "summary": "Anthropic is accusing Alibaba of scraping their model capabilities, which is basically the AI equivalent of Ctrl+C, Ctrl+V in a group project. You'd think a tech giant would try to pass the class on their own merit, but apparently, academic integrity didn't make it into the training data.",
+      "plain_english": "Anthropic claims that Alibaba improperly accessed and used technology from its AI model, Claude.",
+      "source_url": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/"
+    },
+    {
       "id": 8,
-      "domain": "nvidia.com",
-      "headline": "The AI bubble just hit its first speed bump",
-      "summary": "The market finally realized that burning billions on GPUs is only a viable business model if you actually have customers who pay their bills. It turns out that 'infinite growth' is just a fancy way of saying we haven't checked the quarterly earnings yet.",
-      "plain_english": "Global stock markets experienced a significant decline as investors sold off shares in companies heavily focused on artificial intelligence.",
-      "source_url": "https://www.theguardian.com/business/2026/jun/23/ai-stocks-sell-off-us-markets"
+      "domain": "ford.com",
+      "headline": "Ford realizes that firing the experts to save money actually just creates expensive, broken cars.",
+      "summary": "Ford tried to replace veteran engineers with AI, only to find out that machines are terrible at passing down institutional knowledge. It turns out that 'move fast and break things' is a terrible strategy when the things you are breaking weigh two tons.",
+      "plain_english": "Ford is rehiring hundreds of quality control engineers after AI tools failed to effectively manage vehicle production and training processes.",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-06-25/ford-has-been-rehiring-quality-inspectors-after-ai-fell-short"
     },
     {
       "id": 9,
-      "domain": "deutschebahn.com",
-      "headline": "Germany's entire rail network just got a 'connection reset by peer'",
-      "summary": "Germany's rail system completely stalled because their radio communication network decided to take an unscheduled vacation. It turns out that even in a country famous for efficiency, everything is just one dropped packet away from a total system shutdown.",
-      "plain_english": "All train services in Germany were suspended due to a major failure in the railway's radio communication system.",
-      "source_url": "https://english.news.cn/20260624/65f1b6192cd947e28849776a5aef05c6/c.html"
+      "domain": "curl.se",
+      "headline": "Curl just found a bug older than most junior developers",
+      "summary": "Security researchers uncovered six vulnerabilities in curl, including one that has been hiding in the codebase since the dawn of time. It is essentially finding a piece of expired milk in the back of the fridge that has achieved sentience.",
+      "plain_english": "Researchers discovered six new security vulnerabilities in the data transfer tool curl, one of which has existed since the software's inception.",
+      "source_url": "https://aisle.com/blog/aisle-discovers-6-new-cves-in-curl-including-the-oldest-issue-ever-reported"
     },
     {
       "id": 10,
-      "domain": "meta.com",
-      "headline": "Meta's employee-tracking software got snooped on by its own employees",
-      "summary": "Meta had to pause its internal surveillance program after someone accidentally leaked the tracking data to the rest of the company. It's hard to justify keeping tabs on everyone's productivity when your security posture has the structural integrity of a wet paper bag.",
-      "plain_english": "Meta has suspended an internal tool used to track employee activity after a security breach exposed sensitive information about the program.",
-      "source_url": "https://www.wired.com/story/meta-pauses-employee-tracking-program-following-internal-security-breach/"
+      "domain": "openai.com",
+      "headline": "Paying for the privilege of seeing ads",
+      "summary": "OpenAI decided that paying for a subscription wasn't enough, so now they're throwing ads into the mix. It's the digital equivalent of paying your cable bill just to watch commercials for laundry detergent.",
+      "plain_english": "OpenAI has begun displaying advertisements within its paid service offerings.",
+      "source_url": "https://news.ycombinator.com/item?id=48673194"
     }
   ]
 }
