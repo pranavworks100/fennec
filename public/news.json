@@ -1,91 +1,91 @@
 {
   "meta": {
-    "date": "Thursday, June 25, 2026",
-    "scene_summary": "We're busy building the future while the past is still holding our data hostage.",
-    "ratio_statement": "4:6"
+    "date": "Friday, June 26, 2026",
+    "scene_summary": "We are busy building the future with microscopic chips and magic batteries while the rest of the industry tries to duct-tape the past to the EU's penalty box.",
+    "ratio_statement": "6:4"
   },
   "cooking": [
     {
       "id": 1,
       "domain": "openai.com",
-      "headline": "OpenAI is making its own chips because buying them was getting too expensive",
-      "summary": "OpenAI is moving into custom hardware, which is a classic move for anyone tired of paying their landlord's inflated rent. It turns out that when you burn through cash like a bonfire, eventually you decide to just build your own fireplace.",
-      "plain_english": "OpenAI is partnering with Broadcom to design and manufacture its own custom computer chips to support its artificial intelligence infrastructure.",
-      "source_url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/"
+      "headline": "OpenAI is staggering GPT-5.6 because the government wants to avoid a collective panic attack",
+      "summary": "The government is treating AI releases like a regulated medicine rather than a software update. It turns out that when your model is smart enough to be dangerous, 'move fast and break things' is no longer a viable company motto.",
+      "plain_english": "The United States government has requested that OpenAI release its new artificial intelligence model in stages to ensure safety and security.",
+      "source_url": "https://velo.xyz/news/1908"
     },
     {
       "id": 2,
-      "domain": "google.com",
-      "headline": "Gemini can now use your computer, because clicking buttons was the only thing standing between us and Skynet.",
-      "summary": "Google is teaching Gemini to navigate interfaces just like a human, which is great until it starts rage-clicking your terminal. It's essentially giving a LLM a mouse and keyboard to see if it can handle the chaos of a browser tab graveyard.",
-      "plain_english": "Google has updated its AI model to perform tasks on a computer by interacting with the screen, mouse, and keyboard.",
-      "source_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/"
+      "domain": "ibm.com",
+      "headline": "IBM just made a chip so small you'll need a microscope to find your bugs",
+      "summary": "IBM managed to shrink transistors below one nanometer, effectively turning silicon into a literal subatomic group project. We're getting closer to the day where your CPU has more in common with a quantum physics experiment than a calculator.",
+      "plain_english": "IBM has developed a new manufacturing process for computer chips that allows transistors to be smaller than one nanometer in size.",
+      "source_url": "https://newsroom.ibm.com/2026-06-25-ibm-debuts-worlds-first-sub-1-nanometer-chip-technology"
     },
     {
       "id": 3,
-      "domain": "apple.com",
-      "headline": "Apple is raising prices because your wallet was looking too heavy",
-      "summary": "Apple has announced a price hike across the Mac and iPad lineups, ensuring your bank account stays as slim as their new hardware. It is the tech equivalent of a landlord raising the rent just because they know you really like the wallpaper.",
-      "plain_english": "Apple has increased the retail prices for several of its MacBook and iPad models.",
-      "source_url": "https://9to5mac.com/2026/06/25/apple-price-increases-mac-ipad-more/"
+      "domain": "micron.com",
+      "headline": "Micron locked in high prices for five years, so say goodbye to your hardware budget",
+      "summary": "Micron just signed a five-year contract to keep memory prices at historic highs, effectively turning RAM into a luxury subscription service. It turns out the only thing more volatile than the stock market is the cost of upgrading your workstation.",
+      "plain_english": "Micron has secured long-term agreements that will keep memory chip prices at high levels for the next five years.",
+      "source_url": "https://www.theregister.com/systems/2026/06/25/micron-locks-in-historically-high-memory-prices-for-five-years/5261854"
     },
     {
       "id": 4,
-      "domain": "cloudflare.com",
-      "headline": "Cloudflare just made your login flow one less headache",
-      "summary": "Cloudflare is letting you manage your own OAuth, which is great because nobody actually enjoys fighting with identity providers. It's like finally getting the master key to your own apartment instead of asking the landlord for permission every time you want to enter.",
-      "plain_english": "Cloudflare has introduced a feature that allows users to manage their own OAuth authentication processes directly through the platform.",
-      "source_url": "https://blog.cloudflare.com/oauth-for-all/"
+      "domain": "amd.com",
+      "headline": "AMD is finally letting Linux have the HDMI 2.1 keys",
+      "summary": "After years of fighting over proprietary specs, AMD is finally opening up the HDMI 2.1 stack for Linux users. It's nice to see hardware manufacturers realize that if you want people to actually use your stuff, you should probably let the drivers work.",
+      "plain_english": "AMD is releasing the open-source code required to fully support high-speed HDMI 2.1 display connections on Linux operating systems.",
+      "source_url": "https://www.techpowerup.com/348723/amd-readies-full-open-source-hdmi-2-1-support-for-linux"
+    },
+    {
+      "id": 5,
+      "domain": "akrites.org",
+      "headline": "The entire internet is held together by duct tape and good intentions",
+      "summary": "We all rely on open source code maintained by people who are probably just one bad day away from deleting their entire GitHub repository. It turns out the digital equivalent of a group project is mostly just everyone hoping someone else remembers to pay the server bill.",
+      "plain_english": "A group of organizations has formed to provide better support and security for open source software projects.",
+      "source_url": "https://akrites.org/letter/"
+    },
+    {
+      "id": 6,
+      "domain": "newatlas.com",
+      "headline": "Scientists just found the 'undo' button for dead batteries",
+      "summary": "Researchers discovered an electrochemical bath that restores lithium batteries to 95% capacity, effectively giving your phone a second life. It's great news for the planet, though terrible news for the manufacturers who were really hoping you'd buy a new device every two years.",
+      "plain_english": "A new method using an electrochemical bath has been developed to restore the capacity of degraded lithium-ion batteries.",
+      "source_url": "https://newatlas.com/energy/electrode-restoring-bath-lithium-batteries/"
     }
   ],
   "cooked": [
     {
-      "id": 5,
-      "domain": "lastpass.com",
-      "headline": "LastPass is back at it again with another data breach",
-      "summary": "At this point, LastPass notifying users of a data breach feels less like a security alert and more like a subscription service for bad news. It is the digital equivalent of a screen door on a submarine that just keeps letting the water in.",
-      "plain_english": "The password management company LastPass has announced that it has experienced another security incident involving user data.",
-      "source_url": "https://9to5mac.com/2026/06/23/lastpass-notifies-users-of-yet-another-data-breach/"
-    },
-    {
-      "id": 6,
-      "domain": "elastic.co",
-      "headline": "Elastic is tightening its belt by 7%",
-      "summary": "Elastic is laying off 7% of its workforce despite being the industry standard for finding literally anything in a database. It turns out that even the best search engine in the world couldn't find a way to avoid the current industry-wide layoff trend.",
-      "plain_english": "The data search company Elastic is laying off 7% of its employees.",
-      "source_url": "https://www.elastic.co/blog/ceo-ash-kulkarni-announcement-to-elastic-employees"
-    },
-    {
       "id": 7,
-      "domain": "alibabagroup.com",
-      "headline": "Alibaba allegedly decided to 'clone' Claude instead of building it",
-      "summary": "Anthropic is accusing Alibaba of scraping their model capabilities, which is basically the AI equivalent of Ctrl+C, Ctrl+V in a group project. You'd think a tech giant would try to pass the class on their own merit, but apparently, academic integrity didn't make it into the training data.",
-      "plain_english": "Anthropic claims that Alibaba improperly accessed and used technology from its AI model, Claude.",
-      "source_url": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/"
+      "domain": "microsoft.com",
+      "headline": "The EU is officially putting Amazon and Microsoft in the digital penalty box",
+      "summary": "Europe has decided that being a massive cloud provider now comes with the same level of oversight as a public utility. It is essentially the corporate equivalent of being told you have to invite everyone in the class to your birthday party.",
+      "plain_english": "The European Commission is designating Amazon and Microsoft as 'gatekeepers,' which subjects them to stricter regulations regarding fair competition in the cloud computing market.",
+      "source_url": "https://www.theregister.com/legal/2026/06/25/european-commission-lines-up-amazon-and-microsoft-for-cloud-gatekeeper-status/5262127"
     },
     {
       "id": 8,
-      "domain": "ford.com",
-      "headline": "Ford realizes that firing the experts to save money actually just creates expensive, broken cars.",
-      "summary": "Ford tried to replace veteran engineers with AI, only to find out that machines are terrible at passing down institutional knowledge. It turns out that 'move fast and break things' is a terrible strategy when the things you are breaking weigh two tons.",
-      "plain_english": "Ford is rehiring hundreds of quality control engineers after AI tools failed to effectively manage vehicle production and training processes.",
-      "source_url": "https://www.bloomberg.com/news/articles/2026-06-25/ford-has-been-rehiring-quality-inspectors-after-ai-fell-short"
+      "domain": "apple.com",
+      "headline": "Apple is speedrunning the M-series to chase the AI hype train",
+      "summary": "Apple is skipping the M6 generation entirely to push out M7 chips, proving that product roadmaps are just suggestions when there's an AI buzzword on the line. It's like throwing away your perfectly good textbook because the new edition has a different color cover.",
+      "plain_english": "Apple is reportedly canceling the M6 series of computer processors to release a new M7 line specifically designed for artificial intelligence tasks.",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-06-25/apple-to-skip-high-end-m6-mac-chips-to-launch-m7-pro-m7-max-m7-ultra-instead?embedded-checkout=true"
     },
     {
       "id": 9,
-      "domain": "curl.se",
-      "headline": "Curl just found a bug older than most junior developers",
-      "summary": "Security researchers uncovered six vulnerabilities in curl, including one that has been hiding in the codebase since the dawn of time. It is essentially finding a piece of expired milk in the back of the fridge that has achieved sentience.",
-      "plain_english": "Researchers discovered six new security vulnerabilities in the data transfer tool curl, one of which has existed since the software's inception.",
-      "source_url": "https://aisle.com/blog/aisle-discovers-6-new-cves-in-curl-including-the-oldest-issue-ever-reported"
+      "domain": "microsoft.com",
+      "headline": "Windows 10 gets an extra year of life because nobody wants to upgrade",
+      "summary": "Microsoft is begrudgingly extending Windows 10 support for another year, likely because the world is collectively refusing to move to Windows 11. It's the digital equivalent of a landlord letting you stay an extra year because they know you'll just move into a worse apartment.",
+      "plain_english": "Microsoft has extended the official support period for the Windows 10 operating system by one additional year.",
+      "source_url": "https://www.neowin.net/news/windows-10-quietly-gets-one-more-year-of-support-and-updates/"
     },
     {
       "id": 10,
-      "domain": "openai.com",
-      "headline": "Paying for the privilege of seeing ads",
-      "summary": "OpenAI decided that paying for a subscription wasn't enough, so now they're throwing ads into the mix. It's the digital equivalent of paying your cable bill just to watch commercials for laundry detergent.",
-      "plain_english": "OpenAI has begun displaying advertisements within its paid service offerings.",
-      "source_url": "https://news.ycombinator.com/item?id=48673194"
+      "domain": "hasbro.com",
+      "headline": "Hasbro wants to turn child actors into infinite AI content farms",
+      "summary": "Hasbro is asking child voice actors to sign away their vocal rights so AI can keep the performance going long after the kid grows up. It turns out the only thing worse than a group project partner who does no work is one that tries to replace you with a prompt.",
+      "plain_english": "Hasbro is including clauses in contracts for child actors that grant the company the right to use their voices to train artificial intelligence models.",
+      "source_url": "https://www.hollywoodreporter.com/business/business-news/studio-minor-performers-surrender-voices-ai-1236630694/"
     }
   ]
 }
