@@ -1,91 +1,91 @@
 {
   "meta": {
-    "date": "Friday, June 26, 2026",
-    "scene_summary": "We are busy building the future with microscopic chips and magic batteries while the rest of the industry tries to duct-tape the past to the EU's penalty box.",
-    "ratio_statement": "6:4"
+    "date": "Saturday, June 27, 2026",
+    "scene_summary": "We're busy building the future of AI, while the government and the power grid are still trying to figure out how to keep the lights on.",
+    "ratio_statement": "7:3"
   },
   "cooking": [
     {
       "id": 1,
       "domain": "openai.com",
-      "headline": "OpenAI is staggering GPT-5.6 because the government wants to avoid a collective panic attack",
-      "summary": "The government is treating AI releases like a regulated medicine rather than a software update. It turns out that when your model is smart enough to be dangerous, 'move fast and break things' is no longer a viable company motto.",
-      "plain_english": "The United States government has requested that OpenAI release its new artificial intelligence model in stages to ensure safety and security.",
-      "source_url": "https://velo.xyz/news/1908"
+      "headline": "The US government is now the gatekeeper for your AI API keys",
+      "summary": "OpenAI is letting the government decide who gets to use their latest model, effectively turning federal bureaucracy into a literal project manager. It's comforting to know that before you can run an inference, you might need to wait for a security clearance that takes longer than a sprint cycle.",
+      "plain_english": "The United States government will now vet and approve which users and organizations are permitted to access OpenAI's most advanced artificial intelligence model.",
+      "source_url": "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/"
     },
     {
       "id": 2,
-      "domain": "ibm.com",
-      "headline": "IBM just made a chip so small you'll need a microscope to find your bugs",
-      "summary": "IBM managed to shrink transistors below one nanometer, effectively turning silicon into a literal subatomic group project. We're getting closer to the day where your CPU has more in common with a quantum physics experiment than a calculator.",
-      "plain_english": "IBM has developed a new manufacturing process for computer chips that allows transistors to be smaller than one nanometer in size.",
-      "source_url": "https://newsroom.ibm.com/2026-06-25-ibm-debuts-worlds-first-sub-1-nanometer-chip-technology"
+      "domain": "anthropic.com",
+      "headline": "Anthropic gets a hall pass to release Mythos to the 'cool kids' club",
+      "summary": "Anthropic is rolling out Mythos exclusively to trusted organizations, which sounds exactly like that one teacher who only let the popular kids use the good markers. I guess we'll just be here waiting for the public release while the 'trusted' entities start their exclusive speedrun of the future.",
+      "plain_english": "Anthropic has received government authorization to release its Mythos artificial intelligence model to a selected group of verified organizations within the United States.",
+      "source_url": "https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies"
     },
     {
       "id": 3,
-      "domain": "micron.com",
-      "headline": "Micron locked in high prices for five years, so say goodbye to your hardware budget",
-      "summary": "Micron just signed a five-year contract to keep memory prices at historic highs, effectively turning RAM into a luxury subscription service. It turns out the only thing more volatile than the stock market is the cost of upgrading your workstation.",
-      "plain_english": "Micron has secured long-term agreements that will keep memory chip prices at high levels for the next five years.",
-      "source_url": "https://www.theregister.com/systems/2026/06/25/micron-locks-in-historically-high-memory-prices-for-five-years/5261854"
+      "domain": "spacex.com",
+      "headline": "Elon is bringing Starlink to your phone, because the dead zones in your apartment weren't annoying enough.",
+      "summary": "SpaceX is launching a mobile service that promises to keep you connected even when you're literally off the map. It is the perfect solution for anyone who thinks their boss needs an easier way to reach them during a hiking trip.",
+      "plain_english": "SpaceX is expanding its satellite internet network to provide direct mobile phone connectivity across the United States.",
+      "source_url": "https://arstechnica.com/space/2026/06/spacex-plans-to-launch-starlink-mobile-service-in-the-us/"
     },
     {
       "id": 4,
-      "domain": "amd.com",
-      "headline": "AMD is finally letting Linux have the HDMI 2.1 keys",
-      "summary": "After years of fighting over proprietary specs, AMD is finally opening up the HDMI 2.1 stack for Linux users. It's nice to see hardware manufacturers realize that if you want people to actually use your stuff, you should probably let the drivers work.",
-      "plain_english": "AMD is releasing the open-source code required to fully support high-speed HDMI 2.1 display connections on Linux operating systems.",
-      "source_url": "https://www.techpowerup.com/348723/amd-readies-full-open-source-hdmi-2-1-support-for-linux"
+      "domain": "doubleword.ai",
+      "headline": "The open-source AI gap is closing faster than my browser tabs",
+      "summary": "Open weights models are finally nipping at the heels of the proprietary giants, proving that if you give the internet enough compute, they will eventually replicate your secret sauce. It turns out the 'moat' around your frontier model is more like a sandcastle at high tide.",
+      "plain_english": "Open-source artificial intelligence models are becoming increasingly competitive with the most advanced private models.",
+      "source_url": "https://blog.doubleword.ai/frontier-os-llm"
     },
     {
       "id": 5,
-      "domain": "akrites.org",
-      "headline": "The entire internet is held together by duct tape and good intentions",
-      "summary": "We all rely on open source code maintained by people who are probably just one bad day away from deleting their entire GitHub repository. It turns out the digital equivalent of a group project is mostly just everyone hoping someone else remembers to pay the server bill.",
-      "plain_english": "A group of organizations has formed to provide better support and security for open source software projects.",
-      "source_url": "https://akrites.org/letter/"
+      "domain": "openai.com",
+      "headline": "AI companies are spending millions on lobbying like they're trying to buy a DLC for democracy",
+      "summary": "The AI industry is dumping massive amounts of cash into US elections to ensure their regulation stays light. It's the ultimate group project where the richest member just pays the teacher to grade the whole thing as an A.",
+      "plain_english": "Major artificial intelligence companies are contributing significant financial resources to influence the outcome of United States elections.",
+      "source_url": "https://www.bloodinthemachine.com/p/the-ai-industry-is-pouring-hundreds"
     },
     {
       "id": 6,
-      "domain": "newatlas.com",
-      "headline": "Scientists just found the 'undo' button for dead batteries",
-      "summary": "Researchers discovered an electrochemical bath that restores lithium batteries to 95% capacity, effectively giving your phone a second life. It's great news for the planet, though terrible news for the manufacturers who were really hoping you'd buy a new device every two years.",
-      "plain_english": "A new method using an electrochemical bath has been developed to restore the capacity of degraded lithium-ion batteries.",
-      "source_url": "https://newatlas.com/energy/electrode-restoring-bath-lithium-batteries/"
+      "domain": "anthropic.com",
+      "headline": "Asian startups are speedrunning Anthropic's homework while the export ban is in effect",
+      "summary": "As export restrictions block access to top-tier models, Asian startups are just launching their own versions of the tech. It's the classic school move of copying the answers from the kid who isn't allowed to share their notes.",
+      "plain_english": "Startups in Asia are developing and releasing their own versions of advanced artificial intelligence models due to ongoing restrictions on exporting American technology.",
+      "source_url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/"
+    },
+    {
+      "id": 7,
+      "domain": "agent-kits.com",
+      "headline": "Sixty AI agents in a trench coat, now with guardrails",
+      "summary": "AgentKits is offering sixty pre-built AI agents, which is perfect for anyone who wants to automate their entire workflow into a state of total chaos. It's like assigning a massive group project where the guardrails are the only thing stopping the students from burning the classroom down.",
+      "plain_english": "A new collection of sixty pre-configured artificial intelligence agents with built-in safety features has been released for developers.",
+      "source_url": "https://www.agent-kits.com"
     }
   ],
   "cooked": [
     {
-      "id": 7,
-      "domain": "microsoft.com",
-      "headline": "The EU is officially putting Amazon and Microsoft in the digital penalty box",
-      "summary": "Europe has decided that being a massive cloud provider now comes with the same level of oversight as a public utility. It is essentially the corporate equivalent of being told you have to invite everyone in the class to your birthday party.",
-      "plain_english": "The European Commission is designating Amazon and Microsoft as 'gatekeepers,' which subjects them to stricter regulations regarding fair competition in the cloud computing market.",
-      "source_url": "https://www.theregister.com/legal/2026/06/25/european-commission-lines-up-amazon-and-microsoft-for-cloud-gatekeeper-status/5262127"
-    },
-    {
       "id": 8,
-      "domain": "apple.com",
-      "headline": "Apple is speedrunning the M-series to chase the AI hype train",
-      "summary": "Apple is skipping the M6 generation entirely to push out M7 chips, proving that product roadmaps are just suggestions when there's an AI buzzword on the line. It's like throwing away your perfectly good textbook because the new edition has a different color cover.",
-      "plain_english": "Apple is reportedly canceling the M6 series of computer processors to release a new M7 line specifically designed for artificial intelligence tasks.",
-      "source_url": "https://www.bloomberg.com/news/articles/2026-06-25/apple-to-skip-high-end-m6-mac-chips-to-launch-m7-pro-m7-max-m7-ultra-instead?embedded-checkout=true"
+      "domain": "playstation.com",
+      "headline": "PlayStation reminds us that 'owning' digital content is just a really long-term rental agreement.",
+      "summary": "Sony is deleting hundreds of purchased movies from user accounts, proving that your digital library is just a subscription you forgot to cancel. It turns out the 'buy' button is really just a 'lease until we decide otherwise' button.",
+      "plain_english": "PlayStation is removing access to hundreds of purchased movies from customer accounts due to licensing agreements with a content provider.",
+      "source_url": "https://kotaku.com/playstation-store-movies-digital-studio-canal-terminator-2000711013"
     },
     {
       "id": 9,
-      "domain": "microsoft.com",
-      "headline": "Windows 10 gets an extra year of life because nobody wants to upgrade",
-      "summary": "Microsoft is begrudgingly extending Windows 10 support for another year, likely because the world is collectively refusing to move to Windows 11. It's the digital equivalent of a landlord letting you stay an extra year because they know you'll just move into a worse apartment.",
-      "plain_english": "Microsoft has extended the official support period for the Windows 10 operating system by one additional year.",
-      "source_url": "https://www.neowin.net/news/windows-10-quietly-gets-one-more-year-of-support-and-updates/"
+      "domain": "newsweek.com",
+      "headline": "Local politicians are realizing that data centers are the new NIMBY boss fight",
+      "summary": "Data centers are guzzling so much power that residents are starting to treat them like the villain in a small-town drama. It is hard to explain to a voter why their lights are flickering just so a cluster of GPUs can finish a training run.",
+      "plain_english": "Communities are increasingly opposing the construction of new data centers because of their high electricity consumption and impact on local power grids.",
+      "source_url": "https://www.newsweek.com/cost-me-the-election-data-centers-trigger-voter-backlash-12118327"
     },
     {
       "id": 10,
-      "domain": "hasbro.com",
-      "headline": "Hasbro wants to turn child actors into infinite AI content farms",
-      "summary": "Hasbro is asking child voice actors to sign away their vocal rights so AI can keep the performance going long after the kid grows up. It turns out the only thing worse than a group project partner who does no work is one that tries to replace you with a prompt.",
-      "plain_english": "Hasbro is including clauses in contracts for child actors that grant the company the right to use their voices to train artificial intelligence models.",
-      "source_url": "https://www.hollywoodreporter.com/business/business-news/studio-minor-performers-surrender-voices-ai-1236630694/"
+      "domain": "grack.com",
+      "headline": "When the elite nation-state hackers trip over their own shoelaces",
+      "summary": "A sophisticated nation-state attack failed because even professional bad actors are apparently prone to the same amateur logic errors as a junior dev. It turns out that having infinite resources doesn't help when your code is just as fragile as a group project submitted five minutes before the deadline.",
+      "plain_english": "A detailed technical breakdown explains how a high-level cyberattack failed due to basic mistakes made by the perpetrators.",
+      "source_url": "https://grack.com/blog/2026/06/25/dissecting-a-failed-nation-state-attack/"
     }
   ]
 }
