@@ -1,91 +1,91 @@
 {
   "meta": {
-    "date": "Sunday, June 28, 2026",
-    "scene_summary": "We are building the future with open-source manuals and home-made Ferraris, all while the bouncer locks the doors behind us.",
-    "ratio_statement": "6:4"
+    "date": "Monday, June 29, 2026",
+    "scene_summary": "We're busy building the future, but we keep forgetting to lock the front door.",
+    "ratio_statement": "5:5"
   },
   "cooking": [
     {
       "id": 1,
-      "domain": "google.com",
-      "headline": "Google is officially putting Meta in AI timeout",
-      "summary": "Google is restricting Meta's access to its Gemini models, likely because they don't want to help their biggest rival build a better product. It's the corporate equivalent of refusing to share your notes with the person who copied your entire homework assignment.",
-      "plain_english": "Google has restricted Meta's ability to use its Gemini artificial intelligence models for certain purposes.",
-      "source_url": "https://www.cnbc.com/2026/06/28/google-limits-metas-use-of-its-gemini-ai-models-ft-reports.html"
+      "domain": "rocketlabusa.com",
+      "headline": "Rocket Lab is buying Iridium to build the ultimate space-based group project",
+      "summary": "Rocket Lab just decided that launching rockets is too lonely and bought a whole satellite constellation to keep them company. It's the orbital equivalent of buying a house just to make sure your neighbors can't complain about your late-night coding sessions.",
+      "plain_english": "Rocket Lab has acquired the satellite communications company Iridium to integrate satellite hardware with its own rocket launch services.",
+      "source_url": "https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-acquire-iridium-historic-deal-creating-fully"
     },
     {
       "id": 2,
-      "domain": "asml.com",
-      "headline": "China is trying to build its own ASML, which is like trying to build a Ferrari in your garage with a YouTube tutorial.",
-      "summary": "China is attempting to replicate the world's most complex lithography machines to bypass global export restrictions. It is essentially a high-stakes group project where the group is trying to reinvent the printing press while the teacher hides the ink.",
-      "plain_english": "China is attempting to develop its own advanced semiconductor manufacturing equipment to reduce dependence on foreign technology.",
-      "source_url": "https://nikkei.shorthandstories.com/can-china-build-its-own-asml/"
+      "domain": "bis.org",
+      "headline": "Central bankers are worried the AI bubble is about to pop",
+      "summary": "Central bankers are warning that the massive bet on AI could trigger a global financial crash if the hype doesn't translate to actual profits. It's like watching everyone go all-in on a startup idea during a hackathon without checking if the code actually compiles.",
+      "plain_english": "International financial regulators have issued a warning that excessive investment and speculation in artificial intelligence could cause significant instability in the global economy.",
+      "source_url": "https://www.telegraph.co.uk/business/2026/06/28/ai-boom-risks-global-financial-crash-central-bankers-warn/"
     },
     {
       "id": 3,
-      "domain": "modular.com",
-      "headline": "Mojo is finally coming out of its shell to play with the open source crowd",
-      "summary": "Modular is finally open-sourcing Mojo, which is great news for anyone who wanted Python performance without the C++ headache. It's like watching a private beta finally realize that the only way to get people to use your language is to let them break it themselves.",
-      "plain_english": "The Mojo programming language, designed for high-performance AI development, will soon be released as open-source software.",
-      "source_url": "https://console.modular.com/signup"
+      "domain": "isc-hpc.com",
+      "headline": "The supercomputer leaderboard just reset, and the winner is... bigger.",
+      "summary": "The TOP500 list has a new king, proving that the only way to win in high-performance computing is to keep throwing more hardware at the problem. It's essentially a global arms race where the prize is just the right to be the fastest calculator in the room for six months.",
+      "plain_english": "A new supercomputer has been ranked as the fastest in the world at the International Supercomputing Conference.",
+      "source_url": "https://chipsandcheese.com/p/top500-at-isc26-we-have-a-new-number"
     },
     {
       "id": 4,
-      "domain": "apple.com",
-      "headline": "Apple just dropped the manual for their silicon brain, and it's surprisingly legible.",
-      "summary": "Apple released a deep dive into the Neural Engine, finally letting us peek under the hood of their proprietary AI hardware. It turns out the secret to their performance is just really fancy math that makes your phone feel like a genius.",
-      "plain_english": "Apple has published technical documentation detailing the design and operation of its Neural Engine, which handles machine learning tasks on its devices.",
-      "source_url": "https://arxiv.org/abs/2606.22283"
+      "domain": "meta.com",
+      "headline": "Meta is using your Instagram photos to train its glasses, because you're the unpaid intern now",
+      "summary": "Meta decided that your vacation photos are essentially free training data for their new smart glasses. It's like a group project where your friend uses your work for their presentation and forgets to even put your name on the slide.",
+      "plain_english": "Meta is incorporating user-uploaded photos from Instagram into promotional materials and training data for their smart glasses product.",
+      "source_url": "https://twitter.com/i/status/2071277885646868536"
     },
     {
       "id": 5,
-      "domain": "entsoe.eu",
-      "headline": "The EU just open-sourced the grid's ten-year plan",
-      "summary": "The European Union released their infrastructure planning tools to the public, essentially letting anyone audit the grid's future. It's a bold move to open source critical utility software, assuming the code isn't just a giant spreadsheet labeled 'final_v3_really_final'.",
-      "plain_english": "The European Union has published the software tools they use to plan and manage the development of the electrical power grid over the next decade.",
-      "source_url": "https://github.com/open-energy-transition/open-tyndp"
-    },
-    {
-      "id": 6,
-      "domain": "postgresql.org",
-      "headline": "WAL-RUS is the new mascot for your PostgreSQL backups",
-      "summary": "Engineers are rewriting the WAL-G backup tool in Rust because apparently, we can't let a single piece of infrastructure exist without a memory-safe makeover. It's the classic developer urge to rewrite a perfectly functional tool just to see if it can survive a few million more transactions without panicking.",
-      "plain_english": "A new version of the WAL-G backup tool for PostgreSQL has been created using the Rust programming language to improve performance and safety.",
-      "source_url": "https://clickhouse.com/blog/walrus-postgres-backups-in-rust"
+      "domain": "zhipuai.cn",
+      "headline": "Being the world's best AI model has the shelf life of a carton of milk",
+      "summary": "GLM 5.2 is currently topping the leaderboards, which is a great achievement that will surely last until the next model drops on Tuesday. It is nice to see the AI arms race is officially at the stage where 'the best' is just a temporary title you hold until the next update finishes compiling.",
+      "plain_english": "A new artificial intelligence model called GLM 5.2 has outperformed existing models in recent technical benchmark tests.",
+      "source_url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/"
     }
   ],
   "cooked": [
     {
+      "id": 6,
+      "domain": "unknown",
+      "headline": "One million passports leaked because security is just a suggestion",
+      "summary": "A million passports just hit the internet, which is a fantastic way to ensure everyone's identity is now effectively public domain. It's the digital equivalent of leaving your house keys in the front door lock and hoping nobody notices you're on vacation.",
+      "plain_english": "A database containing the personal information of one million people from their passport documents has been exposed online due to a security vulnerability.",
+      "source_url": "https://www.schneier.com/blog/archives/2026/06/one-million-passports-leaked-online.html"
+    },
+    {
       "id": 7,
-      "domain": "alibabagroup.com",
-      "headline": "Alibaba allegedly speedran a 25,000-account scraping spree on Claude",
-      "summary": "Anthropic claims Alibaba bypassed restrictions to harvest their model's capabilities using a massive bot farm. It turns out the easiest way to train your own AI is to just treat your competitor's API like a public buffet.",
-      "plain_english": "Anthropic has accused Alibaba of using thousands of unauthorized accounts to copy and steal data from its Claude artificial intelligence model.",
-      "source_url": "https://arstechnica.com/tech-policy/2026/06/anthropic-claims-alibaba-defied-trump-to-attack-claude-and-steal-capabilities/"
+      "domain": "samsung.com",
+      "headline": "The memory giants are being sued for exactly the price fixing you suspected",
+      "summary": "Samsung, SK Hynix, and Micron are facing a lawsuit for allegedly coordinating memory prices to keep them artificially high. It's the corporate equivalent of three classmates agreeing to charge the same price for their homework, only to get caught by the teacher.",
+      "plain_english": "Samsung, SK Hynix, and Micron have been sued in the United States for allegedly colluding to manipulate the prices of memory chips.",
+      "source_url": "https://en.sedaily.com/international/2026/06/29/samsung-sk-hynix-micron-sued-in-us-over-memory-price-fixing"
     },
     {
       "id": 8,
-      "domain": "tuta.com",
-      "headline": "The EU is trying to bring back ChatControl, because privacy is apparently just a suggestion.",
-      "summary": "Lawmakers are pushing to scan encrypted messages for illegal content, effectively turning private chats into a public broadcast. It is the digital equivalent of demanding the post office read your physical mail to make sure you aren't being naughty.",
-      "plain_english": "The European Union is considering legislation that would require messaging services to scan user communications for illegal material.",
-      "source_url": "https://mastodon.social/@Tutanota/116815262001889776"
+      "domain": "ford.com",
+      "headline": "Ford realizes 'AI' doesn't know how to fix a transmission",
+      "summary": "Ford is rehiring veteran engineers after realizing that AI models are great at hallucinating code but terrible at actually building cars. Turns out, there is no substitute for the kind of domain knowledge that only comes from twenty years of debugging real-world problems.",
+      "plain_english": "Ford is bringing back retired engineers to help solve technical issues that artificial intelligence tools were unable to resolve.",
+      "source_url": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/"
     },
     {
       "id": 9,
-      "domain": "eff.org",
-      "headline": "The internet is getting a bouncer who checks IDs at the door",
-      "summary": "Legislators want to mandate age verification for every website, effectively turning the entire internet into a restricted club. It's a bold plan that assumes we can solve online privacy while simultaneously demanding every site know exactly who you are.",
-      "plain_english": "New legislation proposes requiring websites to verify the age of their users before allowing them access to online services.",
-      "source_url": "https://www.eff.org/deeplinks/2026/06/kids-act-would-require-age-checks-get-online"
+      "domain": "europa.eu",
+      "headline": "EU wants to scan your private messages, because privacy is just a legacy bug",
+      "summary": "The EU is trying to revive a regime that scans private messages, effectively treating every user's inbox like a public repo that needs a security audit. It's a bold strategy to secure the internet by ensuring nobody has a private conversation left to protect.",
+      "plain_english": "European authorities are attempting to reintroduce legislation that would allow for the scanning of private digital communications to detect illegal content.",
+      "source_url": "https://www.euronews.com/my-europe/2026/06/26/eu-countries-move-to-revive-temporary-message-scanning-regime-but-it-could-backfire"
     },
     {
       "id": 10,
-      "domain": "codeberg.org",
-      "headline": "Codeberg is currently offline, making it the most authentic developer experience today.",
-      "summary": "Codeberg is down, which is a great reminder that even the open-source heroes aren't immune to the classic server gremlins. If you were planning to actually push code today, consider this a forced mental health break.",
-      "plain_english": "The code hosting platform Codeberg is currently experiencing a service outage.",
-      "source_url": "https://social.anoxinon.de/@codebergstatus/116824443563698727"
+      "domain": "playstation.com",
+      "headline": "Buying movies on PlayStation is just renting them with extra steps",
+      "summary": "Sony is removing Studio Canal movies from user libraries without offering refunds, proving that 'purchasing' digital media is just a long-term loan with a surprise expiration date. It turns out the only real owner of your movie collection is the company that can delete it from your console whenever they feel like it.",
+      "plain_english": "PlayStation users who bought specific movies will lose access to them and will not be reimbursed for the cost.",
+      "source_url": "https://www.playstation.com/en-gb/legal/psvideocontent/"
     }
   ]
 }
