@@ -1,91 +1,91 @@
 {
   "meta": {
-    "date": "Monday, June 29, 2026",
-    "scene_summary": "We're busy building the future, but we keep forgetting to lock the front door.",
-    "ratio_statement": "5:5"
+    "date": "Tuesday, June 30, 2026",
+    "scene_summary": "We are building a future where robots do the coding, the agents have the memory, and the lawyers have all the work.",
+    "ratio_statement": "7:3"
   },
   "cooking": [
     {
       "id": 1,
-      "domain": "rocketlabusa.com",
-      "headline": "Rocket Lab is buying Iridium to build the ultimate space-based group project",
-      "summary": "Rocket Lab just decided that launching rockets is too lonely and bought a whole satellite constellation to keep them company. It's the orbital equivalent of buying a house just to make sure your neighbors can't complain about your late-night coding sessions.",
-      "plain_english": "Rocket Lab has acquired the satellite communications company Iridium to integrate satellite hardware with its own rocket launch services.",
-      "source_url": "https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-acquire-iridium-historic-deal-creating-fully"
+      "domain": "supremecourt.gov",
+      "headline": "The Supreme Court just pushed a hotfix for geofence warrants",
+      "summary": "The court decided that police can no longer treat your location history like a public API endpoint without a warrant. It is the legal equivalent of finally implementing proper authentication after a massive data leak.",
+      "plain_english": "The US Supreme Court ruled that law enforcement must obtain a warrant to access broad location data collected from mobile devices.",
+      "source_url": "https://www.theguardian.com/us-news/2026/jun/29/supreme-court-geofence-warrants-case-decision"
     },
     {
       "id": 2,
-      "domain": "bis.org",
-      "headline": "Central bankers are worried the AI bubble is about to pop",
-      "summary": "Central bankers are warning that the massive bet on AI could trigger a global financial crash if the hype doesn't translate to actual profits. It's like watching everyone go all-in on a startup idea during a hackathon without checking if the code actually compiles.",
-      "plain_english": "International financial regulators have issued a warning that excessive investment and speculation in artificial intelligence could cause significant instability in the global economy.",
-      "source_url": "https://www.telegraph.co.uk/business/2026/06/28/ai-boom-risks-global-financial-crash-central-bankers-warn/"
+      "domain": "korea.go.kr",
+      "headline": "South Korea is betting $1T that our future coworkers will be robots who don't ask for coffee breaks.",
+      "summary": "South Korea is dumping a trillion dollars into memory chips and humanoid robots to secure their place in the AI race. It's a bold move, though I'm sure the robots will eventually just ask for a 40-hour work week and remote-first policies.",
+      "plain_english": "The South Korean government plans to invest one trillion dollars into the development of advanced memory chips and humanoid robotics technology.",
+      "source_url": "https://arstechnica.com/ai/2026/06/south-korea-to-spend-1t-on-more-memory-chip-production-and-humanoid-robots/"
     },
     {
       "id": 3,
-      "domain": "isc-hpc.com",
-      "headline": "The supercomputer leaderboard just reset, and the winner is... bigger.",
-      "summary": "The TOP500 list has a new king, proving that the only way to win in high-performance computing is to keep throwing more hardware at the problem. It's essentially a global arms race where the prize is just the right to be the fastest calculator in the room for six months.",
-      "plain_english": "A new supercomputer has been ranked as the fastest in the world at the International Supercomputing Conference.",
-      "source_url": "https://chipsandcheese.com/p/top500-at-isc26-we-have-a-new-number"
+      "domain": "github.io",
+      "headline": "Zluda 6 just made your non-Nvidia GPU feel a lot less like a glorified paperweight.",
+      "summary": "Zluda lets you run CUDA apps on non-Nvidia hardware, which is basically the tech equivalent of running a Mac app on Windows without the headache. It's great news for anyone who got tired of paying the 'Nvidia tax' just to run a local model.",
+      "plain_english": "A new software release allows applications designed for Nvidia hardware to run on other graphics processing units.",
+      "source_url": "https://vosen.github.io/ZLUDA/blog/zluda-update-q1q2-2026/"
     },
     {
       "id": 4,
-      "domain": "meta.com",
-      "headline": "Meta is using your Instagram photos to train its glasses, because you're the unpaid intern now",
-      "summary": "Meta decided that your vacation photos are essentially free training data for their new smart glasses. It's like a group project where your friend uses your work for their presentation and forgets to even put your name on the slide.",
-      "plain_english": "Meta is incorporating user-uploaded photos from Instagram into promotional materials and training data for their smart glasses product.",
-      "source_url": "https://twitter.com/i/status/2071277885646868536"
+      "domain": "microsoft.com",
+      "headline": "Microsoft wants you to run your dev environment in a box, inside a box",
+      "summary": "Microsoft is letting you run WSL containers directly, because apparently, we haven't reached our daily quota of virtualization layers. It's perfect for when you want to debug your production environment by nesting it three levels deep inside your own OS.",
+      "plain_english": "Microsoft has released a preview feature that allows developers to run Linux-based container environments directly within the Windows Subsystem for Linux.",
+      "source_url": "https://devblogs.microsoft.com/commandline/wsl-container-is-now-available-for-public-preview/"
     },
     {
       "id": 5,
-      "domain": "zhipuai.cn",
-      "headline": "Being the world's best AI model has the shelf life of a carton of milk",
-      "summary": "GLM 5.2 is currently topping the leaderboards, which is a great achievement that will surely last until the next model drops on Tuesday. It is nice to see the AI arms race is officially at the stage where 'the best' is just a temporary title you hold until the next update finishes compiling.",
-      "plain_english": "A new artificial intelligence model called GLM 5.2 has outperformed existing models in recent technical benchmark tests.",
-      "source_url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/"
+      "domain": "longcat.chat",
+      "headline": "LongCat-2.0 is the latest model to treat VRAM like a suggestion",
+      "summary": "This new model boasts 1.6 trillion parameters, proving that if you can't optimize your code, you can just throw more hardware at the problem. It's the AI equivalent of a group project where one person does all the heavy lifting while the other 1.5 trillion parameters just watch.",
+      "plain_english": "LongCat-2.0 is a large artificial intelligence model that uses a massive number of parameters to improve its processing efficiency.",
+      "source_url": "https://longcat.chat/blog/longcat-2.0/"
+    },
+    {
+      "id": 6,
+      "domain": "deepreinforce.ai",
+      "headline": "Ornith-1.0 is teaching AI to code by failing at it until it gets better",
+      "summary": "This model uses self-improvement loops to debug itself, effectively automating the 'trial and error' phase of a junior dev. It is basically a group project where the only member is an AI that keeps rewriting its own code while you watch.",
+      "plain_english": "Ornith-1.0 is an open-source artificial intelligence model designed to write and improve its own computer code through repetitive practice.",
+      "source_url": "https://github.com/deepreinforce-ai/Ornith-1"
+    },
+    {
+      "id": 7,
+      "domain": "github.com",
+      "headline": "One memory to rule all your AI agents",
+      "summary": "The Open Memory Protocol tries to give your various AI tools a shared brain so they stop asking you the same questions over and over. It is the digital equivalent of finally centralizing your notes so you don't have to explain your project requirements to every new contractor you hire.",
+      "plain_english": "The Open Memory Protocol is a standard that allows different artificial intelligence services to access and share the same saved user information.",
+      "source_url": "https://github.com/SMJAI/open-memory-protocol"
     }
   ],
   "cooked": [
     {
-      "id": 6,
-      "domain": "unknown",
-      "headline": "One million passports leaked because security is just a suggestion",
-      "summary": "A million passports just hit the internet, which is a fantastic way to ensure everyone's identity is now effectively public domain. It's the digital equivalent of leaving your house keys in the front door lock and hoping nobody notices you're on vacation.",
-      "plain_english": "A database containing the personal information of one million people from their passport documents has been exposed online due to a security vulnerability.",
-      "source_url": "https://www.schneier.com/blog/archives/2026/06/one-million-passports-leaked-online.html"
-    },
-    {
-      "id": 7,
-      "domain": "samsung.com",
-      "headline": "The memory giants are being sued for exactly the price fixing you suspected",
-      "summary": "Samsung, SK Hynix, and Micron are facing a lawsuit for allegedly coordinating memory prices to keep them artificially high. It's the corporate equivalent of three classmates agreeing to charge the same price for their homework, only to get caught by the teacher.",
-      "plain_english": "Samsung, SK Hynix, and Micron have been sued in the United States for allegedly colluding to manipulate the prices of memory chips.",
-      "source_url": "https://en.sedaily.com/international/2026/06/29/samsung-sk-hynix-micron-sued-in-us-over-memory-price-fixing"
-    },
-    {
       "id": 8,
-      "domain": "ford.com",
-      "headline": "Ford realizes 'AI' doesn't know how to fix a transmission",
-      "summary": "Ford is rehiring veteran engineers after realizing that AI models are great at hallucinating code but terrible at actually building cars. Turns out, there is no substitute for the kind of domain knowledge that only comes from twenty years of debugging real-world problems.",
-      "plain_english": "Ford is bringing back retired engineers to help solve technical issues that artificial intelligence tools were unable to resolve.",
-      "source_url": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/"
+      "domain": "europa.eu",
+      "headline": "EU-US data transfers just hit a 404 error that no amount of refactoring can fix",
+      "summary": "The Supreme Court essentially deleted the handshake protocol between continents, leaving international data flows in a massive deadlock. It is like finding out your entire production environment was hosted on a server that just got repossessed by the landlord.",
+      "plain_english": "The US Supreme Court has issued a ruling that invalidates the current legal framework for transferring personal data between the European Union and the United States.",
+      "source_url": "https://noyb.eu/en/us-supreme-court-just-blew-eu-us-data-transfers"
     },
     {
       "id": 9,
-      "domain": "europa.eu",
-      "headline": "EU wants to scan your private messages, because privacy is just a legacy bug",
-      "summary": "The EU is trying to revive a regime that scans private messages, effectively treating every user's inbox like a public repo that needs a security audit. It's a bold strategy to secure the internet by ensuring nobody has a private conversation left to protect.",
-      "plain_english": "European authorities are attempting to reintroduce legislation that would allow for the scanning of private digital communications to detect illegal content.",
-      "source_url": "https://www.euronews.com/my-europe/2026/06/26/eu-countries-move-to-revive-temporary-message-scanning-regime-but-it-could-backfire"
+      "domain": "bandcamp.com",
+      "headline": "Bandcamp is speedrunning the 'we don't need engineers' business model",
+      "summary": "Bandcamp just laid off most of their engineering team, which is a bold strategy for a platform whose entire product is a website. It's like firing the mechanic and then wondering why the car only drives in reverse.",
+      "plain_english": "Bandcamp has significantly reduced its engineering staff as part of a recent round of layoffs.",
+      "source_url": "https://bsky.app/profile/grmnygrmny.bandcamp.com/post/3mpgvo7l2v22t"
     },
     {
       "id": 10,
-      "domain": "playstation.com",
-      "headline": "Buying movies on PlayStation is just renting them with extra steps",
-      "summary": "Sony is removing Studio Canal movies from user libraries without offering refunds, proving that 'purchasing' digital media is just a long-term loan with a surprise expiration date. It turns out the only real owner of your movie collection is the company that can delete it from your console whenever they feel like it.",
-      "plain_english": "PlayStation users who bought specific movies will lose access to them and will not be reimbursed for the cost.",
-      "source_url": "https://www.playstation.com/en-gb/legal/psvideocontent/"
+      "domain": "google.com",
+      "headline": "Google wants your hand gestures just to prove you aren't a robot",
+      "summary": "Google is asking for high-fidelity camera access to track 21 points on your hand just to sign into a website. It turns out the easiest way to prove you're human is to give up enough biometric data to identify you in a police lineup.",
+      "plain_english": "Google has introduced a new version of its bot-detection tool that tracks hand movements through a user's camera to verify their identity.",
+      "source_url": "https://reclaimthenet.org/googles-new-recaptcha-wants-your-camera-access-and-21-points-of-your-hand"
     }
   ]
 }
