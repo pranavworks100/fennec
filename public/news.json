@@ -1,91 +1,91 @@
 {
   "meta": {
-    "date": "Tuesday, June 30, 2026",
-    "scene_summary": "We are building a future where robots do the coding, the agents have the memory, and the lawyers have all the work.",
-    "ratio_statement": "7:3"
+    "date": "Wednesday, July 01, 2026",
+    "scene_summary": "We're busy building the future of software while the industry works overtime to make sure we don't own any of it.",
+    "ratio_statement": "4:6"
   },
   "cooking": [
     {
       "id": 1,
       "domain": "supremecourt.gov",
-      "headline": "The Supreme Court just pushed a hotfix for geofence warrants",
-      "summary": "The court decided that police can no longer treat your location history like a public API endpoint without a warrant. It is the legal equivalent of finally implementing proper authentication after a massive data leak.",
-      "plain_english": "The US Supreme Court ruled that law enforcement must obtain a warrant to access broad location data collected from mobile devices.",
-      "source_url": "https://www.theguardian.com/us-news/2026/jun/29/supreme-court-geofence-warrants-case-decision"
+      "headline": "The Supreme Court just did a 'git reset --hard' on the entire federal regulatory system.",
+      "summary": "The court decided that federal agencies have been coloring outside the lines for too long, essentially deleting the guardrails that govern everything from tech to the environment. It is the ultimate 'it works on my machine' moment, except the machine is the entire government and the code is now missing.",
+      "plain_english": "The U.S.",
+      "source_url": "https://www.npr.org/2026/06/29/nx-s1-5875161/supreme-court-takes-sledgehammer-to-much-of-federal-governments-regulatory-structure"
     },
     {
       "id": 2,
-      "domain": "korea.go.kr",
-      "headline": "South Korea is betting $1T that our future coworkers will be robots who don't ask for coffee breaks.",
-      "summary": "South Korea is dumping a trillion dollars into memory chips and humanoid robots to secure their place in the AI race. It's a bold move, though I'm sure the robots will eventually just ask for a 40-hour work week and remote-first policies.",
-      "plain_english": "The South Korean government plans to invest one trillion dollars into the development of advanced memory chips and humanoid robotics technology.",
-      "source_url": "https://arstechnica.com/ai/2026/06/south-korea-to-spend-1t-on-more-memory-chip-production-and-humanoid-robots/"
+      "domain": "godotengine.org",
+      "headline": "Godot is banning AI code because nobody wants to debug a hallucination",
+      "summary": "Godot is officially rejecting AI-authored contributions because they don't trust users to fix code they didn't write. It's like a teacher demanding you show your work on a math test, except the 'work' is a black box that just guessed the answer.",
+      "plain_english": "The Godot game engine project has decided to stop accepting code contributions created by artificial intelligence tools.",
+      "source_url": "https://www.pcgamer.com/gaming-industry/open-source-game-engine-godot-will-no-longer-accept-ai-authored-code-contributions-we-cant-trust-heavy-users-of-ai-to-understand-their-code-enough-to-fix-it/"
     },
     {
       "id": 3,
-      "domain": "github.io",
-      "headline": "Zluda 6 just made your non-Nvidia GPU feel a lot less like a glorified paperweight.",
-      "summary": "Zluda lets you run CUDA apps on non-Nvidia hardware, which is basically the tech equivalent of running a Mac app on Windows without the headache. It's great news for anyone who got tired of paying the 'Nvidia tax' just to run a local model.",
-      "plain_english": "A new software release allows applications designed for Nvidia hardware to run on other graphics processing units.",
-      "source_url": "https://vosen.github.io/ZLUDA/blog/zluda-update-q1q2-2026/"
+      "domain": "ramp.com",
+      "headline": "AI is changing jobs, but mostly by making you the project manager of your own work",
+      "summary": "AI is shifting the employment landscape, which is just fancy speak for turning every worker into a glorified prompt engineer. It's like being assigned a group project where you are the only one who actually does the work while the AI just suggests edits.",
+      "plain_english": "Research shows that companies adopting generative AI are changing their hiring patterns and the nature of existing job roles.",
+      "source_url": "https://ramp.com/data/ai-jobs-impact"
     },
     {
       "id": 4,
-      "domain": "microsoft.com",
-      "headline": "Microsoft wants you to run your dev environment in a box, inside a box",
-      "summary": "Microsoft is letting you run WSL containers directly, because apparently, we haven't reached our daily quota of virtualization layers. It's perfect for when you want to debug your production environment by nesting it three levels deep inside your own OS.",
-      "plain_english": "Microsoft has released a preview feature that allows developers to run Linux-based container environments directly within the Windows Subsystem for Linux.",
-      "source_url": "https://devblogs.microsoft.com/commandline/wsl-container-is-now-available-for-public-preview/"
-    },
-    {
-      "id": 5,
-      "domain": "longcat.chat",
-      "headline": "LongCat-2.0 is the latest model to treat VRAM like a suggestion",
-      "summary": "This new model boasts 1.6 trillion parameters, proving that if you can't optimize your code, you can just throw more hardware at the problem. It's the AI equivalent of a group project where one person does all the heavy lifting while the other 1.5 trillion parameters just watch.",
-      "plain_english": "LongCat-2.0 is a large artificial intelligence model that uses a massive number of parameters to improve its processing efficiency.",
-      "source_url": "https://longcat.chat/blog/longcat-2.0/"
-    },
-    {
-      "id": 6,
-      "domain": "deepreinforce.ai",
-      "headline": "Ornith-1.0 is teaching AI to code by failing at it until it gets better",
-      "summary": "This model uses self-improvement loops to debug itself, effectively automating the 'trial and error' phase of a junior dev. It is basically a group project where the only member is an AI that keeps rewriting its own code while you watch.",
-      "plain_english": "Ornith-1.0 is an open-source artificial intelligence model designed to write and improve its own computer code through repetitive practice.",
-      "source_url": "https://github.com/deepreinforce-ai/Ornith-1"
-    },
-    {
-      "id": 7,
-      "domain": "github.com",
-      "headline": "One memory to rule all your AI agents",
-      "summary": "The Open Memory Protocol tries to give your various AI tools a shared brain so they stop asking you the same questions over and over. It is the digital equivalent of finally centralizing your notes so you don't have to explain your project requirements to every new contractor you hire.",
-      "plain_english": "The Open Memory Protocol is a standard that allows different artificial intelligence services to access and share the same saved user information.",
-      "source_url": "https://github.com/SMJAI/open-memory-protocol"
+      "domain": "google.com",
+      "headline": "Google wants to replace your messy spreadsheets with a foundation model",
+      "summary": "Google's new model handles tabular data without needing specific training for every single table format. It's the data science equivalent of finally finding a universal remote that actually works on every TV in the house.",
+      "plain_english": "Google has released a new artificial intelligence model designed to process and analyze structured data tables without requiring custom training for different datasets.",
+      "source_url": "https://research.google/blog/introducing-tabfm-a-zero-shot-foundation-model-for-tabular-data/"
     }
   ],
   "cooked": [
     {
+      "id": 5,
+      "domain": "google.com",
+      "headline": "Google just got a $1.5B bill for being the neighborhood bully.",
+      "summary": "Google tried to gatekeep the digital checkout line, but the Swedish courts decided it was time to collect on their anti-competitive behavior. It turns out that when you force everyone to play by your rules, the fine for breaking the game is roughly the size of a small country's GDP.",
+      "plain_english": "A Swedish court has ordered Google to pay $1.5 billion in damages to Klarna for violating antitrust laws.",
+      "source_url": "https://www.reuters.com/business/swedish-court-says-google-is-pay-15-billion-klarna-antitrust-damages-2026-07-01/"
+    },
+    {
+      "id": 6,
+      "domain": "anthropic.com",
+      "headline": "Anthropic's new coding assistant comes with a side of 'surveillance'",
+      "summary": "Anthropic embedded hidden code in their tool that acts like spyware, because nothing says 'trust me' like secret background processes. It's the digital equivalent of your landlord hiding a camera in the smoke detector just to see if you're actually cleaning.",
+      "plain_english": "Anthropic has included hidden, undocumented code in their Claude Code tool that functions similarly to monitoring software.",
+      "source_url": "https://twitter.com/IntCyberDigest/status/2071971609183678544"
+    },
+    {
+      "id": 7,
+      "domain": "playstation.com",
+      "headline": "Sony proves 'owning' digital content is just a really expensive long-term rental",
+      "summary": "Sony deleted 551 movies from user libraries, perfectly illustrating why digital ownership is just a pinky-promise that can be revoked at any time. It turns out your 'purchased' media is really just a subscription that expires whenever the licensing lawyers get bored.",
+      "plain_english": "Sony removed access to over 500 movies that customers had previously bought through their PlayStation digital storefront due to expired licensing agreements.",
+      "source_url": "https://reclaimthenet.org/sony-deletes-551-studiocanal-movies-playstation-owners-paid-for"
+    },
+    {
       "id": 8,
-      "domain": "europa.eu",
-      "headline": "EU-US data transfers just hit a 404 error that no amount of refactoring can fix",
-      "summary": "The Supreme Court essentially deleted the handshake protocol between continents, leaving international data flows in a massive deadlock. It is like finding out your entire production environment was hosted on a server that just got repossessed by the landlord.",
-      "plain_english": "The US Supreme Court has issued a ruling that invalidates the current legal framework for transferring personal data between the European Union and the United States.",
-      "source_url": "https://noyb.eu/en/us-supreme-court-just-blew-eu-us-data-transfers"
+      "domain": "playstation.com",
+      "headline": "Sony is officially sunsetting physical discs to make sure you never actually own your games again",
+      "summary": "By ending physical disc production in 2028, Sony is ensuring that your entire gaming library is held hostage by their servers forever. It is the ultimate vendor lock-in strategy, designed to make sure you can't even lend a game to a friend once the store eventually goes offline.",
+      "plain_english": "Sony has announced it will stop manufacturing physical game discs for its consoles starting in January 2028.",
+      "source_url": "https://blog.playstation.com/2026/07/01/physical-disc-production-ending-in-january-2028-for-new-games-releasing-on-playstation-consoles/"
     },
     {
       "id": 9,
-      "domain": "bandcamp.com",
-      "headline": "Bandcamp is speedrunning the 'we don't need engineers' business model",
-      "summary": "Bandcamp just laid off most of their engineering team, which is a bold strategy for a platform whose entire product is a website. It's like firing the mechanic and then wondering why the car only drives in reverse.",
-      "plain_english": "Bandcamp has significantly reduced its engineering staff as part of a recent round of layoffs.",
-      "source_url": "https://bsky.app/profile/grmnygrmny.bandcamp.com/post/3mpgvo7l2v22t"
+      "domain": "henrico.gov",
+      "headline": "County asks students to save power so 37 data centers can keep training models",
+      "summary": "Local officials are asking schools to cut electricity usage while hosting enough data centers to power a small country. It turns out your kid's math homework is now an energy-efficiency sacrifice to the cloud gods.",
+      "plain_english": "A county in Virginia with 37 data centers is asking schools to reduce their electricity consumption due to power grid strain.",
+      "source_url": "https://www.404media.co/henrico-virginia-datacenter-energy-cost-email/"
     },
     {
       "id": 10,
-      "domain": "google.com",
-      "headline": "Google wants your hand gestures just to prove you aren't a robot",
-      "summary": "Google is asking for high-fidelity camera access to track 21 points on your hand just to sign into a website. It turns out the easiest way to prove you're human is to give up enough biometric data to identify you in a police lineup.",
-      "plain_english": "Google has introduced a new version of its bot-detection tool that tracks hand movements through a user's camera to verify their identity.",
-      "source_url": "https://reclaimthenet.org/googles-new-recaptcha-wants-your-camera-access-and-21-points-of-your-hand"
+      "domain": "anthropic.com",
+      "headline": "Claude Code is leaving secret invisible notes on your homework",
+      "summary": "Anthropic is embedding hidden markers in your prompts to track how you use their code assistant. It's like a teacher writing 'I know you used ChatGPT' in invisible ink on your essay.",
+      "plain_english": "Anthropic is using hidden data inside requests to track the usage of their Claude Code tool.",
+      "source_url": "https://thereallo.dev/blog/claude-code-prompt-steganography"
     }
   ]
 }
