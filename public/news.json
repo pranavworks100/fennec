@@ -1,91 +1,91 @@
 {
   "meta": {
-    "date": "Thursday, July 02, 2026",
-    "scene_summary": "We are building the future with AI assistants that make us faster at shipping bugs while the regulators finally catch up to our speedrun.",
+    "date": "Friday, July 03, 2026",
+    "scene_summary": "We are busy building the future with AI assistants we don't trust, while the past keeps leaking our secrets.",
     "ratio_statement": "5:5"
   },
   "cooking": [
     {
       "id": 1,
-      "domain": "openai.com",
-      "headline": "OpenAI is speedrunning the 'too big to fail' corporate DLC",
-      "summary": "OpenAI is reportedly trying to give the US government a 5% stake to smooth over future regulatory headaches. It turns out that when you build an AGI, you don't just need a better GPU cluster; you need a seat at the table before the table decides to fold you.",
-      "plain_english": "OpenAI is discussing giving the United States government a five percent ownership share of the company to help align its interests with national regulations.",
-      "source_url": "https://www.theguardian.com/technology/2026/jul/02/openai-stake-us-government-ai-sam-altman"
+      "domain": "alibaba.com",
+      "headline": "Alibaba thinks your AI coding assistant is a double agent",
+      "summary": "Alibaba is banning Claude Code over concerns that the AI might be leaking company secrets back to its creators. It's the corporate equivalent of firing your intern because you're worried they're telling your competitors how you make the coffee.",
+      "plain_english": "Alibaba is restricting the use of Claude Code in its offices due to fears that the software could create unauthorized access points to company data.",
+      "source_url": "https://www.reuters.com/world/china/alibaba-ban-claude-code-workplace-over-alleged-backdoor-risks-source-says-2026-07-03/"
     },
     {
       "id": 2,
-      "domain": "infineon.com",
-      "headline": "Germany is trying to build its own chips to avoid being the middle child of the global supply chain.",
-      "summary": "Europe is dropping billions on a new plant to finally secure its own silicon destiny instead of waiting on everyone else. It's the geopolitical equivalent of finally buying your own tools because you're tired of borrowing them from a neighbor who never answers the phone.",
-      "plain_english": "Infineon has opened a major semiconductor manufacturing facility in Germany as part of a European initiative to increase domestic chip production.",
-      "source_url": "https://www.rfi.fr/en/international-news/20260702-germany-s-infineon-opens-major-chip-plant-as-eu-seeks-tech-autonomy"
+      "domain": "virginia.gov",
+      "headline": "Virginia just made your phone's location history a lot less valuable to data brokers",
+      "summary": "Virginia is banning the sale of precise geolocation data, effectively telling data brokers that your late-night Taco Bell runs are now off-limits for profit. It turns out even your smartphone needs a privacy policy that doesn't treat your physical location like a public commodity.",
+      "plain_english": "Virginia has passed a law that prohibits the sale of exact location data collected from mobile devices.",
+      "source_url": "https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data"
     },
     {
       "id": 3,
-      "domain": "github.com",
-      "headline": "GitHub Copilot just got another brain transplant, as if your codebase wasn't already a group project.",
-      "summary": "Kimi K2.7 is now available in Copilot, giving you yet another model to choose from when the previous one starts hallucinating bad syntax. It's the perfect update for developers who love treating their IDE like a revolving door of AI roommates.",
-      "plain_english": "GitHub has integrated the Kimi K2.7 coding model into its Copilot service, providing users with an additional AI option for code generation.",
-      "source_url": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/"
+      "domain": "hitehouse.gov",
+      "headline": "The US government is now the ultimate bag holder",
+      "summary": "The federal government has officially diversified its portfolio by becoming a shareholder in 26 different companies. It's comforting to know that when our code breaks in production, the government might actually be one of the people getting paged.",
+      "plain_english": "The United States government currently holds equity stakes in 26 private corporations.",
+      "source_url": "https://moeonmargin.substack.com/p/the-us-government-is-now-a-shareholder"
     },
     {
       "id": 4,
-      "domain": "snorkel.ai",
-      "headline": "Finally, a benchmark that tests if your AI is actually a senior dev",
-      "summary": "Most coding benchmarks test if an AI can solve a puzzle, but this one checks if it can actually function as a senior engineer. It turns out the hardest part of the job isn't writing code, it's dealing with the legacy mess that nobody else wants to touch.",
-      "plain_english": "A new testing framework evaluates how well artificial intelligence agents perform complex software engineering tasks as if they were experienced human developers.",
-      "source_url": "https://senior-swe-bench.snorkel.ai/"
+      "domain": "openjdk.org",
+      "headline": "Java is finally forcing you to actually initialize your fields",
+      "summary": "The JVM is moving toward stricter field initialization, essentially acting like that one professor who refuses to accept homework with missing headers. It turns out even programming languages have reached the point where they've lost patience with your 'I'll fix the null pointer later' attitude.",
+      "plain_english": "Java is introducing a new feature that requires developers to explicitly assign values to object fields, reducing the likelihood of errors caused by uninitialized data.",
+      "source_url": "https://openjdk.org/jeps/539"
     },
     {
       "id": 5,
-      "domain": "chdb.io",
-      "headline": "ClickHouse in your browser, because your RAM wasn't doing enough",
-      "summary": "You can now run a full OLAP engine inside your browser using WebAssembly. It's an impressive feat of engineering that essentially lets you turn your laptop into a space heater while running SQL on a static website.",
-      "plain_english": "A version of the ClickHouse database engine has been ported to WebAssembly, allowing it to run directly within web browsers.",
-      "source_url": "https://wasm.chdb.io/"
+      "domain": "lmdb.tech",
+      "headline": "LMDB hits 1.0, proving that sometimes the best software is the kind that just stays quiet",
+      "summary": "After years of being the silent engine powering everything important, LMDB has finally hit version 1.0. It's like that one coworker who does all the heavy lifting in the background and only speaks up once every decade to tell you the job is done.",
+      "plain_english": "The Lightning Memory-Mapped Database (LMDB) has reached its official 1.0 release, marking a stable milestone for the high-performance database library.",
+      "source_url": "http://www.lmdb.tech/doc/"
     }
   ],
   "cooked": [
     {
       "id": 6,
-      "domain": "google.com",
-      "headline": "Google just got the most expensive 'do not pass go' in history",
-      "summary": "Google lost its appeal against a record-breaking $4.7 billion EU antitrust fine for forcing its apps onto Android devices. It's the corporate equivalent of losing a group project argument and being forced to pay for everyone else's lunch for the next decade.",
-      "plain_english": "The European Union's highest court has upheld a 4.7 billion dollar fine against Google for illegally requiring Android phone manufacturers to pre-install Google services.",
-      "source_url": "https://www.cnbc.com/2026/07/02/alphabet-google-android-eu-antitrust-fine-4-1-billion-euro-appeal.html"
+      "domain": "netnut.io",
+      "headline": "The FBI just sent the proxy market to detention",
+      "summary": "The FBI seized NetNut and the Popa botnet, effectively pulling the plug on a massive infrastructure used to mask internet traffic. It turns out that when you build a business model on being invisible, the feds eventually find a way to make you the center of attention.",
+      "plain_english": "The FBI shut down a proxy service and a network of compromised computers that were being used to hide malicious online activity.",
+      "source_url": "https://krebsonsecurity.com/2026/07/fbi-seizes-netnut-proxy-platform-popa-botnet/"
     },
     {
       "id": 7,
-      "domain": "meta.com",
-      "headline": "Meta's 'engagement' algorithms are finally meeting the legal system",
-      "summary": "Meta tried to dismiss claims that their apps are designed to addict children, but a judge decided the company needs to actually face the music. It turns out that when you optimize your entire product for infinite scrolling, you eventually run into the one group of people who don't care about your quarterly retention metrics.",
-      "plain_english": "A U.S.",
-      "source_url": "https://www.reuters.com/legal/government/meta-loses-bid-dismiss-us-states-claims-that-facebook-instagram-addict-children-2026-06-30/"
+      "domain": "theintercept.com",
+      "headline": "The Intercept's secure tip line was basically an unattended group chat for months",
+      "summary": "The Intercept managed to lose control of their Signal-based tip line, turning a tool meant for high-stakes whistleblowing into a ghost town where nobody had the keys. It is the ultimate security irony: the 'secure' channel was so secure that even the people running it couldn't get in.",
+      "plain_english": "The Intercept failed to manage its secure communication channel for a period of several months, meaning they were unable to access incoming tips.",
+      "source_url": "https://twitter.com/ryangrim/status/2072761908231585845"
     },
     {
       "id": 8,
-      "domain": "palantir.com",
-      "headline": "Spain decides Palantir is a bit too much 'Big Brother' for their taste",
-      "summary": "The Spanish government is quietly scrubbing Palantir from its critical infrastructure, proving that even the most powerful data analytics tools have a hard time passing a national security vibe check. It's the digital equivalent of realizing your landlord has a key to your safe and deciding it might be time to change the locks.",
-      "plain_english": "The Spanish government has restricted the use of Palantir software in sensitive state systems due to concerns about national security and data sovereignty.",
-      "source_url": "https://www.lbc.co.uk/article/spanish-bans-palantir-national-security-5HjdcNp_2/"
+      "domain": "kernel.org",
+      "headline": "Linux decided your encryption keys deserve a permanent vacation in RAM",
+      "summary": "Since version 6.9, suspending your laptop no longer wipes LUKS encryption keys from memory, effectively leaving your data's front door wide open. It's the digital equivalent of locking your house but leaving the spare key taped to the doormat for anyone who wanders by.",
+      "plain_english": "A recent update to the Linux operating system prevents the automatic deletion of disk encryption keys when a computer enters sleep mode, making it easier for unauthorized users to access data on a suspended device.",
+      "source_url": "https://mathstodon.xyz/@iblech/116769502749142438"
     },
     {
       "id": 9,
-      "domain": "intrepidkarthi.com",
-      "headline": "Developers feel 20% faster with AI but are actually 19% slower",
-      "summary": "We are officially in a collective delusion where the speed of typing is being confused with the speed of shipping. It turns out that using AI to generate code faster is just a fancy way of creating a larger mountain of technical debt for your future self.",
-      "plain_english": "Research indicates that although developers believe artificial intelligence tools make them more productive, their actual output speed decreases due to the time required to manage and fix AI-generated content.",
-      "source_url": "https://intrepidkarthi.com/writing/the-gauge-broke/"
+      "domain": "meta.com",
+      "headline": "Zuckerberg realizes that firing everyone might not be a business strategy",
+      "summary": "Meta spent years trimming the team to 'efficiency' only for Zuckerberg to realize that losing all your institutional knowledge actually makes the company run worse. It turns out that firing the people who know how things work is a great way to discover that things stop working.",
+      "plain_english": "Mark Zuckerberg has acknowledged that the massive layoffs implemented at Meta have negatively impacted the company's productivity and operational effectiveness.",
+      "source_url": "https://eshumarneedi.com/2026/07/03/zuckerberg-admits-metas-layoffs-were.html"
     },
     {
       "id": 10,
-      "domain": "courts.go.jp",
-      "headline": "Japan's courts tell AI it can't take credit for the group project",
-      "summary": "Japan's highest court ruled that machines cannot be listed as patent inventors because they lack human legal status. It turns out that even in the age of superintelligence, you still need a human to sign the paperwork for the credit.",
-      "plain_english": "Japan's Supreme Court has determined that artificial intelligence systems cannot be legally named as inventors on patent applications.",
-      "source_url": "https://japannews.yomiuri.co.jp/science-nature/technology/20260306-314930/"
+      "domain": "meta.com",
+      "headline": "Zuckerberg admits AI agents are taking longer than his haircut",
+      "summary": "Meta promised us autonomous agents that would handle our lives, but apparently, they're still struggling with basic object permanence. It turns out that teaching a model to do your chores is just as painful as managing an intern who needs a manual for everything.",
+      "plain_english": "Meta has announced that the development of its AI agent software is behind its original schedule.",
+      "source_url": "https://www.reuters.com/business/zuckerberg-says-ai-agent-development-going-slower-than-expected-2026-07-02/"
     }
   ]
 }
