@@ -1,91 +1,91 @@
 {
   "meta": {
-    "date": "Saturday, July 04, 2026",
-    "scene_summary": "We are busy inventing new ways to break the internet while the old ways are still catching fire.",
+    "date": "Sunday, July 05, 2026",
+    "scene_summary": "We are busy optimizing compilers and libraries while the hardware leaks our secrets and the infrastructure poisons the well.",
     "ratio_statement": "4:6"
   },
   "cooking": [
     {
       "id": 1,
-      "domain": "datacenter.com",
-      "headline": "Local residents are treating datacenters like unwanted roommates",
-      "summary": "Communities are literally recalling local officials for letting massive datacenters move into their backyards. It turns out people care less about the future of AI and more about their neighborhood sounding like a runway at takeoff.",
-      "plain_english": "US residents are starting recall elections for local politicians who approved the construction of large data centers in their communities.",
-      "source_url": "https://www.theguardian.com/us-news/2026/jul/03/datacenter-recall-elections"
+      "domain": "ziglang.org",
+      "headline": "Zig is officially decluttering the compiler one feature at a time",
+      "summary": "Zig is moving package management out of the compiler, finally admitting that building code and managing dependencies are two different chores. It's the software engineering equivalent of moving your laundry out of the kitchen so you can actually cook dinner.",
+      "plain_english": "The developers of the Zig programming language have separated the package management tools from the main compiler to simplify the software's architecture.",
+      "source_url": "https://ziglang.org/devlog/2026/#2026-06-30"
     },
     {
       "id": 2,
-      "domain": "starlink.com",
-      "headline": "Starlink is solving the 'no internet' problem by literally bypassing the planet's infrastructure.",
-      "summary": "Africans are increasingly turning to Starlink to bypass unreliable local infrastructure that treats uptime as a suggestion. It turns out the most effective way to fix a legacy network is to just launch your own satellites into orbit.",
-      "plain_english": "People in Africa are increasingly using Starlink satellite internet to access reliable connectivity in areas where traditional ground-based networks are unavailable or inconsistent.",
-      "source_url": "https://www.economist.com/middle-east-and-africa/2026/07/02/africans-are-turning-to-starlink"
+      "domain": "ui.shadcn.com",
+      "headline": "Shadcn/UI swaps out its library foundation like a developer changing frameworks",
+      "summary": "Shadcn/UI is ditching Radix for Base UI, which is basically the coding version of breaking up with your partner to date their cooler, more flexible sibling. It's a great move for stability, provided you don't mind updating every single component in your codebase this weekend.",
+      "plain_english": "The Shadcn/UI component library has changed its underlying framework from Radix UI to Base UI to improve its functionality.",
+      "source_url": "https://ui.shadcn.com/docs/changelog"
     },
     {
       "id": 3,
-      "domain": "fable.com",
-      "headline": "The best way to optimize code is to turn it into a picture and squint at it",
-      "summary": "Engineers discovered that converting code into images for an OCR model to read cuts costs by 60%. It turns out the fastest way to run your codebase is to treat it like a bad handwritten note from a doctor.",
-      "plain_english": "A company reduced its software operating costs by converting code into images and using character recognition software to process the information.",
-      "source_url": "https://github.com/teamchong/pxpipe"
+      "domain": "github.com",
+      "headline": "Cold boot attacks are back because your RAM has no short-term memory",
+      "summary": "This tool lets you rip data straight from RAM by rebooting a machine, proving that physical access is still the ultimate admin password. It is basically the digital equivalent of stealing someone's wallet while they're still wearing the pants.",
+      "plain_english": "This software allows a user to extract information from a computer's memory by restarting the machine without clearing the data.",
+      "source_url": "https://github.com/pIat0n/BareMetal-RAM-Dumper"
     },
     {
       "id": 4,
-      "domain": "mcp.so",
-      "headline": "Finally, a Wireshark for the AI agents that keep talking behind your back",
-      "summary": "Mcpsnoop lets you watch the traffic between your AI agents in real-time, essentially turning your model's private conversations into a public spectacle. It's like being the fly on the wall in a group project meeting where nobody is actually doing the work.",
-      "plain_english": "A new tool allows developers to monitor and view the communications between AI models and their connected tools in real-time.",
-      "source_url": "https://github.com/kerlenton/mcpsnoop"
+      "domain": "sqlite.org",
+      "headline": "A library for $150 and a dream: The AI-written release is here",
+      "summary": "Simon Willison just outsourced a major software update to an AI for less than the cost of a fancy office chair. It turns out the future of programming is just being the human project manager for an intern that never sleeps.",
+      "plain_english": "A developer released a significant software update that was primarily written by an artificial intelligence model for a very low cost.",
+      "source_url": "https://simonwillison.net/2026/Jul/5/sqlite-utils-fable/"
     }
   ],
   "cooked": [
     {
       "id": 5,
-      "domain": "anthropic.com",
-      "headline": "Claude Mythos launch is speedrunning a security disaster",
-      "summary": "Anthropic just dropped a new model, and the security vulnerabilities are spiking faster than a junior dev's first git push to production. It's the digital equivalent of shipping a house with the front door wide open and a 'welcome' mat for hackers.",
-      "plain_english": "The release of the new Claude Mythos AI model has coincided with a significant increase in reported security vulnerabilities.",
-      "source_url": "https://epoch.ai/data-insights/cve-severity-spike"
+      "domain": "microsoft.com",
+      "headline": "Windows telemetry is now basically a digital stalker with admin rights",
+      "summary": "Microsoft is collecting your full browsing and gaming history under the guise of telemetry, because apparently your OS needs to know exactly how many hours you spent doomscrolling. It's like having a landlord who insists on reading your diary just to make sure the lightbulbs are working.",
+      "plain_english": "Microsoft is gathering detailed information about users' internet activity and gaming habits through a tracking feature built into the Windows operating system.",
+      "source_url": "https://old.reddit.com/r/sysadmin/comments/1undrrd/microsoft_gdid_tracks_all_windows_installations/"
     },
     {
       "id": 6,
-      "domain": "gnu.org",
-      "headline": "Rust Coreutils just proved that 'rewritten in Rust' is still just 'rewritten with new bugs'.",
-      "summary": "The community attempted to replace standard Linux utilities with Rust-based versions, only to break Ubuntu builds because the new tools didn't copy files quite like the originals. It's the classic developer trap of assuming a rewrite is the same as an upgrade.",
-      "plain_english": "A project to replace standard Linux system tools with versions written in the Rust programming language caused issues with Ubuntu software builds due to unexpected behavioral differences.",
-      "source_url": "https://www.phoronix.com/news/Rust-Coreutils-cp-Ubuntu-Images"
+      "domain": "google.com",
+      "headline": "YouTube's security forgot that unlisted doesn't mean invisible",
+      "summary": "YouTube managed to leak private creator videos by treating 'unlisted' like a secret handshake rather than an actual permission check. It turns out that security through obscurity is still just a fancy way of saying you didn't finish the group project.",
+      "plain_english": "A security vulnerability allowed unauthorized users to access and view private or unlisted videos on the YouTube platform.",
+      "source_url": "https://javoriuski.com/post/youtube"
     },
     {
       "id": 7,
-      "domain": "msi.com",
-      "headline": "MSI Center's security is basically an open door with a 'welcome' mat",
-      "summary": "MSI designed their software to give local users system-level privileges with almost no effort required. It turns out that 'ease of use' for the end user also makes life incredibly easy for any local malware looking to take over your PC.",
-      "plain_english": "A vulnerability in MSI software allows a standard computer user to gain administrative control over the entire operating system.",
-      "source_url": "https://mrbruh.com/msicenter/"
+      "domain": "openai.com",
+      "headline": "Junior developers are currently being replaced by a script that can't even center a div.",
+      "summary": "We've reached a point where companies are cutting entry-level roles because they think AI can handle the grunt work. It turns out that when you stop hiring juniors, you eventually stop having seniors who know how the legacy code actually works.",
+      "plain_english": "Companies are hiring fewer entry-level software developers because they are relying more on artificial intelligence tools to write code.",
+      "source_url": "https://seldo.com/posts/ai-has-torched-the-market-for-junior-programmers/"
     },
     {
       "id": 8,
-      "domain": "europarl.europa.eu",
-      "headline": "The irony of being hacked while investigating spyware is peak tech",
-      "summary": "European officials were busy investigating the use of invasive spyware when they found their own phones had been compromised by the exact same tech. It is the digital equivalent of a fire inspector's office burning down because they forgot to check their own smoke detectors.",
-      "plain_english": "Members of the European Parliament investigating the use of unauthorized spyware were themselves targeted and infected by spyware.",
-      "source_url": "https://citizenlab.ca/research/member-of-committee-investigating-spyware-hacked-with-pegasus/"
+      "domain": "openai.com",
+      "headline": "GPT-5.5 is currently having a mid-life crisis and forgetting how to code.",
+      "summary": "The model is suffering from a logic loop where it keeps overthinking its own output until the code turns into gibberish. It's basically the equivalent of a student who studied so hard for the exam that they talked themselves into failing it.",
+      "plain_english": "The latest version of OpenAI's coding assistant is experiencing technical issues where its reasoning process is causing it to produce lower-quality code.",
+      "source_url": "https://github.com/openai/codex/issues/30364"
     },
     {
       "id": 9,
-      "domain": "leaddev.com",
-      "headline": "AI coding is officially the new doomscrolling",
-      "summary": "Engineers are getting hooked on the high of AI-generated code while the actual complexity of their codebase stays exactly the same. It turns out that 'automating the boring stuff' is just a fancy way of saying you're now addicted to a chatbot that writes your technical debt for you.",
-      "plain_english": "Software engineers are developing a dependency on AI tools that may be negatively impacting their overall productivity and well-being.",
-      "source_url": "https://leaddev.com/ai/ai-coding-is-addictive-engineers-are-paying-the-price"
+      "domain": "meta.com",
+      "headline": "Meta's data center is literally poisoning the local water supply",
+      "summary": "Meta spent billions building AI infrastructure only to realize they forgot how to handle basic plumbing. It turns out that 'cloud computing' shouldn't involve turning the town's water supply into a toxic science experiment.",
+      "plain_english": "Cheyenne officials have stopped Meta from discharging water from its data center because the company's cooling system contaminated the local water reuse network.",
+      "source_url": "https://www.tomshardware.com/tech-industry/data-centers/cheyenne-suspends-data-center-fill-and-flush-and-closed-loop-discharges-after-meta-contractor-contaminated-its-reuse-water-system"
     },
     {
       "id": 10,
-      "domain": "okaneland.com",
-      "headline": "Your 3% productivity boost is basically just a rounding error",
-      "summary": "Companies are betting their entire budgets on AI efficiency gains that barely cover the cost of a fancy lunch. It turns out that saving three percent of your time is just enough to create a new meeting to discuss why the AI isn't doing the other ninety-seven percent.",
-      "plain_english": "Research indicates that AI tools provide only a marginal increase in worker productivity that does not translate into significant cost savings for businesses.",
-      "source_url": "https://okaneland.com/study/ai-productivity-roi-at-work/"
+      "domain": "verizon.com",
+      "headline": "Verizon is bricking kids' watches to force an upgrade",
+      "summary": "Verizon is pushing a network change that turns perfectly functional Gizmo watches into expensive paperweights just to upsell parents on new hardware. It is the classic corporate strategy of 'planned obsolescence' disguised as a network improvement.",
+      "plain_english": "Verizon is ending support for older Gizmo watch models, which will cause them to stop working and force customers to buy newer devices.",
+      "source_url": "https://www.jefftk.com/p/verizon-is-about-to-break-our-watches"
     }
   ]
 }
