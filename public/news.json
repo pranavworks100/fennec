@@ -1,91 +1,91 @@
 {
   "meta": {
-    "date": "Sunday, July 05, 2026",
-    "scene_summary": "We are busy optimizing compilers and libraries while the hardware leaks our secrets and the infrastructure poisons the well.",
-    "ratio_statement": "4:6"
+    "date": "Monday, July 06, 2026",
+    "scene_summary": "We are busy building a silicon utopia on top of a pile of unpaid invoices and disgruntled interns.",
+    "ratio_statement": "6:4"
   },
   "cooking": [
     {
       "id": 1,
-      "domain": "ziglang.org",
-      "headline": "Zig is officially decluttering the compiler one feature at a time",
-      "summary": "Zig is moving package management out of the compiler, finally admitting that building code and managing dependencies are two different chores. It's the software engineering equivalent of moving your laundry out of the kitchen so you can actually cook dinner.",
-      "plain_english": "The developers of the Zig programming language have separated the package management tools from the main compiler to simplify the software's architecture.",
-      "source_url": "https://ziglang.org/devlog/2026/#2026-06-30"
+      "domain": "atomicsemi.com",
+      "headline": "Jim Keller wants to make chip fabs as common as coffee shops",
+      "summary": "Building a custom silicon factory is usually a multi-billion dollar bet that takes years, but Jim Keller is trying to turn it into a modular IKEA project. It's the hardware equivalent of moving from a monolith to microservices, assuming the whole thing doesn't explode in the process.",
+      "plain_english": "The semiconductor startup Fab2 is developing a process to mass-produce smaller, modular computer chip manufacturing facilities in Texas.",
+      "source_url": "https://www.tomshardware.com/tech-industry/atomic-semi-rebrands-as-fab2-and-shifts-operations-to-texas"
     },
     {
       "id": 2,
-      "domain": "ui.shadcn.com",
-      "headline": "Shadcn/UI swaps out its library foundation like a developer changing frameworks",
-      "summary": "Shadcn/UI is ditching Radix for Base UI, which is basically the coding version of breaking up with your partner to date their cooler, more flexible sibling. It's a great move for stability, provided you don't mind updating every single component in your codebase this weekend.",
-      "plain_english": "The Shadcn/UI component library has changed its underlying framework from Radix UI to Base UI to improve its functionality.",
-      "source_url": "https://ui.shadcn.com/docs/changelog"
+      "domain": "amd.com",
+      "headline": "AMD wants $4,000 for an AI dev kit that costs more than my entire home office setup.",
+      "summary": "AMD is shipping a high-end AI development kit for the price of a used sedan, assuming you have a spare four grand lying around. It's the perfect hardware to build your next LLM, provided you don't mind eating ramen for the next six months.",
+      "plain_english": "AMD has released a specialized computer hardware package designed for artificial intelligence development with a price tag of $4,000.",
+      "source_url": "https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo"
     },
     {
       "id": 3,
-      "domain": "github.com",
-      "headline": "Cold boot attacks are back because your RAM has no short-term memory",
-      "summary": "This tool lets you rip data straight from RAM by rebooting a machine, proving that physical access is still the ultimate admin password. It is basically the digital equivalent of stealing someone's wallet while they're still wearing the pants.",
-      "plain_english": "This software allows a user to extract information from a computer's memory by restarting the machine without clearing the data.",
-      "source_url": "https://github.com/pIat0n/BareMetal-RAM-Dumper"
+      "domain": "dartmouth.edu",
+      "headline": "Dartmouth students are getting tutored by AI, which is basically cheating with a permission slip.",
+      "summary": "A new study shows AI tutors are actually boosting student performance significantly, proving that learning is easier when your teacher doesn't have office hours or a bad attitude. It turns out the best way to ace a class is just having a patient robot explain the syllabus until you stop failing.",
+      "plain_english": "Research at Dartmouth College found that using an AI-based tutoring system significantly improved student learning outcomes in a university course.",
+      "source_url": "https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf"
     },
     {
       "id": 4,
-      "domain": "sqlite.org",
-      "headline": "A library for $150 and a dream: The AI-written release is here",
-      "summary": "Simon Willison just outsourced a major software update to an AI for less than the cost of a fancy office chair. It turns out the future of programming is just being the human project manager for an intern that never sleeps.",
-      "plain_english": "A developer released a significant software update that was primarily written by an artificial intelligence model for a very low cost.",
-      "source_url": "https://simonwillison.net/2026/Jul/5/sqlite-utils-fable/"
+      "domain": "arxiv.org",
+      "headline": "Smart home AI: Because your toaster needed a security threat model",
+      "summary": "Researchers just mapped out how AI-powered home devices could turn your house into a digital hostage situation. It turns out that giving your smart fridge an LLM is a great way to ensure your kitchen appliances can be socially engineered by a teenager.",
+      "plain_english": "A new research paper outlines the various security risks and social vulnerabilities introduced by integrating artificial intelligence into common household smart devices.",
+      "source_url": "https://arxiv.org/abs/2602.09239"
+    },
+    {
+      "id": 5,
+      "domain": "arxiv.org",
+      "headline": "Turns out AI agents are just as annoyed by your spaghetti code as a human intern",
+      "summary": "Researchers found that AI agents actually perform better when the code they're working on is clean and well-structured. It seems even the robots can't escape the misery of trying to debug a 2,000-line function written in a fever dream.",
+      "plain_english": "A study shows that artificial intelligence models are more effective at completing programming tasks when the existing code is organized and readable.",
+      "source_url": "https://arxiv.org/abs/2605.20049"
+    },
+    {
+      "id": 6,
+      "domain": "go.dev",
+      "headline": "Go's 'zero-copy' is the developer equivalent of trying to move house without packing a single box",
+      "summary": "The dream of zero-copy is to move data around without actually touching it, but the reality involves fighting the kernel until it lets you have your way. It turns out that achieving true efficiency is just a complicated game of convincing the OS to do your heavy lifting for you.",
+      "plain_english": "This article explains how Go programs can transfer data more efficiently by avoiding unnecessary memory copying using system calls like sendfile and splice.",
+      "source_url": "https://segflow.github.io/post/zero-copy-sendfile-splice/"
     }
   ],
   "cooked": [
     {
-      "id": 5,
-      "domain": "microsoft.com",
-      "headline": "Windows telemetry is now basically a digital stalker with admin rights",
-      "summary": "Microsoft is collecting your full browsing and gaming history under the guise of telemetry, because apparently your OS needs to know exactly how many hours you spent doomscrolling. It's like having a landlord who insists on reading your diary just to make sure the lightbulbs are working.",
-      "plain_english": "Microsoft is gathering detailed information about users' internet activity and gaming habits through a tracking feature built into the Windows operating system.",
-      "source_url": "https://old.reddit.com/r/sysadmin/comments/1undrrd/microsoft_gdid_tracks_all_windows_installations/"
-    },
-    {
-      "id": 6,
-      "domain": "google.com",
-      "headline": "YouTube's security forgot that unlisted doesn't mean invisible",
-      "summary": "YouTube managed to leak private creator videos by treating 'unlisted' like a secret handshake rather than an actual permission check. It turns out that security through obscurity is still just a fancy way of saying you didn't finish the group project.",
-      "plain_english": "A security vulnerability allowed unauthorized users to access and view private or unlisted videos on the YouTube platform.",
-      "source_url": "https://javoriuski.com/post/youtube"
-    },
-    {
       "id": 7,
-      "domain": "openai.com",
-      "headline": "Junior developers are currently being replaced by a script that can't even center a div.",
-      "summary": "We've reached a point where companies are cutting entry-level roles because they think AI can handle the grunt work. It turns out that when you stop hiring juniors, you eventually stop having seniors who know how the legacy code actually works.",
-      "plain_english": "Companies are hiring fewer entry-level software developers because they are relying more on artificial intelligence tools to write code.",
-      "source_url": "https://seldo.com/posts/ai-has-torched-the-market-for-junior-programmers/"
+      "domain": "microsoft.com",
+      "headline": "Microsoft 365 prices are up 42% because AI is expensive to maintain",
+      "summary": "Microsoft is hiking prices by 42% to cover the cost of running AI, which is a bold way to tell customers they are now subsidizing your GPU addiction. It's like your landlord raising the rent because they bought a smart fridge that keeps hallucinating about the temperature.",
+      "plain_english": "Microsoft has increased the subscription costs for some of its business software packages, citing the integration of artificial intelligence features as the primary reason.",
+      "source_url": "https://www.windowslatest.com/2026/07/05/microsoft-365-just-got-a-price-hike-over-continuous-innovation-but-copilot-is-the-ai-tax-on-businesses/"
     },
     {
       "id": 8,
-      "domain": "openai.com",
-      "headline": "GPT-5.5 is currently having a mid-life crisis and forgetting how to code.",
-      "summary": "The model is suffering from a logic loop where it keeps overthinking its own output until the code turns into gibberish. It's basically the equivalent of a student who studied so hard for the exam that they talked themselves into failing it.",
-      "plain_english": "The latest version of OpenAI's coding assistant is experiencing technical issues where its reasoning process is causing it to produce lower-quality code.",
-      "source_url": "https://github.com/openai/codex/issues/30364"
+      "domain": "meta.com",
+      "headline": "Zuck realizes AI agents are just interns that don't do what they're told",
+      "summary": "Mark Zuckerberg is reportedly frustrated that AI agents aren't evolving fast enough to actually be useful. It turns out that teaching a model to think for itself is a lot harder than just giving it a slightly better prompt.",
+      "plain_english": "Meta's CEO has informed his staff that artificial intelligence agents have not developed as quickly as he expected.",
+      "source_url": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/"
     },
     {
       "id": 9,
-      "domain": "meta.com",
-      "headline": "Meta's data center is literally poisoning the local water supply",
-      "summary": "Meta spent billions building AI infrastructure only to realize they forgot how to handle basic plumbing. It turns out that 'cloud computing' shouldn't involve turning the town's water supply into a toxic science experiment.",
-      "plain_english": "Cheyenne officials have stopped Meta from discharging water from its data center because the company's cooling system contaminated the local water reuse network.",
-      "source_url": "https://www.tomshardware.com/tech-industry/data-centers/cheyenne-suspends-data-center-fill-and-flush-and-closed-loop-discharges-after-meta-contractor-contaminated-its-reuse-water-system"
+      "domain": "amazon.com",
+      "headline": "The original 'AI' is finally being put out to pasture",
+      "summary": "Amazon is closing the doors on Mechanical Turk, the platform that proved AI was just humans working for pennies in a trench coat. It is a poetic end for the service that basically became the training data factory for the very bots that are now replacing it.",
+      "plain_english": "Amazon is no longer allowing new users to sign up for its crowdsourcing marketplace, Mechanical Turk.",
+      "source_url": "https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/"
     },
     {
       "id": 10,
-      "domain": "verizon.com",
-      "headline": "Verizon is bricking kids' watches to force an upgrade",
-      "summary": "Verizon is pushing a network change that turns perfectly functional Gizmo watches into expensive paperweights just to upsell parents on new hardware. It is the classic corporate strategy of 'planned obsolescence' disguised as a network improvement.",
-      "plain_english": "Verizon is ending support for older Gizmo watch models, which will cause them to stop working and force customers to buy newer devices.",
-      "source_url": "https://www.jefftk.com/p/verizon-is-about-to-break-our-watches"
+      "domain": "palantir.com",
+      "headline": "Canada's AI strategy is basically 'don't let the government sign secret checks for Palantir'",
+      "summary": "Canada is trying to build a national AI strategy while simultaneously dealing with the optics of quiet, massive contracts with private data giants. It's like promising to eat healthy while keeping a secret stash of midnight snacks in the kitchen drawer.",
+      "plain_english": "Critics are arguing that the Canadian government should not enter into undisclosed, multi-million dollar data analytics contracts with Palantir as part of its national artificial intelligence initiative.",
+      "source_url": "https://www.readtheline.ca/p/al-vigier-canadas-ai-strategy-shouldnt"
     }
   ]
 }
