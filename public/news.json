@@ -1,91 +1,91 @@
 {
   "meta": {
-    "date": "Monday, July 06, 2026",
-    "scene_summary": "We are busy building a silicon utopia on top of a pile of unpaid invoices and disgruntled interns.",
-    "ratio_statement": "6:4"
+    "date": "Tuesday, July 07, 2026",
+    "scene_summary": "We are building the future with new tools just to watch the old security holes burn it down.",
+    "ratio_statement": "4:6"
   },
   "cooking": [
     {
       "id": 1,
-      "domain": "atomicsemi.com",
-      "headline": "Jim Keller wants to make chip fabs as common as coffee shops",
-      "summary": "Building a custom silicon factory is usually a multi-billion dollar bet that takes years, but Jim Keller is trying to turn it into a modular IKEA project. It's the hardware equivalent of moving from a monolith to microservices, assuming the whole thing doesn't explode in the process.",
-      "plain_english": "The semiconductor startup Fab2 is developing a process to mass-produce smaller, modular computer chip manufacturing facilities in Texas.",
-      "source_url": "https://www.tomshardware.com/tech-industry/atomic-semi-rebrands-as-fab2-and-shifts-operations-to-texas"
+      "domain": "openssh.com",
+      "headline": "OpenSSH 10.4 is out, because your server access deserves a fresh layer of anxiety",
+      "summary": "Another OpenSSH update is here to ensure that your remote access stays secure while you frantically check if your current config will break. It is the digital equivalent of changing the locks on your house every few months just to keep the neighborhood ghosts guessing.",
+      "plain_english": "OpenSSH has released version 10.4, which includes updates and security improvements for the software used to manage secure remote connections to servers.",
+      "source_url": "https://www.openssh.org/txt/release-10.4"
     },
     {
       "id": 2,
-      "domain": "amd.com",
-      "headline": "AMD wants $4,000 for an AI dev kit that costs more than my entire home office setup.",
-      "summary": "AMD is shipping a high-end AI development kit for the price of a used sedan, assuming you have a spare four grand lying around. It's the perfect hardware to build your next LLM, provided you don't mind eating ramen for the next six months.",
-      "plain_english": "AMD has released a specialized computer hardware package designed for artificial intelligence development with a price tag of $4,000.",
-      "source_url": "https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo"
+      "domain": "europa.eu",
+      "headline": "The EU is trying to break end-to-end encryption, because why should privacy be easy?",
+      "summary": "Lawmakers are pushing to scan encrypted chats, effectively turning every private message into a group project with a government auditor. It is the digital equivalent of demanding a spare key to every house in the city just in case someone decides to bake a cake illegally.",
+      "plain_english": "The European Parliament has advanced a proposal that would require messaging services to scan private user communications for illegal content.",
+      "source_url": "https://www.heise.de/en/news/Showdown-in-Strasbourg-The-unexpected-return-of-Chat-Control-1-0-11356680.html"
     },
     {
       "id": 3,
-      "domain": "dartmouth.edu",
-      "headline": "Dartmouth students are getting tutored by AI, which is basically cheating with a permission slip.",
-      "summary": "A new study shows AI tutors are actually boosting student performance significantly, proving that learning is easier when your teacher doesn't have office hours or a bad attitude. It turns out the best way to ace a class is just having a patient robot explain the syllabus until you stop failing.",
-      "plain_english": "Research at Dartmouth College found that using an AI-based tutoring system significantly improved student learning outcomes in a university course.",
-      "source_url": "https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf"
+      "domain": "odin-lang.org",
+      "headline": "Odin 1.0 just dropped for developers who think C is too easy",
+      "summary": "Odin has officially hit 1.0, proving that the tech world will never stop building a better version of the language we already spent a decade learning. It's the perfect choice if you want to write high-performance code while explaining to your friends why you refuse to use anything with a garbage collector.",
+      "plain_english": "The programming language Odin has reached its first stable release version.",
+      "source_url": "https://www.youtube.com/watch?v=dLPAqXi9In0"
     },
     {
       "id": 4,
-      "domain": "arxiv.org",
-      "headline": "Smart home AI: Because your toaster needed a security threat model",
-      "summary": "Researchers just mapped out how AI-powered home devices could turn your house into a digital hostage situation. It turns out that giving your smart fridge an LLM is a great way to ensure your kitchen appliances can be socially engineered by a teenager.",
-      "plain_english": "A new research paper outlines the various security risks and social vulnerabilities introduced by integrating artificial intelligence into common household smart devices.",
-      "source_url": "https://arxiv.org/abs/2602.09239"
-    },
-    {
-      "id": 5,
-      "domain": "arxiv.org",
-      "headline": "Turns out AI agents are just as annoyed by your spaghetti code as a human intern",
-      "summary": "Researchers found that AI agents actually perform better when the code they're working on is clean and well-structured. It seems even the robots can't escape the misery of trying to debug a 2,000-line function written in a fever dream.",
-      "plain_english": "A study shows that artificial intelligence models are more effective at completing programming tasks when the existing code is organized and readable.",
-      "source_url": "https://arxiv.org/abs/2605.20049"
-    },
-    {
-      "id": 6,
-      "domain": "go.dev",
-      "headline": "Go's 'zero-copy' is the developer equivalent of trying to move house without packing a single box",
-      "summary": "The dream of zero-copy is to move data around without actually touching it, but the reality involves fighting the kernel until it lets you have your way. It turns out that achieving true efficiency is just a complicated game of convincing the OS to do your heavy lifting for you.",
-      "plain_english": "This article explains how Go programs can transfer data more efficiently by avoiding unnecessary memory copying using system calls like sendfile and splice.",
-      "source_url": "https://segflow.github.io/post/zero-copy-sendfile-splice/"
+      "domain": "rust-lang.org",
+      "headline": "Kani is here to remind you that your Rust code is only 'safe' until you actually run it",
+      "summary": "Rust promises memory safety, but Kani exists because sometimes your logic is still a chaotic disaster waiting to happen. It is essentially a debugger that judges your life choices before the compiler even lets you deploy.",
+      "plain_english": "Kani is a verification tool that checks Rust programs for potential logical errors and bugs before the code is executed.",
+      "source_url": "https://arxiv.org/abs/2607.01504"
     }
   ],
   "cooked": [
     {
+      "id": 5,
+      "domain": "kernel.org",
+      "headline": "Januscape lets guests break into the host, proving virtualization is just a suggestion",
+      "summary": "Virtualization is supposed to be the ultimate digital 'do not disturb' sign, but this exploit lets guests walk right through the front door. It turns out your secure isolation layer is currently about as effective as a screen door on a submarine.",
+      "plain_english": "A new security vulnerability allows a virtual machine to escape its isolated environment and take control of the physical computer hosting it.",
+      "source_url": "https://github.com/V4bel/Januscape"
+    },
+    {
+      "id": 6,
+      "domain": "meta.com",
+      "headline": "Meta just hit a $1.4 trillion legal wall, and the lawyers are definitely not billing by the hour.",
+      "summary": "Zuckerberg is facing a legal nightmare so expensive it makes a mid-life crisis look like a rounding error. At this point, the fine is large enough that it might be easier for Meta to just buy a small country and move the headquarters there.",
+      "plain_english": "Meta is facing a potential legal penalty of up to 1.4 trillion dollars due to a significant new lawsuit.",
+      "source_url": "https://www.the-independent.com/tech/mark-zuckerberg-meta-fine-trillion-b3010281.html"
+    },
+    {
       "id": 7,
-      "domain": "microsoft.com",
-      "headline": "Microsoft 365 prices are up 42% because AI is expensive to maintain",
-      "summary": "Microsoft is hiking prices by 42% to cover the cost of running AI, which is a bold way to tell customers they are now subsidizing your GPU addiction. It's like your landlord raising the rent because they bought a smart fridge that keeps hallucinating about the temperature.",
-      "plain_english": "Microsoft has increased the subscription costs for some of its business software packages, citing the integration of artificial intelligence features as the primary reason.",
-      "source_url": "https://www.windowslatest.com/2026/07/05/microsoft-365-just-got-a-price-hike-over-continuous-innovation-but-copilot-is-the-ai-tax-on-businesses/"
+      "domain": "flocksafety.com",
+      "headline": "Supreme Court might turn the panopticon off",
+      "summary": "Flock built a massive surveillance empire by selling plate-reading cameras to everyone with a budget. Now the Supreme Court is looking at whether your private movements are a matter of public record, which is a massive plot twist for their business model.",
+      "plain_english": "The United States Supreme Court is reviewing the legal status of private companies that collect and share license plate data with law enforcement agencies.",
+      "source_url": "https://www.yahoo.com/news/politics/articles/supreme-court-just-lit-fuse-130900307.html"
     },
     {
       "id": 8,
-      "domain": "meta.com",
-      "headline": "Zuck realizes AI agents are just interns that don't do what they're told",
-      "summary": "Mark Zuckerberg is reportedly frustrated that AI agents aren't evolving fast enough to actually be useful. It turns out that teaching a model to think for itself is a lot harder than just giving it a slightly better prompt.",
-      "plain_english": "Meta's CEO has informed his staff that artificial intelligence agents have not developed as quickly as he expected.",
-      "source_url": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/"
+      "domain": "ycombinator.com",
+      "headline": "Shipping 37k lines of AI code a day is just fancy copy-pasting",
+      "summary": "The YC CEO claimed his AI agents were shipping 37,000 lines of code daily, but it turns out they were mostly just hallucinating repetitive boilerplate. It turns out that 'agentic coding' is just the digital equivalent of a student copy-pasting the same paragraph fifty times to hit a word count.",
+      "plain_english": "An analysis of code produced by automated AI agents revealed that much of the output was redundant or low-quality, contradicting claims about the volume of meaningful work completed.",
+      "source_url": "https://www.fastcompany.com/91520702/y-combinator-garry-tan-agentic-ai-social-media"
     },
     {
       "id": 9,
-      "domain": "amazon.com",
-      "headline": "The original 'AI' is finally being put out to pasture",
-      "summary": "Amazon is closing the doors on Mechanical Turk, the platform that proved AI was just humans working for pennies in a trench coat. It is a poetic end for the service that basically became the training data factory for the very bots that are now replacing it.",
-      "plain_english": "Amazon is no longer allowing new users to sign up for its crowdsourcing marketplace, Mechanical Turk.",
-      "source_url": "https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/"
+      "domain": "sj.com",
+      "headline": "Tech CEOs finally realized AI might not actually replace their entire payroll",
+      "summary": "After spending two years promising that AI would handle all the work, tech leaders are now backpedaling to claim it's actually a 'productivity tool.' It turns out that firing everyone is a lot easier to pitch in a deck than it is to manage when the server starts hallucinating your quarterly roadmap. More details in the original article.",
+      "plain_english": "Technology company executives have shifted their public stance to suggest that artificial intelligence will assist human employees rather than replace them entirely.",
+      "source_url": "https://www.wsj.com/tech/ai/ai-workers-tech-ceos-job-losses-afc71e15"
     },
     {
       "id": 10,
-      "domain": "palantir.com",
-      "headline": "Canada's AI strategy is basically 'don't let the government sign secret checks for Palantir'",
-      "summary": "Canada is trying to build a national AI strategy while simultaneously dealing with the optics of quiet, massive contracts with private data giants. It's like promising to eat healthy while keeping a secret stash of midnight snacks in the kitchen drawer.",
-      "plain_english": "Critics are arguing that the Canadian government should not enter into undisclosed, multi-million dollar data analytics contracts with Palantir as part of its national artificial intelligence initiative.",
-      "source_url": "https://www.readtheline.ca/p/al-vigier-canadas-ai-strategy-shouldnt"
+      "domain": "microsoft.com",
+      "headline": "Microsoft's device ID is basically a permanent 'kick me' sign for your PC",
+      "summary": "It turns out Windows has been keeping a digital paper trail so detailed that law enforcement can track you down just by looking at your hardware ID. It is the tech equivalent of leaving your GPS history open on a public monitor while trying to commit a crime.",
+      "plain_english": "A legal case revealed that Microsoft can identify and track specific Windows users through a unique device hardware identifier.",
+      "source_url": "https://www.pcmag.com/news/a-hackers-arrest-reveals-microsoft-can-track-users-via-a-windows-device"
     }
   ]
 }
