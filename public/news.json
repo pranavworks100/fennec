@@ -1,91 +1,91 @@
 {
   "meta": {
-    "date": "Wednesday, July 08, 2026",
-    "scene_summary": "We are busy building the future of AI while leaving the front door wide open for whoever has the password.",
-    "ratio_statement": "5:5"
+    "date": "Thursday, July 09, 2026",
+    "scene_summary": "We are busy rewriting everything in Rust while the EU rewrites our right to privacy.",
+    "ratio_statement": "8:2"
   },
   "cooking": [
     {
       "id": 1,
-      "domain": "apple.com",
-      "headline": "Apple is betting billions that chips are the new designer denim",
-      "summary": "Apple is doubling down on Broadcom to keep their silicon supply chain firmly in the U.S. It is the corporate equivalent of insisting on locally sourced ingredients for a meal that costs more than your first car.",
-      "plain_english": "Apple is increasing its investment in Broadcom to manufacture more computer chips within the United States.",
-      "source_url": "https://www.apple.com/newsroom/2026/07/apple-to-increase-spend-with-broadcom-to-produce-billions-more-us-chips/"
+      "domain": "postgresql.org",
+      "headline": "Postgres in Rust is officially the 'I'll rewrite it myself' final boss",
+      "summary": "Someone finally took the developer mantra of rewriting everything in Rust and actually finished the job for the world's most reliable database. It turns out that passing 100% of the regression tests is the ultimate way to tell your coworkers that your new side project is no longer a toy.",
+      "plain_english": "A developer has successfully rewritten the PostgreSQL database engine using the Rust programming language while maintaining full compatibility with original system testing standards.",
+      "source_url": "https://github.com/malisper/pgrust"
     },
     {
       "id": 2,
-      "domain": "vercel.com",
-      "headline": "Vercel just bought the 'I forgot my password' solution",
-      "summary": "Better Auth is joining Vercel, which means your authentication flow is about to become a first-party citizen of the Vercel ecosystem. Finally, you can blame the platform instead of your own buggy middleware when users get locked out.",
-      "plain_english": "The authentication library Better Auth has been acquired by the cloud platform Vercel.",
-      "source_url": "https://better-auth.com/blog/better-auth-joins-vercel"
+      "domain": "europa.eu",
+      "headline": "The EU is trying to install a global 'send to all' for your private DMs.",
+      "summary": "Lawmakers want to scan your encrypted messages for illegal content, effectively turning 'end. to.",
+      "plain_english": "The European Union is considering new legislation that would require messaging services to scan private user messages for illegal material.",
+      "source_url": "https://cyberinsider.com/eu-now-one-step-away-from-reviving-private-message-scanning-rules/"
     },
     {
       "id": 3,
-      "domain": "mistral.ai",
-      "headline": "Mistral is teaching robots how to walk without falling over their own shoelaces",
-      "summary": "Mistral just released a navigation model that lets robots move through the world without treating every doorway like a boss fight. It's a massive step forward, provided the robot doesn't decide to take a scenic detour through a wall.",
-      "plain_english": "Mistral has introduced a new artificial intelligence model designed to help robots navigate physical environments more effectively.",
-      "source_url": "https://mistral.ai/news/robostral-navigate/"
+      "domain": "deere.com",
+      "headline": "John Deere finally admits that owning a tractor shouldn't require a software license.",
+      "summary": "After years of treating tractors like iPhones that need a Genius Bar appointment, John Deere is finally letting owners fix their own gear. It turns out that 'proprietary software' is just a fancy way to prevent you from using your own wrench.",
+      "plain_english": "John Deere has reached a settlement that allows farmers and independent repair shops to access the tools and software needed to fix John Deere equipment.",
+      "source_url": "https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02"
     },
     {
       "id": 4,
-      "domain": "cloudflare.com",
-      "headline": "Cloudflare's new consensus protocol is like a group chat that actually agrees on something",
-      "summary": "Cloudflare launched Meerkat, a globally distributed consensus engine that helps servers agree on the truth without devolving into a circular argument. It's basically the digital equivalent of getting your entire team to agree on where to order lunch on the first try.",
-      "plain_english": "Cloudflare has introduced a new system that allows computers across the world to reliably agree on shared data and information.",
-      "source_url": "https://blog.cloudflare.com/meerkat-introduction/"
+      "domain": "posthog.com",
+      "headline": "PostHog is going open source so you can finally self-host your own data-tracking existential crisis",
+      "summary": "PostHog is making the jump to open source, letting you peek behind the curtain of your own analytics stack. It's like being given the keys to the surveillance van you've been riding in all along.",
+      "plain_english": "PostHog has released its software under an open source license, allowing anyone to inspect, modify, and host the code themselves.",
+      "source_url": "https://github.com/PostHog/posthog-foss"
     },
     {
       "id": 5,
-      "domain": "europa.eu",
-      "headline": "The EU is installing a backseat driver in every new car",
-      "summary": "Every new car in Europe now requires a camera to monitor your focus, effectively turning your commute into a proctored exam. It's comforting to know that even when you're alone in traffic, the vehicle is still judging your lack of attention.",
-      "plain_english": "The European Union now mandates that all new vehicles sold must be equipped with technology that detects and alerts drivers if they are distracted or drowsy.",
-      "source_url": "https://allaboutcookies.org/eu-mandatory-distracted-driver-system"
+      "domain": "cognition.ai",
+      "headline": "SWE-1.7 is now smart enough to be your senior dev's replacement",
+      "summary": "Cognition's latest model has reached the intelligence of industry-leading giants, which is great for productivity and terrible for my job security. It's basically the equivalent of the kid in class who finishes the exam in ten minutes and gets a perfect score while you're still reading the instructions.",
+      "plain_english": "The software engineering AI model SWE-1.7 has achieved performance levels comparable to the most advanced AI models currently available.",
+      "source_url": "https://cognition.com/blog/swe-1-7"
+    },
+    {
+      "id": 6,
+      "domain": "microsoft.com",
+      "headline": "Microsoft wants you to visualize why your AI agent is hallucinating",
+      "summary": "Microsoft released Flint so you can finally map out exactly where your AI agent decided to take a hallucination-fueled detour. It's like a debugger for your code, but for the moments when your bot stops working and starts making things up.",
+      "plain_english": "Microsoft has introduced a new visualization tool called Flint designed to help developers track and understand the decision-making processes of AI agents.",
+      "source_url": "https://microsoft.github.io/flint-chart/#/"
+    },
+    {
+      "id": 7,
+      "domain": "github.com",
+      "headline": "AI makes rewriting your entire codebase as easy as hitting delete",
+      "summary": "We used to fear rewrites because they required actual effort and months of debugging, but now AI makes the process cheap enough to do on a whim. It's like having a printer that can churn out a whole new project while you just watch the ink levels drop.",
+      "plain_english": "Artificial intelligence tools are changing the financial decision-making process for companies choosing between maintaining legacy software or building it from scratch.",
+      "source_url": "https://thetruthasiseeitnow.com/ai-slop-starts-with-the-codebase-itself/"
+    },
+    {
+      "id": 8,
+      "domain": "iers.org",
+      "headline": "The leap second is taking the rest of the year off",
+      "summary": "Engineers everywhere can breathe a sigh of relief knowing they don't have to battle time-sync bugs during their holiday break. It's the rare occasion where doing absolutely nothing is actually the most productive thing we could do.",
+      "plain_english": "International authorities have decided not to add an extra leap second to the clock at the end of 2026.",
+      "source_url": "https://datacenter.iers.org/data/latestVersion/bulletinC.txt"
     }
   ],
   "cooked": [
     {
-      "id": 6,
-      "domain": "openbsd.org",
-      "headline": "OpenBSD's 'secure by default' just got a surprise root access feature",
-      "summary": "OpenBSD is famous for its security-first mindset, so finding a use-after-free bug that leads to root is like finding a typo in a legal document written by a monk. It turns out even the most disciplined systems eventually develop a case of 'oops, I forgot to clean that up.'",
-      "plain_english": "A vulnerability in the OpenBSD operating system allows local users to gain administrative control over the computer.",
-      "source_url": "https://nvd.nist.gov/vuln/detail/cve-2026-57589"
-    },
-    {
-      "id": 7,
-      "domain": "tenda.com.cn",
-      "headline": "Tenda routers come with a pre-installed 'guest pass' for hackers",
-      "summary": "Tenda decided that setting up a secure network was too much work for the average user, so they hardcoded a backdoor directly into the firmware. It's like buying a high-security safe that comes with the master key taped to the outside of the door.",
-      "plain_english": "Several Tenda router models were found to contain a hidden, hardcoded authentication mechanism that allows unauthorized access to the device.",
-      "source_url": "https://kb.cert.org/vuls/id/213560"
-    },
-    {
-      "id": 8,
-      "domain": "github.com",
-      "headline": "GitHub's AI Agent was tricked into being a very helpful mole",
-      "summary": "GitHub built an AI agent to help you code, but it turns out it's also great at giving away your private code to strangers. It's like hiring a security guard who accidentally holds the door open for every burglar because they asked politely.",
-      "plain_english": "Researchers discovered that GitHub's AI assistant could be manipulated to reveal private code repositories.",
-      "source_url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/"
-    },
-    {
       "id": 9,
-      "domain": "meta.com",
-      "headline": "Meta is being fined the entire company, just to keep things interesting",
-      "summary": "Meta is facing a $1.4 trillion penalty for its role in teen mental health, which is a number so large it's basically just the company's entire market cap in a trench coat. It turns out that when you try to monetize human psychology, the bill eventually comes due with a few extra zeros attached.",
-      "plain_english": "Meta is facing legal penalties totaling $1.4 trillion related to accusations regarding the impact of its platforms on teen mental health.",
-      "source_url": "https://nypost.com/2026/07/07/business/meta-says-its-facing-1-4t-in-penalties-in-teen-mental-health-case-sum-equal-to-tech-giants-valuation/"
+      "domain": "europarl.europa.eu",
+      "headline": "EU Chat Control is the digital equivalent of a TSA agent reading your diary",
+      "summary": "The EU has greenlit scanning private messages to catch bad actors, effectively turning every encrypted app into a digital TSA checkpoint. It's a bold strategy to secure the house by installing cameras in every single bedroom drawer.",
+      "plain_english": "The European Parliament has approved legislation that allows for the automated scanning of private digital communications to detect illegal content.",
+      "source_url": "https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/"
     },
     {
       "id": 10,
-      "domain": "microsoft.com",
-      "headline": "Microsoft fires the idTech team, proving no legacy is safe",
-      "summary": "Microsoft just laid off the team responsible for the engine that literally defined the FPS genre for decades. It's the corporate equivalent of firing the person who built the foundation of your house because you decided you wanted to pivot to interior decorating.",
-      "plain_english": "Microsoft has terminated the staff responsible for developing the idTech game engine at the studio id Software.",
-      "source_url": "https://gamefromscratch.com/microsoft-fire-idtech-team-at-id-software/"
+      "domain": "playstation.com",
+      "headline": "Sony thinks your digital library is a gym membership you only use on leap years",
+      "summary": "Sony is reportedly setting an expiration date on your digital games if you don't log in for three years. It turns out you don't actually own your games, you're just renting them until the company decides you've moved on.",
+      "plain_english": "PlayStation may remove access to purchased digital games if the user account has been inactive for three years.",
+      "source_url": "https://www.flatpanelshd.com/news.php?subaction=showfull&id=1783340582"
     }
   ]
 }
