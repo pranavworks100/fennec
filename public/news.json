@@ -1,91 +1,91 @@
 {
   "meta": {
-    "date": "Thursday, July 09, 2026",
-    "scene_summary": "We are busy rewriting everything in Rust while the EU rewrites our right to privacy.",
-    "ratio_statement": "8:2"
+    "date": "Friday, July 10, 2026",
+    "scene_summary": "The industry is currently in a race to see if we can ship products faster than the subpoenas can arrive.",
+    "ratio_statement": "4:6"
   },
   "cooking": [
     {
       "id": 1,
-      "domain": "postgresql.org",
-      "headline": "Postgres in Rust is officially the 'I'll rewrite it myself' final boss",
-      "summary": "Someone finally took the developer mantra of rewriting everything in Rust and actually finished the job for the world's most reliable database. It turns out that passing 100% of the regression tests is the ultimate way to tell your coworkers that your new side project is no longer a toy.",
-      "plain_english": "A developer has successfully rewritten the PostgreSQL database engine using the Rust programming language while maintaining full compatibility with original system testing standards.",
-      "source_url": "https://github.com/malisper/pgrust"
+      "domain": "anthropic.com",
+      "headline": "Anthropic adds a former Fed Chair to their board because AI needs more interest rate anxiety.",
+      "summary": "Anthropic recruited Ben Bernanke to help oversee their AI safety, which is a massive pivot from managing global financial recessions to managing LLM hallucinations. It's comforting to know that if the AI crashes the economy, we'll at least have the guy who wrote the book on how to fix it.",
+      "plain_english": "Former Federal Reserve Chairman Ben Bernanke has joined the board of directors at Anthropic to assist with the company's long-term safety and governance strategy.",
+      "source_url": "https://www.anthropic.com/news/ben-bernanke"
     },
     {
       "id": 2,
-      "domain": "europa.eu",
-      "headline": "The EU is trying to install a global 'send to all' for your private DMs.",
-      "summary": "Lawmakers want to scan your encrypted messages for illegal content, effectively turning 'end. to.",
-      "plain_english": "The European Union is considering new legislation that would require messaging services to scan private user messages for illegal material.",
-      "source_url": "https://cyberinsider.com/eu-now-one-step-away-from-reviving-private-message-scanning-rules/"
+      "domain": "interpol.int",
+      "headline": "Police just performed the ultimate git reset on 5,800 global scammers.",
+      "summary": "Law enforcement agencies across the globe just coordinated a massive takedown, proving that even international fraud rings aren't immune to a sudden, forced deployment of justice. It's the closest thing to a global 'ban user' command that the internet has seen all year.",
+      "plain_english": "International law enforcement agencies arrested 5,800 suspects and seized significant assets as part of a coordinated global operation against online fraud.",
+      "source_url": "https://www.bleepingcomputer.com/news/security/police-arrests-5-800-suspects-in-global-anti-fraud-crackdown/"
     },
     {
       "id": 3,
-      "domain": "deere.com",
-      "headline": "John Deere finally admits that owning a tractor shouldn't require a software license.",
-      "summary": "After years of treating tractors like iPhones that need a Genius Bar appointment, John Deere is finally letting owners fix their own gear. It turns out that 'proprietary software' is just a fancy way to prevent you from using your own wrench.",
-      "plain_english": "John Deere has reached a settlement that allows farmers and independent repair shops to access the tools and software needed to fix John Deere equipment.",
-      "source_url": "https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02"
+      "domain": "github.com",
+      "headline": "GitHub finally put a landlord in charge of every repository",
+      "summary": "GitHub is forcing every repo to have a durable owner, effectively ending the era of 'orphan' code that nobody wants to claim. It's like finally assigning a point person for that one group project file that everyone has been afraid to touch for three years.",
+      "plain_english": "GitHub has implemented a new system to ensure every repository is assigned a permanent, accountable owner to improve security and maintenance.",
+      "source_url": "https://github.blog/security/application-security/how-github-gave-every-repository-a-durable-owner/"
     },
     {
       "id": 4,
-      "domain": "posthog.com",
-      "headline": "PostHog is going open source so you can finally self-host your own data-tracking existential crisis",
-      "summary": "PostHog is making the jump to open source, letting you peek behind the curtain of your own analytics stack. It's like being given the keys to the surveillance van you've been riding in all along.",
-      "plain_english": "PostHog has released its software under an open source license, allowing anyone to inspect, modify, and host the code themselves.",
-      "source_url": "https://github.com/PostHog/posthog-foss"
-    },
-    {
-      "id": 5,
-      "domain": "cognition.ai",
-      "headline": "SWE-1.7 is now smart enough to be your senior dev's replacement",
-      "summary": "Cognition's latest model has reached the intelligence of industry-leading giants, which is great for productivity and terrible for my job security. It's basically the equivalent of the kid in class who finishes the exam in ten minutes and gets a perfect score while you're still reading the instructions.",
-      "plain_english": "The software engineering AI model SWE-1.7 has achieved performance levels comparable to the most advanced AI models currently available.",
-      "source_url": "https://cognition.com/blog/swe-1-7"
-    },
-    {
-      "id": 6,
-      "domain": "microsoft.com",
-      "headline": "Microsoft wants you to visualize why your AI agent is hallucinating",
-      "summary": "Microsoft released Flint so you can finally map out exactly where your AI agent decided to take a hallucination-fueled detour. It's like a debugger for your code, but for the moments when your bot stops working and starts making things up.",
-      "plain_english": "Microsoft has introduced a new visualization tool called Flint designed to help developers track and understand the decision-making processes of AI agents.",
-      "source_url": "https://microsoft.github.io/flint-chart/#/"
-    },
-    {
-      "id": 7,
-      "domain": "github.com",
-      "headline": "AI makes rewriting your entire codebase as easy as hitting delete",
-      "summary": "We used to fear rewrites because they required actual effort and months of debugging, but now AI makes the process cheap enough to do on a whim. It's like having a printer that can churn out a whole new project while you just watch the ink levels drop.",
-      "plain_english": "Artificial intelligence tools are changing the financial decision-making process for companies choosing between maintaining legacy software or building it from scratch.",
-      "source_url": "https://thetruthasiseeitnow.com/ai-slop-starts-with-the-codebase-itself/"
-    },
-    {
-      "id": 8,
-      "domain": "iers.org",
-      "headline": "The leap second is taking the rest of the year off",
-      "summary": "Engineers everywhere can breathe a sigh of relief knowing they don't have to battle time-sync bugs during their holiday break. It's the rare occasion where doing absolutely nothing is actually the most productive thing we could do.",
-      "plain_english": "International authorities have decided not to add an extra leap second to the clock at the end of 2026.",
-      "source_url": "https://datacenter.iers.org/data/latestVersion/bulletinC.txt"
+      "domain": "ituc-csi.org",
+      "headline": "European unions want a 'server overheat' protocol for human employees.",
+      "summary": "Large unions are demanding the right to stop working when temperatures hit 30C, which sounds suspiciously like thermal throttling for people. If your office doesn't have better cooling than a rack of servers, it turns out you might be legally entitled to go home.",
+      "plain_english": "Major labor unions in Europe are requesting that employees be allowed to stop working on days when the temperature exceeds 30 degrees Celsius.",
+      "source_url": "https://novaramedia.com/2026/07/09/europes-largest-unions-demand-right-to-cancel-work-on-days-above-30c/"
     }
   ],
   "cooked": [
     {
+      "id": 5,
+      "domain": "openai.com",
+      "headline": "OpenAI claims they can't search their own logs, which is a bold strategy in a copyright trial",
+      "summary": "OpenAI told the court their training data logs were essentially lost in the void, despite being the same people who built the world's most advanced search tools. It's like a librarian claiming they've never seen a book while standing in the middle of the library.",
+      "plain_english": "The New York Times alleges that OpenAI falsely claimed it could not search its internal records during a legal dispute over copyright infringement.",
+      "source_url": "https://arstechnica.com/tech-policy/2026/07/openai-faked-inability-to-search-training-data-hid-billions-of-logs-nyt-says/"
+    },
+    {
+      "id": 6,
+      "domain": "openai.com",
+      "headline": "OpenAI is playing hide-and-seek with evidence, but the court is not having it",
+      "summary": "Trying to hide billions of logs during a lawsuit is like trying to hide a massive technical debt folder during a code review. You might think you've tucked it away, but eventually, someone is going to run a recursive search and find everything.",
+      "plain_english": "OpenAI is accused of withholding evidence that could prove how it trained its AI models during an ongoing copyright lawsuit.",
+      "source_url": "https://techcrunch.com/2026/07/09/new-york-times-says-openai-hid-evidence-in-chatgpt-copyright-trial/"
+    },
+    {
+      "id": 7,
+      "domain": "china.gov",
+      "headline": "China is trying to put a firewall around their open-source AI models",
+      "summary": "Building open-source AI is supposed to be about global collaboration, but China is now considering restricting access to their models for foreign users. It turns out the 'open' in open-source is becoming more of a suggestion than a promise.",
+      "plain_english": "The Chinese government may implement new rules to prevent users outside of China from accessing and using Chinese artificial intelligence models.",
+      "source_url": "https://www.reuters.com/technology/artificial-intelligence/china-weighs-silicon-curtain-around-sought-after-ai-models-2026-07-08/"
+    },
+    {
+      "id": 8,
+      "domain": "meta.com",
+      "headline": "The EU just told Meta that infinite scrolling is officially bad for your health",
+      "summary": "Meta spent years engineering an algorithm designed to keep you glued to your phone, and now the EU is pointing out that the feature is actually a design flaw. Being legally required to make your product less addictive is the ultimate 'it's not you, it's me' breakup.",
+      "plain_english": "The European Commission has determined that the design of Instagram and Facebook encourages addictive behavior, violating the Digital Services Act.",
+      "source_url": "https://ec.europa.eu/commission/presscorner/home/en"
+    },
+    {
       "id": 9,
-      "domain": "europarl.europa.eu",
-      "headline": "EU Chat Control is the digital equivalent of a TSA agent reading your diary",
-      "summary": "The EU has greenlit scanning private messages to catch bad actors, effectively turning every encrypted app into a digital TSA checkpoint. It's a bold strategy to secure the house by installing cameras in every single bedroom drawer.",
-      "plain_english": "The European Parliament has approved legislation that allows for the automated scanning of private digital communications to detect illegal content.",
-      "source_url": "https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/"
+      "domain": "echat.com",
+      "headline": "China's public QR codes are turning into digital landmines",
+      "summary": "Public infrastructure has become a game of Russian roulette where scanning a menu might actually launch a browser full of scams. It turns out that trusting a paper sticker in a public space is the physical equivalent of clicking a 'you won an iPad' pop-up in 2005.",
+      "plain_english": "Criminals are replacing legitimate public QR codes in China with malicious ones that redirect users to scam or adult websites.",
+      "source_url": "https://www.sixthtone.com/news/1018752/ScanScam:CriminalsRedirectChina’sPublicQRCodestoPorn"
     },
     {
       "id": 10,
-      "domain": "playstation.com",
-      "headline": "Sony thinks your digital library is a gym membership you only use on leap years",
-      "summary": "Sony is reportedly setting an expiration date on your digital games if you don't log in for three years. It turns out you don't actually own your games, you're just renting them until the company decides you've moved on.",
-      "plain_english": "PlayStation may remove access to purchased digital games if the user account has been inactive for three years.",
-      "source_url": "https://www.flatpanelshd.com/news.php?subaction=showfull&id=1783340582"
+      "domain": "theepochtimes.com",
+      "headline": "The CFO speedran a $67M money laundering scheme instead of optimizing the backend.",
+      "summary": "The Epoch Times CFO just pleaded guilty to laundering $67 million, proving that some people treat corporate finance like a high-stakes capture the flag event. It turns out that 'creative accounting' is just a fancy way to land yourself in a federal prison cell.",
+      "plain_english": "The former Chief Financial Officer of The Epoch Times has admitted to participating in a money laundering scheme involving $67 million.",
+      "source_url": "https://apnews.com/article/epoch-times-cfo-indictment-money-laundering-a015b35aaeae44284f0026dc10395acc"
     }
   ]
 }
