@@ -1,91 +1,91 @@
 {
   "meta": {
-    "date": "Friday, July 10, 2026",
-    "scene_summary": "The industry is currently in a race to see if we can ship products faster than the subpoenas can arrive.",
-    "ratio_statement": "4:6"
+    "date": "Saturday, July 11, 2026",
+    "scene_summary": "We are busy building the future on top of fifteen-year-old bugs and business models that expire before the milk.",
+    "ratio_statement": "7:3"
   },
   "cooking": [
     {
       "id": 1,
-      "domain": "anthropic.com",
-      "headline": "Anthropic adds a former Fed Chair to their board because AI needs more interest rate anxiety.",
-      "summary": "Anthropic recruited Ben Bernanke to help oversee their AI safety, which is a massive pivot from managing global financial recessions to managing LLM hallucinations. It's comforting to know that if the AI crashes the economy, we'll at least have the guy who wrote the book on how to fix it.",
-      "plain_english": "Former Federal Reserve Chairman Ben Bernanke has joined the board of directors at Anthropic to assist with the company's long-term safety and governance strategy.",
-      "source_url": "https://www.anthropic.com/news/ben-bernanke"
+      "domain": "openai.com",
+      "headline": "Apple is suing OpenAI because apparently, it's only 'innovation' when they do it.",
+      "summary": "Apple is accusing OpenAI of stealing trade secrets, which is a bold move for a company that practically invented the 'we definitely didn't see your feature request' corporate strategy. It's the tech equivalent of a student suing their classmate for copying the homework they both just scraped off Wikipedia.",
+      "plain_english": "Apple has filed a lawsuit against OpenAI, alleging that former employees took confidential company information and trade secrets when they moved to the AI startup.",
+      "source_url": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/"
     },
     {
       "id": 2,
-      "domain": "interpol.int",
-      "headline": "Police just performed the ultimate git reset on 5,800 global scammers.",
-      "summary": "Law enforcement agencies across the globe just coordinated a massive takedown, proving that even international fraud rings aren't immune to a sudden, forced deployment of justice. It's the closest thing to a global 'ban user' command that the internet has seen all year.",
-      "plain_english": "International law enforcement agencies arrested 5,800 suspects and seized significant assets as part of a coordinated global operation against online fraud.",
-      "source_url": "https://www.bleepingcomputer.com/news/security/police-arrests-5-800-suspects-in-global-anti-fraud-crackdown/"
+      "domain": "meta.com",
+      "headline": "The EU is officially trying to nerf Meta's infinite dopamine loop.",
+      "summary": "The European Union is threatening massive fines if Meta doesn't let users turn off the infinite scroll and autoplay features that keep us mindlessly doomscrolling. It's the digital equivalent of a parent telling you to stop eating candy before dinner or you're getting no allowance.",
+      "plain_english": "The European Union is requiring Meta to offer options to disable infinite scrolling and autoplay videos to comply with new regulations.",
+      "source_url": "https://arstechnica.com/tech-policy/2026/07/disable-auto-play-and-infinite-scroll-or-risk-massive-fines-eu-tells-meta/"
     },
     {
       "id": 3,
-      "domain": "github.com",
-      "headline": "GitHub finally put a landlord in charge of every repository",
-      "summary": "GitHub is forcing every repo to have a durable owner, effectively ending the era of 'orphan' code that nobody wants to claim. It's like finally assigning a point person for that one group project file that everyone has been afraid to touch for three years.",
-      "plain_english": "GitHub has implemented a new system to ensure every repository is assigned a permanent, accountable owner to improve security and maintenance.",
-      "source_url": "https://github.blog/security/application-security/how-github-gave-every-repository-a-durable-owner/"
+      "domain": "spacex.com",
+      "headline": "SpaceX wants to turn low earth orbit into a giant cloud server",
+      "summary": "Elon Musk is planning to launch 100,000 more satellites, because apparently the sky wasn't crowded enough already. It's the ultimate 'move fast and break things' strategy, assuming the thing you're breaking is the view of the stars.",
+      "plain_english": "SpaceX has requested permission to launch an additional 100,000 satellites to significantly increase internet bandwidth capacity.",
+      "source_url": "https://www.zdnet.com/home-and-office/networking/spacex-wants-to-launch-100000-more-starlink-satellites/"
     },
     {
       "id": 4,
-      "domain": "ituc-csi.org",
-      "headline": "European unions want a 'server overheat' protocol for human employees.",
-      "summary": "Large unions are demanding the right to stop working when temperatures hit 30C, which sounds suspiciously like thermal throttling for people. If your office doesn't have better cooling than a rack of servers, it turns out you might be legally entitled to go home.",
-      "plain_english": "Major labor unions in Europe are requesting that employees be allowed to stop working on days when the temperature exceeds 30 degrees Celsius.",
-      "source_url": "https://novaramedia.com/2026/07/09/europes-largest-unions-demand-right-to-cancel-work-on-days-above-30c/"
+      "domain": "nyc.gov",
+      "headline": "NYC decides that 'cancel anytime' shouldn't require a master's degree",
+      "summary": "New York City is finally banning those deceptive subscription traps that make cancelling harder than a LeetCode hard problem. It's about time we stopped needing to call a retention specialist just to stop paying for a service we haven't used since 2022.",
+      "plain_english": "New York City is passing new laws to prevent companies from using confusing or difficult methods to keep customers trapped in unwanted subscription services.",
+      "source_url": "https://www.theguardian.com/us-news/2026/jul/10/new-york-city-deceptive-subscriptions-ban"
+    },
+    {
+      "id": 5,
+      "domain": "github.com",
+      "headline": "Automatic C++ to Rust migration is the ultimate 'it works on my machine' fix",
+      "summary": "Someone built a tool to automatically translate C++ into memory-safe Rust, which is basically the coding equivalent of asking a psychic to rewrite your legacy spaghetti code. It's a bold attempt to save us from ourselves, provided the compiler doesn't have a nervous breakdown during the process.",
+      "plain_english": "A new software tool has been released that automatically converts C++ code into the Rust programming language to improve memory safety.",
+      "source_url": "https://github.com/Cpp2Rust/cpp2rust"
+    },
+    {
+      "id": 6,
+      "domain": "atlassian.com",
+      "headline": "A rare victory for the developer vs. the HR department",
+      "summary": "Atlassian actually lost a wrongful termination case, proving that even corporate legal teams can't always delete an employee like a buggy PR. It turns out that 'cultural fit' isn't a valid sudo command for firing people without cause.",
+      "plain_english": "An Australian court ruled that a software engineer at Atlassian was unfairly fired, marking a significant legal win for an employee in the tech industry.",
+      "source_url": "https://www.nytimes.com/2026/07/10/business/atlassian-tech-worker-wrongful-termination.html"
+    },
+    {
+      "id": 7,
+      "domain": "qwenlm.github.io",
+      "headline": "China is speedrunning open-source diplomacy with AI",
+      "summary": "China is releasing powerful open-source AI models to win global influence, essentially giving the world free homework answers. It turns out the best way to get people to use your tech stack is to stop gatekeeping it.",
+      "plain_english": "China is increasing its international influence by releasing high-performing open-source artificial intelligence models for global use.",
+      "source_url": "https://www.noemamag.com/chinas-open-ai-models-are-advancing-its-global-soft-power/"
     }
   ],
   "cooked": [
     {
-      "id": 5,
-      "domain": "openai.com",
-      "headline": "OpenAI claims they can't search their own logs, which is a bold strategy in a copyright trial",
-      "summary": "OpenAI told the court their training data logs were essentially lost in the void, despite being the same people who built the world's most advanced search tools. It's like a librarian claiming they've never seen a book while standing in the middle of the library.",
-      "plain_english": "The New York Times alleges that OpenAI falsely claimed it could not search its internal records during a legal dispute over copyright infringement.",
-      "source_url": "https://arstechnica.com/tech-policy/2026/07/openai-faked-inability-to-search-training-data-hid-billions-of-logs-nyt-says/"
-    },
-    {
-      "id": 6,
-      "domain": "openai.com",
-      "headline": "OpenAI is playing hide-and-seek with evidence, but the court is not having it",
-      "summary": "Trying to hide billions of logs during a lawsuit is like trying to hide a massive technical debt folder during a code review. You might think you've tucked it away, but eventually, someone is going to run a recursive search and find everything.",
-      "plain_english": "OpenAI is accused of withholding evidence that could prove how it trained its AI models during an ongoing copyright lawsuit.",
-      "source_url": "https://techcrunch.com/2026/07/09/new-york-times-says-openai-hid-evidence-in-chatgpt-copyright-trial/"
-    },
-    {
-      "id": 7,
-      "domain": "china.gov",
-      "headline": "China is trying to put a firewall around their open-source AI models",
-      "summary": "Building open-source AI is supposed to be about global collaboration, but China is now considering restricting access to their models for foreign users. It turns out the 'open' in open-source is becoming more of a suggestion than a promise.",
-      "plain_english": "The Chinese government may implement new rules to prevent users outside of China from accessing and using Chinese artificial intelligence models.",
-      "source_url": "https://www.reuters.com/technology/artificial-intelligence/china-weighs-silicon-curtain-around-sought-after-ai-models-2026-07-08/"
-    },
-    {
       "id": 8,
-      "domain": "meta.com",
-      "headline": "The EU just told Meta that infinite scrolling is officially bad for your health",
-      "summary": "Meta spent years engineering an algorithm designed to keep you glued to your phone, and now the EU is pointing out that the feature is actually a design flaw. Being legally required to make your product less addictive is the ultimate 'it's not you, it's me' breakup.",
-      "plain_english": "The European Commission has determined that the design of Instagram and Facebook encourages addictive behavior, violating the Digital Services Act.",
-      "source_url": "https://ec.europa.eu/commission/presscorner/home/en"
+      "domain": "kernel.org",
+      "headline": "GhostLock has been sitting in Linux for 15 years, just waiting for its moment.",
+      "summary": "Finding a bug that has been hiding in plain sight since 2010 is the ultimate reminder that we are all just building castles on top of very shaky, very old Legos. It turns out the 'it works on my machine' philosophy works even better when you don't check the kernel code for a decade and a half.",
+      "plain_english": "A vulnerability that allows unauthorized access to computer memory has been discovered in all versions of the Linux operating system released over the last fifteen years.",
+      "source_url": "https://nebusec.ai/research/ionstack-part-2/"
     },
     {
       "id": 9,
-      "domain": "echat.com",
-      "headline": "China's public QR codes are turning into digital landmines",
-      "summary": "Public infrastructure has become a game of Russian roulette where scanning a menu might actually launch a browser full of scams. It turns out that trusting a paper sticker in a public space is the physical equivalent of clicking a 'you won an iPad' pop-up in 2005.",
-      "plain_english": "Criminals are replacing legitimate public QR codes in China with malicious ones that redirect users to scam or adult websites.",
-      "source_url": "https://www.sixthtone.com/news/1018752/ScanScam:CriminalsRedirectChina’sPublicQRCodestoPorn"
+      "domain": "meta.com",
+      "headline": "Meta's AI image feature had a shorter shelf life than my last milk carton.",
+      "summary": "Meta rushed out an AI image tool only to pull the plug once users started testing the guardrails. It turns out that 'move fast and break things' is a terrible strategy when your product starts generating content that shouldn't exist.",
+      "plain_english": "Meta has removed a new AI image generation feature following negative feedback from users.",
+      "source_url": "https://www.bbc.com/news/articles/c2dy6e8klw0o"
     },
     {
       "id": 10,
-      "domain": "theepochtimes.com",
-      "headline": "The CFO speedran a $67M money laundering scheme instead of optimizing the backend.",
-      "summary": "The Epoch Times CFO just pleaded guilty to laundering $67 million, proving that some people treat corporate finance like a high-stakes capture the flag event. It turns out that 'creative accounting' is just a fancy way to land yourself in a federal prison cell.",
-      "plain_english": "The former Chief Financial Officer of The Epoch Times has admitted to participating in a money laundering scheme involving $67 million.",
-      "source_url": "https://apnews.com/article/epoch-times-cfo-indictment-money-laundering-a015b35aaeae44284f0026dc10395acc"
+      "domain": "openai.com",
+      "headline": "Companies are realizing that burning VC cash on API calls isn't a business model",
+      "summary": "Businesses spent the last year throwing money at AI like it was a magic vending machine that prints profit. Now they're realizing that paying for expensive tokens to write their emails is just a very fancy way to set money on fire.",
+      "plain_english": "Companies are looking for ways to reduce the high costs associated with using artificial intelligence services.",
+      "source_url": "https://www.economist.com/business/2026/06/14/companies-are-scrambling-to-curtail-soaring-ai-costs"
     }
   ]
 }
