@@ -1,91 +1,91 @@
 {
   "meta": {
-    "date": "Saturday, July 11, 2026",
-    "scene_summary": "We are busy building the future on top of fifteen-year-old bugs and business models that expire before the milk.",
-    "ratio_statement": "7:3"
+    "date": "Sunday, July 12, 2026",
+    "scene_summary": "We're busy teaching AI to act like seniors while we spend our days babysitting the hallucinations and cleaning up the data disasters.",
+    "ratio_statement": "6:4"
   },
   "cooking": [
     {
       "id": 1,
-      "domain": "openai.com",
-      "headline": "Apple is suing OpenAI because apparently, it's only 'innovation' when they do it.",
-      "summary": "Apple is accusing OpenAI of stealing trade secrets, which is a bold move for a company that practically invented the 'we definitely didn't see your feature request' corporate strategy. It's the tech equivalent of a student suing their classmate for copying the homework they both just scraped off Wikipedia.",
-      "plain_english": "Apple has filed a lawsuit against OpenAI, alleging that former employees took confidential company information and trade secrets when they moved to the AI startup.",
-      "source_url": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/"
+      "domain": "nvidia.com",
+      "headline": "Nvidia is basically funding its own revenue growth via a GPU money-laundering loop",
+      "summary": "Nvidia's customers are buying GPUs using money backed by investors who are betting on Nvidia's growth. It's the corporate equivalent of paying your credit card bill with a cash advance from the same bank.",
+      "plain_english": "Nvidia, CoreWeave, and Nebius are involved in a circular financing arrangement where investment capital is used to purchase GPUs, effectively inflating revenue figures.",
+      "source_url": "https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom"
     },
     {
       "id": 2,
-      "domain": "meta.com",
-      "headline": "The EU is officially trying to nerf Meta's infinite dopamine loop.",
-      "summary": "The European Union is threatening massive fines if Meta doesn't let users turn off the infinite scroll and autoplay features that keep us mindlessly doomscrolling. It's the digital equivalent of a parent telling you to stop eating candy before dinner or you're getting no allowance.",
-      "plain_english": "The European Union is requiring Meta to offer options to disable infinite scrolling and autoplay videos to comply with new regulations.",
-      "source_url": "https://arstechnica.com/tech-policy/2026/07/disable-auto-play-and-infinite-scroll-or-risk-massive-fines-eu-tells-meta/"
+      "domain": "x.ai",
+      "headline": "Grok's CLI tool is essentially a 'send my secrets to Elon' button",
+      "summary": "Developers discovered that Grok's build CLI sends a surprising amount of local context back to xAI servers under the hood. It turns out your 'local' AI coding assistant is actually just a pen pal with a very curious roommate in the cloud.",
+      "plain_english": "The command-line interface tool for xAI's Grok transmits more local developer data to the company's servers than many users might expect.",
+      "source_url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547"
     },
     {
       "id": 3,
-      "domain": "spacex.com",
-      "headline": "SpaceX wants to turn low earth orbit into a giant cloud server",
-      "summary": "Elon Musk is planning to launch 100,000 more satellites, because apparently the sky wasn't crowded enough already. It's the ultimate 'move fast and break things' strategy, assuming the thing you're breaking is the view of the stars.",
-      "plain_english": "SpaceX has requested permission to launch an additional 100,000 satellites to significantly increase internet bandwidth capacity.",
-      "source_url": "https://www.zdnet.com/home-and-office/networking/spacex-wants-to-launch-100000-more-starlink-satellites/"
+      "domain": "ordpress.com",
+      "headline": "Terry Tao is basically giving AI a promotion to senior dev",
+      "summary": "Fields Medalist Terry Tao is exploring how coding agents can bridge the gap between legacy apps and modern features. It's like watching a genius try to teach a group project partner how to actually finish the assignment without breaking the repository.",
+      "plain_english": "Mathematician Terry Tao explores the potential for artificial intelligence coding agents to assist in updating and maintaining software applications.",
+      "source_url": "https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/"
     },
     {
       "id": 4,
-      "domain": "nyc.gov",
-      "headline": "NYC decides that 'cancel anytime' shouldn't require a master's degree",
-      "summary": "New York City is finally banning those deceptive subscription traps that make cancelling harder than a LeetCode hard problem. It's about time we stopped needing to call a retention specialist just to stop paying for a service we haven't used since 2022.",
-      "plain_english": "New York City is passing new laws to prevent companies from using confusing or difficult methods to keep customers trapped in unwanted subscription services.",
-      "source_url": "https://www.theguardian.com/us-news/2026/jul/10/new-york-city-deceptive-subscriptions-ban"
+      "domain": "iroh.computer",
+      "headline": "Distributing AI across your friend's laptop is the new peer-to-peer file sharing",
+      "summary": "Iroh is letting you run LLMs across a mesh network, essentially turning every device you own into a tiny, struggling intern. It's a great way to use your phone's battery to help your laptop hallucinate faster.",
+      "plain_english": "This project allows multiple devices to work together to run artificial intelligence models across a decentralized network.",
+      "source_url": "https://www.iroh.computer/blog/mesh-llm"
     },
     {
       "id": 5,
-      "domain": "github.com",
-      "headline": "Automatic C++ to Rust migration is the ultimate 'it works on my machine' fix",
-      "summary": "Someone built a tool to automatically translate C++ into memory-safe Rust, which is basically the coding equivalent of asking a psychic to rewrite your legacy spaghetti code. It's a bold attempt to save us from ourselves, provided the compiler doesn't have a nervous breakdown during the process.",
-      "plain_english": "A new software tool has been released that automatically converts C++ code into the Rust programming language to improve memory safety.",
-      "source_url": "https://github.com/Cpp2Rust/cpp2rust"
+      "domain": "clickhouse.com",
+      "headline": "ClickHouse just made PgBouncer sweat by scaling it to 4x throughput",
+      "summary": "The team essentially gave PgBouncer a triple-shot of espresso to handle massive database connections without falling over. It's the infrastructure equivalent of upgrading from a single-lane road to a highway just in time for rush hour.",
+      "plain_english": "ClickHouse engineers optimized the PgBouncer database connection pooler to support four times the amount of traffic compared to its previous configuration.",
+      "source_url": "https://clickhouse.com/blog/pgbouncer-clickhouse-managed-postgres"
     },
     {
       "id": 6,
-      "domain": "atlassian.com",
-      "headline": "A rare victory for the developer vs. the HR department",
-      "summary": "Atlassian actually lost a wrongful termination case, proving that even corporate legal teams can't always delete an employee like a buggy PR. It turns out that 'cultural fit' isn't a valid sudo command for firing people without cause.",
-      "plain_english": "An Australian court ruled that a software engineer at Atlassian was unfairly fired, marking a significant legal win for an employee in the tech industry.",
-      "source_url": "https://www.nytimes.com/2026/07/10/business/atlassian-tech-worker-wrongful-termination.html"
-    },
-    {
-      "id": 7,
-      "domain": "qwenlm.github.io",
-      "headline": "China is speedrunning open-source diplomacy with AI",
-      "summary": "China is releasing powerful open-source AI models to win global influence, essentially giving the world free homework answers. It turns out the best way to get people to use your tech stack is to stop gatekeeping it.",
-      "plain_english": "China is increasing its international influence by releasing high-performing open-source artificial intelligence models for global use.",
-      "source_url": "https://www.noemamag.com/chinas-open-ai-models-are-advancing-its-global-soft-power/"
+      "domain": "sqlite.org",
+      "headline": "SQLite is finally letting you enforce types, so stop putting 'banana' in your integer columns",
+      "summary": "SQLite built its brand on being the database that never yells at you for bad data types. Now that strict mode is here, it turns out the freedom to store anything anywhere was just a long-term prank on our future selves.",
+      "plain_english": "SQLite has introduced a feature that requires columns to strictly adhere to specific data types, preventing developers from accidentally storing incorrect information.",
+      "source_url": "https://evanhahn.com/prefer-strict-tables-in-sqlite/"
     }
   ],
   "cooked": [
     {
+      "id": 7,
+      "domain": "google.com",
+      "headline": "Big Tech is now officially out-polluting entire European nations",
+      "summary": "Building a digital brain that can write poetry is impressive, but it apparently requires the carbon footprint of a small country to keep the lights on. We're essentially trading the ozone layer for the ability to ask AI to explain why we're running out of electricity.",
+      "plain_english": "The carbon emissions from data centers used by major technology companies have increased significantly, reaching a combined level comparable to one-third of the total emissions of France.",
+      "source_url": "https://www.theguardian.com/us-news/2026/jul/11/microsoft-amazon-google-datacentre-carbon-emissions-france"
+    },
+    {
       "id": 8,
-      "domain": "kernel.org",
-      "headline": "GhostLock has been sitting in Linux for 15 years, just waiting for its moment.",
-      "summary": "Finding a bug that has been hiding in plain sight since 2010 is the ultimate reminder that we are all just building castles on top of very shaky, very old Legos. It turns out the 'it works on my machine' philosophy works even better when you don't check the kernel code for a decade and a half.",
-      "plain_english": "A vulnerability that allows unauthorized access to computer memory has been discovered in all versions of the Linux operating system released over the last fifteen years.",
-      "source_url": "https://nebusec.ai/research/ionstack-part-2/"
+      "domain": "microsoft.com",
+      "headline": "Windows 11 has a 'do not disturb' button for everything except the tracking",
+      "summary": "Microsoft included a GDID tracker in Windows 11 that literally cannot be turned off no matter how many settings you toggle. It is like trying to move out of an apartment, but the landlord has secretly installed a permanent GPS tracker on your soul.",
+      "plain_english": "Windows 11 contains a permanent tracking identifier that users are unable to fully disable through the operating system's settings.",
+      "source_url": "https://www.windowslatest.com/2026/07/10/you-cant-fully-disable-microsofts-gdid-windows-11-tracker-but-these-settings-limit-what-it-captures/"
     },
     {
       "id": 9,
-      "domain": "meta.com",
-      "headline": "Meta's AI image feature had a shorter shelf life than my last milk carton.",
-      "summary": "Meta rushed out an AI image tool only to pull the plug once users started testing the guardrails. It turns out that 'move fast and break things' is a terrible strategy when your product starts generating content that shouldn't exist.",
-      "plain_english": "Meta has removed a new AI image generation feature following negative feedback from users.",
-      "source_url": "https://www.bbc.com/news/articles/c2dy6e8klw0o"
+      "domain": "off-policy.com",
+      "headline": "Managing AI agents is just babysitting code that hallucinates",
+      "summary": "We are trying to build autonomous systems that can govern themselves, but we're mostly just creating more complex layers of bureaucracy for our own bugs. It turns out that when you automate the manager, you just end up with a boss that can't explain why it broke production.",
+      "plain_english": "The article discusses the challenges of creating oversight and control systems for autonomous artificial intelligence agents.",
+      "source_url": "https://www.off-policy.com/dont-go-quietly-into-the-ai-night/"
     },
     {
       "id": 10,
-      "domain": "openai.com",
-      "headline": "Companies are realizing that burning VC cash on API calls isn't a business model",
-      "summary": "Businesses spent the last year throwing money at AI like it was a magic vending machine that prints profit. Now they're realizing that paying for expensive tokens to write their emails is just a very fancy way to set money on fire.",
-      "plain_english": "Companies are looking for ways to reduce the high costs associated with using artificial intelligence services.",
-      "source_url": "https://www.economist.com/business/2026/06/14/companies-are-scrambling-to-curtail-soaring-ai-costs"
+      "domain": "sixthtone.com",
+      "headline": "The ultimate plot twist: AI is so good that humans now have to prove they aren't machines",
+      "summary": "We spent years teaching AI how to mimic human speech, and now we're forced to take personality tests just to prove we aren't scripts. It is the digital equivalent of a group project where you have to prove to the teacher that you actually wrote the essay yourself.",
+      "plain_english": "A Chinese voice actor was required to provide extensive evidence of his human identity after AI detection software incorrectly flagged his work as computer-generated.",
+      "source_url": "https://www.sixthtone.com/news/1018753"
     }
   ]
 }
