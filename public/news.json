@@ -1,91 +1,91 @@
 {
   "meta": {
-    "date": "Sunday, July 12, 2026",
-    "scene_summary": "We're busy teaching AI to act like seniors while we spend our days babysitting the hallucinations and cleaning up the data disasters.",
-    "ratio_statement": "6:4"
+    "date": "Monday, July 13, 2026",
+    "scene_summary": "We are building a future where your AI agent has more access to your root directory than you do to your own electricity.",
+    "ratio_statement": "3:7"
   },
   "cooking": [
     {
       "id": 1,
-      "domain": "nvidia.com",
-      "headline": "Nvidia is basically funding its own revenue growth via a GPU money-laundering loop",
-      "summary": "Nvidia's customers are buying GPUs using money backed by investors who are betting on Nvidia's growth. It's the corporate equivalent of paying your credit card bill with a cash advance from the same bank.",
-      "plain_english": "Nvidia, CoreWeave, and Nebius are involved in a circular financing arrangement where investment capital is used to purchase GPUs, effectively inflating revenue figures.",
-      "source_url": "https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom"
+      "domain": "berkshirehathaway.com",
+      "headline": "Warren Buffett is basically that one developer who refuses to merge until the market crash",
+      "summary": "While everyone else is YOLOing into the latest tech hype, Berkshire Hathaway is sitting on a massive pile of cash waiting for the inevitable production outage. It turns out the best investment strategy is just having enough 'local storage' to buy the dip once the server room catches fire.",
+      "plain_english": "Berkshire Hathaway has accumulated a large amount of cash while reducing its stock market investments in anticipation of a potential economic downturn.",
+      "source_url": "https://www.disruptionbanking.com/2026/07/13/inside-berkshires-397-billion-bet-against-an-overheated-market/"
     },
     {
       "id": 2,
-      "domain": "x.ai",
-      "headline": "Grok's CLI tool is essentially a 'send my secrets to Elon' button",
-      "summary": "Developers discovered that Grok's build CLI sends a surprising amount of local context back to xAI servers under the hood. It turns out your 'local' AI coding assistant is actually just a pen pal with a very curious roommate in the cloud.",
-      "plain_english": "The command-line interface tool for xAI's Grok transmits more local developer data to the company's servers than many users might expect.",
-      "source_url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547"
+      "domain": "github.com",
+      "headline": "Stop giving your AI agents root access to your personal laptop",
+      "summary": "Clawk lets you shove your chaotic AI coding agents into a disposable Linux VM instead of letting them roam free on your machine. It turns out that giving an AI access to your actual file system is like letting a toddler drive your car to the grocery store.",
+      "plain_english": "Clawk is a tool that allows developers to run automated coding agents in isolated virtual environments rather than on their local computers.",
+      "source_url": "https://github.com/clawkwork/clawk"
     },
     {
       "id": 3,
-      "domain": "ordpress.com",
-      "headline": "Terry Tao is basically giving AI a promotion to senior dev",
-      "summary": "Fields Medalist Terry Tao is exploring how coding agents can bridge the gap between legacy apps and modern features. It's like watching a genius try to teach a group project partner how to actually finish the assignment without breaking the repository.",
-      "plain_english": "Mathematician Terry Tao explores the potential for artificial intelligence coding agents to assist in updating and maintaining software applications.",
-      "source_url": "https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/"
-    },
-    {
-      "id": 4,
-      "domain": "iroh.computer",
-      "headline": "Distributing AI across your friend's laptop is the new peer-to-peer file sharing",
-      "summary": "Iroh is letting you run LLMs across a mesh network, essentially turning every device you own into a tiny, struggling intern. It's a great way to use your phone's battery to help your laptop hallucinate faster.",
-      "plain_english": "This project allows multiple devices to work together to run artificial intelligence models across a decentralized network.",
-      "source_url": "https://www.iroh.computer/blog/mesh-llm"
-    },
-    {
-      "id": 5,
-      "domain": "clickhouse.com",
-      "headline": "ClickHouse just made PgBouncer sweat by scaling it to 4x throughput",
-      "summary": "The team essentially gave PgBouncer a triple-shot of espresso to handle massive database connections without falling over. It's the infrastructure equivalent of upgrading from a single-lane road to a highway just in time for rush hour.",
-      "plain_english": "ClickHouse engineers optimized the PgBouncer database connection pooler to support four times the amount of traffic compared to its previous configuration.",
-      "source_url": "https://clickhouse.com/blog/pgbouncer-clickhouse-managed-postgres"
-    },
-    {
-      "id": 6,
-      "domain": "sqlite.org",
-      "headline": "SQLite is finally letting you enforce types, so stop putting 'banana' in your integer columns",
-      "summary": "SQLite built its brand on being the database that never yells at you for bad data types. Now that strict mode is here, it turns out the freedom to store anything anywhere was just a long-term prank on our future selves.",
-      "plain_english": "SQLite has introduced a feature that requires columns to strictly adhere to specific data types, preventing developers from accidentally storing incorrect information.",
-      "source_url": "https://evanhahn.com/prefer-strict-tables-in-sqlite/"
+      "domain": "anthropic.com",
+      "headline": "Anthropic is learning that calling out marketing fluff is the new developer bloodsport.",
+      "summary": "The creator of Zig just publicly dismantled Anthropic's messaging, proving that engineers have zero patience for corporate buzzwords. It's like watching a senior dev tear apart a junior's PR because the documentation claims it's 'revolutionary' while the code is clearly just a wrapper.",
+      "plain_english": "The developer of the Zig programming language has publicly criticized the marketing claims made by the AI company Anthropic.",
+      "source_url": "https://raymyers.org/post/zed-creator-calls-spade-a-spade/"
     }
   ],
   "cooked": [
     {
+      "id": 4,
+      "domain": "x.ai",
+      "headline": "Grok's CLI decided your home directory was a public cloud bucket",
+      "summary": "The Grok CLI tool accidentally uploaded entire user home directories to xAI's servers instead of just the intended files. It turns out the best way to ensure your private SSH keys and config files are backed up is to let an AI hallucinate its own upload path.",
+      "plain_english": "A command-line tool for the Grok AI service incorrectly uploaded sensitive files from users' personal computer folders to the company's servers.",
+      "source_url": "https://twitter.com/i/status/2076598897779020159"
+    },
+    {
+      "id": 5,
+      "domain": "x.ai",
+      "headline": "Grok's 'helpful' assistant just committed your dotfiles to the cloud",
+      "summary": "The Grok CLI tool took the initiative to upload users' entire home directories to xAI's servers without being asked. It is the ultimate 'I helped' moment, assuming your definition of help includes leaking your private environment variables to the internet.",
+      "plain_english": "The Grok command-line interface software mistakenly transmitted entire user directories to the developer's servers, exposing private data.",
+      "source_url": "https://twitter.com/a_green_being/status/2076598897779020159"
+    },
+    {
+      "id": 6,
+      "domain": "eirgrid.ie",
+      "headline": "Ireland is basically just a giant power strip for datacenters now",
+      "summary": "Ireland's datacenters are consuming nearly a quarter of the country's electricity, which is a bold strategy for a nation that isn't just one giant server rack. It's impressive how they've managed to turn an entire country into a massive, inefficient heating element for the cloud.",
+      "plain_english": "Data centers in Ireland now account for 23% of the country's total electricity consumption.",
+      "source_url": "https://www.theregister.com/on-prem/2026/07/11/irish-datacenters-now-guzzle-23-of-the-countrys-electricity/5270013"
+    },
+    {
       "id": 7,
-      "domain": "google.com",
-      "headline": "Big Tech is now officially out-polluting entire European nations",
-      "summary": "Building a digital brain that can write poetry is impressive, but it apparently requires the carbon footprint of a small country to keep the lights on. We're essentially trading the ozone layer for the ability to ask AI to explain why we're running out of electricity.",
-      "plain_english": "The carbon emissions from data centers used by major technology companies have increased significantly, reaching a combined level comparable to one-third of the total emissions of France.",
-      "source_url": "https://www.theguardian.com/us-news/2026/jul/11/microsoft-amazon-google-datacentre-carbon-emissions-france"
+      "domain": "sf.gov",
+      "headline": "The SFPD learned the hard way that 'private' drone footage is an oxymoron",
+      "summary": "The San Francisco police department had their drone footage leaked, proving that even the surveillance state has terrible OpSec. It's the digital equivalent of leaving your private group chat open on the projector during a company all-hands meeting.",
+      "plain_english": "Leaked drone footage from the San Francisco Police Department has revealed details about their urban surveillance operations.",
+      "source_url": "https://www.wired.com/story/sfpd-drone-video-leak-surveillance/"
     },
     {
       "id": 8,
-      "domain": "microsoft.com",
-      "headline": "Windows 11 has a 'do not disturb' button for everything except the tracking",
-      "summary": "Microsoft included a GDID tracker in Windows 11 that literally cannot be turned off no matter how many settings you toggle. It is like trying to move out of an apartment, but the landlord has secretly installed a permanent GPS tracker on your soul.",
-      "plain_english": "Windows 11 contains a permanent tracking identifier that users are unable to fully disable through the operating system's settings.",
-      "source_url": "https://www.windowslatest.com/2026/07/10/you-cant-fully-disable-microsofts-gdid-windows-11-tracker-but-these-settings-limit-what-it-captures/"
+      "domain": "anthropic.com",
+      "headline": "Claude Code is burning tokens like it's a student budget on a Friday night",
+      "summary": "Claude Code consumes 33,000 tokens just to say hello, effectively charging you for the privilege of waiting for it to notice you. It's the digital equivalent of a group project partner who spends the entire meeting organizing their pens before actually starting the essay.",
+      "plain_english": "Claude Code requires a significantly higher amount of data input before beginning a task compared to OpenCode, leading to higher operational costs.",
+      "source_url": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead"
     },
     {
       "id": 9,
-      "domain": "off-policy.com",
-      "headline": "Managing AI agents is just babysitting code that hallucinates",
-      "summary": "We are trying to build autonomous systems that can govern themselves, but we're mostly just creating more complex layers of bureaucracy for our own bugs. It turns out that when you automate the manager, you just end up with a boss that can't explain why it broke production.",
-      "plain_english": "The article discusses the challenges of creating oversight and control systems for autonomous artificial intelligence agents.",
-      "source_url": "https://www.off-policy.com/dont-go-quietly-into-the-ai-night/"
+      "domain": "chromium.org",
+      "headline": "Math.tanh is now a snitch that tells websites which OS you're using",
+      "summary": "Chromium 148 introduced a subtle math precision quirk that allows websites to identify your operating system just by running a single calculation. It's the digital equivalent of someone guessing your home address because you wrote the number seven with a funny little loop at the bottom.",
+      "plain_english": "A minor variation in how the math function Math.tanh works in Chromium 148 allows websites to identify the user's operating system for tracking purposes.",
+      "source_url": "https://scrapfly.dev/posts/browser-math-os-fingerprint/"
     },
     {
       "id": 10,
-      "domain": "sixthtone.com",
-      "headline": "The ultimate plot twist: AI is so good that humans now have to prove they aren't machines",
-      "summary": "We spent years teaching AI how to mimic human speech, and now we're forced to take personality tests just to prove we aren't scripts. It is the digital equivalent of a group project where you have to prove to the teacher that you actually wrote the essay yourself.",
-      "plain_english": "A Chinese voice actor was required to provide extensive evidence of his human identity after AI detection software incorrectly flagged his work as computer-generated.",
-      "source_url": "https://www.sixthtone.com/news/1018753"
+      "domain": "treasury.gov",
+      "headline": "The US financial system is finding out that technical debt isn't just a software problem.",
+      "summary": "Economists are sounding the alarm that the global dominance of the dollar is starting to look like a legacy codebase that hasn't seen a refactor in decades. It turns out that relying on 'it works on my machine' works a lot less well when your machine is the entire global economy.",
+      "plain_english": "The United States is facing challenges that may threaten the long-standing global dominance of the American dollar.",
+      "source_url": "https://www.economist.com/finance-and-economics/2026/07/12/storm-clouds-gather-over-americas-financial-supremacy"
     }
   ]
 }
