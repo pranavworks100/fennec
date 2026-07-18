@@ -1,91 +1,91 @@
 {
   "meta": {
-    "date": "Monday, July 13, 2026",
-    "scene_summary": "We are building a future where your AI agent has more access to your root directory than you do to your own electricity.",
-    "ratio_statement": "3:7"
+    "date": "Saturday, July 18, 2026",
+    "scene_summary": "We are currently in a race to see whether we finish building the future or accidentally automate our own surveillance state first.",
+    "ratio_statement": "4:6"
   },
   "cooking": [
     {
       "id": 1,
-      "domain": "berkshirehathaway.com",
-      "headline": "Warren Buffett is basically that one developer who refuses to merge until the market crash",
-      "summary": "While everyone else is YOLOing into the latest tech hype, Berkshire Hathaway is sitting on a massive pile of cash waiting for the inevitable production outage. It turns out the best investment strategy is just having enough 'local storage' to buy the dip once the server room catches fire.",
-      "plain_english": "Berkshire Hathaway has accumulated a large amount of cash while reducing its stock market investments in anticipation of a potential economic downturn.",
-      "source_url": "https://www.disruptionbanking.com/2026/07/13/inside-berkshires-397-billion-bet-against-an-overheated-market/"
+      "domain": "boeing.com",
+      "headline": "The FAA is letting Boeing grade its own homework again",
+      "summary": "The FAA has decided that Boeing is finally ready to supervise its own safety checks, which feels like letting a student who failed the midterm write their own final exam. I'm sure this will go perfectly, assuming the planes aren't built with the same level of oversight as a legacy codebase with no documentation.",
+      "plain_english": "The Federal Aviation Administration has restored Boeing's authority to approve its own safety certificates for new aircraft.",
+      "source_url": "https://www.cnbc.com/2026/07/17/faa-boeing-737-max-787.html"
     },
     {
       "id": 2,
-      "domain": "github.com",
-      "headline": "Stop giving your AI agents root access to your personal laptop",
-      "summary": "Clawk lets you shove your chaotic AI coding agents into a disposable Linux VM instead of letting them roam free on your machine. It turns out that giving an AI access to your actual file system is like letting a toddler drive your car to the grocery store.",
-      "plain_english": "Clawk is a tool that allows developers to run automated coding agents in isolated virtual environments rather than on their local computers.",
-      "source_url": "https://github.com/clawkwork/clawk"
+      "domain": "isomorphiclabs.com",
+      "headline": "Isomorphic Labs is trying to solve biology with the same math that writes your emails",
+      "summary": "Google's lab is moving beyond AlphaFold to design actual drugs, which is a massive step up from just predicting protein shapes. It's basically the ultimate version of a group project where the AI finally does the lab work instead of just copying the homework.",
+      "plain_english": "Isomorphic Labs has developed a new artificial intelligence system that can design new potential medicines by predicting how molecules will interact.",
+      "source_url": "https://www.isomorphiclabs.com/articles/the-isomorphic-labs-drug-design-engine-unlocks-a-new-frontier"
     },
     {
       "id": 3,
-      "domain": "anthropic.com",
-      "headline": "Anthropic is learning that calling out marketing fluff is the new developer bloodsport.",
-      "summary": "The creator of Zig just publicly dismantled Anthropic's messaging, proving that engineers have zero patience for corporate buzzwords. It's like watching a senior dev tear apart a junior's PR because the documentation claims it's 'revolutionary' while the code is clearly just a wrapper.",
-      "plain_english": "The developer of the Zig programming language has publicly criticized the marketing claims made by the AI company Anthropic.",
-      "source_url": "https://raymyers.org/post/zed-creator-calls-spade-a-spade/"
+      "domain": "pornhub.com",
+      "headline": "Texas just speedran the 'delete domain' button on a major adult site",
+      "summary": "Texas successfully forced a domain registrar to pull the plug on a site for failing to meet state age-verification requirements. It's a bold new strategy where the government decides that if you can't verify your users' IDs, your DNS record doesn't get to exist anymore.",
+      "plain_english": "The state of Texas obtained a court order to suspend a website's domain name because the site did not comply with state laws requiring age verification for visitors.",
+      "source_url": "https://www.texasattorneygeneral.gov/news/releases/attorney-general-ken-paxton-secures-landmark-legal-victory-lock-pornographic-website-domain-and"
+    },
+    {
+      "id": 4,
+      "domain": "stateofopensource.ai",
+      "headline": "Open source AI is basically a group project where everyone is fighting over who writes the README",
+      "summary": "The state of open source AI shows we are currently in the 'everything is a wrapper' phase of the industry's evolution. It turns out that decentralizing intelligence is easy, but agreeing on a license that isn't a legal migraine is apparently the real challenge.",
+      "plain_english": "A new report analyzes the current trends and growth of open source artificial intelligence projects.",
+      "source_url": "https://stateofopensource.ai/"
     }
   ],
   "cooked": [
     {
-      "id": 4,
-      "domain": "x.ai",
-      "headline": "Grok's CLI decided your home directory was a public cloud bucket",
-      "summary": "The Grok CLI tool accidentally uploaded entire user home directories to xAI's servers instead of just the intended files. It turns out the best way to ensure your private SSH keys and config files are backed up is to let an AI hallucinate its own upload path.",
-      "plain_english": "A command-line tool for the Grok AI service incorrectly uploaded sensitive files from users' personal computer folders to the company's servers.",
-      "source_url": "https://twitter.com/i/status/2076598897779020159"
-    },
-    {
       "id": 5,
-      "domain": "x.ai",
-      "headline": "Grok's 'helpful' assistant just committed your dotfiles to the cloud",
-      "summary": "The Grok CLI tool took the initiative to upload users' entire home directories to xAI's servers without being asked. It is the ultimate 'I helped' moment, assuming your definition of help includes leaking your private environment variables to the internet.",
-      "plain_english": "The Grok command-line interface software mistakenly transmitted entire user directories to the developer's servers, exposing private data.",
-      "source_url": "https://twitter.com/a_green_being/status/2076598897779020159"
+      "domain": "spacex.com",
+      "headline": "SpaceX just pulled a 'delete production database' move on its own valuation",
+      "summary": "SpaceX managed to vaporize a trillion dollars of value faster than a junior dev pushing to main on a Friday. It turns out that when your primary product keeps hitting the 'scrub' button, the market stops treating your stock like a moonshot and starts treating it like a group project gone wrong.",
+      "plain_english": "SpaceX stock value dropped significantly following a series of unsuccessful rocket launch attempts.",
+      "source_url": "https://www.businessinsider.com/spacex-stock-drops-new-low-ipo-price-starship-launch-scrubbed-2026-7"
     },
     {
       "id": 6,
-      "domain": "eirgrid.ie",
-      "headline": "Ireland is basically just a giant power strip for datacenters now",
-      "summary": "Ireland's datacenters are consuming nearly a quarter of the country's electricity, which is a bold strategy for a nation that isn't just one giant server rack. It's impressive how they've managed to turn an entire country into a massive, inefficient heating element for the cloud.",
-      "plain_english": "Data centers in Ireland now account for 23% of the country's total electricity consumption.",
-      "source_url": "https://www.theregister.com/on-prem/2026/07/11/irish-datacenters-now-guzzle-23-of-the-countrys-electricity/5270013"
+      "domain": "tp-link.com",
+      "headline": "TP-Link Kasa cameras were basically broadcasting your home location for six years",
+      "summary": "For over half a decade, your smart security camera was leaking your home coordinates via unauthenticated UDP packets. It turns out the only thing your 'secure' home monitor was actually guarding was a direct line to your GPS data for anyone listening.",
+      "plain_english": "A vulnerability in TP-Link Kasa security cameras allowed unauthorized individuals to access the device's home GPS location data for six years.",
+      "source_url": "https://github.com/BadChemical/IoT-Vulnerability-Research-Public/blob/main/TP-Link_Kasa_EC71/Kasa_EC71.md"
     },
     {
       "id": 7,
-      "domain": "sf.gov",
-      "headline": "The SFPD learned the hard way that 'private' drone footage is an oxymoron",
-      "summary": "The San Francisco police department had their drone footage leaked, proving that even the surveillance state has terrible OpSec. It's the digital equivalent of leaving your private group chat open on the projector during a company all-hands meeting.",
-      "plain_english": "Leaked drone footage from the San Francisco Police Department has revealed details about their urban surveillance operations.",
-      "source_url": "https://www.wired.com/story/sfpd-drone-video-leak-surveillance/"
+      "domain": "lg.com",
+      "headline": "LG monitors are now shipping with a side of unwanted ad-ware",
+      "summary": "You bought a high-end display to look at code, but LG decided you should also look at their curated advertisements. It turns out the only thing worse than a dead pixel is a monitor that thinks it's a browser toolbar.",
+      "plain_english": "LG gaming monitors and televisions are automatically installing advertising software on users' computers.",
+      "source_url": "https://www.techradar.com/televisions/lgs-gaming-monitors-and-tvs-are-facing-a-user-revolt"
     },
     {
       "id": 8,
-      "domain": "anthropic.com",
-      "headline": "Claude Code is burning tokens like it's a student budget on a Friday night",
-      "summary": "Claude Code consumes 33,000 tokens just to say hello, effectively charging you for the privilege of waiting for it to notice you. It's the digital equivalent of a group project partner who spends the entire meeting organizing their pens before actually starting the essay.",
-      "plain_english": "Claude Code requires a significantly higher amount of data input before beginning a task compared to OpenCode, leading to higher operational costs.",
-      "source_url": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead"
+      "domain": "meta.com",
+      "headline": "Meta is speedrunning the 'how to look guilty' playbook",
+      "summary": "Senator Josh Hawley claims Meta is actively trying to destroy a whistleblower, which is a bold strategy if your goal is to look like a Bond villain. Apparently, the only thing Meta is better at than building social networks is creating a PR nightmare for themselves.",
+      "plain_english": "A US senator has accused Meta of attempting to undermine and discredit a company whistleblower.",
+      "source_url": "https://www.theguardian.com/technology/2026/jul/17/meta-whistleblower-sarah-wynn-williams-us-senator-josh-hawley"
     },
     {
       "id": 9,
-      "domain": "chromium.org",
-      "headline": "Math.tanh is now a snitch that tells websites which OS you're using",
-      "summary": "Chromium 148 introduced a subtle math precision quirk that allows websites to identify your operating system just by running a single calculation. It's the digital equivalent of someone guessing your home address because you wrote the number seven with a funny little loop at the bottom.",
-      "plain_english": "A minor variation in how the math function Math.tanh works in Chromium 148 allows websites to identify the user's operating system for tracking purposes.",
-      "source_url": "https://scrapfly.dev/posts/browser-math-os-fingerprint/"
+      "domain": "flocksafety.com",
+      "headline": "Flock Safety's surveillance AI just successfully automated a police ambush on a car journalist",
+      "summary": "Flock Safety built a system to track criminals but ended up using it to harass a journalist who was just doing their job. It turns out that when your product relies on 'algorithmic accuracy,' the false positive rate is just a fancy way of saying you're accidentally weaponizing the local police department.",
+      "plain_english": "A journalist was detained by police after an automated license plate recognition system incorrectly flagged their car as suspicious.",
+      "source_url": "https://www.thedrive.com/news/inside-the-flock-dragnet-how-systemic-errors-led-to-police-ambushing-me-for-no-reason"
     },
     {
       "id": 10,
-      "domain": "treasury.gov",
-      "headline": "The US financial system is finding out that technical debt isn't just a software problem.",
-      "summary": "Economists are sounding the alarm that the global dominance of the dollar is starting to look like a legacy codebase that hasn't seen a refactor in decades. It turns out that relying on 'it works on my machine' works a lot less well when your machine is the entire global economy.",
-      "plain_english": "The United States is facing challenges that may threaten the long-standing global dominance of the American dollar.",
-      "source_url": "https://www.economist.com/finance-and-economics/2026/07/12/storm-clouds-gather-over-americas-financial-supremacy"
+      "domain": "texas.gov",
+      "headline": "Texas spent $4.5M on Spy SUVs to scan your phone, which is a very expensive way to get zero matches",
+      "summary": "Texas dropped millions on high-tech surveillance vans designed to scrape phone data in minutes, because apparently, traditional warrants were too much paperwork. It's comforting to know our tax dollars are being spent on hardware that effectively turns the entire state into a giant, overpriced local area network.",
+      "plain_english": "Texas purchased specialized vehicles equipped with technology capable of collecting data from mobile devices in the vicinity.",
+      "source_url": "https://letsaddresstexas.substack.com/p/texas-spent-45-million-on-israeli"
     }
   ]
 }
