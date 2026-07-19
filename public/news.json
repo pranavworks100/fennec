@@ -1,91 +1,91 @@
 {
   "meta": {
-    "date": "Saturday, July 18, 2026",
-    "scene_summary": "We are currently in a race to see whether we finish building the future or accidentally automate our own surveillance state first.",
-    "ratio_statement": "4:6"
+    "date": "Sunday, July 19, 2026",
+    "scene_summary": "We are building infinite models on top of a stack held together by hope and increasingly hallucinated kitchens.",
+    "ratio_statement": "6:4"
   },
   "cooking": [
     {
       "id": 1,
-      "domain": "boeing.com",
-      "headline": "The FAA is letting Boeing grade its own homework again",
-      "summary": "The FAA has decided that Boeing is finally ready to supervise its own safety checks, which feels like letting a student who failed the midterm write their own final exam. I'm sure this will go perfectly, assuming the planes aren't built with the same level of oversight as a legacy codebase with no documentation.",
-      "plain_english": "The Federal Aviation Administration has restored Boeing's authority to approve its own safety certificates for new aircraft.",
-      "source_url": "https://www.cnbc.com/2026/07/17/faa-boeing-737-max-787.html"
+      "domain": "alibabagroup.com",
+      "headline": "Qwen 3.8 is dropping soon, because apparently we weren't already drowning in LLMs.",
+      "summary": "Alibaba is releasing yet another open-weight model to ensure your local machine never actually gets to sleep. It's the perfect addition to the collection of models you downloaded, ran once, and then forgot in a subfolder named 'test_ai_final_v2'.",
+      "plain_english": "Alibaba is preparing to release a new version of its open-weight artificial intelligence model, Qwen 3.8.",
+      "source_url": "https://twitter.com/Alibaba_Qwen/status/2078759124914098291"
     },
     {
       "id": 2,
-      "domain": "isomorphiclabs.com",
-      "headline": "Isomorphic Labs is trying to solve biology with the same math that writes your emails",
-      "summary": "Google's lab is moving beyond AlphaFold to design actual drugs, which is a massive step up from just predicting protein shapes. It's basically the ultimate version of a group project where the AI finally does the lab work instead of just copying the homework.",
-      "plain_english": "Isomorphic Labs has developed a new artificial intelligence system that can design new potential medicines by predicting how molecules will interact.",
-      "source_url": "https://www.isomorphiclabs.com/articles/the-isomorphic-labs-drug-design-engine-unlocks-a-new-frontier"
+      "domain": "alibabagroup.com",
+      "headline": "Qwen 3.8 Max is here to make your token usage feel like a high-stakes gambling addiction.",
+      "summary": "They've introduced a new 'Max' preview, which is basically developer. speak for 'prepare your credit card for a very expensive surprise.' It's the digital equivalent of an all.",
+      "plain_english": "Alibaba has released a preview version of its high-performance AI model, Qwen 3.8 Max, alongside new pricing information.",
+      "source_url": "https://www.qwencloud.com/pricing/token-plan"
     },
     {
       "id": 3,
-      "domain": "pornhub.com",
-      "headline": "Texas just speedran the 'delete domain' button on a major adult site",
-      "summary": "Texas successfully forced a domain registrar to pull the plug on a site for failing to meet state age-verification requirements. It's a bold new strategy where the government decides that if you can't verify your users' IDs, your DNS record doesn't get to exist anymore.",
-      "plain_english": "The state of Texas obtained a court order to suspend a website's domain name because the site did not comply with state laws requiring age verification for visitors.",
-      "source_url": "https://www.texasattorneygeneral.gov/news/releases/attorney-general-ken-paxton-secures-landmark-legal-victory-lock-pornographic-website-domain-and"
+      "domain": "google.com",
+      "headline": "DeepMind wants to solve biology like they're debugging a messy codebase",
+      "summary": "Google is applying the same 'bioresilience' logic to biology that we use to fix broken production environments. Apparently, if you throw enough compute at a virus, it eventually behaves like a patchable bug.",
+      "plain_english": "Google DeepMind and Isomorphic Labs are collaborating on new research to better understand and protect against biological threats using artificial intelligence.",
+      "source_url": "https://deepmind.google/blog/our-approach-to-bioresilience/"
     },
     {
       "id": 4,
-      "domain": "stateofopensource.ai",
-      "headline": "Open source AI is basically a group project where everyone is fighting over who writes the README",
-      "summary": "The state of open source AI shows we are currently in the 'everything is a wrapper' phase of the industry's evolution. It turns out that decentralizing intelligence is easy, but agreeing on a license that isn't a legal migraine is apparently the real challenge.",
-      "plain_english": "A new report analyzes the current trends and growth of open source artificial intelligence projects.",
-      "source_url": "https://stateofopensource.ai/"
+      "domain": "tukaani.org",
+      "headline": "A book about the XZ backdoor proves we're still reading our own trauma",
+      "summary": "The industry is turning the XZ supply chain attack into a thriller novel for developers to read in their downtime. Nothing says 'healthy ecosystem' like needing a coffee-table book to explain how one guy almost broke the entire internet.",
+      "plain_english": "A new book has been published detailing the events of the XZ Utils software supply chain attack.",
+      "source_url": "https://www.half-second.com/"
+    },
+    {
+      "id": 5,
+      "domain": "minecraft.net",
+      "headline": "Minecraft finally upgrades its window-dressing to SDL3",
+      "summary": "Minecraft is moving to SDL3 to handle its graphics and input, proving that even a game made of blocks needs a modern foundation to keep from falling over. It's the digital equivalent of finally replacing the ancient, creaky floorboards in a house you've lived in for fifteen years.",
+      "plain_english": "Minecraft has updated its underlying software library to improve how the game handles graphics and hardware inputs.",
+      "source_url": "https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-4"
+    },
+    {
+      "id": 6,
+      "domain": "anthropic.com",
+      "headline": "Claude Code is now running on Bun and Rust because of course it is",
+      "summary": "Anthropic is layering Bun, Rust, and Claude Code like a developer trying to win a bet about how many abstractions they can fit into one project. It's impressively fast, but it's starting to feel like we're building a spaceship just to check our email.",
+      "plain_english": "The Claude Code assistant tool has been updated to use the Bun runtime and Rust programming language to improve performance.",
+      "source_url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/"
     }
   ],
   "cooked": [
     {
-      "id": 5,
-      "domain": "spacex.com",
-      "headline": "SpaceX just pulled a 'delete production database' move on its own valuation",
-      "summary": "SpaceX managed to vaporize a trillion dollars of value faster than a junior dev pushing to main on a Friday. It turns out that when your primary product keeps hitting the 'scrub' button, the market stops treating your stock like a moonshot and starts treating it like a group project gone wrong.",
-      "plain_english": "SpaceX stock value dropped significantly following a series of unsuccessful rocket launch attempts.",
-      "source_url": "https://www.businessinsider.com/spacex-stock-drops-new-low-ipo-price-starship-launch-scrubbed-2026-7"
-    },
-    {
-      "id": 6,
-      "domain": "tp-link.com",
-      "headline": "TP-Link Kasa cameras were basically broadcasting your home location for six years",
-      "summary": "For over half a decade, your smart security camera was leaking your home coordinates via unauthenticated UDP packets. It turns out the only thing your 'secure' home monitor was actually guarding was a direct line to your GPS data for anyone listening.",
-      "plain_english": "A vulnerability in TP-Link Kasa security cameras allowed unauthorized individuals to access the device's home GPS location data for six years.",
-      "source_url": "https://github.com/BadChemical/IoT-Vulnerability-Research-Public/blob/main/TP-Link_Kasa_EC71/Kasa_EC71.md"
-    },
-    {
       "id": 7,
-      "domain": "lg.com",
-      "headline": "LG monitors are now shipping with a side of unwanted ad-ware",
-      "summary": "You bought a high-end display to look at code, but LG decided you should also look at their curated advertisements. It turns out the only thing worse than a dead pixel is a monitor that thinks it's a browser toolbar.",
-      "plain_english": "LG gaming monitors and televisions are automatically installing advertising software on users' computers.",
-      "source_url": "https://www.techradar.com/televisions/lgs-gaming-monitors-and-tvs-are-facing-a-user-revolt"
+      "domain": "openai.com",
+      "headline": "OpenAI just gave your context window a budget cut",
+      "summary": "OpenAI is shrinking the Codex context window by 100k tokens, proving that even AI models have to deal with mid-quarter austerity measures. It's the digital equivalent of being told the office fridge is now BYOB.",
+      "plain_english": "OpenAI has reduced the amount of information the Codex model can process at one time.",
+      "source_url": "https://github.com/openai/codex/pull/33972/files"
     },
     {
       "id": 8,
-      "domain": "meta.com",
-      "headline": "Meta is speedrunning the 'how to look guilty' playbook",
-      "summary": "Senator Josh Hawley claims Meta is actively trying to destroy a whistleblower, which is a bold strategy if your goal is to look like a Bond villain. Apparently, the only thing Meta is better at than building social networks is creating a PR nightmare for themselves.",
-      "plain_english": "A US senator has accused Meta of attempting to undermine and discredit a company whistleblower.",
-      "source_url": "https://www.theguardian.com/technology/2026/jul/17/meta-whistleblower-sarah-wynn-williams-us-senator-josh-hawley"
+      "domain": "spacex.com",
+      "headline": "SpaceX just went public and the market is already trying to push it off the ledge",
+      "summary": "Investors are already betting against SpaceX just weeks after their IPO, proving that even rocket science isn't immune to a classic Wall Street vibe check. It turns out that when you bring your space company to the public market, you're just another group project for analysts to grade.",
+      "plain_english": "Investors are actively trading against SpaceX's stock shortly after the company became publicly traded.",
+      "source_url": "https://www.ft.com/content/2b96703d-440b-46db-8d86-9fff9ecc59d5"
     },
     {
       "id": 9,
-      "domain": "flocksafety.com",
-      "headline": "Flock Safety's surveillance AI just successfully automated a police ambush on a car journalist",
-      "summary": "Flock Safety built a system to track criminals but ended up using it to harass a journalist who was just doing their job. It turns out that when your product relies on 'algorithmic accuracy,' the false positive rate is just a fancy way of saying you're accidentally weaponizing the local police department.",
-      "plain_english": "A journalist was detained by police after an automated license plate recognition system incorrectly flagged their car as suspicious.",
-      "source_url": "https://www.thedrive.com/news/inside-the-flock-dragnet-how-systemic-errors-led-to-police-ambushing-me-for-no-reason"
+      "domain": "spacex.com",
+      "headline": "Wall Street research on SpaceX is about as independent as a 'my dog ate my homework' excuse",
+      "summary": "Reports suggest that analysts covering SpaceX might be playing favorites rather than looking at the cold, hard data. It's the corporate equivalent of asking your best friend to peer-review your code before you submit it to production.",
+      "plain_english": "There are concerns that financial analysis of SpaceX is biased and lacks true independence from the company.",
+      "source_url": "https://www.ft.com/content/ce345155-d897-4f49-b7c8-13680e3b5434"
     },
     {
       "id": 10,
-      "domain": "texas.gov",
-      "headline": "Texas spent $4.5M on Spy SUVs to scan your phone, which is a very expensive way to get zero matches",
-      "summary": "Texas dropped millions on high-tech surveillance vans designed to scrape phone data in minutes, because apparently, traditional warrants were too much paperwork. It's comforting to know our tax dollars are being spent on hardware that effectively turns the entire state into a giant, overpriced local area network.",
-      "plain_english": "Texas purchased specialized vehicles equipped with technology capable of collecting data from mobile devices in the vicinity.",
-      "source_url": "https://letsaddresstexas.substack.com/p/texas-spent-45-million-on-israeli"
+      "domain": "nyc.gov",
+      "headline": "NYC wants landlords to label AI-generated listings so you know the kitchen is a hallucination",
+      "summary": "New York is considering a law to force landlords to disclose when they use AI to make their shoebox apartments look like mansions. It's the ultimate reality check for when your 'cozy studio' turns out to be a closet with a radiator.",
+      "plain_english": "New York City is proposing a requirement for landlords and real estate agents to disclose if they use artificial intelligence to create images or descriptions for property listings.",
+      "source_url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/"
     }
   ]
 }
