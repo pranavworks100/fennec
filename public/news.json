@@ -1,91 +1,91 @@
 {
   "meta": {
-    "date": "Friday, August 28, 2026",
-    "scene_summary": "We are busy modularizing the apocalypse while Alphabet burns the budget to find out why the lights went out.",
+    "date": "Saturday, August 29, 2026",
+    "scene_summary": "We're busy building the future with robot dogs and AI, while the bill for the electricity and the consequences of our own surveillance tools is finally coming due.",
     "ratio_statement": "6:4"
   },
   "cooking": [
     {
       "id": 1,
       "domain": "anthropic.com",
-      "headline": "The Pentagon just tried to ghost Anthropic and the judge said no",
-      "summary": "The Pentagon attempted to blacklist Anthropic without following the rules, proving that even the military struggles with basic procurement bureaucracy. It's the ultimate 'I'm not talking to you' move, except the judge just forced them to unblock the contact.",
-      "plain_english": "A federal judge ruled that the Department of Defense's decision to blacklist the AI company Anthropic was procedurally invalid.",
-      "source_url": "https://www.reuters.com/legal/government/us-judge-blocks-pentagons-anthropic-blacklisting-2026-08-28/"
+      "headline": "Anthropic just proved that 'National Security' isn't a get-out-of-court-free card",
+      "summary": "The Pentagon tried to use national security as a vague excuse to block Anthropic from certain government contracts, but a judge wasn't buying it. It turns out that even the military has to follow the rules of procurement instead of just pulling the 'top secret' card when they don't like a vendor.",
+      "plain_english": "A judge ruled that the Pentagon improperly used national security concerns to restrict Anthropic from competing for government contracts.",
+      "source_url": "https://www.ibtimes.com/anthropic-just-beat-pentagon-court-judge-said-national-security-was-used-punish-its-ai-rules-3806895"
     },
     {
       "id": 2,
-      "domain": "epa.gov",
-      "headline": "The EPA is essentially setting a 'bypass' flag for data center power consumption.",
-      "summary": "The EPA just issued guidance making it easier for data centers to ignore standard pollution laws to keep the servers running. It turns out that when your AI model needs a small power plant to finish a training run, the environment gets demoted to a background process.",
-      "plain_english": "The Environmental Protection Agency has released new guidelines that allow data centers to bypass certain air pollution regulations to meet their high energy demands.",
-      "source_url": "https://www.epa.gov/newsreleases/epa-issues-permitting-guidance-further-president-trumps-agenda-promoting-data-centers"
+      "domain": "debian.org",
+      "headline": "Debian decides to let AI help write the code that keeps the world running",
+      "summary": "Debian is officially allowing generative AI in its codebase, effectively giving the world's most stable operating system a caffeine-addicted intern. It's the ultimate test of whether 'responsible use' can survive the pressure of a million packages waiting to be merged.",
+      "plain_english": "The Debian project has updated its rules to permit the use of artificial intelligence tools in the development and maintenance of its software.",
+      "source_url": "https://lwn.net/Articles/1091231/"
     },
     {
       "id": 3,
-      "domain": "nature.com",
-      "headline": "Nuclear energy is finally getting the 'microservice' treatment.",
-      "summary": "Smaller reactors are finally making nuclear power viable, promising to fix our energy grid instead of just being a legacy monolith. It's comforting to know we might solve the climate crisis just in time to power the massive energy draw of our own AI-generated garbage.",
-      "plain_english": "Advancements in small modular reactor technology are making nuclear power a more practical and scalable energy solution.",
-      "source_url": "https://www.nature.com/articles/d41586-026-02506-4"
+      "domain": "bostondynamics.com",
+      "headline": "ICE is buying robot dogs, because human employees weren't dystopian enough",
+      "summary": "Federal agencies are spending millions to upgrade their patrol game with Boston Dynamics' mechanical canines. It's the ultimate group project where the hardware is elite, but the ethics committee clearly skipped the sprint planning meeting.",
+      "plain_english": "The U.S.",
+      "source_url": "https://www.404media.co/ice-plans-to-spends-millions-on-boston-dynamics-dog-robots/"
     },
     {
       "id": 4,
-      "domain": "zai-org.github.io",
-      "headline": "GLM-5.3 just dropped and it's actually open",
-      "summary": "In an industry where 'open' usually comes with a 50-page legal document and a subscription fee, this model is actually letting you take the keys. It's refreshing to see a model that doesn't treat its own weights like top-secret government clearance.",
-      "plain_english": "The developers of the GLM-5.3 artificial intelligence model have released the underlying data and code for public use.",
-      "source_url": "https://huggingface.co/zai-org/GLM-5.3"
+      "domain": "libreoffice.org",
+      "headline": "LibreOffice 26.8 is officially an AI-free zone for the paranoid and the productive.",
+      "summary": "While everyone else is busy shoving LLMs into their calculators and toasters, LibreOffice decided that being offline is the new premium feature. It is refreshing to use software that doesn't try to hallucinate your spreadsheet formulas while you're just trying to balance a budget.",
+      "plain_english": "The latest version of the LibreOffice software suite prioritizes local file storage and contains no artificial intelligence features.",
+      "source_url": "https://www.theregister.com/applications/2026/08/28/libreoffice-268-is-out-local-first-and-with-no-ai/5293301"
     },
     {
       "id": 5,
-      "domain": "htmx.org",
-      "headline": "Htmx 4.0 is here to remind us that JS frameworks are just fancy plumbing",
-      "summary": "Htmx 4.0 has arrived to continue its crusade against the modern web's tendency to ship an entire operating system just to render a button. It turns out you don't actually need to re-architect your life every time you want to update a UI element.",
-      "plain_english": "The developers of the htmx software library have released a new version that allows web pages to update content without requiring complex JavaScript frameworks.",
-      "source_url": "https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released"
+      "domain": "github.com",
+      "headline": "Open-source guardrails so your AI doesn't hallucinate a felony",
+      "summary": "Conduct provides guardrails for LLM tool calls, finally acknowledging that giving an AI access to your system is like handing a toddler the keys to a forklift. It's a necessary safety layer for when your model decides that 'delete all files' is the logical solution to a minor syntax error.",
+      "plain_english": "This tool provides security controls for AI models to ensure they perform only authorized actions when using software tools.",
+      "source_url": "https://github.com/sseshachala/conductai"
     },
     {
       "id": 6,
-      "domain": "flatpak.org",
-      "headline": "Flatpak finally gets the 'adult supervision' budget it deserves",
-      "summary": "The Sovereign Tech Agency just dropped €500k to help Flatpak keep the lights on and the dependencies sane. It turns out that building a universal Linux packaging system is actually important, even if it feels like trying to organize a group project where everyone has a different version of the syllabus.",
-      "plain_english": "The Sovereign Tech Agency is providing 500,000 euros to support the development and maintenance of the Flatpak software packaging system for Linux.",
-      "source_url": "https://modal.cx/blog/announcing-flatpak-sta/"
+      "domain": "steampowered.com",
+      "headline": "SteamOS 3.9.0 is here to make your handheld feel like a real PC",
+      "summary": "Valve is pushing another SteamOS update, proving they are the only company that actually enjoys maintaining a Linux distro for gamers. It's nice to see a handheld get more love than my actual workstation gets from my IT department.",
+      "plain_english": "Valve has released a new preview version of its Linux-based operating system for the Steam Deck and other handheld gaming devices.",
+      "source_url": "https://store.steampowered.com/news/app/1675200/view/689767056035283412"
     }
   ],
   "cooked": [
     {
       "id": 7,
-      "domain": "google.com",
-      "headline": "Alphabet is discovering that AI is just a very expensive way to burn cash",
-      "summary": "Alphabet is watching $700 billion evaporate because their AI bills are starting to look like a mid-life crisis spending spree. It turns out that when you trade your profit margins for GPU clusters, the stock market treats your roadmap like a group project you forgot to finish.",
-      "plain_english": "Alphabet's stock price dropped significantly as investors reacted to the high costs associated with maintaining and developing artificial intelligence technology.",
-      "source_url": "https://www.semafor.com/article/08/27/2026/alphabet-stock-sheds-700b-as-ai-bills-climb"
+      "domain": "energy.gov",
+      "headline": "Data centers are realizing that electricity isn't free or infinite",
+      "summary": "The AI boom is hitting a massive wall because data centers are consuming so much power that they are literally running out of juice. It's like throwing a massive house party and realizing you forgot to check if your apartment's breaker box can actually handle the load.",
+      "plain_english": "Data centers are struggling to secure enough electricity to support the rapid growth of AI infrastructure and computing demands.",
+      "source_url": "https://www.politico.com/news/2026/08/24/data-centers-oh-s-t-moment-01046465"
     },
     {
       "id": 8,
-      "domain": "stripe.com",
-      "headline": "Stripe decides buying PayPal is like trying to upgrade a legacy codebase from 1999",
-      "summary": "Stripe walked away from a $50 billion deal for PayPal, proving that sometimes the best way to handle technical debt is to let someone else keep it. It turns out that inheriting a global payment infrastructure is less of a business opportunity and more of a permanent weekend-ruining emergency.",
-      "plain_english": "Stripe has officially ended its efforts to acquire the financial technology company PayPal.",
-      "source_url": "https://www.bloomberg.com/news/articles/2026-08-28/advent-stripe-consortium-is-said-to-drop-pursuit-of-paypal"
+      "domain": "flocksafety.com",
+      "headline": "The irony of a surveillance CEO getting their own home address doxxed",
+      "summary": "The CEO of a company that builds license-plate-tracking cameras for police just found out what it's like to be on the other side of the lens. Apparently, privacy is a great feature for everyone except the person selling the surveillance software.",
+      "plain_english": "The residential address of the CEO of Flock Safety was shared publicly online following a backlash against the company's surveillance technology.",
+      "source_url": "https://www.gadgetreview.com/flock-ceos-address-spread-online-as-surveillance-backlash-explodes"
     },
     {
       "id": 9,
-      "domain": "autistici.org",
-      "headline": "The internet's version of 'I need to see your manager' just nuked a non-profit",
-      "summary": "Autistici/Inventati had their domain seized after a US terrorism designation, which is a pretty aggressive way to handle a service that mostly just provides email and hosting. It's the digital equivalent of the FBI raiding a local library because someone checked out a book they didn't like.",
-      "plain_english": "The non-profit technology organization Autistici/Inventati lost control of its primary website domain following a designation by the United States government.",
-      "source_url": "https://mastodon.bida.im/@cavallette/117172989300228024"
+      "domain": "flocksafety.com",
+      "headline": "When the police department's surveillance tool becomes a stalker's side quest",
+      "summary": "A police officer used a license plate tracking system to monitor his ex-girlfriend over 2,000 times. It turns out that building a database of everyone's movements is a great feature, unless the person holding the keys is a creep.",
+      "plain_english": "A law enforcement officer was arrested for repeatedly misusing a vehicle tracking system to monitor a former partner.",
+      "source_url": "https://www.cnn.com/2026/08/26/us/flock-kentucky-police-officer-arrest"
     },
     {
       "id": 10,
-      "domain": "luanti.org",
-      "headline": "Google Play's AI moderator is hallucinating copyright strikes",
-      "summary": "Luanti got kicked off the Play Store because an automated AI bot decided it was violating copyright, which is ironic for an open-source project. It is the digital equivalent of a bouncer refusing you entry because they don't recognize your face, even though your name is on the guest list.",
-      "plain_english": "The open-source game Luanti was removed from the Google Play Store due to an automated AI system incorrectly flagging it for copyright infringement.",
-      "source_url": "https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai/"
+      "domain": "kalshi.com",
+      "headline": "The 9th Circuit just reminded Kalshi that betting on elections is still a felony in some neighborhoods.",
+      "summary": "Kalshi really thought they could gamify democracy until the courts decided that betting on the government is a bit too spicy for public consumption. It turns out that treating the Senate like a sportsbook might actually land you in a legal side quest you didn't want.",
+      "plain_english": "A federal court has allowed states to continue legal efforts to block a platform from offering financial bets on political election results.",
+      "source_url": "https://azmirror.com/2026/08/28/9th-circuit-sides-with-states-in-kalshi-gambling-fight-potentially-reviving-arizonas-prosecution/"
     }
   ]
 }
