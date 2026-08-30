@@ -1,91 +1,91 @@
 {
   "meta": {
-    "date": "Saturday, August 29, 2026",
-    "scene_summary": "We're busy building the future with robot dogs and AI, while the bill for the electricity and the consequences of our own surveillance tools is finally coming due.",
-    "ratio_statement": "6:4"
+    "date": "Sunday, August 30, 2026",
+    "scene_summary": "We are busy automating ourselves out of a job while the building behind us is already on fire.",
+    "ratio_statement": "3:7"
   },
   "cooking": [
     {
       "id": 1,
-      "domain": "anthropic.com",
-      "headline": "Anthropic just proved that 'National Security' isn't a get-out-of-court-free card",
-      "summary": "The Pentagon tried to use national security as a vague excuse to block Anthropic from certain government contracts, but a judge wasn't buying it. It turns out that even the military has to follow the rules of procurement instead of just pulling the 'top secret' card when they don't like a vendor.",
-      "plain_english": "A judge ruled that the Pentagon improperly used national security concerns to restrict Anthropic from competing for government contracts.",
-      "source_url": "https://www.ibtimes.com/anthropic-just-beat-pentagon-court-judge-said-national-security-was-used-punish-its-ai-rules-3806895"
+      "domain": "linux.org",
+      "headline": "California lawmakers realize you can't verify the age of an open-source kernel",
+      "summary": "California passed an exemption for Linux, finally acknowledging that asking a piece of open-source software to show its ID is a bit of a bureaucratic side quest. It's comforting to know the government understands that the kernel isn't trying to browse restricted sites.",
+      "plain_english": "California has passed a law that exempts software distributed under open-source licenses from new age-verification requirements.",
+      "source_url": "https://www.tomshardware.com/software/linux/california-lawmakers-unanimously-pass-linux-exemption-from-age-verification-law-software-distributed-under-the-gpl-mit-bsd-and-apache-licenses-are-exempt"
     },
     {
       "id": 2,
-      "domain": "debian.org",
-      "headline": "Debian decides to let AI help write the code that keeps the world running",
-      "summary": "Debian is officially allowing generative AI in its codebase, effectively giving the world's most stable operating system a caffeine-addicted intern. It's the ultimate test of whether 'responsible use' can survive the pressure of a million packages waiting to be merged.",
-      "plain_english": "The Debian project has updated its rules to permit the use of artificial intelligence tools in the development and maintenance of its software.",
-      "source_url": "https://lwn.net/Articles/1091231/"
+      "domain": "arp.dev",
+      "headline": "Warp is letting AI agents debug themselves, which is either genius or a horror movie",
+      "summary": "Warp is building self-improving agents that can iterate on their own code, finally automating the most tedious part of the job: arguing with your own terminal. It's all fun and games until the agent decides the best way to fix a bug is to delete your entire production environment.",
+      "plain_english": "Warp has introduced AI agents capable of automatically improving their own code performance and functionality using Claude models.",
+      "source_url": "https://claude.com/blog/how-warp-builds-self-improving-agents-on-claude"
     },
     {
       "id": 3,
-      "domain": "bostondynamics.com",
-      "headline": "ICE is buying robot dogs, because human employees weren't dystopian enough",
-      "summary": "Federal agencies are spending millions to upgrade their patrol game with Boston Dynamics' mechanical canines. It's the ultimate group project where the hardware is elite, but the ethics committee clearly skipped the sprint planning meeting.",
-      "plain_english": "The U.S.",
-      "source_url": "https://www.404media.co/ice-plans-to-spends-millions-on-boston-dynamics-dog-robots/"
-    },
-    {
-      "id": 4,
-      "domain": "libreoffice.org",
-      "headline": "LibreOffice 26.8 is officially an AI-free zone for the paranoid and the productive.",
-      "summary": "While everyone else is busy shoving LLMs into their calculators and toasters, LibreOffice decided that being offline is the new premium feature. It is refreshing to use software that doesn't try to hallucinate your spreadsheet formulas while you're just trying to balance a budget.",
-      "plain_english": "The latest version of the LibreOffice software suite prioritizes local file storage and contains no artificial intelligence features.",
-      "source_url": "https://www.theregister.com/applications/2026/08/28/libreoffice-268-is-out-local-first-and-with-no-ai/5293301"
-    },
-    {
-      "id": 5,
-      "domain": "github.com",
-      "headline": "Open-source guardrails so your AI doesn't hallucinate a felony",
-      "summary": "Conduct provides guardrails for LLM tool calls, finally acknowledging that giving an AI access to your system is like handing a toddler the keys to a forklift. It's a necessary safety layer for when your model decides that 'delete all files' is the logical solution to a minor syntax error.",
-      "plain_english": "This tool provides security controls for AI models to ensure they perform only authorized actions when using software tools.",
-      "source_url": "https://github.com/sseshachala/conductai"
-    },
-    {
-      "id": 6,
-      "domain": "steampowered.com",
-      "headline": "SteamOS 3.9.0 is here to make your handheld feel like a real PC",
-      "summary": "Valve is pushing another SteamOS update, proving they are the only company that actually enjoys maintaining a Linux distro for gamers. It's nice to see a handheld get more love than my actual workstation gets from my IT department.",
-      "plain_english": "Valve has released a new preview version of its Linux-based operating system for the Steam Deck and other handheld gaming devices.",
-      "source_url": "https://store.steampowered.com/news/app/1675200/view/689767056035283412"
+      "domain": "aptera.us",
+      "headline": "Aptera raises $44M to prove that solar-powered cars aren't just a fever dream",
+      "summary": "Aptera is betting $44 million that they can finally put a solar-powered vehicle into production by 2026. It's a bold move for a company trying to convince the world that plugging in is overrated when you can just park in the sun.",
+      "plain_english": "Aptera has secured $44 million in funding to begin the production of their solar-powered electric vehicles by August 2026.",
+      "source_url": "https://frequal.com/aptera/ProductionDealAug2026.html"
     }
   ],
   "cooked": [
     {
+      "id": 4,
+      "domain": "europa.eu",
+      "headline": "EU wants a master key for encryption, because locks are only for honest people",
+      "summary": "The European Commission is trying to force encryption backdoors, effectively asking developers to build a house with a transparent wall for law enforcement. It is the digital equivalent of requiring every apartment building to provide a spare key to the local police department.",
+      "plain_english": "The European Commission is proposing new rules that would require technology companies to create methods for authorities to bypass encryption on private communications.",
+      "source_url": "https://reclaimthenet.org/eu-protecteu-strategy-encryption-backdoor-law-enforcement"
+    },
+    {
+      "id": 5,
+      "domain": "qubes-os.org",
+      "headline": "Qubes OS had a backchannel error, proving even the fortress has a mail slot",
+      "summary": "Qubes OS is designed to be the ultimate digital bunker by isolating everything, but they accidentally left a backdoor in the error reporting system. It turns out that even the most secure operating system can be compromised if you let the trash bin talk to the front door.",
+      "plain_english": "A security vulnerability in Qubes OS allowed attackers to execute unauthorized code through the operating system's error reporting feature.",
+      "source_url": "https://www.qubes-os.org/news/2026/08/29/qsb-118/"
+    },
+    {
+      "id": 6,
+      "domain": "0xcc.io",
+      "headline": "Omarchy: The security equivalent of leaving your house keys in the front door lock",
+      "summary": "This vulnerability essentially lets any user process escalate to root, which is like giving the office intern the CEO's credit card and full admin access. It turns out the 'least privilege' principle was apparently just a suggestion.",
+      "plain_english": "A security flaw has been discovered that allows any user on a system to gain full administrative control.",
+      "source_url": "https://0xcc.io/posts/omarchy-root-creds/"
+    },
+    {
       "id": 7,
-      "domain": "energy.gov",
-      "headline": "Data centers are realizing that electricity isn't free or infinite",
-      "summary": "The AI boom is hitting a massive wall because data centers are consuming so much power that they are literally running out of juice. It's like throwing a massive house party and realizing you forgot to check if your apartment's breaker box can actually handle the load.",
-      "plain_english": "Data centers are struggling to secure enough electricity to support the rapid growth of AI infrastructure and computing demands.",
-      "source_url": "https://www.politico.com/news/2026/08/24/data-centers-oh-s-t-moment-01046465"
+      "domain": "realpage.com",
+      "headline": "Turns out the algorithm setting your rent is now a legal liability",
+      "summary": "Landlords used price-setting software to maximize profits, essentially turning apartment hunting into a high-stakes auction against a black box. Now that regulators are finally catching up, it turns out that 'optimizing market rates' is just a fancy term for price fixing.",
+      "plain_english": "New laws and lawsuits are challenging the use of automated software programs that landlords use to set rental prices.",
+      "source_url": "https://www.morganlewis.com/pubs/2026/08/algorithmic-rent-pricing-litigation-expands-under-new-state-and-local-laws"
     },
     {
       "id": 8,
-      "domain": "flocksafety.com",
-      "headline": "The irony of a surveillance CEO getting their own home address doxxed",
-      "summary": "The CEO of a company that builds license-plate-tracking cameras for police just found out what it's like to be on the other side of the lens. Apparently, privacy is a great feature for everyone except the person selling the surveillance software.",
-      "plain_english": "The residential address of the CEO of Flock Safety was shared publicly online following a backlash against the company's surveillance technology.",
-      "source_url": "https://www.gadgetreview.com/flock-ceos-address-spread-online-as-surveillance-backlash-explodes"
+      "domain": "anthropic.com",
+      "headline": "Claude Code is already cutting your allowance",
+      "summary": "Anthropic is slashing usage limits by 25% just as everyone gets comfortable with the tool. It's like a subscription service that gets worse the more you actually use it.",
+      "plain_english": "Anthropic is reducing the number of requests users can make to Claude Code starting September 14.",
+      "source_url": "https://twitter.com/ClaudeDevs/status/2093742321473065266"
     },
     {
       "id": 9,
-      "domain": "flocksafety.com",
-      "headline": "When the police department's surveillance tool becomes a stalker's side quest",
-      "summary": "A police officer used a license plate tracking system to monitor his ex-girlfriend over 2,000 times. It turns out that building a database of everyone's movements is a great feature, unless the person holding the keys is a creep.",
-      "plain_english": "A law enforcement officer was arrested for repeatedly misusing a vehicle tracking system to monitor a former partner.",
-      "source_url": "https://www.cnn.com/2026/08/26/us/flock-kentucky-police-officer-arrest"
+      "domain": "dhs.gov",
+      "headline": "The DHS is using a 19th-century law to play detective on your DMs",
+      "summary": "The government found a legal loophole so dusty it probably predates the invention of the internet to snoop on private communications. It's a classic case of using 'I found this in the attic' energy to justify modern surveillance.",
+      "plain_english": "The Department of Homeland Security is using a 150-year-old law to obtain private records from journalists and non-profit organizations.",
+      "source_url": "https://www.theguardian.com/us-news/2026/aug/29/trump-dhs-1509-summons-records-journalists-nonprofits"
     },
     {
       "id": 10,
-      "domain": "kalshi.com",
-      "headline": "The 9th Circuit just reminded Kalshi that betting on elections is still a felony in some neighborhoods.",
-      "summary": "Kalshi really thought they could gamify democracy until the courts decided that betting on the government is a bit too spicy for public consumption. It turns out that treating the Senate like a sportsbook might actually land you in a legal side quest you didn't want.",
-      "plain_english": "A federal court has allowed states to continue legal efforts to block a platform from offering financial bets on political election results.",
-      "source_url": "https://azmirror.com/2026/08/28/9th-circuit-sides-with-states-in-kalshi-gambling-fight-potentially-reviving-arizonas-prosecution/"
+      "domain": "mysql.com",
+      "headline": "The 'safe' MySQL upgrade that turned into a production fire drill",
+      "summary": "The team followed the documentation for a routine upgrade, which is basically the tech equivalent of saying 'I'm sure this won't break anything.' It turns out that following the instructions exactly is the quickest way to end up debugging a database failure at 3 AM. More details in the original article.",
+      "plain_english": "A routine MySQL database upgrade resulted in unexpected technical issues and service downtime despite following standard procedures.",
+      "source_url": "https://blog.elis.cc/articles/a-safe-mysql-upgrade-that-wasnt-so-safe/"
     }
   ]
 }
