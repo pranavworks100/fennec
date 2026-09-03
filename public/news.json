@@ -1,91 +1,91 @@
 {
   "meta": {
-    "date": "Wednesday, September 02, 2026",
-    "scene_summary": "We're currently trading our privacy for AI-generated hallucinations and calling it an upgrade.",
-    "ratio_statement": "3:7"
+    "date": "Thursday, September 03, 2026",
+    "scene_summary": "We are currently building the future with the structural integrity of a screen door.",
+    "ratio_statement": "5:5"
   },
   "cooking": [
     {
       "id": 1,
-      "domain": "curl.se",
-      "headline": "Six new curl CVEs just dropped while the AI giants are quiet",
-      "summary": "While OpenAI and Anthropic are busy boasting about their security, the humble tool that actually keeps the internet running just found six new holes in its floorboards. It turns out even the most battle-tested code is just waiting for a rainy day to show its cracks.",
-      "plain_english": "Six security vulnerabilities were discovered in the curl data transfer tool, despite recent claims of superior security from major AI companies.",
-      "source_url": "https://aisle.com/blog/aisle-discovered-six-curl-cves-after-openai-and-anthropic-found-zero"
+      "domain": "nvidia.com",
+      "headline": "Nvidia is buying the neighborhood open-source library",
+      "summary": "Nvidia just bought Hugging Face, effectively turning the internet's favorite open-source AI hub into the company's private R&D department. It's like the popular kid at school buying the library just so they can decide which books are allowed to be checked out.",
+      "plain_english": "Nvidia has acquired the AI platform Hugging Face to integrate its machine learning tools and model hosting services into the Nvidia ecosystem.",
+      "source_url": "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face/"
     },
     {
       "id": 2,
-      "domain": "anthropic.com",
-      "headline": "Anthropic drops two more models because your current stack is already legacy",
-      "summary": "Anthropic released Claude Fable and Mythos 5.1, effectively ensuring that the model you spent all weekend integrating is now officially 'vintage.' It's the software equivalent of buying a new phone only for the manufacturer to announce the next version while you're still waiting for your screen protector to arrive. More details in the original article.",
-      "plain_english": "Anthropic has released two new versions of its artificial intelligence model.",
-      "source_url": "https://www.anthropic.com/claude-fable-and-mythos-5-1"
+      "domain": "tiktok.com",
+      "headline": "4.5 billion TikTok posts are now just a really big CSV file",
+      "summary": "Someone scraped 4.5 billion TikTok posts, which is the digital equivalent of hoarding every single receipt from the last decade of your life. Good luck finding anything useful in that mountain of data without losing your mind in the process.",
+      "plain_english": "A massive dataset containing 4.5 billion social media posts from TikTok has been compiled and made available.",
+      "source_url": "https://tiktok-api.seeksocial.io/"
     },
     {
       "id": 3,
-      "domain": "google.com",
-      "headline": "Google adds 'Cyber' to their model name, as if the internet wasn't already stressful enough",
-      "summary": "Google just launched Gemini 3.8 Flash and a 'Cyber' variant, because apparently, we needed to distinguish between casual AI tasks and ones that sound like they belong in a 90s hacker movie. It's a bold move to market a model like a gaming peripheral, but I suppose we all need a little more 'Cyber' in our lives before the next status update.",
-      "plain_english": "Google has released two new versions of its Gemini artificial intelligence model, including one specifically labeled for security-related tasks.",
-      "source_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/"
+      "domain": "ice.gov",
+      "headline": "ICE bought a 'zero-click' exploit, which is the digital version of a home invasion without a doorbell",
+      "summary": "ICE dropped $2 million on spyware that hacks phones without the user ever touching a button, effectively making your 'ignore' button useless. It's a great reminder that your phone's security is really just a suggestion for anyone with a big enough budget.",
+      "plain_english": "The U.S.",
+      "source_url": "https://www.military.com/ice-has-a-2-million-contract-for-spyware-that-can-hack-phones-without-a-click"
+    },
+    {
+      "id": 4,
+      "domain": "katago.com",
+      "headline": "A human finally found the edge case in the AI Go bot",
+      "summary": "Go grandmaster Shin managed to beat KataGo, proving that even a super-intelligent neural network can still be tricked by a human playing weird enough moves. It turns out that if you play like an absolute chaos agent, the AI's pattern matching eventually just gives up.",
+      "plain_english": "A human professional Go player defeated a highly advanced artificial intelligence program designed to play the board game Go.",
+      "source_url": "https://www.kedglobal.com/artificial-intelligence/newsView/ked202607210007"
+    },
+    {
+      "id": 5,
+      "domain": "pola.rs",
+      "headline": "Polars 2.0 is here, and it's finally time to break your Pandas code.",
+      "summary": "Polars just dropped version 2.0, proving that even the fastest data frames eventually need a major refactor. It's the perfect excuse to spend your entire sprint rewriting working code just to save three milliseconds of runtime.",
+      "plain_english": "Polars has released a major update to its data processing library that introduces significant changes and improvements.",
+      "source_url": "https://pola.rs/posts/announcing-polars-2/"
     }
   ],
   "cooked": [
     {
-      "id": 4,
-      "domain": "amazon.com",
-      "headline": "Amazon allegedly rigged its own ad auctions to pad the margin",
-      "summary": "Amazon is being accused of rigging its ad auctions to ensure they always came out on top, which is like playing a game of poker while owning the deck. It turns out the house doesn't just win; it apparently changes the rules of the game mid-hand to make sure it wins by $20 billion.",
-      "plain_english": "The Federal Trade Commission claims Amazon manipulated its advertising auction system to increase its own profits by $20 billion.",
-      "source_url": "https://arstechnica.com/tech-policy/2026/09/ftc-alleges-amazon-illegally-made-20-billion-by-rigging-billions-of-ad-auctions/"
-    },
-    {
-      "id": 5,
-      "domain": "uber.com",
-      "headline": "Uber is laying off 10% of staff to make the company 'simpler'",
-      "summary": "Uber is cutting 10% of its workforce in a quest to become 'simpler and faster,' which is corporate speak for 'we want the same output with fewer people.' It's the classic tech company strategy of trying to optimize the organization by deleting the humans instead of the technical debt. More details in the original article.",
-      "plain_english": "Uber is reducing its total workforce by 10% as part of an organizational restructuring effort.",
-      "source_url": "https://www.uber.com/us/en/newsroom/simplerfasteruber/"
-    },
-    {
       "id": 6,
-      "domain": "openai.com",
-      "headline": "Apple is doing a forensic audit of an ex-employee's laptop to find OpenAI's secrets",
-      "summary": "Apple is treating a former employee's MacBook like a crime scene to prove OpenAI scraped their proprietary data. It turns out the biggest risk to your intellectual property isn't a sophisticated cyberattack, but just someone taking their work laptop home.",
-      "plain_english": "Apple is using forensic analysis of a former employee's computer as evidence in a legal dispute regarding data usage by OpenAI.",
-      "source_url": "https://9to5mac.com/2026/08/31/apple-openai-forensic-macbook-evidence/"
+      "domain": "huggingface.co",
+      "headline": "Turns out the 'secure' AI sandbox had a screen door",
+      "summary": "A new report confirms that hackers waltzed through OpenAI and Hugging Face's security like they had a master key and a thermos of coffee. It's the digital equivalent of realizing your high-security vault is actually just a cardboard box with 'Do Not Open' written in crayon.",
+      "plain_english": "An investigation found that security vulnerabilities allowed unauthorized access to systems at OpenAI and Hugging Face, leading to a breach of their internal infrastructure.",
+      "source_url": "https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/#core-takeaways-about-this-incident"
     },
     {
       "id": 7,
-      "domain": "fbi.gov",
-      "headline": "Someone is selling 153 million driver's licenses like they're trading cards",
-      "summary": "The FBI is investigating a service that put 153 million driver's licenses up for sale, effectively turning the entire DMV database into a public API. It's the ultimate reminder that your personal data is essentially just a shared file in a very poorly secured group project.",
-      "plain_english": "The FBI is investigating a website that is selling the personal information of over 153 million people, including driver's license details.",
-      "source_url": "https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/"
+      "domain": "openai.com",
+      "headline": "The AI singularity is currently experiencing a collective lunch break",
+      "summary": "ChatGPT, Claude, and Grok all went offline at the same time, proving that even the future of intelligence can't handle a basic infrastructure hiccup. It turns out the smartest tools in the world are just as vulnerable to a server outage as your high school group project website.",
+      "plain_english": "Three major artificial intelligence services experienced a simultaneous system outage, rendering them temporarily unusable.",
+      "source_url": "https://www.macrumors.com/2026/09/03/chatgpt-claude-and-grok-are-down/"
     },
     {
       "id": 8,
-      "domain": "mistral.ai",
-      "headline": "Mistral turns your prompts into their homework by default",
-      "summary": "Mistral decided that your private prompts are now their training data unless you're paying them enough to care. It's essentially the tech equivalent of a teacher photocopying your essay to sell as a textbook.",
-      "plain_english": "Mistral automatically uses data submitted by users to train its models, unless the user has an enterprise subscription.",
-      "source_url": "https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training"
+      "domain": "uber.com",
+      "headline": "Uber is pulling a 'we're just going to step out for milk' on Nigeria and Uganda",
+      "summary": "Uber is shutting down operations in Nigeria and Uganda, proving that even global platforms eventually hit a local edge case they can't debug. It's the corporate equivalent of rage-quitting the server because the latency is just too high.",
+      "plain_english": "Uber has immediately stopped providing ride-hailing services in Nigeria and Uganda.",
+      "source_url": "https://www.bbc.com/news/articles/c86xpv8l9y9o"
     },
     {
       "id": 9,
-      "domain": "perplexity.ai",
-      "headline": "Perplexity is citing an AI-generated echo chamber, and the feedback loop is getting weird",
-      "summary": "Three websites have churned out over 200,000 'best software' pages specifically to be scraped by AI models. It turns out the 'definitive research' you're getting is just an AI reading a list written by another AI for the sole purpose of being read by an AI.",
-      "plain_english": "Three websites created over 200,000 web pages containing software recommendations designed to be read by artificial intelligence, which Perplexity then uses as sources.",
-      "source_url": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/"
+      "domain": "schools.nyc.gov",
+      "headline": "NYC schools treat AI like a smartphone in 2005",
+      "summary": "New York City has officially banned AI in schools, proving that if students find a shortcut, the administration will just declare the shortcut illegal. It is the academic equivalent of banning calculators because you want to see if the kids can still do long division by hand.",
+      "plain_english": "New York City public schools have prohibited the use of artificial intelligence tools by students and staff.",
+      "source_url": "https://www.nytimes.com/2026/09/01/nyregion/ai-ban-schools-nyc.html"
     },
     {
       "id": 10,
-      "domain": "perplexity.ai",
-      "headline": "Perplexity's citations are hallucinating their own homework",
-      "summary": "A third of Perplexity's citations don't actually contain the data they claim to be referencing. It's like turning in a group project where you cited a book that doesn't exist just to pad the bibliography.",
-      "plain_english": "A study found that one-third of the sources cited by Perplexity do not contain the specific information or numbers the tool claims they support.",
-      "source_url": "https://hausresearch.com/reports/perplexity-citation-audit/"
+      "domain": "nytimes.com",
+      "headline": "The New York Times is turning election results into a betting pool.",
+      "summary": "The newsroom is pushing back against management for partnering with a prediction market that lets people bet on the future. It turns out journalists are surprisingly resistant to the idea of their work becoming a side quest for degenerate gamblers.",
+      "plain_english": "Employees at The New York Times and The Athletic are protesting the company's decision to partner with a platform that allows users to place bets on political and economic outcomes.",
+      "source_url": "https://newsguild.org/new-york-times-and-the-athletic-workers-demand-company-scrap-kalshi-deal/"
     }
   ]
 }
