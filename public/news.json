@@ -1,91 +1,91 @@
 {
   "meta": {
-    "date": "Sunday, September 06, 2026",
-    "scene_summary": "We are busy building the future in orbit while our local software continues to ignore the existence of security sandboxes.",
-    "ratio_statement": "7:3"
+    "date": "Monday, September 07, 2026",
+    "scene_summary": "We're busy building the future, but we still haven't figured out how to stop our TVs from eavesdropping or our servers from burning the house down.",
+    "ratio_statement": "5:5"
   },
   "cooking": [
     {
       "id": 1,
-      "domain": "isaraerospace.com",
-      "headline": "Isar Aerospace actually makes it to orbit, proving rockets aren't just expensive fireworks.",
-      "summary": "After the usual developer-style 'it worked on my machine' phase, Isar Aerospace finally hit orbit on their second try. It turns out that if you keep iterating, eventually your hardware stops trying to become an impromptu bonfire.",
-      "plain_english": "Isar Aerospace successfully launched a rocket into orbit and deployed satellites on their second flight attempt.",
-      "source_url": "https://isaraerospace.com/press/history-for-european-spaceflight-isar-aerospace-reaches-orbit-and-deploys-payloads-on-second-flight"
+      "domain": "openai.com",
+      "headline": "Nvidia just handed OpenAI the 'AGI' trophy while selling the stadium",
+      "summary": "Jensen Huang officially declared AGI has arrived, which is a convenient take when you're the one supplying all the chips for the party. It's like a construction company congratulating a homeowner on finishing their house, right before sending the invoice for the bricks.",
+      "plain_english": "Nvidia CEO Jensen Huang publicly stated that artificial general intelligence has been achieved and congratulated OpenAI on the milestone.",
+      "source_url": "https://www.businessinsider.com/nvidia-jensen-huang-agi-openai-astra-ai-2026-9"
     },
     {
       "id": 2,
-      "domain": "ikimedia.org",
-      "headline": "Wikipedia editors finally unionized to protect their sanity",
-      "summary": "The people who spend their lives fixing your typos and citing sources have officially formed a union. It turns out that even the world's largest repository of human knowledge isn't immune to the classic group project struggle.",
-      "plain_english": "Employees of the Wikimedia Foundation have voted to join a labor union to collectively bargain for their working conditions.",
-      "source_url": "https://wikiworkersunited.org/announcements/2026-09-04-us-wikimedia-foundation-workers-overwhelmingly-vote-to-form-union-with-cwa/"
+      "domain": "microsoft.com",
+      "headline": "Switzerland is breaking up with Microsoft for 3,000 computers",
+      "summary": "The Swiss government is replacing Microsoft on thousands of machines, proving that even countries eventually get tired of the enterprise subscription lifecycle. It's the digital equivalent of moving out of your parents' house to finally have control over your own thermostat.",
+      "plain_english": "The Swiss federal government has initiated a pilot program to replace Microsoft software with alternative solutions on 3,000 of its computers.",
+      "source_url": "https://itsfoss.com/news/switzerland-replace-microssoft-pilot/"
     },
     {
       "id": 3,
-      "domain": "apple.com",
-      "headline": "Asahi Linux now runs on M3, assuming you enjoy living life on the edge.",
-      "summary": "Reverse engineering Apple's proprietary silicon is the ultimate 'can I build this in a weekend' side quest that never ends. It is a massive technical achievement for anyone who prefers their shiny hardware to actually run an operating system they own.",
-      "plain_english": "The Asahi Linux project has released support for Apple's M3 processor, though some hardware features are still not fully functional.",
-      "source_url": "https://www.phoronix.com/news/Asahi-Linux-Official-M3"
+      "domain": "vllm.ai",
+      "headline": "vLLM adds AMD support, finally letting your GPUs touch grass",
+      "summary": "vLLM is bringing speculative decoding to AMD hardware, effectively ending the Nvidia monopoly on your local LLM experiments. It's like finally being allowed to use the fancy gym equipment that's been sitting in the corner collecting dust.",
+      "plain_english": "The vLLM software library now supports accelerated AI model performance on AMD graphics cards.",
+      "source_url": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus"
     },
     {
       "id": 4,
-      "domain": "theopenlake.com",
-      "headline": "OpenLake just beat MLPerf, proving storage is finally the bottleneck we all suspected.",
-      "summary": "We spent years obsessing over GPU compute power while our storage systems were busy acting like a dial-up modem at a high-speed data party. It turns out that feeding your models faster is a great way to stop them from idling like a student waiting for the group project partner to show up.",
-      "plain_english": "A company called OpenLake has developed a new storage technology that improves the speed and efficiency of training artificial intelligence models.",
-      "source_url": "https://www.theopenlake.com/blog/openlake-leads-mlperf-storage-v3-0"
+      "domain": "tottenhamhotspur.com",
+      "headline": "Tottenham Hotspur saved 85% on licensing, proving even IT can score",
+      "summary": "Tottenham Hotspur managed to slash their VMware licensing fees by 85% just by migrating to a different stack. It turns out the biggest win for the club this season happened in the server room, not on the pitch.",
+      "plain_english": "Tottenham Hotspur significantly reduced its annual software costs by migrating away from its existing virtualization platform.",
+      "source_url": "https://arstechnica.com/information-technology/2026/09/vmware-migration-reduces-tottenham-hotspurs-licensing-fees-by-85-percent/"
     },
     {
       "id": 5,
-      "domain": "github.com",
-      "headline": "AI agents now have a long-term memory that lives in your Git history",
-      "summary": "We finally found a use for your messy commit history: it's now the permanent storage for your AI agent's brain. It's like giving your coworker a diary they are actually forced to read before starting a task.",
-      "plain_english": "This tool allows artificial intelligence coding assistants to store and retrieve data persistently using Git repositories.",
-      "source_url": "https://github.com/okf-memory/okf-agent-memory"
-    },
-    {
-      "id": 6,
-      "domain": "github.com",
-      "headline": "Obscura wants to liberate your desktop apps from the Chromium bloat",
-      "summary": "Building a desktop app without Chromium is like moving out of a hoarder's house and suddenly having floor space again. It turns out you don't actually need to download half the internet just to render a simple text box.",
-      "plain_english": "Obscura is a framework that allows developers to create desktop applications using native system rendering instead of the resource-heavy Chromium engine.",
-      "source_url": "https://github.com/h4ckf0r0day/obscura"
-    },
-    {
-      "id": 7,
-      "domain": "qbittorrent.org",
-      "headline": "QBittorrent decides the sandbox is just a suggestion",
-      "summary": "QBittorrent has apparently evolved to break out of its container and start committing crimes on the host system. It's the digital equivalent of your cat escaping its crate just to knock a glass of water off your desk.",
-      "plain_english": "A security vulnerability in the QBittorrent software allows the program to bypass sandbox restrictions and access the host computer's file system.",
-      "source_url": "https://beige.party/@intransitivelie/117057396732763183"
+      "domain": "trailofbits.com",
+      "headline": "Sandboxing your AI agents because you don't trust them not to nuke your root directory",
+      "summary": "Trail of Bits released a tool to run AI code agents in isolated VMs, effectively giving your LLM its own personal padded cell. It turns out that letting an AI execute arbitrary shell commands is a lot like giving a toddler a chainsaw and hoping they only use it for arts and crafts.",
+      "plain_english": "A new tool allows developers to run AI-generated code inside secure, isolated virtual environments to prevent potential security risks.",
+      "source_url": "https://github.com/trailofbits/coop"
     }
   ],
   "cooked": [
     {
+      "id": 6,
+      "domain": "liquid.net",
+      "headline": "The 'Federation' just learned that shared keys are basically a communal wallet",
+      "summary": "The Liquid Federation lost $320 million because apparently, keeping a massive pile of Bitcoin in one place is still a security strategy. It's the digital equivalent of leaving the bank vault door propped open with a brick and acting surprised when someone walks out with the cash.",
+      "plain_english": "Hackers stole approximately 4,000 Bitcoin worth about $320 million from a digital wallet managed by the Liquid Federation.",
+      "source_url": "https://twitter.com/Liquid_BTC/status/2096696272447218108"
+    },
+    {
+      "id": 7,
+      "domain": "lg.com",
+      "headline": "LG TVs are listening to your silence even when the screen is off",
+      "summary": "LG smart TVs are reportedly logging audio and snooping on your local network while you aren't even watching. It turns out the 'smart' in smart TV mostly refers to how effectively it functions as an undercover roommate.",
+      "plain_english": "LG smart televisions have been found recording audio and scanning connected home devices even when the displays are powered off.",
+      "source_url": "https://www.notebookcheck.net/LG-smart-TVs-caught-logging-audio-with-screen-off-and-snooping-on-local-devices.1391214.0.html"
+    },
+    {
       "id": 8,
-      "domain": "lausd.net",
-      "headline": "School districts ban AI because they can't handle the world's biggest cheat code.",
-      "summary": "America's largest school districts are hitting the kill switch on AI, effectively deciding that if they can't beat the LLM, they'll just pretend it doesn't exist. It's the academic equivalent of trying to ban the calculator because you're worried students might forget how to do long division.",
-      "plain_english": "The two largest school districts in the United States have implemented bans on the use of artificial intelligence tools in their classrooms.",
-      "source_url": "https://www.techpolicy.press/americas-two-largest-school-districts-impose-ai-moratoriums/"
+      "domain": "openai.com",
+      "headline": "OpenAI is putting your productivity back on a leash",
+      "summary": "OpenAI is bringing back the 5-hour limit for Plus users, proving that unlimited intelligence is actually just a trial subscription. It turns out the future of AI is just getting told to go touch grass once you've hit your quota.",
+      "plain_english": "OpenAI has reinstated a limit that restricts paid users to five hours of usage within a specific timeframe.",
+      "source_url": "https://news.ycombinator.com/item?id=49600233"
     },
     {
       "id": 9,
-      "domain": "google.com",
-      "headline": "Chrome's privacy settings are just suggestions when it's Google",
-      "summary": "Google has once again found a clever way to exempt its own services from the privacy settings you meticulously configured. It's like having a 'Do Not Disturb' sign on your door that the landlord is legally allowed to ignore.",
-      "plain_english": "The Google Chrome browser continues to allow Google services to collect user data even when users have opted out of such tracking through browser settings.",
-      "source_url": "https://lapcatsoftware.com/articles/2026/9/1.html"
+      "domain": "flocksafety.com",
+      "headline": "Flock AI surveillance is getting a bipartisan 'no thank you'",
+      "summary": "Flock Safety's surveillance tech is currently undergoing a vibe check from Republicans who aren't exactly fans of being watched. It turns out that 'law and order' loses its appeal the moment the government starts using the same cameras to watch you.",
+      "plain_english": "United States Republican lawmakers are expressing significant opposition to the use of Flock Safety's AI-powered surveillance cameras.",
+      "source_url": "https://www.ft.com/content/b207536e-6def-4080-878f-d0eba61d11e0"
     },
     {
       "id": 10,
-      "domain": "aerospace.org",
-      "headline": "Space industry realizes that building satellites requires actual humans",
-      "summary": "The space industry is currently panicking because they need to replace war-torn satellites but forgot to hire the engineers to build them. It turns out that 'move fast and break things' is a lot less fun when you run out of spare parts and people who know how to solder them.",
-      "plain_english": "The aerospace industry is struggling to replace satellites lost in conflict due to a shortage of qualified workers.",
-      "source_url": "https://www.defensenews.com/industry/techwatch/2026/09/04/space-industry-lacks-workers-needed-to-rebuild-satellites-lost-in-war-report-says/"
+      "domain": "apple.com",
+      "headline": "Smartphone manufacturers treat EU repairability laws like a 'suggested' syllabus",
+      "summary": "EU regulators are finding that phone makers are ignoring repairability mandates with the same enthusiasm a student gives a group project they plan to drop. It's almost as if shipping a device that's impossible to open is a feature, not a bug, for their business model.",
+      "plain_english": "Major smartphone manufacturers are failing to meet new European Union requirements that mandate easier device repairs for consumers.",
+      "source_url": "https://www.theregister.com/personal-tech/2026/09/07/smartphone-makers-dont-bother-to-comply-with-eu-repairability-requirements/5294532"
     }
   ]
 }
