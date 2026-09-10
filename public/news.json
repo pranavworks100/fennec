@@ -1,91 +1,91 @@
 {
   "meta": {
-    "date": "Wednesday, September 09, 2026",
-    "scene_summary": "We are building the future with one hand and frantically trying to lock the doors with the other.",
-    "ratio_statement": "3:7"
+    "date": "Thursday, September 10, 2026",
+    "scene_summary": "We are building the future on top of legacy code, stolen data, and a growing stack of subscription fees.",
+    "ratio_statement": "5:5"
   },
   "cooking": [
     {
       "id": 1,
-      "domain": "tailwindcss.com",
-      "headline": "Tailwind Labs is moving into the Shopify mansion",
-      "summary": "Tailwind Labs has officially joined Shopify, proving that if you write enough CSS utility classes, you eventually get bought by an e-commerce giant. It's the ultimate developer version of getting drafted into the major leagues after spending years perfecting your swing in the backyard.",
-      "plain_english": "Shopify has acquired the company behind the popular web styling tool Tailwind CSS to integrate its development team and resources.",
-      "source_url": "https://tailwindcss.com/blog/tailwind-is-joining-shopify"
+      "domain": "microsoft.com",
+      "headline": "Microsoft finally admits C++ is the aging parent you keep in the house for sentimental reasons.",
+      "summary": "Rust has officially reached Tier-1 status at Microsoft, joining C# and C++ in the inner circle of languages. It's the ultimate validation for a language that spent years being the 'too cool for school' kid in the corner of the repo.",
+      "plain_english": "Microsoft has officially elevated Rust to a top-tier programming language, meaning it will receive the same level of support and investment as the company's primary development languages.",
+      "source_url": "https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/"
     },
     {
       "id": 2,
-      "domain": "deepseek.com",
-      "headline": "DeepSeek v4.1 is out here gaslighting its own predecessor",
-      "summary": "DeepSeek just dropped a new model that is faster, cheaper, and smarter than the Pro version they released barely any time ago. It's like buying a brand new laptop only to have the manufacturer release a better, cheaper version while your OS is still finishing its first update.",
-      "plain_english": "DeepSeek has released a new AI model that performs better and costs less to use than their previous flagship version.",
-      "source_url": "https://news.ycombinator.com/item?id=49624603"
+      "domain": "miro.com",
+      "headline": "Bending Spoons is buying Miro, so prepare for your infinite canvas to get a subscription fee increase.",
+      "summary": "Bending Spoons is dropping over a billion dollars on a digital whiteboard company that we all use to draw boxes during meetings. It's the ultimate corporate upgrade: paying a premium price for the privilege of moving sticky notes around a screen.",
+      "plain_english": "The software company Bending Spoons has agreed to purchase the online whiteboard and collaboration platform Miro for 1.355 billion dollars.",
+      "source_url": "https://investors.bendingspoons.com/newsroom/bending-spoons-agrees-to-acquire-miro"
     },
     {
       "id": 3,
-      "domain": "meta.com",
-      "headline": "Meta's new agent is just a stalker with a better UI",
-      "summary": "Meta released an AI agent that claims to manage your life, which is a bold move for a company that already knows everything about your search history. It's essentially a personal assistant that understands your DMs better than you do, which is either peak convenience or a total privacy nightmare.",
-      "plain_english": "Meta has introduced a personal artificial intelligence agent designed to assist users with daily tasks and information management.",
-      "source_url": "https://ai.meta.com/muse/"
+      "domain": "cognition.ai",
+      "headline": "Cognition dropped SWE-2, because apparently, the software engineering job market wasn't chaotic enough.",
+      "summary": "Cognition's new model is here to compete with the latest industry giants, proving that the shelf life of a 'state-of-the-art' AI is currently shorter than a carton of milk. It's great to see more competition, provided the model doesn't start hallucinating entire microservice architectures at 3 AM.",
+      "plain_english": "The AI company Cognition has released a new software engineering model called SWE-2 that is designed to perform at the same level as other top-tier AI coding assistants.",
+      "source_url": "https://cognition.com/blog/swe-2"
+    },
+    {
+      "id": 4,
+      "domain": "apple.com",
+      "headline": "Apple finally invented the folding phone, just in time for the rest of the industry to be bored of them",
+      "summary": "Apple has officially announced the iPhone Duo, proving that if you wait long enough, even a folding screen becomes a revolutionary innovation. It is the tech equivalent of showing up to a party two hours late and acting like you are the guest of honor.",
+      "plain_english": "Apple has announced its first foldable smartphone, the iPhone Duo.",
+      "source_url": "https://www.macrumors.com/2026/09/09/apple-announces-foldable-iphone-duo/"
+    },
+    {
+      "id": 5,
+      "domain": "blizzard.com",
+      "headline": "Blizzard devs finally unlocked the 'Union' achievement after years of raid-boss management.",
+      "summary": "After years of crunch culture and internal chaos, Blizzard workers have officially ratified a historic union contract. It turns out that even the most legendary developers eventually realize that 'passion' doesn't pay the mortgage.",
+      "plain_english": "Blizzard employees have successfully negotiated and signed their first formal labor union agreement.",
+      "source_url": "https://www.latimes.com/entertainment-arts/business/story/2026-09-09/blizzard-video-game-workers-ratify-union-contract"
     }
   ],
   "cooked": [
     {
-      "id": 4,
-      "domain": "anthropic.com",
-      "headline": "Anthropic researcher quits, warns that AI might actually be the final boss",
-      "summary": "It turns out the people building the super-intelligent models are just as worried about the 'doomsday' scenario as the rest of us. It is hard to get excited about the future of work when the lead dev is filing a bug report about humanity potentially being deleted.",
-      "plain_english": "A researcher at Anthropic resigned from the company to publicly warn that their artificial intelligence technology could pose a serious risk to human survival.",
-      "source_url": "https://www.politico.eu/article/anthropic-openai-researcher-jacob-coxon-warns-ai-could-kill-humans/"
-    },
-    {
-      "id": 5,
-      "domain": "anthropic.com",
-      "headline": "When the person building the AI safety guardrails decides they'd rather not be there",
-      "summary": "Resigning to warn the public about existential risk is the ultimate 'this meeting could have been an email' moment. It is never a great sign for the roadmap when the person responsible for not destroying the world decides to hand in their badge.",
-      "plain_english": "A staff member has officially resigned from Anthropic, citing concerns about the safety and potential dangers associated with the company's artificial intelligence development.",
-      "source_url": "https://twitter.com/hilbertspaess/status/2097476196791709843#m"
-    },
-    {
       "id": 6,
-      "domain": "meta.com",
-      "headline": "Meta's ad moderation team is currently doing a speedrun to a PR disaster",
-      "summary": "Meta's systems served ads for nudify apps featuring photos of actual children, proving that their content moderation is basically just a 'best effort' feature flag. It turns out that when you rely on AI to filter your ads, you eventually get the worst possible output from the model.",
-      "plain_english": "Facebook and Instagram displayed advertisements for applications that create explicit imagery, which incorrectly used photos of real children.",
-      "source_url": "https://arstechnica.com/tech-policy/2026/09/real-photos-of-young-girls-were-in-nudify-app-ads-on-facebook-instagram/"
+      "domain": "automattic.com",
+      "headline": "The CEO who spent all week fighting on Twitter just got sent to his room by the board.",
+      "summary": "Matt Mullenweg's public crusade against WP Engine has officially spiraled into a forced sabbatical from his own company. It turns out that when you treat your business disputes like a reality TV show, the producers eventually decide to cut your mic.",
+      "plain_english": "The board of directors at Automattic has required CEO Matt Mullenweg to take a leave of absence.",
+      "source_url": "https://techcrunch.com/2026/09/09/automattics-board-forces-ceo-matt-mullenweg-into-leave-of-absence/"
     },
     {
       "id": 7,
-      "domain": "tesla.com",
-      "headline": "Tesla's 'connected car' feature is a nightmare for anyone with a bad ex",
-      "summary": "Tesla's remote access features are so convenient that they let an abusive ex-partner control a vehicle's climate and settings from afar. It's a great example of why 'everything connected' is a terrible idea when your threat model doesn't account for people you actually know.",
-      "plain_english": "A woman's former partner was able to use the remote features of her Tesla vehicle to harass her by controlling settings like the air conditioning.",
-      "source_url": "https://www.theguardian.com/australia-news/2026/sep/09/how-one-womans-tesla-was-remotely-controlled-and-harass-by-her-abusive-ex-partner-ntwnfb"
+      "domain": "shopify.com",
+      "headline": "Shopify realized that 'write once, run anywhere' actually means 'debug twice everywhere'",
+      "summary": "Shopify is ditching React Native to go back to fully native code after years of trying to bridge the gap. It turns out that when you want a high-performance app, the cross-platform bridge is just a very expensive way to find out you should have used Swift and Kotlin from the start.",
+      "plain_english": "Shopify is moving its mobile application development away from the React Native framework to use native programming languages instead.",
+      "source_url": "https://shopify.engineering/back-to-native"
     },
     {
       "id": 8,
-      "domain": "lg.com",
-      "headline": "Your LG TV is acting like a neighborhood watch program you never signed up for",
-      "summary": "LG TVs are scanning your local network for other devices, apparently treating your living room like an open-source project that needs constant auditing. It's comforting to know that even when your TV is offline, it's still trying to figure out if your smart fridge is a security risk.",
-      "plain_english": "LG smart televisions are actively scanning home networks to identify other connected devices even when they are not connected to the internet.",
-      "source_url": "https://arstechnica.com/gadgets/2026/09/lg-tv-shown-capable-of-tracking-user-activity-even-when-offline/"
+      "domain": "amazon.com",
+      "headline": "Amazon is bringing banner ads to your AI chatbot because the internet wasn't cluttered enough already.",
+      "summary": "Amazon is testing ad services within ChatGPT, ensuring that your quest for knowledge is interrupted by a sponsored suggestion for a toaster. It is a bold strategy to turn a sophisticated LLM into a high-tech version of a junk mail flyer.",
+      "plain_english": "Amazon is testing a feature that allows advertisements to appear within interactions on the ChatGPT platform.",
+      "source_url": "https://www.marketingdive.com/news/amazon-pilots-ad-services-in-chatgpt-what-marketers-need-to-know/829945/"
     },
     {
       "id": 9,
-      "domain": "nats.aero",
-      "headline": "UK air traffic control just hit a 404 error in real life",
-      "summary": "The UK's air traffic control system experienced a technical failure, turning thousands of vacation plans into an unintentional airport camping trip. It's the ultimate 'it works on my machine' moment, except the machine is responsible for thousands of tons of metal currently circling at 30,000 feet.",
-      "plain_english": "A technical issue with the United Kingdom's air traffic control systems resulted in widespread flight cancellations and delays across the country.",
-      "source_url": "https://www.bbc.com/news/live/c6x2z0yy32ejt"
+      "domain": "openai.com",
+      "headline": "OpenAI really wants to train on your data, even if you say no",
+      "summary": "OpenAI keeps toggling your 'allow training' setting back to 'on' like a landlord entering your apartment to rearrange the furniture. It turns out the biggest threat to your privacy isn't a hacker, but a UI that treats your opt-out preferences as mere suggestions.",
+      "plain_english": "Users have reported that OpenAI repeatedly resets their privacy settings to allow the company to use their data for training artificial intelligence models after they have previously opted out.",
+      "source_url": "https://news.ycombinator.com/item?id=49643556"
     },
     {
       "id": 10,
-      "domain": "anthropic.com",
-      "headline": "Anthropic is helping build the digital panopticon",
-      "summary": "Anthropic is pivoting from 'Constitutional AI' to 'Constitutional Surveillance' by helping monitor activists. It turns out the alignment problem isn't about preventing robots from killing us, but about helping the authorities track our group chats.",
-      "plain_english": "Anthropic is developing software that uses artificial intelligence to monitor and track the activities of political activists.",
-      "source_url": "https://prospect.org/2026/09/09/anthropic-artificial-intelligence-surveillance-system-monitor-activists/"
+      "domain": "openai.com",
+      "headline": "OpenAI's latest 'breakthrough' might just be your stolen DMs",
+      "summary": "Researchers are pointing out that OpenAI's impressive new capabilities look suspiciously like they were fed a diet of private user conversations. It is the tech equivalent of a student claiming they wrote a brilliant essay while ignoring the fact that they clearly copy-pasted the entire thing from a classmate.",
+      "plain_english": "A researcher has alleged that OpenAI used private user conversations to train its models and then presented the resulting performance improvements as a technological breakthrough.",
+      "source_url": "https://bsky.app/profile/did:plc:ckaz32jwl6t2cno6fmuw2nhn/post/3mv4mt4ikss2d"
     }
   ]
 }
