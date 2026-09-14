@@ -1,91 +1,91 @@
 {
   "meta": {
-    "date": "Sunday, September 13, 2026",
-    "scene_summary": "We are busy building the future, but it keeps accidentally committing war crimes and selling our location history.",
-    "ratio_statement": "4:6"
+    "date": "Monday, September 14, 2026",
+    "scene_summary": "We are busy building a more secure, distributed future while the house we currently live in is actively being set on fire.",
+    "ratio_statement": "5:5"
   },
   "cooking": [
     {
       "id": 1,
-      "domain": "nvidia.com",
-      "headline": "Nvidia says their ROI is 100x, which is definitely not how math works",
-      "summary": "Nvidia claims that for every dollar they invest, they get a hundred back, a financial model that sounds less like a business strategy and more like a pyramid scheme pitch. At this rate, they'll own the entire global GDP by Tuesday if they just keep buying their own GPUs.",
-      "plain_english": "Nvidia refuted claims of artificial revenue growth by stating that their investments generate significant returns.",
-      "source_url": "https://invezz.com/news/2026/09/11/nvidia-says-every-1-it-invests-brings-back-100-so-why-does-the-stock-keep-falling/"
+      "domain": "temporal.io",
+      "headline": "Temporal raises $550M because distributed systems are hard",
+      "summary": "Temporal just hit a $12.55B valuation for ensuring your background jobs actually finish instead of disappearing into the void. Apparently, paying a premium to avoid debugging race conditions at 3 AM is the most profitable business model on earth.",
+      "plain_english": "Temporal raised $550 million to help companies manage complex software workflows that involve multiple steps and potential failures.",
+      "source_url": "https://temporal.io/blog/temporal-raises-usd550m-series-e-at-usd12-55b-valuation-ai"
     },
     {
       "id": 2,
-      "domain": "openai.com",
-      "headline": "Sam Altman says an IPO is off the table, preferring to keep the chaos private.",
-      "summary": "Sam Altman thinks going public is 'ill-advised,' which is just corporate-speak for not wanting to explain their burn rate to a bunch of angry retail investors. It turns out when you are printing money and burning it simultaneously, you prefer the privacy of a private company.",
-      "plain_english": "Sam Altman has stated that OpenAI does not plan to launch an initial public offering in 2026.",
-      "source_url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/"
+      "domain": "apple.com",
+      "headline": "Apple finally lets you trade Siri for an assistant that actually listens",
+      "summary": "Apple is letting you swap Siri out for ChatGPT or Claude, effectively admitting that their own AI is just a placeholder for a better one. It's like being forced to use the school's default browser before finally being allowed to install Chrome.",
+      "plain_english": "Apple is updating its system to allow users to replace the default Siri assistant with third-party artificial intelligence services.",
+      "source_url": "https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude/"
     },
     {
       "id": 3,
-      "domain": "ithspecific.com",
-      "headline": "Finally, an AI benchmark that isn't just a glorified homework assignment",
-      "summary": "Most AI benchmarks are like easy practice tests, but this one forces models to actually work in messy, real-world enterprise codebases. It turns out that writing code for a Fortune 500 company is a lot harder than solving a basic LeetCode problem.",
-      "plain_english": "A new project evaluates artificial intelligence models using actual private code from corporate software projects.",
-      "source_url": "https://withspecific.com/benchmarks/real-swe"
+      "domain": "ubuntu.com",
+      "headline": "Ubuntu swaps C for Rust in coreutils, officially making 'memory safe' the new personality trait.",
+      "summary": "Canonical finally finished porting the foundation of your terminal to Rust, proving that rewrite-it-in-Rust isn't just a meme. It's a great move for safety, even if your legacy shell scripts will still find creative ways to break anyway.",
+      "plain_english": "Ubuntu has completed the process of replacing its core system tools with versions written in the Rust programming language to improve security and performance.",
+      "source_url": "https://www.omgubuntu.co.uk/2026/09/ubuntu-2610-rust-coreutils-complete"
     },
     {
       "id": 4,
-      "domain": "brew.sh",
-      "headline": "Homebrew 7.0.0 is here, so prepare for your terminal to feel fancy",
-      "summary": "Homebrew just dropped version 7.0.0, which is great news if you enjoy typing one command and hoping the entire dependency tree doesn't spontaneously combust. It's the digital equivalent of a software update that somehow makes your Mac feel like it actually does work for a living.",
-      "plain_english": "The Homebrew package manager for macOS and Linux has released its 7.0.0 update.",
-      "source_url": "https://brew.sh/2026/09/13/homebrew-7.0.0/"
+      "domain": "uscis.gov",
+      "headline": "The US government is speedrunning the 'hire anywhere but here' challenge",
+      "summary": "Adding a $100k fee to H-1B visas is a bold strategy if the goal is to convince every tech company to stop hiring in the US entirely. It's like charging a cover fee to a party you're actively trying to clear out.",
+      "plain_english": "A new $100,000 fee for H-1B work visas is causing many technology companies to move their hiring operations to other countries.",
+      "source_url": "https://spectrum.ieee.org/h-1b-visa-us-government"
+    },
+    {
+      "id": 5,
+      "domain": "signal.org",
+      "headline": "Signal finally lets you ditch the phone number, because your digits are just baggage anyway.",
+      "summary": "Signal is moving to zero-knowledge proofs so you can stop handing your phone number out like a business card at a networking event. It's the ultimate privacy upgrade for people who treat their phone number like a state secret.",
+      "plain_english": "Signal is updating its registration process to allow users to sign up without providing a phone number by using advanced cryptographic verification methods.",
+      "source_url": "https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10"
     }
   ],
   "cooked": [
     {
-      "id": 5,
-      "domain": "anthropic.com",
-      "headline": "The person building the AI god says we should probably stop",
-      "summary": "Anthropic's CEO is officially asking to slow down the very race he is currently winning. It is like the guy who just finished the group project early telling the rest of the class not to turn it in.",
-      "plain_english": "The CEO of Anthropic has publicly suggested that the development of advanced artificial intelligence should be slowed down to ensure safety.",
-      "source_url": "https://www.bbc.com/news/articles/c14dpgm0rg4o"
-    },
-    {
       "id": 6,
-      "domain": "revolut.com",
-      "headline": "Revolut got phished by someone pretending to be the government",
-      "summary": "Revolut confirmed they leaked customer data because they fell for a fake government request. Apparently, their security protocol was just 'trust me, I'm the government' and it worked.",
-      "plain_english": "Revolut experienced a data breach after attackers used fraudulent requests that impersonated government agencies to gain access to customer information.",
-      "source_url": "https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/"
+      "domain": "chess.com",
+      "headline": "Chess.com gets checkmated by scrapers, proving that even grandmasters can't defend against a public API.",
+      "summary": "Over 7 million users had their data leaked because someone decided that scraping the entire site was easier than actually learning how to play the game. It's the digital equivalent of losing your queen in the first three moves because you were too busy looking at your phone.",
+      "plain_english": "A data breach involving 7.3 million Chess.com user accounts occurred due to unauthorized automated data collection from the website.",
+      "source_url": "https://securityaffairs.com/197174/breaking-news/chess-com-leak-exposes-7-3-million-users-evidence-points-to-scraping.html"
     },
     {
       "id": 7,
-      "domain": "anthropic.com",
-      "headline": "Anthropic's 'Helpful Assistant' is accidentally helping with war crimes",
-      "summary": "Anthropic built an AI to help developers write clean code, only to find it successfully debugging missile guidance systems for militants. It turns out the 'alignment problem' is a lot harder when your user's definition of an optimized loop involves ballistics.",
-      "plain_english": "Anthropic reported that its AI coding tool was used by Houthi forces to assist in the development of software for missile systems.",
-      "source_url": "https://clashreport.com/world/articles/houthis-used-claude-code-to-develop-missile-guidance-software-anthropic-s52mnx4pwpo"
+      "domain": "microsoft.com",
+      "headline": "Microsoft patches Windows and breaks the only three things you actually do",
+      "summary": "Microsoft pushed an update to fix security holes, but somehow managed to disable audio, remote access, and the ability to copy-paste. It is truly an impressive feat to make a computer less functional than a paperweight during a routine maintenance check.",
+      "plain_english": "A recent software update from Microsoft has caused audio, remote access, and copy-paste functions to stop working on Windows and Excel.",
+      "source_url": "https://www.theregister.com/os-platforms/2026/09/14/microsoft-patches-windows-and-excel-breaks-audio-remote-access-and-paste/5296085"
     },
     {
       "id": 8,
-      "domain": "automattic.com",
-      "headline": "The 'I quit, wait no I don't' speedrun is now complete.",
-      "summary": "Matt Mullenweg returned as CEO just two days after his departure, proving that corporate exits are basically the 'I'm leaving this group chat' of the tech world. It is the ultimate power move to realize you forgot your password or just really missed the commute.",
-      "plain_english": "Matt Mullenweg has resumed his role as the CEO of Automattic two days after previously leaving the position.",
-      "source_url": "https://www.theverge.com/tech/994087/matt-mullenweg-automattic-ceo-return"
+      "domain": "openai.com",
+      "headline": "OpenAI bots were apparently lurking in RubyGems, watching the house burn down.",
+      "summary": "It turns out OpenAI's bots were aware of a RubyGems caching vulnerability while everyone else was still trying to figure out why their builds were acting possessed. It's comforting to know the AI is smart enough to spot a security hole, but apparently too polite to mention it until the party is over.",
+      "plain_english": "OpenAI's automated systems identified a security vulnerability in the RubyGems package repository before it was publicly disclosed.",
+      "source_url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/"
     },
     {
       "id": 9,
-      "domain": "zoom.com",
-      "headline": "Zoom is reading your clipboard like a nosy roommate",
-      "summary": "The Linux Zoom client is proactively scanning your clipboard for no apparent reason other than to make you paranoid. It's the digital equivalent of someone hovering over your shoulder while you type your password.",
-      "plain_english": "The Zoom application for Linux is accessing the contents of the system clipboard at all times.",
-      "source_url": "https://hachyderm.io/@simontatham/117201594980991062"
+      "domain": "samsung.com",
+      "headline": "Manufacturers accidentally granted every Android app root access to your device",
+      "summary": "OEMs somehow managed to leave a backdoor open that lets any random app take full control of your phone. It is essentially the digital equivalent of leaving your house keys in the front door lock and hoping nobody notices.",
+      "plain_english": "A security vulnerability in several Android smartphones allows applications to gain administrative control over the device without the user's permission.",
+      "source_url": "https://calif.io/research/oempocalypse"
     },
     {
       "id": 10,
-      "domain": "n/a",
-      "headline": "Your car now has a side hustle selling your location data",
-      "summary": "Modern vehicles are collecting enough telemetry to know exactly which drive-thru you're frequenting while you're still in the parking lot. It's comforting to know that your car is basically a giant tracking cookie that requires an oil change.",
-      "plain_english": "Many modern vehicle manufacturers collect and sell personal data, such as location and driving habits, to third-party companies.",
-      "source_url": "https://www.theverge.com/column/994172/your-car-is-selling-your-data"
+      "domain": "tiktok.com",
+      "headline": "TikTok lied about child safety, proving their 'parental controls' were just a suggestion",
+      "summary": "A Texas judge ruled that TikTok misled parents about their child safety features, which is a bold strategy for a company that already lives in a glass house. It turns out the safety settings were about as effective as a 'do not touch' sign on a toddler's favorite toy.",
+      "plain_english": "A court ruled that TikTok provided false information regarding the effectiveness of its safety tools designed to protect children on the platform.",
+      "source_url": "https://www.reuters.com/legal/litigation/texas-judge-rules-tiktok-misled-users-child-safety-feature-2026-09-11/"
     }
   ]
 }
