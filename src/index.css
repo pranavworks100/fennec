@@ -579,8 +579,8 @@ a { color: inherit; text-decoration: none; }
   }
 
   .scene-label {
-    font-size: 18px;
-    line-height: 1.25;
+    font-size: inherit;
+    line-height: inherit;
   }
 
   .scene-summary {
@@ -703,7 +703,7 @@ a { color: inherit; text-decoration: none; }
   }
 
   .scene-label {
-    font-size: 17px;
+    font-size: inherit;
   }
 
   .ratio-bar-container {
