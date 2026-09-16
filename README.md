@@ -43,7 +43,7 @@ A **Vite + React + TypeScript** frontend hosted on **GitHub Pages** reads `news.
 ### 1. Clone and install
 
 ```bash
-git clone https://github.com/yourusername/fennec.git
+git clone https://github.com/pranavworks100/fennec.git
 cd fennec
 ./dev.sh --setup
 ```
@@ -85,7 +85,7 @@ Go to your repo → **Settings** → **Pages** → Source: **GitHub Actions**
 Edit `vite.config.ts` and set `base` to your repo name:
 
 ```ts
-base: "/your-repo-name/",
+base: "/fennec/",
 ```
 
 ### 3. Add your Gemini API key as a secret
