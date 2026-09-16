@@ -1,16 +1,9 @@
 #!/usr/bin/env bash
 set -e
 
-# ── Fennec local dev script ──────────────────────────────────
-# Usage:
-#   ./dev.sh          → scrape fresh news.json then start Vite
-#   ./dev.sh --skip   → skip scraping, just start Vite (uses existing news.json)
-#   ./dev.sh --setup  → install all dependencies only
-
 SKIP_SCRAPE=false
 SETUP_ONLY=false
 
-# Detect python executable (prefer python3, fallback to python)
 PYTHON_CMD=python3
 if ! command -v "$PYTHON_CMD" >/dev/null 2>&1; then
   if command -v python >/dev/null 2>&1; then
