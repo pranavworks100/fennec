@@ -10,7 +10,7 @@ function App() {
   const [dark, setDark] = useState(() => {
     const saved = localStorage.getItem("fennec-theme");
     if (saved) return saved === "dark";
-    // Default to dark for first-time visitors
+    
     return true;
   });
 
@@ -22,8 +22,6 @@ function App() {
   // Polling configuration (ms)
   const POLL_INTERVAL_MS = 300_000; // 5 minutes
 
-  // Load feed once and then poll periodically. Uses cache-busting query
-  // param and `cache: 'no-store'` to avoid stale cached responses.
   useEffect(() => {
     let mounted = true;
     async function load() {
