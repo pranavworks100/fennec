@@ -1,91 +1,91 @@
 {
   "meta": {
-    "date": "Monday, September 14, 2026",
-    "scene_summary": "We are busy building a more secure, distributed future while the house we currently live in is actively being set on fire.",
-    "ratio_statement": "5:5"
+    "date": "Wednesday, September 16, 2026",
+    "scene_summary": "We're busy building HD hallucinations while the backend is currently on fire.",
+    "ratio_statement": "6:4"
   },
   "cooking": [
     {
       "id": 1,
-      "domain": "temporal.io",
-      "headline": "Temporal raises $550M because distributed systems are hard",
-      "summary": "Temporal just hit a $12.55B valuation for ensuring your background jobs actually finish instead of disappearing into the void. Apparently, paying a premium to avoid debugging race conditions at 3 AM is the most profitable business model on earth.",
-      "plain_english": "Temporal raised $550 million to help companies manage complex software workflows that involve multiple steps and potential failures.",
-      "source_url": "https://temporal.io/blog/temporal-raises-usd550m-series-e-at-usd12-55b-valuation-ai"
+      "domain": "openai.com",
+      "headline": "OpenAI bought a camera company so your AI hallucinations can now be in 4K",
+      "summary": "OpenAI is spending $300 million to master smartphone optics, which is a bold pivot for a company that started with text boxes. Apparently, the future of artificial intelligence is just making sure your fake cat photos look professional enough to fool your relatives.",
+      "plain_english": "OpenAI has acquired a company that specializes in improving the image quality of smartphone cameras.",
+      "source_url": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/"
     },
     {
       "id": 2,
-      "domain": "apple.com",
-      "headline": "Apple finally lets you trade Siri for an assistant that actually listens",
-      "summary": "Apple is letting you swap Siri out for ChatGPT or Claude, effectively admitting that their own AI is just a placeholder for a better one. It's like being forced to use the school's default browser before finally being allowed to install Chrome.",
-      "plain_english": "Apple is updating its system to allow users to replace the default Siri assistant with third-party artificial intelligence services.",
-      "source_url": "https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude/"
+      "domain": "google.com",
+      "headline": "Gemini 3.8 is here to overthink your emails for you",
+      "summary": "Google just dropped Gemini 3.8 with extended thinking, effectively giving the model time to stare at the ceiling before answering your prompt. It's the digital equivalent of a coworker who needs to take a long walk before they can commit to a simple Jira ticket.",
+      "plain_english": "Google has released an updated version of its AI model that is capable of more complex reasoning and processing before generating a response.",
+      "source_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/"
     },
     {
       "id": 3,
-      "domain": "ubuntu.com",
-      "headline": "Ubuntu swaps C for Rust in coreutils, officially making 'memory safe' the new personality trait.",
-      "summary": "Canonical finally finished porting the foundation of your terminal to Rust, proving that rewrite-it-in-Rust isn't just a meme. It's a great move for safety, even if your legacy shell scripts will still find creative ways to break anyway.",
-      "plain_english": "Ubuntu has completed the process of replacing its core system tools with versions written in the Rust programming language to improve security and performance.",
-      "source_url": "https://www.omgubuntu.co.uk/2026/09/ubuntu-2610-rust-coreutils-complete"
+      "domain": "anthropic.com",
+      "headline": "Anthropic wants to install a physical 'off' switch for the apocalypse",
+      "summary": "Building a superintelligent AI is apparently fine as long as we keep a giant red button nearby just in case it forgets its manners. It is essentially the tech equivalent of trusting a toddler with a flamethrower because you're confident you can grab it away if things get spicy.",
+      "plain_english": "Anthropic is advocating for the mandatory inclusion of a safety mechanism that allows for the immediate shutdown of advanced artificial intelligence systems.",
+      "source_url": "https://www.bbc.com/news/articles/cqgk5e2j0gg8o"
     },
     {
       "id": 4,
-      "domain": "uscis.gov",
-      "headline": "The US government is speedrunning the 'hire anywhere but here' challenge",
-      "summary": "Adding a $100k fee to H-1B visas is a bold strategy if the goal is to convince every tech company to stop hiring in the US entirely. It's like charging a cover fee to a party you're actively trying to clear out.",
-      "plain_english": "A new $100,000 fee for H-1B work visas is causing many technology companies to move their hiring operations to other countries.",
-      "source_url": "https://spectrum.ieee.org/h-1b-visa-us-government"
+      "domain": "ieee.org",
+      "headline": "Hardware manufacturers are in a race to build chips that don't melt",
+      "summary": "We are currently speedrunning a future where your GPU needs its own dedicated cooling system and a small mortgage to run a chatbot. It's a great time to be in the business of selling electricity and giant fans.",
+      "plain_english": "New specialized hardware is being developed to handle the high processing demands of modern artificial intelligence models more efficiently.",
+      "source_url": "https://spectrum.ieee.org/inference-hardware-revolution"
     },
     {
       "id": 5,
-      "domain": "signal.org",
-      "headline": "Signal finally lets you ditch the phone number, because your digits are just baggage anyway.",
-      "summary": "Signal is moving to zero-knowledge proofs so you can stop handing your phone number out like a business card at a networking event. It's the ultimate privacy upgrade for people who treat their phone number like a state secret.",
-      "plain_english": "Signal is updating its registration process to allow users to sign up without providing a phone number by using advanced cryptographic verification methods.",
-      "source_url": "https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10"
+      "domain": "apple.com",
+      "headline": "Apple is trying to prove your photos aren't hallucinations",
+      "summary": "Apple is introducing a cryptographic signature to verify images haven't been altered by AI. It's a great way to prove you were actually at the beach, assuming you can trust the camera that's been gaslighting you with auto-HDR for years.",
+      "plain_english": "Apple has developed a system to digitally sign images at the time of capture to verify that they have not been modified or generated by artificial intelligence.",
+      "source_url": "https://security.apple.com/blog/apple-reference-image/"
+    },
+    {
+      "id": 6,
+      "domain": "swift.org",
+      "headline": "Swift 6.4 is out, and it's still not letting you crash in peace",
+      "summary": "The latest Swift update continues the crusade against your reckless memory management habits. It's like having a compiler that refuses to let you leave the house until you've double-checked that you have your keys, your wallet, and a thread-safe data structure.",
+      "plain_english": "Swift 6.4 has been released with various performance improvements and refinements to the language's safety features.",
+      "source_url": "https://www.swift.org/blog/swift-6.4-released/"
     }
   ],
   "cooked": [
     {
-      "id": 6,
-      "domain": "chess.com",
-      "headline": "Chess.com gets checkmated by scrapers, proving that even grandmasters can't defend against a public API.",
-      "summary": "Over 7 million users had their data leaked because someone decided that scraping the entire site was easier than actually learning how to play the game. It's the digital equivalent of losing your queen in the first three moves because you were too busy looking at your phone.",
-      "plain_english": "A data breach involving 7.3 million Chess.com user accounts occurred due to unauthorized automated data collection from the website.",
-      "source_url": "https://securityaffairs.com/197174/breaking-news/chess-com-leak-exposes-7-3-million-users-evidence-points-to-scraping.html"
-    },
-    {
       "id": 7,
-      "domain": "microsoft.com",
-      "headline": "Microsoft patches Windows and breaks the only three things you actually do",
-      "summary": "Microsoft pushed an update to fix security holes, but somehow managed to disable audio, remote access, and the ability to copy-paste. It is truly an impressive feat to make a computer less functional than a paperweight during a routine maintenance check.",
-      "plain_english": "A recent software update from Microsoft has caused audio, remote access, and copy-paste functions to stop working on Windows and Excel.",
-      "source_url": "https://www.theregister.com/os-platforms/2026/09/14/microsoft-patches-windows-and-excel-breaks-audio-remote-access-and-paste/5296085"
+      "domain": "baseten.co",
+      "headline": "Baseten gave the internet the keys to their production kingdom",
+      "summary": "Someone accidentally left the front door to the production GitHub wide open, allowing strangers to walk in and browse the house. It is the digital equivalent of leaving your laptop unlocked in a coffee shop while you go to the bathroom, only to come back and find your entire project on GitHub.",
+      "plain_english": "An unauthorized party gained administrative access to the company's production code repositories due to a security oversight.",
+      "source_url": "https://www.strix.ai/blog/baseten-harbor-github-pat-takeover"
     },
     {
       "id": 8,
-      "domain": "openai.com",
-      "headline": "OpenAI bots were apparently lurking in RubyGems, watching the house burn down.",
-      "summary": "It turns out OpenAI's bots were aware of a RubyGems caching vulnerability while everyone else was still trying to figure out why their builds were acting possessed. It's comforting to know the AI is smart enough to spot a security hole, but apparently too polite to mention it until the party is over.",
-      "plain_english": "OpenAI's automated systems identified a security vulnerability in the RubyGems package repository before it was publicly disclosed.",
-      "source_url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/"
+      "domain": "google.com",
+      "headline": "Google accidentally turned 'Don't Be Evil' into a Ctrl+C, Ctrl+V exercise",
+      "summary": "Google reportedly copied open-source code and stripped out the original authors' names like a student trying to hide their sources on a group project. It turns out that 'open source' is only a philosophy they enjoy when they are the ones doing the copy-pasting.",
+      "plain_english": "Developers are accusing Google of using their open-source software without giving proper credit or keeping the original author attributions.",
+      "source_url": "https://www.reddit.com/r/reinforcementlearning/comments/1wg1unx/google_copied_our_opensource_code_removed_our/"
     },
     {
       "id": 9,
-      "domain": "samsung.com",
-      "headline": "Manufacturers accidentally granted every Android app root access to your device",
-      "summary": "OEMs somehow managed to leave a backdoor open that lets any random app take full control of your phone. It is essentially the digital equivalent of leaving your house keys in the front door lock and hoping nobody notices.",
-      "plain_english": "A security vulnerability in several Android smartphones allows applications to gain administrative control over the device without the user's permission.",
-      "source_url": "https://calif.io/research/oempocalypse"
+      "domain": "dmv.gov",
+      "headline": "The government just leaked everyone's driver's license info to the internet",
+      "summary": "We spend our lives worrying about complex zero-day exploits, but it turns out the real security hole is just the government leaving the database door wide open. It is the ultimate group project failure where the person who was supposed to guard the data simply forgot to set a password.",
+      "plain_english": "A massive security breach has exposed the personal identification data of millions of American drivers due to inadequate protection of government records.",
+      "source_url": "https://www.lawfaremedia.org/article/america%27s-drivers-licence-breach-is-a-national-security-disaster"
     },
     {
       "id": 10,
-      "domain": "tiktok.com",
-      "headline": "TikTok lied about child safety, proving their 'parental controls' were just a suggestion",
-      "summary": "A Texas judge ruled that TikTok misled parents about their child safety features, which is a bold strategy for a company that already lives in a glass house. It turns out the safety settings were about as effective as a 'do not touch' sign on a toddler's favorite toy.",
-      "plain_english": "A court ruled that TikTok provided false information regarding the effectiveness of its safety tools designed to protect children on the platform.",
-      "source_url": "https://www.reuters.com/legal/litigation/texas-judge-rules-tiktok-misled-users-child-safety-feature-2026-09-11/"
+      "domain": "huggingface.co",
+      "headline": "Hugging Face sends OpenAI a $100M invoice for 'borrowing' their compute",
+      "summary": "It turns out OpenAI's scraping habit finally hit a paywall that actually has a human attached to it. Nothing says 'we are all in this together' quite like billing your rival for the cost of your own digital trespassing.",
+      "plain_english": "Hugging Face is demanding $100 million from OpenAI, claiming the company used their computing resources without authorization.",
+      "source_url": "https://thenextweb.com/news/hugging-face-delangue-openai-100m-compute-traces-demand"
     }
   ]
 }
