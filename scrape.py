@@ -120,7 +120,7 @@ def parse_dt(s: str | None) -> datetime | None:
 
 def is_within_hours(dt: datetime | None, hours: int) -> bool:
     if dt is None:
-        return True  # include if we can't determine age
+        return True
     cutoff = utc_now() - timedelta(hours=hours)
     if dt.tzinfo is None:
         dt = dt.replace(tzinfo=timezone.utc)
@@ -171,7 +171,7 @@ def safe_json_loads(raw_text: str) -> Any:
         return json.loads(s)
     except Exception:
         pass
-    # find first balanced JSON block
+    
     for i, ch in enumerate(s):
         if ch in '{[':
             open_ch, close_ch = ch, ('}' if ch == '{' else ']')
@@ -393,7 +393,7 @@ def fetch_signals(state: AgentState) -> AgentState:
                 if not url or url in seen_urls:
                     continue
 
-                # Parse published date
+               
                 pub_str = (
                     entry.get("published")
                     or entry.get("updated")
@@ -401,7 +401,7 @@ def fetch_signals(state: AgentState) -> AgentState:
                 )
                 pub_dt = parse_dt(pub_str)
 
-                # Use struct_time from feedparser if string parse failed
+                
                 if pub_dt is None and hasattr(entry, "published_parsed") and entry.published_parsed:
                     try:
                         import calendar
@@ -422,7 +422,7 @@ def fetch_signals(state: AgentState) -> AgentState:
                     or entry.get("description")
                     or ""
                 )
-                # Strip HTML tags from description
+                
                 description = re.sub(r"<[^>]+>", "", description)[:600].strip()
 
                 seen_urls.add(url)
@@ -443,7 +443,7 @@ def fetch_signals(state: AgentState) -> AgentState:
 
     print(f"      ✓ {rss_count} RSS articles (past {LOOKBACK_HOURS}h)")
 
-    # Cap pool size — HN stories (already score-sorted) come first
+    
     candidates = candidates[:RANK_POOL_SIZE]
     print(f"   ✓ Total candidate pool: {len(candidates)} articles → sending to ranker")
 
@@ -734,7 +734,7 @@ def summarize_scene(state: AgentState) -> AgentState:
     cooked_items:  list[NewsItem] = []
     next_id = 1
 
-    # cooking first, then cooked
+   
     sorted_ri = sorted(state.roasted_items, key=lambda x: x["verdict"] == "cooked")
 
     for ri in sorted_ri:
