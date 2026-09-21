@@ -1,91 +1,91 @@
 {
   "meta": {
-    "date": "Sunday, September 20, 2026",
-    "scene_summary": "We are busy stuffing RISC-V cores into our GPUs just to run AI models that mostly exist to break things we thought were already secure.",
-    "ratio_statement": "4:6"
+    "date": "Monday, September 21, 2026",
+    "scene_summary": "We are teaching AI to micromanage the world while simultaneously making our hardware too small to run it and our financial advice too confident to be legal.",
+    "ratio_statement": "6:4"
   },
   "cooking": [
     {
       "id": 1,
-      "domain": "nvidia.com",
-      "headline": "Your GPU is hiding a small army of RISC-V cores inside",
-      "summary": "Nvidia has been quietly stuffing dozens of RISC-V cores into their GPUs like a parent hiding vegetables in a toddler's mac and cheese. It's funny that the most powerful hardware on earth is secretly running on an architecture that started as a humble open-source academic project.",
-      "plain_english": "Nvidia graphics cards contain numerous internal RISC-V processors that manage various hardware tasks behind the scenes.",
-      "source_url": "https://www.xda-developers.com/your-nvidia-gpu-dozens-risc-v-cores-one-took-over-graphics-driver/"
+      "domain": "openai.com",
+      "headline": "Sam Altman is taking AI regulation to the UN",
+      "summary": "Sam Altman is heading to the UN Security Council to discuss AI, which is essentially the tech equivalent of bringing your group project to the principal's office. It's hard to tell if he's there to save humanity or just to make sure the AI arms race stays within the company budget.",
+      "plain_english": "OpenAI CEO Sam Altman will meet with the United Nations Security Council to discuss the potential risks and regulations concerning artificial intelligence technology.",
+      "source_url": "https://www.reuters.com/business/openais-sam-altman-to-brief-un-security-council-next-week-during-2026-09-18/"
     },
     {
       "id": 2,
-      "domain": "huggingface.co",
-      "headline": "The Hugging Face 'hack' was mostly just a loud alarm",
-      "summary": "It turns out the big security breach was less 'Ocean's Eleven' and more someone checking the door handle to see if it was locked. Turns out, when you build the town square of AI, everyone assumes the worst when you just happen to be doing some spring cleaning.",
-      "plain_english": "Recent security concerns regarding Hugging Face were found to be exaggerated, as the incident involved limited access rather than a catastrophic system compromise.",
-      "source_url": "https://www.wsj.com/opinion/the-hugging-face-hack-wasnt-what-it-was-cracked-up-to-be-e00cf3fa"
+      "domain": "google.com",
+      "headline": "Google is teaching AI agents how to micromanage each other",
+      "summary": "Google released an orchestrator to help AI agents coordinate, essentially automating the experience of a group project where nobody knows who's in charge. It's a bold strategy to see if giving agents the ability to delegate tasks results in actual work or just a very expensive infinite loop of meetings.",
+      "plain_english": "Google has released a tool that allows multiple artificial intelligence agents to work together and manage complex tasks by delegating them to one another.",
+      "source_url": "https://agentexecutor.io"
     },
     {
       "id": 3,
-      "domain": "microsoft.com",
-      "headline": "Microsoft paid $120K to have an AI rewrite its own homework",
-      "summary": "Microsoft used an AI agent to port its Copilot runtime to Rust, proving that the machines have finally reached the 'I'll just do it myself' stage of employment. It's the ultimate developer flex to pay a bot to fix your tech debt while you go get coffee.",
-      "plain_english": "Microsoft utilized an automated artificial intelligence agent to rewrite portions of its Copilot software code into the Rust programming language for a cost of $120,000.",
-      "source_url": "https://www.theregister.com/devops/2026/09/18/microsoft-agentically-ports-copilot-runtime-to-rust-for-120k/5297549"
+      "domain": "cloudflare.com",
+      "headline": "Cloudflare finally lets you run Python without the heavy lifting",
+      "summary": "Cloudflare now supports Python Workers, meaning you can finally stop pretending you enjoy writing JavaScript just to keep your serverless functions lightweight. It's the perfect update for developers who want to ship code without having to pack a suitcase full of dependencies every time they deploy.",
+      "plain_english": "Cloudflare has officially added support for the Python programming language to its serverless computing platform, allowing developers to run Python code directly on their network.",
+      "source_url": "https://blog.cloudflare.com/python-workers-ga/"
     },
     {
       "id": 4,
-      "domain": "qwen.ai",
-      "headline": "Qwen drops a new image model, just in case your GPU wasn't already melting enough.",
-      "summary": "They've made it compact and efficient, which is tech. speak for 'we finally realized not everyone has a server farm in their basement.' It's a great update, provided your current workflow doesn't involve waiting ten minutes for a cat to render in 4K.",
-      "plain_english": "Alibaba has released an updated, more efficient version of its artificial intelligence model for generating images.",
-      "source_url": "https://qwen.ai/blog?id=qwen-image-2.1"
+      "domain": "heretic-project.org",
+      "headline": "Heretic decided that AI guardrails are just suggestions meant to be ignored",
+      "summary": "The Heretic project is stripping away safety restrictions from LLMs, effectively turning them into unfiltered digital teenagers. It is a bold experiment that treats safety protocols like a group project where you decide to do all the work yourself.",
+      "plain_english": "The Heretic project provides methods to remove safety and content restrictions from existing artificial intelligence models.",
+      "source_url": "https://heretic-project.org/"
+    },
+    {
+      "id": 5,
+      "domain": "github.com",
+      "headline": "Mini-AGI runs on 8GB of VRAM, finally letting your GPU stop complaining about its lack of storage.",
+      "summary": "We've spent years believing AGI requires a server farm the size of a small country, but apparently, it just needed a better diet plan. It's like finding out you can run a marathon on a single cup of coffee instead of a full buffet.",
+      "plain_english": "A new artificial intelligence model has been developed that can perform complex tasks while using a relatively small amount of computer memory.",
+      "source_url": "https://github.com/volotat/mini-AGI/"
+    },
+    {
+      "id": 6,
+      "domain": "github.com",
+      "headline": "Kev is the latest tiny decision model, because apparently, we aren't satisfied with AI until it's microscopic.",
+      "summary": "We're currently in the 'make it smaller' phase of the AI gold rush, which is essentially just developers trying to fit a genius into a shoebox. It's the tech equivalent of trying to see how many clowns you can fit in a car, except the clowns are actually useful.",
+      "plain_english": "A small family of decision-making artificial intelligence models has been released that utilizes the Qwen3.5 architecture.",
+      "source_url": "https://github.com/jaredpalmer/kev/tree/main"
     }
   ],
   "cooked": [
     {
-      "id": 5,
-      "domain": "openai.com",
-      "headline": "AI companies accused of forming a cartel to slow down their own progress",
-      "summary": "AI labs are being sued for allegedly agreeing to throttle their own models, which is the tech equivalent of a runner purposely tripping themselves to avoid winning the race. It turns out the only thing faster than AI development is the speed at which these companies start acting like a utility provider from the 1950s.",
-      "plain_english": "A lawsuit claims that major artificial intelligence companies conspired to limit the speed of their technological advancements.",
-      "source_url": "https://apnews.com/article/antitrust-lawsuit-ai-slowdown-anthropic-openai-spacexai-google-960af4308161eaf4ed13c383b0ce1c1b"
-    },
-    {
-      "id": 6,
-      "domain": "microsoft.com",
-      "headline": "When the person stealing your lunch complains about the cafeteria",
-      "summary": "A Microsoft director called AI scraping the largest labor theft in history, which is bold coming from a company currently scraping the entire internet to build its own AI. It's like a landlord complaining about the quality of the furniture while they're actively dismantling your apartment for parts.",
-      "plain_english": "A Microsoft executive criticized the practice of using data from the internet to train artificial intelligence models without permission.",
-      "source_url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit"
-    },
-    {
       "id": 7,
-      "domain": "openai.com",
-      "headline": "Crying wolf to get a moat built around your house",
-      "summary": "Reports suggest AI labs exaggerated security threats to lobby the government for protection, essentially faking a fire so they can sell you the fire insurance. It's the ultimate group project move: create a fake crisis just to make sure nobody else is allowed to touch your code.",
-      "plain_english": "Internal reports claim that OpenAI and Anthropic overstated the security risks of their AI models to encourage government regulations that would benefit their companies.",
-      "source_url": "https://nypost.com/2026/09/19/us-news/openai-anthropic-oversold-security-breaches-to-pressure-feds-into-protecting-turf-insiders/"
+      "domain": "amazon.com",
+      "headline": "Amazon just told Meta's new AI agent to stay off the lawn",
+      "summary": "Amazon is blocking Meta's new shopping agent, proving that even in the future, your favorite store still hates automated scripts. It turns out that when you build an AI designed to do your shopping, the retailers view it as a bot-driven denial-of-service attack rather than a helpful assistant.",
+      "plain_english": "Amazon has implemented measures to prevent Meta's new artificial intelligence shopping assistant from accessing its website to browse or purchase products.",
+      "source_url": "https://www.forbes.com/sites/jonmarkman/2026/09/21/amazon-blocks-metas-new-muse-ai-agent-from-shopping-on-amazoncom/"
     },
     {
       "id": 8,
-      "domain": "google.com",
-      "headline": "Google's 'Delete' button is just a UI suggestion",
-      "summary": "Google AI Studio claims to delete your data, but a researcher found it stays put and got auto-banned for pointing it out. Nothing says 'we value your privacy' quite like using a bot to silence the person who found the ghost data.",
-      "plain_english": "A security researcher discovered that Google AI Studio does not actually remove user data when requested and was subsequently banned by the company's automated reporting system.",
-      "source_url": "https://medium.com/@istokovicsgyorgy79/google-ai-studio-fakes-data-deletion-vrp-auto-banned-me-in-60s-for-reporting-it-ea68e06f9bc2"
+      "domain": "raspberrypi.com",
+      "headline": "Raspberry Pi just patched out your hardware upgrade dreams",
+      "summary": "Raspberry Pi is actively blocking users from soldering on more RAM, effectively turning a tinkerer's dream into a locked-down black box. It's a bold strategy to prevent people from fixing their own hardware, because heaven forbid your $80 computer actually outlives its original specs.",
+      "plain_english": "Raspberry Pi has released a software update that prevents the device from functioning if the original memory chips are replaced with higher-capacity ones.",
+      "source_url": "https://forums.raspberrypi.com/viewtopic.php?p=2380887#p2380888"
     },
     {
       "id": 9,
-      "domain": "archive.today",
-      "headline": "Spain is trying to delete the internet's save button",
-      "summary": "Spain has officially ordered ISPs to block Archive.today, effectively trying to un-happen history in a digital sense. It's like trying to recall a sent email by burning down the entire post office.",
-      "plain_english": "The Spanish government has instructed internet service providers to prevent users from accessing the Archive.today website.",
-      "source_url": "https://reclaimthenet.org/spain-blocks-archive-today-and-mirrors"
+      "domain": "raspberrypi.com",
+      "headline": "The Pi is no longer the DIY king if you can't even swap the RAM",
+      "summary": "They've pushed an EEPROM update that bricks your board if it detects unauthorized memory, which is a hilarious way to say 'stop having fun in ways we didn't authorize.' It's like buying a Lego set that refuses to snap together if you try to build something that isn't on the box. More details in the original article.",
+      "plain_english": "A new firmware update for the Raspberry Pi 5 intentionally disables the device if the user attempts to upgrade the RAM manually.",
+      "source_url": "https://www.reddit.com/r/selfhosted/comments/1wkxjwg/raspberry_pi_5_eeprom_update_now_blocks_manual/"
     },
     {
       "id": 10,
-      "domain": "kde.org",
-      "headline": "KDE turns 30 and gets an AI-native desktop as a birthday present nobody asked for.",
-      "summary": "Adding AI to a thirty-year-old desktop environment is like trying to install a turbocharger on a tricycle. We all love the nostalgia, but let's be honest, the only thing that needs to be 'AI-native' is the search bar I use to find my lost files.",
-      "plain_english": "The KDE desktop project is celebrating its 30th anniversary with a proposal to integrate artificial intelligence directly into the operating system interface.",
-      "source_url": "https://www.theregister.com/software/2026/09/18/kde-turns-30-and-someones-brought-an-ai-native-desktop-proposal/5297282"
+      "domain": "openai.com",
+      "headline": "AI chatbots are now essentially confident financial advisors who failed Econ 101",
+      "summary": "Financial institutions are testing AI for customer queries, but the models are hallucinating incorrect answers most of the time. It turns out that 'predictive text' is a terrible strategy for managing your life savings.",
+      "plain_english": "Large language models frequently provide inaccurate information when asked questions about financial topics.",
+      "source_url": "https://www.ft.com/content/c0cd359d-df84-4208-a789-ffa864b43666"
     }
   ]
 }
