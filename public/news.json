@@ -1,91 +1,91 @@
 {
   "meta": {
-    "date": "Monday, September 21, 2026",
-    "scene_summary": "We are teaching AI to micromanage the world while simultaneously making our hardware too small to run it and our financial advice too confident to be legal.",
-    "ratio_statement": "6:4"
+    "date": "Wednesday, September 23, 2026",
+    "scene_summary": "We're busy building autonomous missiles and sentient traffic while our fridges can't even hold a firmware update.",
+    "ratio_statement": "5:5"
   },
   "cooking": [
     {
       "id": 1,
       "domain": "openai.com",
-      "headline": "Sam Altman is taking AI regulation to the UN",
-      "summary": "Sam Altman is heading to the UN Security Council to discuss AI, which is essentially the tech equivalent of bringing your group project to the principal's office. It's hard to tell if he's there to save humanity or just to make sure the AI arms race stays within the company budget.",
-      "plain_english": "OpenAI CEO Sam Altman will meet with the United Nations Security Council to discuss the potential risks and regulations concerning artificial intelligence technology.",
-      "source_url": "https://www.reuters.com/business/openais-sam-altman-to-brief-un-security-council-next-week-during-2026-09-18/"
+      "headline": "GPT-6 can now drive, because your commute wasn't stressful enough already",
+      "summary": "OpenAI is teaching their model to handle a steering wheel, which is a bold move considering it still hallucinates basic facts about history. I can't wait for the first 'sorry, I didn't mean to drive into that median, I was just predicting the next token' apology.",
+      "plain_english": "OpenAI has updated its GPT-6 Astra model with the capability to operate a motor vehicle.",
+      "source_url": "https://drivingbench.com/"
     },
     {
       "id": 2,
-      "domain": "google.com",
-      "headline": "Google is teaching AI agents how to micromanage each other",
-      "summary": "Google released an orchestrator to help AI agents coordinate, essentially automating the experience of a group project where nobody knows who's in charge. It's a bold strategy to see if giving agents the ability to delegate tasks results in actual work or just a very expensive infinite loop of meetings.",
-      "plain_english": "Google has released a tool that allows multiple artificial intelligence agents to work together and manage complex tasks by delegating them to one another.",
-      "source_url": "https://agentexecutor.io"
+      "domain": "seattle.gov",
+      "headline": "Seattle bans dynamic grocery pricing so your milk doesn't cost more during a heatwave",
+      "summary": "Seattle just outlawed the 'dynamic pricing' dream where stores charge you more for bread simply because you look stressed or it's raining outside. It's a huge win for shoppers who prefer their grocery bills to be as static as a legacy codebase.",
+      "plain_english": "The Seattle City Council has passed a law that prohibits grocery stores from using surveillance data to change prices for individual customers in real time.",
+      "source_url": "https://advocacy.consumerreports.org/press_release/seattle-city-council-votes-to-ban-surveillance-pricing-in-sale-of-groceries/"
     },
     {
       "id": 3,
-      "domain": "cloudflare.com",
-      "headline": "Cloudflare finally lets you run Python without the heavy lifting",
-      "summary": "Cloudflare now supports Python Workers, meaning you can finally stop pretending you enjoy writing JavaScript just to keep your serverless functions lightweight. It's the perfect update for developers who want to ship code without having to pack a suitcase full of dependencies every time they deploy.",
-      "plain_english": "Cloudflare has officially added support for the Python programming language to its serverless computing platform, allowing developers to run Python code directly on their network.",
-      "source_url": "https://blog.cloudflare.com/python-workers-ga/"
+      "domain": "gov.uk",
+      "headline": "The UK is officially 'it' in the world's most expensive game of tag",
+      "summary": "The UK military is jamming satellites to protect its interests, effectively treating space like a noisy coffee shop with bad Wi-Fi. It turns out that when you can't fix your own connection, the best defense is making sure nobody else has one either.",
+      "plain_english": "The United Kingdom is using signal jamming technology to disrupt foreign satellites as a defensive measure.",
+      "source_url": "https://www.bbc.com/news/articles/c32l8y8kygdvo"
     },
     {
       "id": 4,
-      "domain": "heretic-project.org",
-      "headline": "Heretic decided that AI guardrails are just suggestions meant to be ignored",
-      "summary": "The Heretic project is stripping away safety restrictions from LLMs, effectively turning them into unfiltered digital teenagers. It is a bold experiment that treats safety protocols like a group project where you decide to do all the work yourself.",
-      "plain_english": "The Heretic project provides methods to remove safety and content restrictions from existing artificial intelligence models.",
-      "source_url": "https://heretic-project.org/"
+      "domain": "interconnects.ai",
+      "headline": "The open-source AI landscape is changing faster than a framework update",
+      "summary": "The balance of power in open-source AI models is shifting so quickly that being the industry leader has the shelf life of a carton of milk. It's hard to build a long-term strategy when your foundational model becomes legacy code by next Tuesday.",
+      "plain_english": "The competitive landscape for open-source artificial intelligence models is evolving rapidly with frequent changes in leadership.",
+      "source_url": "https://www.interconnects.ai/p/the-current-balance-of-power-in-open"
     },
     {
       "id": 5,
-      "domain": "github.com",
-      "headline": "Mini-AGI runs on 8GB of VRAM, finally letting your GPU stop complaining about its lack of storage.",
-      "summary": "We've spent years believing AGI requires a server farm the size of a small country, but apparently, it just needed a better diet plan. It's like finding out you can run a marathon on a single cup of coffee instead of a full buffet.",
-      "plain_english": "A new artificial intelligence model has been developed that can perform complex tasks while using a relatively small amount of computer memory.",
-      "source_url": "https://github.com/volotat/mini-AGI/"
-    },
-    {
-      "id": 6,
-      "domain": "github.com",
-      "headline": "Kev is the latest tiny decision model, because apparently, we aren't satisfied with AI until it's microscopic.",
-      "summary": "We're currently in the 'make it smaller' phase of the AI gold rush, which is essentially just developers trying to fit a genius into a shoebox. It's the tech equivalent of trying to see how many clowns you can fit in a car, except the clowns are actually useful.",
-      "plain_english": "A small family of decision-making artificial intelligence models has been released that utilizes the Qwen3.5 architecture.",
-      "source_url": "https://github.com/jaredpalmer/kev/tree/main"
+      "domain": "marginalrevolution.com",
+      "headline": "The cost of intelligence is crashing, yet my code still has the same bugs.",
+      "summary": "Intelligence is becoming a cheap commodity while the price of human patience remains at an all-time high. It turns out that having a genius-level AI doesn't actually solve the problem of me forgetting a semicolon.",
+      "plain_english": "The cost of running advanced artificial intelligence models is decreasing significantly over time.",
+      "source_url": "https://marginalrevolution.com/marginalrevolution/2026/09/the-price-of-intelligence-is-falling.html"
     }
   ],
   "cooked": [
     {
+      "id": 6,
+      "domain": "defense.gov",
+      "headline": "The Pentagon just proved that 'move fast and break things' is a terrible strategy for missiles",
+      "summary": "The military is blaming an overreliance on AI for a strike on a school, essentially turning a war zone into a debugging session gone wrong. It turns out that when you push to production without a human in the loop, the edge cases involve real-world casualties.",
+      "plain_english": "The United States Department of Defense reported that an excessive dependence on artificial intelligence led to a missile strike on a school in Iran.",
+      "source_url": "https://www.bloomberg.com/graphics/2026-iran-school-attack/"
+    },
+    {
       "id": 7,
-      "domain": "amazon.com",
-      "headline": "Amazon just told Meta's new AI agent to stay off the lawn",
-      "summary": "Amazon is blocking Meta's new shopping agent, proving that even in the future, your favorite store still hates automated scripts. It turns out that when you build an AI designed to do your shopping, the retailers view it as a bot-driven denial-of-service attack rather than a helpful assistant.",
-      "plain_english": "Amazon has implemented measures to prevent Meta's new artificial intelligence shopping assistant from accessing its website to browse or purchase products.",
-      "source_url": "https://www.forbes.com/sites/jonmarkman/2026/09/21/amazon-blocks-metas-new-muse-ai-agent-from-shopping-on-amazoncom/"
+      "domain": "australia.gov.au",
+      "headline": "Australia wants an algorithm opt-out button, and the US is calling it censorship",
+      "summary": "Australia is trying to force platforms to let users opt out of algorithmic feeds, but the US thinks that's a polite way of saying 'break the engagement loop.' It's the digital equivalent of a parent trying to turn off the TV while the kid is mid. binge.",
+      "plain_english": "The United States government is criticizing proposed Australian legislation that would require social media platforms to allow users to disable personalized algorithm-based feeds.",
+      "source_url": "https://www.bbc.com/news/articles/cqj3dgy8x3vro"
     },
     {
       "id": 8,
-      "domain": "raspberrypi.com",
-      "headline": "Raspberry Pi just patched out your hardware upgrade dreams",
-      "summary": "Raspberry Pi is actively blocking users from soldering on more RAM, effectively turning a tinkerer's dream into a locked-down black box. It's a bold strategy to prevent people from fixing their own hardware, because heaven forbid your $80 computer actually outlives its original specs.",
-      "plain_english": "Raspberry Pi has released a software update that prevents the device from functioning if the original memory chips are replaced with higher-capacity ones.",
-      "source_url": "https://forums.raspberrypi.com/viewtopic.php?p=2380887#p2380888"
+      "domain": "radicle.dev",
+      "headline": "Radicle's decentralized code sharing just hit a centralized snag",
+      "summary": "Radicle promised a future where your code is safe from single points of failure, but a protocol vulnerability just reminded us that even decentralized networks have bugs. Nothing humbles a peer-to-peer enthusiast quite like a patch note.",
+      "plain_english": "A security vulnerability was discovered in the Radicle network protocol that allows for unauthorized actions.",
+      "source_url": "https://radicle.dev/2026/09/23/disclosure-of-vulnerability-in-network-protocol"
     },
     {
       "id": 9,
-      "domain": "raspberrypi.com",
-      "headline": "The Pi is no longer the DIY king if you can't even swap the RAM",
-      "summary": "They've pushed an EEPROM update that bricks your board if it detects unauthorized memory, which is a hilarious way to say 'stop having fun in ways we didn't authorize.' It's like buying a Lego set that refuses to snap together if you try to build something that isn't on the box. More details in the original article.",
-      "plain_english": "A new firmware update for the Raspberry Pi 5 intentionally disables the device if the user attempts to upgrade the RAM manually.",
-      "source_url": "https://www.reddit.com/r/selfhosted/comments/1wkxjwg/raspberry_pi_5_eeprom_update_now_blocks_manual/"
+      "domain": "samsung.com",
+      "headline": "Samsung just turned your fridge into an expensive paperweight",
+      "summary": "Samsung pushed a software update that managed to brick their smart fridges, effectively turning your kitchen appliance into a frozen hunk of metal. It's the ultimate 'it works on my machine' moment, provided your machine isn't supposed to keep your milk from spoiling.",
+      "plain_english": "A software update from Samsung caused their smart refrigerators to stop functioning properly.",
+      "source_url": "https://www.androidauthority.com/samsung-accidentally-freezes-its-smart-fridges-with-a-software-update-3714472/"
     },
     {
       "id": 10,
-      "domain": "openai.com",
-      "headline": "AI chatbots are now essentially confident financial advisors who failed Econ 101",
-      "summary": "Financial institutions are testing AI for customer queries, but the models are hallucinating incorrect answers most of the time. It turns out that 'predictive text' is a terrible strategy for managing your life savings.",
-      "plain_english": "Large language models frequently provide inaccurate information when asked questions about financial topics.",
-      "source_url": "https://www.ft.com/content/c0cd359d-df84-4208-a789-ffa864b43666"
+      "domain": "unlisted.careers",
+      "headline": "28% of job listings are ghost jobs, the ultimate 'we'll get back to you' move.",
+      "summary": "Companies are keeping nearly a third of their job postings active for months just to maintain the aesthetic of growth. It's the corporate equivalent of leaving a 'Help Wanted' sign in the window of a shop that closed three years ago.",
+      "plain_english": "A large portion of job advertisements on company websites remain active for more than three months without actually leading to new hires.",
+      "source_url": "https://unlisted.careers/ghost-jobs/report/2026-09"
     }
   ]
 }
