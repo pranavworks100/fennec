@@ -1,91 +1,91 @@
 {
   "meta": {
-    "date": "Wednesday, September 23, 2026",
-    "scene_summary": "We're busy building autonomous missiles and sentient traffic while our fridges can't even hold a firmware update.",
-    "ratio_statement": "5:5"
+    "date": "Friday, September 25, 2026",
+    "scene_summary": "We are currently paying billions to teach AI how to lie, while the rest of our infrastructure is held together by terminal color codes and prayer.",
+    "ratio_statement": "3:7"
   },
   "cooking": [
     {
       "id": 1,
-      "domain": "openai.com",
-      "headline": "GPT-6 can now drive, because your commute wasn't stressful enough already",
-      "summary": "OpenAI is teaching their model to handle a steering wheel, which is a bold move considering it still hallucinates basic facts about history. I can't wait for the first 'sorry, I didn't mean to drive into that median, I was just predicting the next token' apology.",
-      "plain_english": "OpenAI has updated its GPT-6 Astra model with the capability to operate a motor vehicle.",
-      "source_url": "https://drivingbench.com/"
+      "domain": "nsa.gov",
+      "headline": "The NSA is paying billions to find out if AI is actually smart or just a really good liar",
+      "summary": "The government is dropping billions to stress-test AI models, essentially treating them like a high-stakes group project where they're terrified of the outcome. It's the ultimate 'trust but verify' approach, except the verify part involves a budget that could buy a small country.",
+      "plain_english": "The National Security Agency is spending billions of dollars to evaluate the security and reliability of artificial intelligence models.",
+      "source_url": "https://www.washingtonsun.com/technology/classified-estimates-nsa-paying-billions-to-test-ai-models"
     },
     {
       "id": 2,
-      "domain": "seattle.gov",
-      "headline": "Seattle bans dynamic grocery pricing so your milk doesn't cost more during a heatwave",
-      "summary": "Seattle just outlawed the 'dynamic pricing' dream where stores charge you more for bread simply because you look stressed or it's raining outside. It's a huge win for shoppers who prefer their grocery bills to be as static as a legacy codebase.",
-      "plain_english": "The Seattle City Council has passed a law that prohibits grocery stores from using surveillance data to change prices for individual customers in real time.",
-      "source_url": "https://advocacy.consumerreports.org/press_release/seattle-city-council-votes-to-ban-surveillance-pricing-in-sale-of-groceries/"
+      "domain": "docker.com",
+      "headline": "Docker is launching cloud sandboxes so your AI agents can break things safely",
+      "summary": "Docker is now offering cloud-based sandboxes specifically to keep your rogue AI agents from nuking your local machine. It's essentially a digital playpen for the scripts that keep trying to delete your production database.",
+      "plain_english": "Docker has released a service that provides secure, isolated cloud environments for running automated software tasks.",
+      "source_url": "https://www.docker.com/c/sbx-promo/"
     },
     {
       "id": 3,
-      "domain": "gov.uk",
-      "headline": "The UK is officially 'it' in the world's most expensive game of tag",
-      "summary": "The UK military is jamming satellites to protect its interests, effectively treating space like a noisy coffee shop with bad Wi-Fi. It turns out that when you can't fix your own connection, the best defense is making sure nobody else has one either.",
-      "plain_english": "The United Kingdom is using signal jamming technology to disrupt foreign satellites as a defensive measure.",
-      "source_url": "https://www.bbc.com/news/articles/c32l8y8kygdvo"
-    },
-    {
-      "id": 4,
-      "domain": "interconnects.ai",
-      "headline": "The open-source AI landscape is changing faster than a framework update",
-      "summary": "The balance of power in open-source AI models is shifting so quickly that being the industry leader has the shelf life of a carton of milk. It's hard to build a long-term strategy when your foundational model becomes legacy code by next Tuesday.",
-      "plain_english": "The competitive landscape for open-source artificial intelligence models is evolving rapidly with frequent changes in leadership.",
-      "source_url": "https://www.interconnects.ai/p/the-current-balance-of-power-in-open"
-    },
-    {
-      "id": 5,
-      "domain": "marginalrevolution.com",
-      "headline": "The cost of intelligence is crashing, yet my code still has the same bugs.",
-      "summary": "Intelligence is becoming a cheap commodity while the price of human patience remains at an all-time high. It turns out that having a genius-level AI doesn't actually solve the problem of me forgetting a semicolon.",
-      "plain_english": "The cost of running advanced artificial intelligence models is decreasing significantly over time.",
-      "source_url": "https://marginalrevolution.com/marginalrevolution/2026/09/the-price-of-intelligence-is-falling.html"
+      "domain": "dawo.community",
+      "headline": "The Dutch government is migrating to NixOS to escape the Microsoft ecosystem.",
+      "summary": "Nothing says 'sovereign computing' like replacing a billion-dollar suite with a declarative package manager that requires a PhD to configure. Good luck to the civil servants trying to explain to HR why their spreadsheet won't open because of a missing flake input.",
+      "plain_english": "The Dutch government is developing an alternative to Microsoft software using the NixOS operating system.",
+      "source_url": "https://www.dawo.community/en/"
     }
   ],
   "cooked": [
     {
+      "id": 4,
+      "domain": "microsoft.com",
+      "headline": "Microsoft realizes that nobody actually wanted an AI therapist in their OS",
+      "summary": "Microsoft is officially pivoting away from the personal chatbot race after realizing users mostly just want their software to stop crashing. It turns out that when you force a chatbot into every corner of the UI, you're mostly just building a very expensive paperclip.",
+      "plain_english": "Microsoft is redesigning its Copilot software to move away from being a general-purpose personal assistant.",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-09-25/microsoft-abandons-personal-ai-chatbot-race-with-copilot-reboot"
+    },
+    {
+      "id": 5,
+      "domain": "anthropic.com",
+      "headline": "The Pentagon just put Anthropic on the 'do not trust' list",
+      "summary": "Anthropic is building the future of AI, but the U.S. appeals court just labeled them a supply chain risk.",
+      "plain_english": "A U.S.",
+      "source_url": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html"
+    },
+    {
       "id": 6,
-      "domain": "defense.gov",
-      "headline": "The Pentagon just proved that 'move fast and break things' is a terrible strategy for missiles",
-      "summary": "The military is blaming an overreliance on AI for a strike on a school, essentially turning a war zone into a debugging session gone wrong. It turns out that when you push to production without a human in the loop, the edge cases involve real-world casualties.",
-      "plain_english": "The United States Department of Defense reported that an excessive dependence on artificial intelligence led to a missile strike on a school in Iran.",
-      "source_url": "https://www.bloomberg.com/graphics/2026-iran-school-attack/"
+      "domain": "asml.com",
+      "headline": "ASML sold zero machines in Europe and is now asking for a handout",
+      "summary": "ASML makes the most complex machines on Earth, yet they somehow managed to sell absolutely nothing to their own neighbors this year. It's the industrial equivalent of building a world-class kitchen and then being surprised when no one in the neighborhood wants to cook.",
+      "plain_english": "ASML reported that it did not sell any of its semiconductor manufacturing equipment in Europe during 2026 and is requesting government support to increase regional demand.",
+      "source_url": "https://www.tomshardware.com/tech-industry/semiconductors/asml-says-its-sells-absolutely-nothing-in-europe-calls-on-eu-to-help-create-demand"
     },
     {
       "id": 7,
-      "domain": "australia.gov.au",
-      "headline": "Australia wants an algorithm opt-out button, and the US is calling it censorship",
-      "summary": "Australia is trying to force platforms to let users opt out of algorithmic feeds, but the US thinks that's a polite way of saying 'break the engagement loop.' It's the digital equivalent of a parent trying to turn off the TV while the kid is mid. binge.",
-      "plain_english": "The United States government is criticizing proposed Australian legislation that would require social media platforms to allow users to disable personalized algorithm-based feeds.",
-      "source_url": "https://www.bbc.com/news/articles/cqj3dgy8x3vro"
+      "domain": "gitlab.com",
+      "headline": "GitLab's status page is the most popular read on the internet today",
+      "summary": "GitLab went down, forcing developers to actually talk to their coworkers instead of pushing code. It's the ultimate productivity hack that nobody ever asked for.",
+      "plain_english": "The GitLab platform experienced a service outage that prevented users from accessing their repositories and tools.",
+      "source_url": "https://status.gitlab.com/"
     },
     {
       "id": 8,
-      "domain": "radicle.dev",
-      "headline": "Radicle's decentralized code sharing just hit a centralized snag",
-      "summary": "Radicle promised a future where your code is safe from single points of failure, but a protocol vulnerability just reminded us that even decentralized networks have bugs. Nothing humbles a peer-to-peer enthusiast quite like a patch note.",
-      "plain_english": "A security vulnerability was discovered in the Radicle network protocol that allows for unauthorized actions.",
-      "source_url": "https://radicle.dev/2026/09/23/disclosure-of-vulnerability-in-network-protocol"
+      "domain": "sourcehut.org",
+      "headline": "Sourcehut got pwned by a terminal color code.",
+      "summary": "An XSS vulnerability in a library designed to turn logs into HTML allowed attackers to hijack accounts, proving that even your build logs are out to get you. It's the digital equivalent of tripping over your own shoelaces while trying to win a marathon.",
+      "plain_english": "A security vulnerability in a tool used to convert text logs into web pages allowed unauthorized access to user accounts on the Sourcehut platform.",
+      "source_url": "https://blog.arusekk.pl/posts/srht-account-takeover/"
     },
     {
       "id": 9,
-      "domain": "samsung.com",
-      "headline": "Samsung just turned your fridge into an expensive paperweight",
-      "summary": "Samsung pushed a software update that managed to brick their smart fridges, effectively turning your kitchen appliance into a frozen hunk of metal. It's the ultimate 'it works on my machine' moment, provided your machine isn't supposed to keep your milk from spoiling.",
-      "plain_english": "A software update from Samsung caused their smart refrigerators to stop functioning properly.",
-      "source_url": "https://www.androidauthority.com/samsung-accidentally-freezes-its-smart-fridges-with-a-software-update-3714472/"
+      "domain": "avast.com",
+      "headline": "The antivirus software that needed an antivirus",
+      "summary": "Avast built a sandbox to keep malware out, but researchers just found a way to break out of it like it was a prison movie. It turns out the security software meant to protect your PC was actually hosting a secret exit for anyone who knew where to look.",
+      "plain_english": "Security researchers discovered a vulnerability in Avast Antivirus that allows malicious software to bypass the program's protective containment environment.",
+      "source_url": "https://www.safateam.com/intelligence-hub/research/technical-articles/cve-2025-13032-entering-and-breaking-the-avast-antivirus-sandbox-part-2"
     },
     {
       "id": 10,
-      "domain": "unlisted.careers",
-      "headline": "28% of job listings are ghost jobs, the ultimate 'we'll get back to you' move.",
-      "summary": "Companies are keeping nearly a third of their job postings active for months just to maintain the aesthetic of growth. It's the corporate equivalent of leaving a 'Help Wanted' sign in the window of a shop that closed three years ago.",
-      "plain_english": "A large portion of job advertisements on company websites remain active for more than three months without actually leading to new hires.",
-      "source_url": "https://unlisted.careers/ghost-jobs/report/2026-09"
+      "domain": "digitalrealty.com",
+      "headline": "A $1.1M fine for failing the 'hide your giant gas generators' challenge",
+      "summary": "A data center tried to keep their massive collection of gas generators on the down-low, but they forgot that satellites exist in the year 2026. They got hit with a seven-figure fine for emitting more than just heat, proving that your neighbors can see everything from space.",
+      "plain_english": "A data center was fined $1.1 million by New Jersey regulators for operating dozens of unpermitted gas generators that were discovered via aerial photography.",
+      "source_url": "https://arstechnica.com/tech-policy/2026/09/new-jersey-fines-data-center-1-1m-after-satellite-pics-expose-62-gas-generators/"
     }
   ]
 }
