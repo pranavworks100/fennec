@@ -1,91 +1,91 @@
 {
   "meta": {
-    "date": "Tuesday, September 29, 2026",
-    "scene_summary": "We are currently in a race to see if we can build god-like AI before we lose the ability to keep a simple server running.",
-    "ratio_statement": "4:6"
+    "date": "Wednesday, September 30, 2026",
+    "scene_summary": "We are building an AI-powered future on a power grid that is currently running on thoughts and prayers.",
+    "ratio_statement": "3:7"
   },
   "cooking": [
     {
       "id": 1,
-      "domain": "amd.com",
-      "headline": "AMD is buying World Labs to make your GPU smarter than you",
-      "summary": "AMD is absorbing World Labs to bridge the gap between heavy-duty hardware and spatial intelligence. It's like giving a Ferrari a brain that actually knows how to drive itself.",
-      "plain_english": "The semiconductor company AMD has acquired the artificial intelligence startup World Labs.",
-      "source_url": "https://www.worldlabs.ai/blog/amd-announcement"
+      "domain": "government.nl",
+      "headline": "The Netherlands is breaking up with Microsoft to start its own Linux distro",
+      "summary": "The Dutch government is ditching Windows for a custom Linux build, which is the ultimate 'I can fix her' move in the world of enterprise IT. It's a bold strategy that turns a standard office procurement process into a permanent, government-funded side quest.",
+      "plain_english": "The government of the Netherlands is transitioning its computer systems from Microsoft Windows and Office to a custom-developed Linux operating system.",
+      "source_url": "https://opensourcewatch.beehiiv.com/p/the-netherlands-is-preparing-to-dump-windows-and-office-for-its-own-homebrew-linux"
     },
     {
       "id": 2,
-      "domain": "anthropic.com",
-      "headline": "Anthropic is burning cash like a startup with a corporate credit card",
-      "summary": "The IPO prospectus reveals a grand AI vision that is currently being fueled by a bonfire of operational costs. It turns out that building the future of intelligence is roughly as expensive as keeping a mid-sized country's power grid running.",
-      "plain_english": "Anthropic has filed for an initial public offering while disclosing high expenses associated with developing and operating its artificial intelligence systems.",
-      "source_url": "https://www.reuters.com/business/finance/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs-2026-09-28/"
+      "domain": "magnitudedev.com",
+      "headline": "Magnitude wants to optimize your AI agents, because one hallucinating intern wasn't enough",
+      "summary": "They've built an inference engine that promises to make agents faster, because apparently, we need our AI to fail at tasks with higher throughput. It's like giving a group project team a faster car so they can drive off the cliff in record time.",
+      "plain_english": "Magnitude has released a new software tool designed to improve the performance and speed of AI agents.",
+      "source_url": "https://github.com/magnitudedev/magnitude"
     },
     {
       "id": 3,
-      "domain": "microsoft.com",
-      "headline": "The Netherlands is swapping Microsoft for NixOS because geopolitical drama is the new vendor lock-in.",
-      "summary": "The Dutch government is migrating to NixOS after US sanctions made Microsoft off-limits, proving that even countries aren't immune to the 'we need to migrate our entire infrastructure' nightmare. It's a massive upgrade in nerd cred, though I suspect the IT department is currently having a very long, very stressful week.",
-      "plain_english": "The Dutch government is switching to a new software ecosystem based on NixOS due to international trade restrictions involving Microsoft.",
-      "source_url": "https://www.tomshardware.com/software/the-netherlands-is-rolling-alternative-nixos-based-software-ecosystem-after-u-s-sanctions-on-icc-took-microsoft-off-the-table-trial-programs-running-now-first-release-expected-at-end-of-2027"
-    },
-    {
-      "id": 4,
-      "domain": "playstation.com",
-      "headline": "A new PS5 jailbreak just dropped, perfect for playing games you already own in ways you definitely shouldn't.",
-      "summary": "Someone found a new exploit for the PS5, which is great news if you enjoy playing cat-and-mouse with firmware updates. It's basically the digital equivalent of trying to jailbreak a bank vault just to see if you can open the snack drawer inside.",
-      "plain_english": "A new security vulnerability has been discovered that allows unauthorized software to run on the PlayStation 5 console.",
-      "source_url": "https://github.com/ntfargo/Relapse-Exploit"
+      "domain": "gevernova.com",
+      "headline": "The NRC just gave the green light to a modular nuclear reactor, because apparently we need more power for the GPU farm.",
+      "summary": "We are finally getting small. scale nuclear reactors, which is great news if your current energy strategy is 'hope the grid doesn't melt.' It turns out the best way to feed an AI habit is to just build your own private power plant.",
+      "plain_english": "The U.S.",
+      "source_url": "https://www.gevernova.com/news/press-releases/nrc-issues-first-us-construction-permit-bwrx-300-small-modular-reactor-tva-clinch-river"
     }
   ],
   "cooked": [
     {
+      "id": 4,
+      "domain": "openai.com",
+      "headline": "Being the best AI model in the world now has the shelf life of milk",
+      "summary": "GPT-6 Sol was replaced by GPT-6.1 Sol in just seven days, making your current prompt engineering feel like a frantic race against a sunset. At this rate, the model will be considered 'legacy' before you even finish reading the documentation.",
+      "plain_english": "OpenAI released an updated version of its artificial intelligence model just one week after the previous version was launched.",
+      "source_url": "https://artificialanalysis.ai/articles/gpt-6-1-sol-replaces-gpt-6-sol-after-just-7-days-with-near-astra-intelligence"
+    },
+    {
       "id": 5,
-      "domain": "firebase.google.com",
-      "headline": "Firebase just pushed a remote kill switch for every iOS app",
-      "summary": "The Firebase SDK decided that today was the perfect day for a mass-casualty event on the App Store. It's the digital equivalent of a building manager changing the locks while everyone is still inside.",
-      "plain_english": "A software update for Firebase caused mobile applications on Apple devices to crash immediately upon opening.",
-      "source_url": "https://twitter.com/GergelyOrosz/status/2104825886922911981"
+      "domain": "tesla.com",
+      "headline": "Tesla is speedrunning the 'take out a massive loan to look profitable' strategy",
+      "summary": "Tesla is borrowing $30 billion just as their profitability starts to slide toward zero. It's the corporate equivalent of opening a new credit card to pay off the interest on your last three credit cards.",
+      "plain_english": "Tesla has secured 30 billion dollars in credit as the company's profitability declines.",
+      "source_url": "https://electrek.co/2026/09/29/tesla-takes-on-30-billion-in-credit-as-it-approaches-unprofitability/"
     },
     {
       "id": 6,
       "domain": "openai.com",
-      "headline": "OpenAI's newest model is so safe it's currently invisible",
-      "summary": "OpenAI is holding back their latest model due to safety concerns, which is a great way to ensure their software never has a bug. It is the ultimate version of 'I finished my homework but the dog ate it' for the AI era.",
-      "plain_english": "OpenAI has decided to delay the release of its latest artificial intelligence model to address potential safety and security risks.",
-      "source_url": "https://www.nytimes.com/2026/09/28/technology/openai-astra-safety.html"
+      "headline": "AI needs to make $6 trillion to pay for its own electricity bill",
+      "summary": "The industry needs to generate an absurd $6 trillion annually just to keep the lights on in these massive data centers. It's like buying a Ferrari and then realizing your entire paycheck has to go toward the gas.",
+      "plain_english": "The artificial intelligence industry must generate 6 trillion dollars in annual revenue to cover the costs of building and maintaining its data centers.",
+      "source_url": "https://www.thenationalnews.com/future/technology/2026/09/29/ai-industry-needs-to-earn-6-trillion-by-2031-to-justify-data-centres/"
     },
     {
       "id": 7,
-      "domain": "google.com",
-      "headline": "ChromeOS support is getting a surprise early retirement party.",
-      "summary": "Google is cutting the lifespan of its own OS short, effectively treating support cycles like a student project they just want to submit and forget. It's the digital equivalent of a landlord deciding to renovate your apartment two years before your lease is actually up.",
-      "plain_english": "Google is ending software updates for ChromeOS two years earlier than originally planned.",
-      "source_url": "https://www.theregister.com/os-platforms/2026/09/29/google-ending-chromeos-support-two-years-early/5299674"
+      "domain": "fbi.gov",
+      "headline": "ShinyHunters finally learned that 'the cloud' is just someone else's computer, including the FBI's",
+      "summary": "The group notorious for leaking massive databases has finally been caught, proving that even elite hackers eventually hit a 404 error in their own opsec. It turns out the only thing harder than exfiltrating terabytes of data is staying anonymous while doing it.",
+      "plain_english": "The FBI has arrested the members of the hacking group known as ShinyHunters.",
+      "source_url": "https://www.fbi.gov/video-repository/shinyhunters-arrested-092926.mp4/view"
     },
     {
       "id": 8,
-      "domain": "meta.com",
-      "headline": "Meta's new AI agent treats your privacy settings like a polite suggestion",
-      "summary": "Meta released an AI agent that conveniently forgets your data permissions exist while it scans your files. It's like hiring a bodyguard who decides to read your diary because they were bored on the job.",
-      "plain_english": "Meta has released an AI tool that accesses user data without respecting the privacy restrictions set by the users.",
-      "source_url": "https://appleinsider.com/articles/26/09/28/metas-new-ai-agent-blatantly-ignores-users-permissions"
+      "domain": "nltimes.nl",
+      "headline": "Data centers are ghosting everyone when asked about their massive water and power consumption.",
+      "summary": "Data centers are keeping their utility usage a secret, which is a classic move for someone who knows they're running the shower for three hours a day. It's hard to brag about your carbon-neutral AI goals when you're secretly chugging the entire neighborhood's water supply.",
+      "plain_english": "Most data center operators are refusing to disclose how much electricity and water they consume for their operations.",
+      "source_url": "https://nltimes.nl/2026/09/30/data-centers-refusing-say-much-water-electricity-use"
     },
     {
       "id": 9,
-      "domain": "anthropic.com",
-      "headline": "Claude takes an unscheduled nap during peak hours",
-      "summary": "Claude is experiencing a partial outage, proving that even the smartest models need a coffee break when the pressure is on. It's the digital equivalent of showing up to the final exam only to find the professor forgot the keys to the classroom.",
-      "plain_english": "The Claude AI service is currently experiencing technical issues that are affecting some of its features.",
-      "source_url": "https://status.claude.com/incidents/4xvtc2gnq73l"
+      "domain": "mcdonalds.com",
+      "headline": "McDonald's wants an AI to decide if you can afford a Big Mac",
+      "summary": "McDonald's is experimenting with AI-driven dynamic pricing to adjust your lunch total in real-time. It's basically the airline ticket model, but for your arteries.",
+      "plain_english": "McDonald's is testing artificial intelligence software that automatically changes menu prices based on factors like demand and time of day.",
+      "source_url": "https://www.cnbc.com/2026/09/29/inside-mcdonalds-push-ai-price-big-mac.html"
     },
     {
       "id": 10,
-      "domain": "gov.uk",
-      "headline": "UK facial recognition scans 500,000 faces to catch zero criminals and one innocent commuter.",
-      "summary": "The UK's facial recognition trial has officially achieved a success rate of 'statistically indistinguishable from a coin flip that hates you.' It turns out that burning through massive amounts of compute to accidentally flag a random innocent person is just a very expensive way to say hello. More details in the original article.",
-      "plain_english": "A trial of live facial recognition technology in London train stations failed to identify any criminals while incorrectly flagging one innocent person.",
-      "source_url": "https://www.theguardian.com/technology/2026/sep/29/trial-live-facial-recognition-cameras-london-stations-false-positive"
+      "domain": "bcbs.com",
+      "headline": "Insurance companies blame AI for a billion-dollar clerical error",
+      "summary": "Blue Cross insurers claim their AI tools accidentally ballooned costs by nearly a billion dollars. It turns out that automating your paperwork is a great way to speedrun a bankruptcy.",
+      "plain_english": "Health insurance providers report that the use of automated artificial intelligence systems has resulted in nearly one billion dollars in unexpected additional expenses.",
+      "source_url": "https://www.reuters.com/legal/litigation/ai-tools-generated-nearly-1-billion-extra-costs-blue-cross-insurers-say-2026-09-24/"
     }
   ]
 }
