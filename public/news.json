@@ -1,91 +1,91 @@
 {
   "meta": {
-    "date": "Saturday, October 03, 2026",
-    "scene_summary": "We are building a more secure, private internet just in time for the AI companies to finish burning it down.",
-    "ratio_statement": "6:4"
+    "date": "Sunday, October 04, 2026",
+    "scene_summary": "We are building the future with one hand while the other desperately tries to unplug the infrastructure.",
+    "ratio_statement": "5:5"
   },
   "cooking": [
     {
       "id": 1,
-      "domain": "amazon.com",
-      "headline": "Amazon is spending $1B to prove that money can indeed silence a server room.",
-      "summary": "Amazon is pouring a billion dollars into local infrastructure to smooth over community complaints about their datacenters. It is the corporate equivalent of buying the neighbors noise-canceling headphones because your server fans sound like a jet engine taking off.",
-      "plain_english": "Amazon is investing $1 billion into local community projects and infrastructure to address concerns and opposition regarding their datacenter expansion plans.",
-      "source_url": "https://www.theregister.com/systems/2026/10/02/shut-up-and-take-our-money-amazon-plows-1b-into-quashing-datacenter-dissent/5300914"
+      "domain": "flocksafety.com",
+      "headline": "The government is trying to unplug the neighborhood watch.",
+      "summary": "Senators are pushing to ban automated license plate readers that turn every suburban street into a surveillance grid. It turns out people are starting to realize that 'smart neighborhood' is just a fancy marketing term for a private police state.",
+      "plain_english": "A group of U.S.",
+      "source_url": "https://www.sanders.senate.gov/press-releases/news-sanders-ocasio-cortez-merkley-unveil-ban-flock-act-to-protect-americans-right-to-privacy/"
     },
     {
       "id": 2,
-      "domain": "aleph-alpha.com",
-      "headline": "Aleph Alpha drops Kolibri, an LLM that actually speaks German without sounding like a tourist.",
-      "summary": "Most LLMs handle German like a frantic student using Google Translate, but Aleph Alpha is finally catering to the home crowd. It turns out that teaching a model to respect grammar is a great way to avoid sounding like a broken chatbot.",
-      "plain_english": "Aleph Alpha has released a new artificial intelligence model specifically optimized for the German and English languages.",
-      "source_url": "https://tej.as/blog/aleph-alpha-kolibri"
+      "domain": "system76.com",
+      "headline": "Pop!_OS is allergic to AI code, and honestly, I get it.",
+      "summary": "System76 is banning AI-generated code from their codebase because they'd rather debug their own mistakes than spend all day untangling a hallucinated mess. It's the software equivalent of a professor demanding you show your work instead of just handing in a generated essay.",
+      "plain_english": "The developers of the Linux distribution Pop!_OS have prohibited the use of AI-generated code in their primary software projects to ensure code quality and maintainability.",
+      "source_url": "https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases/"
     },
     {
       "id": 3,
-      "domain": "ziglang.org",
-      "headline": "Zig 0.17.0 is out, proving that some languages prefer stability over moving fast and breaking everything.",
-      "summary": "Updating to a new version of Zig feels like moving furniture in your house while the floor is still being built. It is a relief to see a release that focuses on making the language actually usable instead of just adding more syntax sugar.",
-      "plain_english": "The Zig programming language has released version 0.17.0, which includes various improvements and updates to the language and its build system.",
-      "source_url": "https://ziglang.org/download/0.17.0/release-notes.html"
+      "domain": "rust-lang.org",
+      "headline": "Rust builds just got a speed boost, finally giving us time to stare at the wall",
+      "summary": "By emitting metadata earlier in the process, Rust builds are now twice as fast, which is great news for anyone whose entire personality is waiting for a compiler. Now you can get back to your code twice as fast only to realize you still have no idea why it is broken.",
+      "plain_english": "A change in how the Rust compiler handles metadata allows the software building process to complete up to two times faster.",
+      "source_url": "https://github.com/PowderworksCode/headstart"
     },
     {
       "id": 4,
-      "domain": "cloudflare.com",
-      "headline": "Cloudflare is finally letting the peasants into the Enterprise lounge",
-      "summary": "Cloudflare is handing out high-tier features to everyone, effectively turning their Enterprise gatekeeping into a public service. It is a bold move to make sure your side project has the same security budget as a Fortune 500 company.",
-      "plain_english": "Cloudflare has made several tools previously exclusive to expensive enterprise plans available to all customers at no additional cost.",
-      "source_url": "https://blog.cloudflare.com/enterprise-for-all-update/"
+      "domain": "meta.com",
+      "headline": "Yann LeCun thinks AI extinction fears are just a group project gone wrong",
+      "summary": "Yann LeCun is publicly dismissing existential AI risks while other leaders are busy building their own bunkers. It turns out that when you build the tech, you're the one who thinks the group project is definitely not going to spontaneously combust.",
+      "plain_english": "Yann LeCun has publicly stated that he does not believe artificial intelligence poses an existential threat to humanity.",
+      "source_url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/"
     },
     {
       "id": 5,
-      "domain": "cloudflare.com",
-      "headline": "Cloudflare's new OHTTP gateway is basically a privacy-focused 'don't look at me' button",
-      "summary": "They just launched an OHTTP gateway to help you hide your IP address from the websites you visit. It is the digital equivalent of wearing a trench coat and sunglasses just to go buy a carton of milk.",
-      "plain_english": "Cloudflare has introduced a gateway that uses Oblivious HTTP to separate a user's identity from their request, increasing privacy for web browsing.",
-      "source_url": "https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/"
-    },
-    {
-      "id": 6,
-      "domain": "qubes-os.org",
-      "headline": "Qubes OS 4.3.2 is out for those who find normal security 'too trusting'",
-      "summary": "Qubes OS just released an update for people who treat every browser tab like a potential biological hazard. It is the perfect operating system if you want to ensure your computer is more paranoid than you are after three cups of coffee.",
-      "plain_english": "Qubes OS, an operating system focused on high security through virtualization, has released version 4.3.2.",
-      "source_url": "https://www.qubes-os.org/news/2026/10/02/qubes-os-4-3-2-has-been-released/"
+      "domain": "ukraine.ua",
+      "headline": "Distributed energy is the ultimate 'serverless' architecture for survival",
+      "summary": "Ukraine is keeping the lights on by moving from a few giant power plants to thousands of smaller, scattered energy sources. It turns out that decentralizing your infrastructure is a lot harder for an attacker to take down than a single, monolithic data center.",
+      "plain_english": "Ukraine has successfully maintained its power grid during the war by transitioning to a network of many small, distributed renewable energy sources instead of relying on a few large power plants.",
+      "source_url": "https://energytransition.org/2026/09/in-ukraine-distributed-renewables-foil-russias-assaults/"
     }
   ],
   "cooked": [
     {
-      "id": 7,
+      "id": 6,
       "domain": "openai.com",
-      "headline": "OpenAI's safety team is speedrunning their resignation letters",
-      "summary": "It turns out the company building the future of intelligence is having a classic group project meltdown. They are prioritizing speed over safety so aggressively that even the safety team has decided to log off permanently.",
-      "plain_english": "Employees from the OpenAI safety team have resigned, citing concerns over the company's internal culture and priorities.",
-      "source_url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881/"
+      "headline": "OpenAI's safety lead just left the group project.",
+      "summary": "The person responsible for keeping the AI from going rogue quit because the company's internal culture is allegedly a mess. It turns out that building god-like intelligence is slightly harder when your team is having a mid-life crisis.",
+      "plain_english": "A senior official in charge of AI safety has resigned from OpenAI, citing concerns about the company's internal culture and priorities.",
+      "source_url": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken"
+    },
+    {
+      "id": 7,
+      "domain": "flocksafety.com",
+      "headline": "A federal judge just told Flock that 'mass surveillance' isn't a feature, it's a bug.",
+      "summary": "Flock marketed their cameras as a neighborhood watch upgrade, but a federal judge just ruled that tracking everyone everywhere is actually just indiscriminate mass surveillance. It turns out that 'safety' is a hard sell when you're technically acting like a panopticon with a subscription model.",
+      "plain_english": "A federal judge ruled that the company Flock's automated license plate recognition technology constitutes indiscriminate mass surveillance.",
+      "source_url": "https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/"
     },
     {
       "id": 8,
-      "domain": "google.com",
-      "headline": "Google is ending the free trial of their AI utility",
-      "summary": "Google decided that giving away free AI models was a great way to acquire users until it was time to actually pay the server bills. It turns out the 'free' era of LLMs has the shelf life of a carton of milk left in the breakroom fridge.",
-      "plain_english": "Google is removing free access to its Gemini Flash and Pro artificial intelligence models.",
-      "source_url": "https://www.reddit.com/r/GeminiAI/comments/1wwalmc/wtf_google_getting_rid_of_free_gemini_flash_and/"
+      "domain": "openbsd.org",
+      "headline": "OpenBSD devs look at Rust-based coreutils and say 'no thanks'",
+      "summary": "OpenBSD developers rejected a Rust-based rewrite of standard tools because they prefer their code to be as old and grumpy as they are. It turns out that when you prioritize security and stability, 'rewritten in Rust' is not the magic spell you think it is.",
+      "plain_english": "OpenBSD has decided not to adopt a new set of system tools written in the Rust programming language due to concerns about licensing and compatibility.",
+      "source_url": "https://news.lavx.hu/article/openbsd-developers-reject-uutils-coreutils-port-over-licensing-and-compatibility-concerns"
     },
     {
       "id": 9,
-      "domain": "palantir.com",
-      "headline": "Palantir's database is now the world's most invasive photo album.",
-      "summary": "ICE has been feeding photos of protesters directly into Palantir's software, proving that if there is a data point, someone will eventually try to optimize it for surveillance. It's the ultimate group project where nobody asked for the extra credit, but everyone is getting a failing grade in privacy.",
-      "plain_english": "Immigration and Customs Enforcement has been uploading photographs of protesters into a database managed by the data analytics company Palantir.",
-      "source_url": "https://www.wired.com/story/ice-has-been-dumping-protester-photos-into-a-palantir-database/"
+      "domain": "openai.com",
+      "headline": "Sam Altman's family drama just got a permanent 'Access Denied' from the courts.",
+      "summary": "After a legal back-and-forth, the judge finally dismissed the lawsuit brought by Sam Altman's sister. It turns out that even with the world's most powerful AI, some family problems are better solved by a court clerk hitting the delete key.",
+      "plain_english": "A lawsuit filed by Sam Altman's sister against him regarding sexual abuse allegations has been dismissed by a judge.",
+      "source_url": "https://www.reuters.com/legal/government/judge-now-dismisses-lawsuit-by-sam-altmans-sister-accusing-openai-ceo-sexual-2026-03-20/"
     },
     {
       "id": 10,
-      "domain": "uscourts.gov",
-      "headline": "A US court just realized that 'deepfake' is a terrible courtroom witness",
-      "summary": "A murder conviction was overturned because the prosecution used AI-generated video of the victim to help tell the story. It turns out that bringing a hallucinating witness to the stand is a great way to turn a guilty verdict into a mistrial.",
-      "plain_english": "A murder conviction was overturned because the prosecution used an AI-generated video in court, which the judge ruled was inappropriate.",
-      "source_url": "https://www.bbc.com/news/articles/cwgkvygg5nzvo"
+      "domain": "apple.com",
+      "headline": "The iPhone 18 Pro Max is now a very expensive paperweight if you use AT&T.",
+      "summary": "Apple has officially confirmed that certain iPhone 18 Pro Max units are incompatible with AT&T and require a total hardware swap. It's the ultimate 'it's not you, it's me' breakup, except you have to go to the Apple Store to get your divorce papers.",
+      "plain_english": "Apple has acknowledged that some iPhone 18 Pro Max models are experiencing connectivity issues with AT&T's network and must be replaced.",
+      "source_url": "https://daringfireball.net/linked/2026/10/03/iphone-18-pro-max-att-issues"
     }
   ]
 }
