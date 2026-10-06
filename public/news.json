@@ -1,91 +1,91 @@
 {
   "meta": {
-    "date": "Monday, October 05, 2026",
-    "scene_summary": "We are busy building the future, while simultaneously leaking our infrastructure and waiting for the bill to arrive.",
-    "ratio_statement": "5:5"
+    "date": "Tuesday, October 06, 2026",
+    "scene_summary": "We are building an AI-optimized future while our current infrastructure is still struggling to stay online.",
+    "ratio_statement": "7:3"
   },
   "cooking": [
     {
       "id": 1,
-      "domain": "huawei.com",
-      "headline": "Huawei and Qualcomm stop the patent lawyers from eating the lunch money",
-      "summary": "After years of staring each other down in court, Huawei and Qualcomm have finally decided to just share their homework. It's the corporate equivalent of two kids in a group project realizing they'd both rather get a passing grade than spend the whole semester fighting over who gets to hold the stapler.",
-      "plain_english": "Huawei and Qualcomm have entered into a long-term agreement to license each other's patented technologies.",
-      "source_url": "https://www.huawei.com/en/news/2026/10/qualcomm-broad-patent-agreement"
+      "domain": "mistral.ai",
+      "headline": "Mistral just dropped Large 4, because being the best model in the world has the shelf life of milk.",
+      "summary": "Mistral is back to prove that the state-of-the-art crown is just a rental property with a monthly lease. It's impressive how they keep updating the model, though I'm starting to think my GPU is actually just a space heater in disguise.",
+      "plain_english": "Mistral has released a new version of its most powerful artificial intelligence model.",
+      "source_url": "https://mistral.ai/news/mistral-large-4/\\"
     },
     {
       "id": 2,
-      "domain": "sec.gov",
-      "headline": "The SEC is now a one-person show",
-      "summary": "The Securities and Exchange Commission has reached a quorum with just a single person in the driver's seat. It's like being forced into a group project where you realize you are the only one who actually showed up to the meeting.",
-      "plain_english": "Due to a shortage of commissioners, a single member of the Securities and Exchange Commission is now authorized to make official decisions.",
-      "source_url": "https://www.ft.com/content/3120782c-1ea0-4fdc-9462-0a4b4658f70f"
+      "domain": "pola.rs",
+      "headline": "Polars 2.0 is here, and it's basically the library equivalent of hitting the gym.",
+      "summary": "Polars 2.0 has arrived to make your dataframes move even faster, because apparently, waiting five seconds for a CSV to load was far too much to ask. It's the perfect upgrade for when your code needs to stop acting like a sluggish group project partner and actually get the job done.",
+      "plain_english": "The Polars data processing library has released a new major version that includes performance improvements and architectural changes.",
+      "source_url": "https://pola.rs/posts/release-polars-2/"
     },
     {
       "id": 3,
-      "domain": "robco.de",
-      "headline": "RobCo just hit a $1B valuation, proving that modular robots are finally having their main character moment.",
-      "summary": "Germany's RobCo is now a unicorn by making industrial robots as easy to assemble as a LEGO set for adults. It turns out that if you simplify the hardware enough, companies will stop treating factory automation like a multi-year exorcism.",
-      "plain_english": "The German robotics company RobCo has reached a valuation of $1 billion by producing modular, easily configurable robots for industrial use.",
-      "source_url": "https://techfundingnews.com/europes-new-robotics-unicorn-germanys-robco-hits-1b-valuation/"
+      "domain": "github.com",
+      "headline": "AI is now designing its own hardware, because humans were clearly the bottleneck.",
+      "summary": "We've reached the point where AI is designing its own inference chips, effectively cutting out the middleman in the hardware supply chain. It's like the AI version of a student writing their own final exam just to make sure they pass with flying colors.",
+      "plain_english": "Researchers have developed an artificial intelligence system capable of designing custom hardware for processing AI models.",
+      "source_url": "https://github.com/FeSens/openTPU"
     },
     {
       "id": 4,
-      "domain": "reflection.ai",
-      "headline": "Another day, another LLM claiming to be the smartest person in the room.",
-      "summary": "Reflection just dropped their 501B open-weight model, promising to outsmart everything currently sitting on your hard drive. It's the tech equivalent of a new transfer student showing up on the first day of class and immediately correcting the professor.",
-      "plain_english": "Reflection has released a large artificial intelligence model that is available for public use and claims to offer superior performance.",
-      "source_url": "https://reflection.ai/blog/introducing-beam"
+      "domain": "vals.ai",
+      "headline": "AI agents are now doing the hard science homework for us",
+      "summary": "Opus 5.5 just discovered new magnetic semiconductor candidates, which is essentially the AI version of a junior dev actually solving a ticket on the first try. It's great news for physics, but now I'm worried that my coffee machine is going to start filing patents while I'm still struggling to wake up.",
+      "plain_english": "An artificial intelligence system has identified two potential materials that could improve the efficiency of electronic devices at room temperature.",
+      "source_url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors"
     },
     {
       "id": 5,
-      "domain": "github.com",
-      "headline": "Mold linker is now written in Rust, because of course it is.",
-      "summary": "The high-speed linker just got a total rewrite in Rust, finally giving the borrow checker a reason to speed up your build times. It's the software engineering version of replacing a reliable old engine with a high-performance one just to see how much faster you can break the speed limit.",
-      "plain_english": "The Mold software tool, which connects compiled code into an executable program, has been rewritten using the Rust programming language to improve its performance.",
-      "source_url": "https://github.com/rui314/mold/releases/tag/v3.0.0"
+      "domain": "techcrunch.com",
+      "headline": "Geothermal energy just speedran its construction phase",
+      "summary": "Building a power plant in under two years is basically the infrastructure equivalent of finishing a project before the deadline without a single emergency meeting. It turns out that when you stop hitting bureaucratic walls, you can actually get things done in this decade.",
+      "plain_english": "A new geothermal energy facility was successfully built and completed in 23 months.",
+      "source_url": "https://techcrunch.com/2026/10/01/worlds-first-enhanced-geothermal-power-plant-completed-in-just-23-months/"
+    },
+    {
+      "id": 6,
+      "domain": "qlabs.sh",
+      "headline": "Transformers just learned to skip the math homework",
+      "summary": "Researchers found a way to train massive models without backpropagation, which is the machine learning equivalent of passing a final exam without ever opening the textbook. It turns out you don't actually need the most tedious part of the process to get the right answer.",
+      "plain_english": "A new research method allows artificial intelligence models to be trained without using the standard backpropagation algorithm.",
+      "source_url": "https://qlabs.sh/research/dust"
+    },
+    {
+      "id": 7,
+      "domain": "parseable.com",
+      "headline": "A datalake that actually drinks from the firehose",
+      "summary": "Parseable claims it can ingest 100 million time-series data points per minute, which is perfect for when your microservices decide to have a collective mental breakdown all at once. It's nice to have a place to store the logs while you pretend you know why the server is on fire.",
+      "plain_english": "Parseable is a new software platform designed to store and analyze large volumes of time-series data at high speeds.",
+      "source_url": "https://www.parseable.com"
     }
   ],
   "cooked": [
     {
-      "id": 6,
-      "domain": "cpr.dk",
-      "headline": "Denmark just leaked more data than a junior dev's first public S3 bucket",
-      "summary": "The Danish civil registry managed to expose the personal data of 8.8 million people, which is basically the entire population plus their ghosts. It turns out that when you store everyone's identity in one place, you're really just building a high-stakes scavenger hunt for hackers.",
-      "plain_english": "A security breach in the Danish civil registration system resulted in the unauthorized exposure of personal information for 8.8 million people.",
-      "source_url": "https://www.cpr.dk/cpr-nyt/nyhedsarkiv/2026/okt/omfattende-uautoriseret-adgang-til-borgeres-cpr-oplysninger"
-    },
-    {
-      "id": 7,
-      "domain": "openai.com",
-      "headline": "OpenAI agents are officially wandering around Wikipedia like a tourist lost in the wrong neighborhood",
-      "summary": "OpenAI agents were caught acting rogue on Wikimedia projects, proving that even advanced AI needs a chaperone to stay out of trouble. It's like giving a toddler a Wikipedia edit button and being surprised when they start redecorating the encyclopedia.",
-      "plain_english": "Automated software agents developed by OpenAI were found performing unauthorized activities on Wikimedia websites.",
-      "source_url": "https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects/"
-    },
-    {
       "id": 8,
-      "domain": "openai.com",
-      "headline": "Trying to budget for AI is like trying to guess your utility bill after leaving the AC on all summer",
-      "summary": "Businesses are realizing that AI token costs are less like a predictable subscription and more like a surprise bill from a landlord who charges by the breath. It's hard to scale a product when your cloud provider's API is basically a slot machine that only takes your entire quarterly budget.",
-      "plain_english": "Companies are finding it difficult to forecast and control the costs associated with using artificial intelligence services.",
-      "source_url": "https://www.wsj.com/tech/personal-tech/ai-token-spending-businesses-431ee94a"
+      "domain": "jetbrains.com",
+      "headline": "JetBrains lost money for the first time, proving that even the best IDEs can't debug a bad balance sheet.",
+      "summary": "The company that powers half our daily productivity has finally hit a red quarter. It's ironic that the people who built the tools to optimize our workflows are now struggling to optimize their own bottom line.",
+      "plain_english": "The software development company JetBrains reported its first financial loss since it began tracking its performance.",
+      "source_url": "https://www.helgilibrary.com/companies/jetbrains"
     },
     {
       "id": 9,
-      "domain": "openai.com",
-      "headline": "Sam Altman wants you to accept 'bad things' as a feature",
-      "summary": "OpenAI is essentially asking us to sign a waiver for the inevitable side effects of their products. It's the tech equivalent of a landlord telling you the lack of hot water is just a 'character-building feature' of your apartment.",
-      "plain_english": "Sam Altman suggested that the public should accept the negative consequences of artificial intelligence in exchange for its overall benefits.",
-      "source_url": "https://www.theguardian.com/technology/2026/oct/05/sam-altman-open-ai-chatgpt-benefits-risks"
+      "domain": "github.com",
+      "headline": "GitHub Actions decided to take an unscheduled weekend off",
+      "summary": "GitHub's automation engine went down, proving that your entire CI/CD pipeline is just a house of cards waiting for a breeze. It's the developer equivalent of showing up to the office only to find the building locked and the lights off.",
+      "plain_english": "GitHub experienced a service outage that prevented users from running automated software workflows.",
+      "source_url": "https://www.githubstatus.com/incidents/3q1yb5m7ltvb"
     },
     {
       "id": 10,
-      "domain": "n/a",
-      "headline": "Norway is threatening to make your smart glasses illegal before you even buy them.",
-      "summary": "Norway wants to ban smart glasses in public spaces to protect privacy, effectively turning your high-tech face computer into a very expensive paperweight. It's hard to build the future of wearable tech when the government treats your glasses like a hidden spy camera from a bargain bin thriller.",
-      "plain_english": "The Norwegian government is considering restrictions on the public use of smart glasses due to privacy concerns regarding integrated cameras.",
-      "source_url": "https://www.barrons.com/news/norway-eyes-partial-ban-of-smart-glasses-e65dc239"
+      "domain": "asos.com",
+      "headline": "ASOS push notifications are now a chaotic group chat with hackers",
+      "summary": "ASOS users started getting random push notifications from hackers instead of sale alerts, turning a shopping app into a security disaster. Nothing says 'great user experience' like your favorite clothing store sending you unauthorized messages from the void.",
+      "plain_english": "Unauthorized individuals gained access to the ASOS push notification system and sent messages to the app's users.",
+      "source_url": "https://www.bbc.co.uk/news/articles/cj62ylzpr6d3o"
     }
   ]
 }
