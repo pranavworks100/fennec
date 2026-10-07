@@ -1,91 +1,91 @@
 {
   "meta": {
-    "date": "Tuesday, October 06, 2026",
-    "scene_summary": "We are building an AI-optimized future while our current infrastructure is still struggling to stay online.",
-    "ratio_statement": "7:3"
+    "date": "Wednesday, October 07, 2026",
+    "scene_summary": "We are busy building the future with AI while the rest of our infrastructure is held together by hope and duct tape.",
+    "ratio_statement": "5:5"
   },
   "cooking": [
     {
       "id": 1,
-      "domain": "mistral.ai",
-      "headline": "Mistral just dropped Large 4, because being the best model in the world has the shelf life of milk.",
-      "summary": "Mistral is back to prove that the state-of-the-art crown is just a rental property with a monthly lease. It's impressive how they keep updating the model, though I'm starting to think my GPU is actually just a space heater in disguise.",
-      "plain_english": "Mistral has released a new version of its most powerful artificial intelligence model.",
-      "source_url": "https://mistral.ai/news/mistral-large-4/\\"
+      "domain": "ai.com",
+      "headline": "Turns out AI agents are better at bank robbery than entry-level employees",
+      "summary": "South Korean officials suspect AI agents were deployed to hack into banks, essentially automating the most high-stakes heist in history. It is truly the ultimate group project where the AI does all the heavy lifting while the human just sits back and watches the results.",
+      "plain_english": "South Korean authorities have identified evidence suggesting that automated artificial intelligence systems were used to conduct cyberattacks against the nation's financial institutions.",
+      "source_url": "https://www.reuters.com/world/south-koreas-lee-says-ai-appears-have-been-used-bank-hacks-2026-10-06/"
     },
     {
       "id": 2,
-      "domain": "pola.rs",
-      "headline": "Polars 2.0 is here, and it's basically the library equivalent of hitting the gym.",
-      "summary": "Polars 2.0 has arrived to make your dataframes move even faster, because apparently, waiting five seconds for a CSV to load was far too much to ask. It's the perfect upgrade for when your code needs to stop acting like a sluggish group project partner and actually get the job done.",
-      "plain_english": "The Polars data processing library has released a new major version that includes performance improvements and architectural changes.",
-      "source_url": "https://pola.rs/posts/release-polars-2/"
+      "domain": "openai.com",
+      "headline": "GPT-6 is here to automate the parts of your job you were actually getting paid for",
+      "summary": "OpenAI just dropped GPT-6 with a new UI that promises to handle your workflow, effectively turning your browser into a self-driving car. It is the perfect tool for when you want to feel productive while watching an AI hallucinate your entire sprint backlog.",
+      "plain_english": "OpenAI has released GPT-6, which includes new features designed to help users manage and interact with various software applications.",
+      "source_url": "https://openai.com/index/gpt-6-for-everyone/"
     },
     {
       "id": 3,
-      "domain": "github.com",
-      "headline": "AI is now designing its own hardware, because humans were clearly the bottleneck.",
-      "summary": "We've reached the point where AI is designing its own inference chips, effectively cutting out the middleman in the hardware supply chain. It's like the AI version of a student writing their own final exam just to make sure they pass with flying colors.",
-      "plain_english": "Researchers have developed an artificial intelligence system capable of designing custom hardware for processing AI models.",
-      "source_url": "https://github.com/FeSens/openTPU"
+      "domain": "anthropic.com",
+      "headline": "Claude Haiku 5.5 is here to prove that 'small model' is just marketing speak for 'cheap and fast'.",
+      "summary": "Anthropic dropped a new version of their smallest model, because apparently, the industry decided that being tiny is now a competitive advantage. It's the perfect tool for when you need a hallucination delivered in under 200 milliseconds.",
+      "plain_english": "Anthropic has released a new, more efficient version of its smaller artificial intelligence model.",
+      "source_url": "https://www.anthropic.com/claude-haiku-5-5"
     },
     {
       "id": 4,
-      "domain": "vals.ai",
-      "headline": "AI agents are now doing the hard science homework for us",
-      "summary": "Opus 5.5 just discovered new magnetic semiconductor candidates, which is essentially the AI version of a junior dev actually solving a ticket on the first try. It's great news for physics, but now I'm worried that my coffee machine is going to start filing patents while I'm still struggling to wake up.",
-      "plain_english": "An artificial intelligence system has identified two potential materials that could improve the efficiency of electronic devices at room temperature.",
-      "source_url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors"
+      "domain": "openssh.com",
+      "headline": "OpenSSH 10.6 is here to remind you that your server security is still held together by duct tape.",
+      "summary": "Another OpenSSH update has arrived, which means it is time to log into your servers and hope your config files do not immediately combust. It is the digital version of a routine maintenance check that you secretly hope does not reveal that the foundation of your house is rotting.",
+      "plain_english": "The OpenSSH project has released version 10.6, which includes updates and security improvements for the software used to remotely manage servers.",
+      "source_url": "https://www.openssh.org/releasenotes.html#10.6"
     },
     {
       "id": 5,
-      "domain": "techcrunch.com",
-      "headline": "Geothermal energy just speedran its construction phase",
-      "summary": "Building a power plant in under two years is basically the infrastructure equivalent of finishing a project before the deadline without a single emergency meeting. It turns out that when you stop hitting bureaucratic walls, you can actually get things done in this decade.",
-      "plain_english": "A new geothermal energy facility was successfully built and completed in 23 months.",
-      "source_url": "https://techcrunch.com/2026/10/01/worlds-first-enhanced-geothermal-power-plant-completed-in-just-23-months/"
-    },
-    {
-      "id": 6,
-      "domain": "qlabs.sh",
-      "headline": "Transformers just learned to skip the math homework",
-      "summary": "Researchers found a way to train massive models without backpropagation, which is the machine learning equivalent of passing a final exam without ever opening the textbook. It turns out you don't actually need the most tedious part of the process to get the right answer.",
-      "plain_english": "A new research method allows artificial intelligence models to be trained without using the standard backpropagation algorithm.",
-      "source_url": "https://qlabs.sh/research/dust"
-    },
-    {
-      "id": 7,
-      "domain": "parseable.com",
-      "headline": "A datalake that actually drinks from the firehose",
-      "summary": "Parseable claims it can ingest 100 million time-series data points per minute, which is perfect for when your microservices decide to have a collective mental breakdown all at once. It's nice to have a place to store the logs while you pretend you know why the server is on fire.",
-      "plain_english": "Parseable is a new software platform designed to store and analyze large volumes of time-series data at high speeds.",
-      "source_url": "https://www.parseable.com"
+      "domain": "nobelprize.org",
+      "headline": "Chemistry Nobel winners prove that sometimes the best results come from just letting molecules do their thing.",
+      "summary": "Henri B. Kagan and Kenso Soai just took home the Nobel for work that essentially makes chemistry less like a messy kitchen and more like a precise assembly line.",
+      "plain_english": "Henri B.",
+      "source_url": "https://www.nobelprize.org/prizes/chemistry/2026/press-release/"
     }
   ],
   "cooked": [
     {
+      "id": 6,
+      "domain": "google.com",
+      "headline": "The internet's digital ID system just got its lunch money stolen",
+      "summary": "Hackers managed to grab counterfeit TLS certificates for major services like Google, proving that even our most trusted locks are just suggestions. It is the digital equivalent of someone printing their own master key and walking right into your house.",
+      "plain_english": "Unauthorized individuals successfully obtained fake digital security certificates that allow them to impersonate major websites like Google.",
+      "source_url": "https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/"
+    },
+    {
+      "id": 7,
+      "domain": "paramount.com",
+      "headline": "Media conglomerates are merging to form a final boss that nobody asked for",
+      "summary": "Paramount and Warner Bros. Discovery just pulled a $111 billion mega-merger to create a single giant streaming monolith.",
+      "plain_english": "Paramount and Warner Bros.",
+      "source_url": "https://arstechnica.com/tech-policy/2026/10/paramount-completes-111b-warner-merger-creating-skydance-behemoth/"
+    },
+    {
       "id": 8,
-      "domain": "jetbrains.com",
-      "headline": "JetBrains lost money for the first time, proving that even the best IDEs can't debug a bad balance sheet.",
-      "summary": "The company that powers half our daily productivity has finally hit a red quarter. It's ironic that the people who built the tools to optimize our workflows are now struggling to optimize their own bottom line.",
-      "plain_english": "The software development company JetBrains reported its first financial loss since it began tracking its performance.",
-      "source_url": "https://www.helgilibrary.com/companies/jetbrains"
+      "domain": "github.com",
+      "headline": "GitHub went down, and suddenly everyone remembered they don't actually know how to code without pulling.",
+      "summary": "GitHub had an incident with Git operations today, effectively forcing the entire industry to take an unexpected coffee break. It's a great reminder that the cloud is just someone else's computer, and today, that computer was busy thinking about its life choices.",
+      "plain_english": "GitHub experienced a service outage that temporarily prevented users from performing standard version control operations.",
+      "source_url": "https://www.githubstatus.com/incidents/djlmxz2zd0j7"
     },
     {
       "id": 9,
-      "domain": "github.com",
-      "headline": "GitHub Actions decided to take an unscheduled weekend off",
-      "summary": "GitHub's automation engine went down, proving that your entire CI/CD pipeline is just a house of cards waiting for a breeze. It's the developer equivalent of showing up to the office only to find the building locked and the lights off.",
-      "plain_english": "GitHub experienced a service outage that prevented users from running automated software workflows.",
-      "source_url": "https://www.githubstatus.com/incidents/3q1yb5m7ltvb"
+      "domain": "visa.com",
+      "headline": "Visa and Mastercard are being sued for fees that basically act as a toll booth for the entire internet.",
+      "summary": "It turns out that taking a percentage of every single transaction for decades has finally triggered a massive legal headache. It is the corporate equivalent of charging your friends a convenience fee every time they pay you back for pizza.",
+      "plain_english": "Visa, Mastercard, and several major banks are being sued for allegedly setting credit card transaction fees at artificially high levels.",
+      "source_url": "https://www.classaction.org/news/visa-mastercard-major-banks-facing-new-litigation-over-anticompetitive-merchant-credit-card-transaction-fees"
     },
     {
       "id": 10,
-      "domain": "asos.com",
-      "headline": "ASOS push notifications are now a chaotic group chat with hackers",
-      "summary": "ASOS users started getting random push notifications from hackers instead of sale alerts, turning a shopping app into a security disaster. Nothing says 'great user experience' like your favorite clothing store sending you unauthorized messages from the void.",
-      "plain_english": "Unauthorized individuals gained access to the ASOS push notification system and sent messages to the app's users.",
-      "source_url": "https://www.bbc.co.uk/news/articles/cj62ylzpr6d3o"
+      "domain": "sony.com",
+      "headline": "Sony's security is currently playing a game of whack-a-mole with a hammer made of glass.",
+      "summary": "PS5 jailbreaks are moving so fast that Sony's security team is effectively trying to patch a leaky boat with a single roll of duct tape. It turns out that when you treat hardware like a locked vault, people just get better at picking the lock.",
+      "plain_english": "Security researchers are successfully bypassing the software restrictions on the PlayStation 5 at an increasing rate.",
+      "source_url": "https://www.pushsquare.com/news/2026/10/ps5-jailbreaks-are-escalating-at-an-unprecedented-pace-and-sony-must-be-sweating"
     }
   ]
 }
