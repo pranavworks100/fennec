@@ -1,91 +1,91 @@
 {
   "meta": {
-    "date": "Wednesday, October 07, 2026",
-    "scene_summary": "We are busy building the future with AI while the rest of our infrastructure is held together by hope and duct tape.",
+    "date": "Thursday, October 08, 2026",
+    "scene_summary": "We are building infinite context models on top of a stack that is currently having an existential crisis.",
     "ratio_statement": "5:5"
   },
   "cooking": [
     {
       "id": 1,
-      "domain": "ai.com",
-      "headline": "Turns out AI agents are better at bank robbery than entry-level employees",
-      "summary": "South Korean officials suspect AI agents were deployed to hack into banks, essentially automating the most high-stakes heist in history. It is truly the ultimate group project where the AI does all the heavy lifting while the human just sits back and watches the results.",
-      "plain_english": "South Korean authorities have identified evidence suggesting that automated artificial intelligence systems were used to conduct cyberattacks against the nation's financial institutions.",
-      "source_url": "https://www.reuters.com/world/south-koreas-lee-says-ai-appears-have-been-used-bank-hacks-2026-10-06/"
+      "domain": "letsencrypt.org",
+      "headline": "Let's Encrypt is shortening cert lifetimes, because manual labor is the best security feature.",
+      "summary": "They are moving to 64-day lifetimes to force better automation and kill off manual certificate management. It is basically the digital equivalent of making you clean your room every two months so you don't live in a hoard of expired keys.",
+      "plain_english": "Let's Encrypt is reducing the lifespan of its security certificates to 64 days to encourage systems to automatically renew them.",
+      "source_url": "https://letsencrypt.org/2026/10/07/64-day-certs.html"
     },
     {
       "id": 2,
-      "domain": "openai.com",
-      "headline": "GPT-6 is here to automate the parts of your job you were actually getting paid for",
-      "summary": "OpenAI just dropped GPT-6 with a new UI that promises to handle your workflow, effectively turning your browser into a self-driving car. It is the perfect tool for when you want to feel productive while watching an AI hallucinate your entire sprint backlog.",
-      "plain_english": "OpenAI has released GPT-6, which includes new features designed to help users manage and interact with various software applications.",
-      "source_url": "https://openai.com/index/gpt-6-for-everyone/"
+      "domain": "samsung.com",
+      "headline": "LLM compression is getting so aggressive that models might soon fit on a grocery store receipt.",
+      "summary": "Samsung researchers figured out how to shrink models to sub-1-bit, which is basically the AI equivalent of deleting your 'node_modules' folder to save space. We are officially reaching the point where your toaster will have more context window than your brain.",
+      "plain_english": "Samsung researchers have developed a new method to significantly reduce the file size of large language models while maintaining their performance.",
+      "source_url": "https://github.com/SamsungLabs/LittleBit"
     },
     {
       "id": 3,
-      "domain": "anthropic.com",
-      "headline": "Claude Haiku 5.5 is here to prove that 'small model' is just marketing speak for 'cheap and fast'.",
-      "summary": "Anthropic dropped a new version of their smallest model, because apparently, the industry decided that being tiny is now a competitive advantage. It's the perfect tool for when you need a hallucination delivered in under 200 milliseconds.",
-      "plain_english": "Anthropic has released a new, more efficient version of its smaller artificial intelligence model.",
-      "source_url": "https://www.anthropic.com/claude-haiku-5-5"
+      "domain": "kernel.org",
+      "headline": "Linux just learned how to squeeze more RAM into your RAM",
+      "summary": "Linux is introducing a new compression method that treats your memory like a carry-on bag you're desperately trying to zip shut. It turns out the best way to get more speed is to just make your data smaller so it doesn't have to travel as far.",
+      "plain_english": "A new Linux memory management technique compresses data stored in RAM to increase read speeds and overall system performance.",
+      "source_url": "https://www.tomshardware.com/software/linux/new-linux-tech-compresses-memory-in-ram-as-ram-for-452x-speedup-new-cram-method-offers-giant-boost-to-compressed-memory-reads"
     },
     {
       "id": 4,
-      "domain": "openssh.com",
-      "headline": "OpenSSH 10.6 is here to remind you that your server security is still held together by duct tape.",
-      "summary": "Another OpenSSH update has arrived, which means it is time to log into your servers and hope your config files do not immediately combust. It is the digital version of a routine maintenance check that you secretly hope does not reveal that the foundation of your house is rotting.",
-      "plain_english": "The OpenSSH project has released version 10.6, which includes updates and security improvements for the software used to remotely manage servers.",
-      "source_url": "https://www.openssh.org/releasenotes.html#10.6"
+      "domain": "stepfun.com",
+      "headline": "A 1M-context model just dropped, because your AI needed more room for its baggage",
+      "summary": "StepFun just released a massive context window model that can process enough tokens to read a small library in one go. It's perfect for when you need to dump your entire codebase into a prompt and pray the AI actually remembers the first line by the time it reaches the end.",
+      "plain_english": "StepFun has released a new artificial intelligence model that can process up to one million tokens of information at once.",
+      "source_url": "https://openrouter.ai/stepfun/step-5-preview"
     },
     {
       "id": 5,
-      "domain": "nobelprize.org",
-      "headline": "Chemistry Nobel winners prove that sometimes the best results come from just letting molecules do their thing.",
-      "summary": "Henri B. Kagan and Kenso Soai just took home the Nobel for work that essentially makes chemistry less like a messy kitchen and more like a precise assembly line.",
-      "plain_english": "Henri B.",
-      "source_url": "https://www.nobelprize.org/prizes/chemistry/2026/press-release/"
+      "domain": "microsoft.com",
+      "headline": "Mozilla asked Microsoft to stop being annoying, Microsoft took notes",
+      "summary": "Mozilla sat down with Microsoft to discuss their aggressive design patterns, which is like asking a landlord to stop charging for 'convenience fees' you never signed up for. It's a bold move, but we all know the browser wars are just a series of polite meetings before someone pushes a surprise update.",
+      "plain_english": "Mozilla held a meeting with Microsoft to express concerns regarding the company's user interface and design choices.",
+      "source_url": "https://www.reddit.com/r/firefox/comments/1wzzk6l/mozilla_met_with_microsoft_to_discuss_their/"
     }
   ],
   "cooked": [
     {
       "id": 6,
-      "domain": "google.com",
-      "headline": "The internet's digital ID system just got its lunch money stolen",
-      "summary": "Hackers managed to grab counterfeit TLS certificates for major services like Google, proving that even our most trusted locks are just suggestions. It is the digital equivalent of someone printing their own master key and walking right into your house.",
-      "plain_english": "Unauthorized individuals successfully obtained fake digital security certificates that allow them to impersonate major websites like Google.",
-      "source_url": "https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/"
+      "domain": "microsoft.com",
+      "headline": "US government just revoked the 'Easy Mode' setting for hiring developers",
+      "summary": "The US government is suspending a key green card program for major tech firms, effectively turning the hiring pipeline into a DMV waiting room. It turns out even multi-billion dollar companies aren't immune to the bureaucracy of a group project where the professor decides to change the rules mid-semester.",
+      "plain_english": "The United States government has suspended a specialized visa program that allowed major technology companies to more easily sponsor foreign employees for permanent residency.",
+      "source_url": "https://www.reuters.com/business/us-suspending-permanent-residency-program-for-microsoft-vance-says-2026-10-08/"
     },
     {
       "id": 7,
-      "domain": "paramount.com",
-      "headline": "Media conglomerates are merging to form a final boss that nobody asked for",
-      "summary": "Paramount and Warner Bros. Discovery just pulled a $111 billion mega-merger to create a single giant streaming monolith.",
-      "plain_english": "Paramount and Warner Bros.",
-      "source_url": "https://arstechnica.com/tech-policy/2026/10/paramount-completes-111b-warner-merger-creating-skydance-behemoth/"
+      "domain": "openai.com",
+      "headline": "OpenAI's revenue projections just hit a major merge conflict",
+      "summary": "OpenAI's revenue is $20 billion lower than previously teased, which is a massive discrepancy for a company burning cash like a server rack in a sauna. It turns out that 'AI-scale growth' is just regular business growth, but with significantly more expensive electricity bills.",
+      "plain_english": "OpenAI's actual annual revenue is $20 billion lower than the figures previously suggested by the company.",
+      "source_url": "https://www.ft.com/content/b66a9858-f8fb-46cb-b506-44bfe26fca2a"
     },
     {
       "id": 8,
-      "domain": "github.com",
-      "headline": "GitHub went down, and suddenly everyone remembered they don't actually know how to code without pulling.",
-      "summary": "GitHub had an incident with Git operations today, effectively forcing the entire industry to take an unexpected coffee break. It's a great reminder that the cloud is just someone else's computer, and today, that computer was busy thinking about its life choices.",
-      "plain_english": "GitHub experienced a service outage that temporarily prevented users from performing standard version control operations.",
-      "source_url": "https://www.githubstatus.com/incidents/djlmxz2zd0j7"
+      "domain": "openai.com",
+      "headline": "OpenAI retracted three math papers, proving even the smartest models can fail a pop quiz.",
+      "summary": "The company pulled the research papers after discovering they didn't hold up, which is a bold move for a firm building the world's brain. It turns out that 'hallucinating' is a much less cute term when you call it 'academic research.'",
+      "plain_english": "OpenAI has officially withdrawn three of its mathematical research papers due to accuracy concerns.",
+      "source_url": "https://github.com/openai/math/blob/main/history.md"
     },
     {
       "id": 9,
-      "domain": "visa.com",
-      "headline": "Visa and Mastercard are being sued for fees that basically act as a toll booth for the entire internet.",
-      "summary": "It turns out that taking a percentage of every single transaction for decades has finally triggered a massive legal headache. It is the corporate equivalent of charging your friends a convenience fee every time they pay you back for pizza.",
-      "plain_english": "Visa, Mastercard, and several major banks are being sued for allegedly setting credit card transaction fees at artificially high levels.",
-      "source_url": "https://www.classaction.org/news/visa-mastercard-major-banks-facing-new-litigation-over-anticompetitive-merchant-credit-card-transaction-fees"
+      "domain": "spacex.com",
+      "headline": "SpaceX is currently speedrunning the 'leveraged buyout' phase of space exploration.",
+      "summary": "SpaceX is borrowing so much cash for their Mars ambitions that creditors are starting to get nervous about the repayment plan. It turns out that gravity applies to your debt-to-equity ratio just as much as it does to a Falcon 9.",
+      "plain_english": "SpaceX is facing higher financial risk because of the large amount of money the company has borrowed to fund its operations.",
+      "source_url": "https://www.ft.com/content/4f2417d3-3de6-4f62-bd3a-8c8f740a4b29"
     },
     {
       "id": 10,
-      "domain": "sony.com",
-      "headline": "Sony's security is currently playing a game of whack-a-mole with a hammer made of glass.",
-      "summary": "PS5 jailbreaks are moving so fast that Sony's security team is effectively trying to patch a leaky boat with a single roll of duct tape. It turns out that when you treat hardware like a locked vault, people just get better at picking the lock.",
-      "plain_english": "Security researchers are successfully bypassing the software restrictions on the PlayStation 5 at an increasing rate.",
-      "source_url": "https://www.pushsquare.com/news/2026/10/ps5-jailbreaks-are-escalating-at-an-unprecedented-pace-and-sony-must-be-sweating"
+      "domain": "aws.amazon.com",
+      "headline": "Cutting down a rare forest to host cloud storage for cat memes",
+      "summary": "We are bulldozing one of the last American chestnut groves to build a data center that will likely host nothing but redundant backups and low-res thumbnails. It turns out the most efficient way to save history is to destroy a piece of it.",
+      "plain_english": "A rare chestnut forest is being cleared to provide land for a new data center facility.",
+      "source_url": "https://www.gadgetreview.com/one-of-americas-last-chestnut-groves-is-about-to-be-destroyed-for-a-data-center"
     }
   ]
 }
