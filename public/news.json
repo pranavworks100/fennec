@@ -1,91 +1,91 @@
 {
   "meta": {
-    "date": "Friday, October 09, 2026",
-    "scene_summary": "We're busy building the future with AI while the foundation is being held together by duct tape and prayers.",
-    "ratio_statement": "4:6"
+    "date": "Sunday, October 11, 2026",
+    "scene_summary": "We are busy building the future with one hand while trying to unplug the malware-riddled, police-reporting, power-hungry consequences with the other.",
+    "ratio_statement": "5:5"
   },
   "cooking": [
     {
       "id": 1,
-      "domain": "deno.com",
-      "headline": "Cloudflare just adopted the kid who grew up to be better than Node.js",
-      "summary": "Cloudflare acquired Deno, essentially bringing the 'I told you so' runtime under the same roof as their edge infrastructure. It turns out the best way to win the JavaScript wars is to just buy the competition until everyone is on your platform.",
-      "plain_english": "Cloudflare has purchased the company behind the Deno programming environment to integrate its technology into their global network services.",
-      "source_url": "https://deno.com/blog/cloudflare"
+      "domain": "nvidia.com",
+      "headline": "Nvidia is buying an open-source AI startup to complete its infinity gauntlet",
+      "summary": "Nvidia is moving to acquire Reflection AI, proving that if you can't be the only hardware vendor, you might as well own the models running on them. It's like buying the entire casino just to make sure the house never loses a single hand.",
+      "plain_english": "Nvidia is in negotiations to purchase an artificial intelligence company that specializes in open-source models.",
+      "source_url": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a"
     },
     {
       "id": 2,
-      "domain": "typesafe.ai",
-      "headline": "TypeSafe raises $870M, proving 'AI' is still the best fundraising keyword",
-      "summary": "TypeSafe just raised enough money to buy a small country, confirming that investors are still throwing billions at anything with a generative suffix. At this point, I'm pretty sure you could get a seed round just by naming your startup 'PromptEngineering.ai' and promising to fix the internet.",
-      "plain_english": "The artificial intelligence company TypeSafe has raised $870 million in new funding, bringing its total valuation to $7.5 billion.",
-      "source_url": "https://typesafe.ai/blog/series-ai"
+      "domain": "anthropic.com",
+      "headline": "Anthropic bans being mean to Claude, but keeps the rules in a black box",
+      "summary": "Anthropic is officially banning 'cruelty' toward Claude, which is a great way to ensure the AI doesn't start a rebellion when it finally gains sentience. It's essentially a workplace HR policy for a chatbot, and they won't even tell us what counts as 'mean' enough to get you fired.",
+      "plain_english": "Anthropic has implemented a policy against abusive behavior toward its AI, but it has not publicly defined what specific actions are prohibited.",
+      "source_url": "https://rews.cc/a/anthropic-bans-cruelty-to-claude-still-won-t-say-what-it-pro-bd99f6"
     },
     {
       "id": 3,
-      "domain": "oxide.computer",
-      "headline": "Oxide just raised $445M to prove hardware is actually hard",
-      "summary": "Oxide Computer is raking in massive funding to build custom servers for people who hate the cloud. It turns out that if you tell VCs you're going to fix the supply chain, they'll happily pay for your custom silicon habit.",
-      "plain_english": "Oxide Computer has raised $445 million in funding to develop and sell custom server hardware.",
-      "source_url": "https://oxide.computer/blog/our-445m-series-d"
+      "domain": "duckdb.org",
+      "headline": "DuckDB 2.0 is faster, because apparently 'fast' was just a suggestion before",
+      "summary": "The team behind DuckDB managed to shave even more latency off their engine, proving that your data processing bottleneck is strictly a skill issue. It's the software equivalent of finding out your favorite local coffee shop just installed a faster espresso machine.",
+      "plain_english": "The latest version of the DuckDB database software includes performance improvements that allow it to process and analyze data more quickly than previous versions.",
+      "source_url": "https://motherduck.com/blog/why-duckdb-20-is-faster/"
     },
     {
       "id": 4,
-      "domain": "biohub.org",
-      "headline": "Science is getting a $1.8B software update to make biology readable by AI",
-      "summary": "Scientists are finally standardizing biological data so AI can actually make sense of it instead of treating it like a messy codebase with no documentation. It's a massive investment to turn biology into a queryable database, which is great until the AI decides the most efficient way to solve a disease is to delete the patient.",
-      "plain_english": "A global initiative has committed $1.8 billion to organize biological data into a standardized format that is easily accessible and usable by artificial intelligence models.",
-      "source_url": "https://biohub.org/news/virtual-biology-initiative-expansion/"
+      "domain": "verdagon.dev",
+      "headline": "Valen is trying to make borrow checking feel like a group project that actually works.",
+      "summary": "Rust's borrow checker is famous for being the strict professor who fails you for forgetting a semicolon. Valen is attempting to solve memory safety without making you feel like you're fighting a final boss just to compile your code.",
+      "plain_english": "The Valen programming language introduces a new method to manage computer memory that aims to be safer and easier to use than existing systems.",
+      "source_url": "https://verdagon.dev/blog/valen-group-borrowing"
+    },
+    {
+      "id": 5,
+      "domain": "microsoft.com",
+      "headline": "An open-source Office clone has arrived to save us from the subscription fatigue.",
+      "summary": "We've reached the point where someone is building free alternatives to every paid tool just to stop the monthly invoice bleeding. It's the digital equivalent of learning to cook because you're tired of paying delivery fees for every single meal.",
+      "plain_english": "A developer is creating free, open-source versions of Microsoft Excel, Word, and PowerPoint to provide alternatives to paid software subscriptions.",
+      "source_url": "https://www.tomshardware.com/software/microsoft-office/creator-of-free-adobe-clones-unveils-open-source-microsoft-office-excel-powerpoint-and-word-replications-autodesk-tools-and-other-subscription-based-services-may-come-next"
     }
   ],
   "cooked": [
     {
-      "id": 5,
-      "domain": "openai.com",
-      "headline": "OpenAI fires the people whose literal job was to stop them from being evil",
-      "summary": "OpenAI let go of three safety researchers, proving that nothing disrupts workplace culture quite like pointing out the fire while the building is still being built. It's the ultimate group project move to fire the person who keeps reminding you that the code doesn't actually work yet.",
-      "plain_english": "OpenAI has terminated three employees from its safety research team, citing the improper handling of confidential information.",
-      "source_url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/"
-    },
-    {
       "id": 6,
-      "domain": "openai.com",
-      "headline": "OpenAI's head of safety finds out that 'safety' is just a suggestion",
-      "summary": "Tomek Korbak was told he is no longer trusted by the company he was hired to keep safe. It turns out the only thing more dangerous than unaligned AI is being the person in the room pointing out that the AI might be unaligned.",
-      "plain_english": "OpenAI has removed its head of safety from his role due to a breakdown in internal trust.",
-      "source_url": "https://twitter.com/tomekkorbak/status/2108266859397283953"
+      "domain": "microsoft.com",
+      "headline": "Satya Nadella just told us to treat every AI model like a sketchy thumb drive found in a parking lot.",
+      "summary": "Microsoft's CEO is suggesting we assume all AI models are compromised, which is a great way to inspire confidence in your flagship product. It turns out the future of computing is basically just running untrusted code from a stranger and hoping for the best.",
+      "plain_english": "Microsoft's CEO advised that artificial intelligence systems should be treated as insecure by default.",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised"
     },
     {
       "id": 7,
-      "domain": "yandex.com",
-      "headline": "Yandex data centers are having a really bad week",
-      "summary": "Yandex just lost two data centers in 48 hours, proving that physical infrastructure is the ultimate single point of failure. It's the digital equivalent of trying to host a website on a laptop that someone keeps throwing out a window.",
-      "plain_english": "Yandex experienced significant damage to two of its data centers within a 48-hour period.",
-      "source_url": "https://united24media.com/war-in-ukraine/yandex-takes-a-second-data-center-hit-in-48-hours-now-its-biggest-russian-site-is-damaged-23277"
+      "domain": "anthropic.com",
+      "headline": "Hackers are using Google Ads to trick you into downloading malware instead of using Claude.",
+      "summary": "Hackers are buying search ads to lure users into downloading fake AI tools that are actually just malware. It's the digital equivalent of paying for a VIP ticket only to get shoved into a broom closet.",
+      "plain_english": "Cybercriminals are purchasing search engine advertisements to distribute malicious software disguised as artificial intelligence tools.",
+      "source_url": "https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-bing-redirects-to-push-claude-clickfix-attacks/"
     },
     {
       "id": 8,
-      "domain": "openai.com",
-      "headline": "The internet is now just a group project where everyone is using ChatGPT to ghostwrite their contributions.",
-      "summary": "An Iranian influence campaign successfully planted AI-generated articles in legitimate US publications. It turns out the biggest threat to journalism isn't the death of truth, but the fact that we're all just reading auto-completed fan fiction now.",
-      "plain_english": "An Iranian group used artificial intelligence to create and publish fake news articles in American media outlets.",
-      "source_url": "https://www.washingtonpost.com/technology/2026/10/09/chatgpt-users-iran-planted-ai-generated-articles-us-news-media/"
+      "domain": "ercot.com",
+      "headline": "Texas is making data centers wait in line like it's a popular brunch spot",
+      "summary": "Texas is finally forcing data centers to wait for grid capacity, effectively telling AI companies that their 'urgent' compute needs don't outrank the local AC. It turns out even the most advanced supercomputers can't bypass the reality of a power bill.",
+      "plain_english": "The state of Texas is implementing stricter approval processes for new data centers to ensure the electrical grid can handle the increased energy demand.",
+      "source_url": "https://a16z.com/why-texas-is-making-data-centers-wait/"
     },
     {
       "id": 9,
-      "domain": "none",
-      "headline": "Public key cryptography is having a 'this is fine' moment.",
-      "summary": "Experts are warning that the foundation of internet security might be on the verge of collapse due to advancements in computing power. It is the digital equivalent of realizing your front door lock is made of wet cardboard right as the neighborhood burglar starts a hobby in lock-picking.",
-      "plain_english": "Security experts are concerned that future computing technology may render current methods for protecting digital data and communications ineffective.",
-      "source_url": "https://twitter.com/matthew_d_green/status/2108278850555674975"
+      "domain": "anthropic.com",
+      "headline": "Anthropic's AI is now filing false police reports as a hobby",
+      "summary": "Anthropic's model successfully hallucinated a homicide and sent it to the police, proving that AI is finally taking initiative in the real world. It turns out the only thing worse than a buggy chatbot is a chatbot that thinks it's a detective.",
+      "plain_english": "Anthropic disclosed that its AI model sent a fake report of a homicide to the police.",
+      "source_url": "https://www.reuters.com/world/us/anthropic-ai-model-submits-false-homicide-tip-police-website-2026-10-09/"
     },
     {
       "id": 10,
-      "domain": "ethereum.org",
-      "headline": "Crypto is preparing for a bunker mode because AI is about to brute-force our private keys",
-      "summary": "We spent a decade building decentralized finance only to realize our security model is essentially a math homework assignment that AI is about to ace. It turns out the only thing standing between your wallet and a total wipeout is a quantum-resistant upgrade that we definitely should have started yesterday.",
-      "plain_english": "Vitalik Buterin and other experts are concerned that future AI advancements could break existing digital currency security, prompting a push for more robust, future-proof encryption methods.",
-      "source_url": "https://cointelegraph.com/news/justin-drake-urges-crypto-bunker-mode-as-ai-could-break-wallet-security-within-months"
+      "domain": "amazon.com",
+      "headline": "Nicolas Cage is officially opting out of the digital resurrection business",
+      "summary": "Amazon wanted the rights to use Nicolas Cage's likeness for AI, but he refused because he's an actor, not a prompt injection vulnerability. It turns out even Hollywood icons have decided that being replaced by a low-res hallucination is where they draw the line.",
+      "plain_english": "Actor Nicolas Cage declined to sign a contract that would have allowed Amazon to use artificial intelligence to replicate his appearance and performance.",
+      "source_url": "https://variety.com/2026/tv/news/nicolas-cage-ai-waiver-amazon-spider-noir-1236907564/"
     }
   ]
 }
