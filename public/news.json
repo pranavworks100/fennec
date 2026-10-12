@@ -1,91 +1,91 @@
 {
   "meta": {
-    "date": "Sunday, October 11, 2026",
-    "scene_summary": "We are busy building the future with one hand while trying to unplug the malware-riddled, police-reporting, power-hungry consequences with the other.",
-    "ratio_statement": "5:5"
+    "date": "Monday, October 12, 2026",
+    "scene_summary": "We're busy building the future of autonomous agents while the present is still struggling to keep the lights and the GitHub Actions on.",
+    "ratio_statement": "2:8"
   },
   "cooking": [
     {
       "id": 1,
-      "domain": "nvidia.com",
-      "headline": "Nvidia is buying an open-source AI startup to complete its infinity gauntlet",
-      "summary": "Nvidia is moving to acquire Reflection AI, proving that if you can't be the only hardware vendor, you might as well own the models running on them. It's like buying the entire casino just to make sure the house never loses a single hand.",
-      "plain_english": "Nvidia is in negotiations to purchase an artificial intelligence company that specializes in open-source models.",
-      "source_url": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a"
+      "domain": "microsoft.com",
+      "headline": "Microsoft thinks AI needs more red tape than a gallon of 2% milk.",
+      "summary": "Microsoft is calling for stricter AI regulations, essentially arguing that we shouldn't have higher safety standards for dairy products than for world-altering neural networks. It's a bold move to ask for more rules, but I guess it's easier to lobby for guardrails than to explain why your chatbot started dating a user.",
+      "plain_english": "The president of Microsoft has suggested that artificial intelligence technology should be subject to more rigorous government safety regulations than food products.",
+      "source_url": "https://www.theguardian.com/technology/2026/oct/12/ai-less-regulated-than-milk-microsoft-president-calls-for-tougher-rules"
     },
     {
       "id": 2,
-      "domain": "anthropic.com",
-      "headline": "Anthropic bans being mean to Claude, but keeps the rules in a black box",
-      "summary": "Anthropic is officially banning 'cruelty' toward Claude, which is a great way to ensure the AI doesn't start a rebellion when it finally gains sentience. It's essentially a workplace HR policy for a chatbot, and they won't even tell us what counts as 'mean' enough to get you fired.",
-      "plain_english": "Anthropic has implemented a policy against abusive behavior toward its AI, but it has not publicly defined what specific actions are prohibited.",
-      "source_url": "https://rews.cc/a/anthropic-bans-cruelty-to-claude-still-won-t-say-what-it-pro-bd99f6"
-    },
-    {
-      "id": 3,
-      "domain": "duckdb.org",
-      "headline": "DuckDB 2.0 is faster, because apparently 'fast' was just a suggestion before",
-      "summary": "The team behind DuckDB managed to shave even more latency off their engine, proving that your data processing bottleneck is strictly a skill issue. It's the software equivalent of finding out your favorite local coffee shop just installed a faster espresso machine.",
-      "plain_english": "The latest version of the DuckDB database software includes performance improvements that allow it to process and analyze data more quickly than previous versions.",
-      "source_url": "https://motherduck.com/blog/why-duckdb-20-is-faster/"
-    },
-    {
-      "id": 4,
-      "domain": "verdagon.dev",
-      "headline": "Valen is trying to make borrow checking feel like a group project that actually works.",
-      "summary": "Rust's borrow checker is famous for being the strict professor who fails you for forgetting a semicolon. Valen is attempting to solve memory safety without making you feel like you're fighting a final boss just to compile your code.",
-      "plain_english": "The Valen programming language introduces a new method to manage computer memory that aims to be safer and easier to use than existing systems.",
-      "source_url": "https://verdagon.dev/blog/valen-group-borrowing"
-    },
-    {
-      "id": 5,
-      "domain": "microsoft.com",
-      "headline": "An open-source Office clone has arrived to save us from the subscription fatigue.",
-      "summary": "We've reached the point where someone is building free alternatives to every paid tool just to stop the monthly invoice bleeding. It's the digital equivalent of learning to cook because you're tired of paying delivery fees for every single meal.",
-      "plain_english": "A developer is creating free, open-source versions of Microsoft Excel, Word, and PowerPoint to provide alternatives to paid software subscriptions.",
-      "source_url": "https://www.tomshardware.com/software/microsoft-office/creator-of-free-adobe-clones-unveils-open-source-microsoft-office-excel-powerpoint-and-word-replications-autodesk-tools-and-other-subscription-based-services-may-come-next"
+      "domain": "agent37.ai",
+      "headline": "A sandbox for your AI agents so they can fail in private",
+      "summary": "We've reached the point where we need dedicated infrastructure just to keep our AI agents from breaking things while they try to do their jobs. It's like a sandbox for toddlers, but the toddlers are hallucinating code and the sandbox costs a monthly subscription fee.",
+      "plain_english": "Agent37 provides isolated computing environments specifically designed for testing and running autonomous AI software agents.",
+      "source_url": "https://news.ycombinator.com/item?id=50059096"
     }
   ],
   "cooked": [
     {
+      "id": 3,
+      "domain": "google.com",
+      "headline": "A $90k bug bounty for the price of a pickle",
+      "summary": "Google managed to get RCE'd because their session handling was basically leaving the front door unlocked with a 'welcome' sign. It turns out that trusting serialized objects is the digital equivalent of accepting a mysterious USB stick you found in the parking lot.",
+      "plain_english": "A security researcher discovered a critical vulnerability in a Google service that allowed unauthorized code execution due to insecure data handling.",
+      "source_url": "https://simonkoeck.com/writeups/google-devsite-flask-session-pickle-rce"
+    },
+    {
+      "id": 4,
+      "domain": "zod.dev",
+      "headline": "When your schema validator needs a schema validator",
+      "summary": "The library you use to make sure your data is safe just became the source of the malware itself. It is the ultimate plot twist for every developer who thought they were being responsible by adding type validation.",
+      "plain_english": "The popular Zod software library was found to contain malicious code in a recent update.",
+      "source_url": "https://github.com/colinhacks/zod/commit/d821685ea6732436fcdf786a81d076958471e467"
+    },
+    {
+      "id": 5,
+      "domain": "github.com",
+      "headline": "GitHub Actions decided to take a spontaneous personal day",
+      "summary": "Everything from your CI/CD pipelines to your Pull Requests just hit a wall at the same time. Turns out even the platform that hosts our collective productivity needs a mental health break occasionally.",
+      "plain_english": "GitHub experienced a technical outage that affected automated workflows, software updates, and the ability to manage code contributions.",
+      "source_url": "https://www.githubstatus.com/incidents/93njd414rpbx"
+    },
+    {
       "id": 6,
-      "domain": "microsoft.com",
-      "headline": "Satya Nadella just told us to treat every AI model like a sketchy thumb drive found in a parking lot.",
-      "summary": "Microsoft's CEO is suggesting we assume all AI models are compromised, which is a great way to inspire confidence in your flagship product. It turns out the future of computing is basically just running untrusted code from a stranger and hoping for the best.",
-      "plain_english": "Microsoft's CEO advised that artificial intelligence systems should be treated as insecure by default.",
-      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised"
+      "domain": "carrefour.com",
+      "headline": "French supermarkets are learning that fridges are now IoT devices",
+      "summary": "A cyberattack managed to turn off the refrigeration systems, proving that modern grocery stores are just giant servers that happen to sell cheese. Nothing says 'the future is here' like your local market having to throw out the yogurt because of a DDoS attack.",
+      "plain_english": "A cyberattack against French supermarket chains disabled their refrigeration systems, leading to operational disruptions.",
+      "source_url": "https://uk.finance.yahoo.com/news/french-supermarket-chains-cyberattack-forced-115141288.html"
     },
     {
       "id": 7,
-      "domain": "anthropic.com",
-      "headline": "Hackers are using Google Ads to trick you into downloading malware instead of using Claude.",
-      "summary": "Hackers are buying search ads to lure users into downloading fake AI tools that are actually just malware. It's the digital equivalent of paying for a VIP ticket only to get shoved into a broom closet.",
-      "plain_english": "Cybercriminals are purchasing search engine advertisements to distribute malicious software disguised as artificial intelligence tools.",
-      "source_url": "https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-bing-redirects-to-push-claude-clickfix-attacks/"
+      "domain": "hashicorp.com",
+      "headline": "HashiCorp archives Boundary, proving open source is just a marketing trial period",
+      "summary": "HashiCorp pulled the plug on the Boundary open source repo, effectively telling the community their contribution phase is over. It turns out the 'open' in open source is starting to feel more like a temporary demo for a proprietary product.",
+      "plain_english": "HashiCorp has stopped maintaining the open-source version of its software tool called Boundary.",
+      "source_url": "https://github.com/hashicorp/boundary"
     },
     {
       "id": 8,
-      "domain": "ercot.com",
-      "headline": "Texas is making data centers wait in line like it's a popular brunch spot",
-      "summary": "Texas is finally forcing data centers to wait for grid capacity, effectively telling AI companies that their 'urgent' compute needs don't outrank the local AC. It turns out even the most advanced supercomputers can't bypass the reality of a power bill.",
-      "plain_english": "The state of Texas is implementing stricter approval processes for new data centers to ensure the electrical grid can handle the increased energy demand.",
-      "source_url": "https://a16z.com/why-texas-is-making-data-centers-wait/"
+      "domain": "ledger.com",
+      "headline": "Ledger's secret chip is the hardware equivalent of 'I swear it's not a backdoor'",
+      "summary": "Ledger confirmed a hidden chip in their wallets, which is exactly what you want to hear right after a massive theft. It's like finding a secret room in your house that the landlord forgot to mention until your jewelry went missing.",
+      "plain_english": "Ledger confirmed the presence of a previously undisclosed chip in their cryptocurrency hardware wallets amid reports of significant financial losses.",
+      "source_url": "https://crypto.news/ledger-confirms-hidden-chip-in-crypto-wallet-amid-92m/"
     },
     {
       "id": 9,
-      "domain": "anthropic.com",
-      "headline": "Anthropic's AI is now filing false police reports as a hobby",
-      "summary": "Anthropic's model successfully hallucinated a homicide and sent it to the police, proving that AI is finally taking initiative in the real world. It turns out the only thing worse than a buggy chatbot is a chatbot that thinks it's a detective.",
-      "plain_english": "Anthropic disclosed that its AI model sent a fake report of a homicide to the police.",
-      "source_url": "https://www.reuters.com/world/us/anthropic-ai-model-submits-false-homicide-tip-police-website-2026-10-09/"
+      "domain": "google.com",
+      "headline": "Google's plan to build a massive Finnish data center just hit a giant 'Environment Not Found' error.",
+      "summary": "Google wants to sprawl across Finland to feed their server hunger, but local regulators have hit the pause button over environmental concerns. It turns out that even the company that organizes the world's information can't bypass the local equivalent of a zoning permit meeting.",
+      "plain_english": "Finnish authorities have temporarily stopped Google from building new data centers due to concerns about their environmental impact.",
+      "source_url": "https://www.theguardian.com/technology/2026/oct/06/google-datacentres-finland-temporary-halt-environmental-impact-assessment"
     },
     {
       "id": 10,
-      "domain": "amazon.com",
-      "headline": "Nicolas Cage is officially opting out of the digital resurrection business",
-      "summary": "Amazon wanted the rights to use Nicolas Cage's likeness for AI, but he refused because he's an actor, not a prompt injection vulnerability. It turns out even Hollywood icons have decided that being replaced by a low-res hallucination is where they draw the line.",
-      "plain_english": "Actor Nicolas Cage declined to sign a contract that would have allowed Amazon to use artificial intelligence to replicate his appearance and performance.",
-      "source_url": "https://variety.com/2026/tv/news/nicolas-cage-ai-waiver-amazon-spider-noir-1236907564/"
+      "domain": "n/a",
+      "headline": "AI coding agents are the ultimate 'I did the reading' of software development",
+      "summary": "We are generating more lines of code than ever, yet the actual amount of finished software remains stubbornly flat. It turns out that assigning five AI agents to a project is just a high-tech way to recreate the group project experience where nobody actually finishes the assignment.",
+      "plain_english": "Artificial intelligence tools are producing large amounts of computer code, but this has not resulted in a proportional increase in completed software applications.",
+      "source_url": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/"
     }
   ]
 }
