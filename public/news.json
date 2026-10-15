@@ -1,91 +1,91 @@
 {
   "meta": {
-    "date": "Wednesday, October 14, 2026",
-    "scene_summary": "We are busy building robot APIs while the actual infrastructure is busy going bankrupt or getting hacked.",
-    "ratio_statement": "4:6"
+    "date": "Thursday, October 15, 2026",
+    "scene_summary": "We are building a digital future that works perfectly until the bill arrives or the headers get injected.",
+    "ratio_statement": "3:7"
   },
   "cooking": [
     {
       "id": 1,
-      "domain": "rust-lang.org",
-      "headline": "Rust finds a bug hiding in the borrow checker for 11 years",
-      "summary": "Rust developers pride themselves on memory safety, but it turns out a bug has been quietly living in the borrow checker since before most of us even knew the language. It's the coding equivalent of finding out your 'unbreakable' security door had a spare key under the mat for over a decade.",
-      "plain_english": "A technical flaw has been identified in the Rust programming language's memory safety system that has existed for eleven years.",
-      "source_url": "https://github.com/rust-lang/rust/issues/164250"
+      "domain": "x.com",
+      "headline": "X is doing its monthly 'clean the room' routine before the election",
+      "summary": "X just purged 13,000 accounts for election meddling, which is a great way to pretend the platform isn't just a giant digital mosh pit. It's the social media equivalent of deleting your browser history right before your parents walk into the room.",
+      "plain_english": "The social media platform X removed 13,000 accounts it identified as being involved in efforts to influence upcoming elections.",
+      "source_url": "https://www.theregister.com/security/2026/10/15/x-purges-13000-accounts-linked-to-suspected-meddling-ahead-of-us-midterms/5303234"
     },
     {
       "id": 2,
-      "domain": "pi.website",
-      "headline": "Physical Intelligence just dropped the API for your robot uprising",
-      "summary": "We've finally reached the point where you can import a library to make your toaster do parkour. It's all fun and games until your Roomba decides it's too good for the kitchen floor and starts debugging your living room setup.",
-      "plain_english": "A company has released a software interface that allows developers to integrate advanced artificial intelligence into various types of robotic hardware.",
-      "source_url": "https://www.pi.website/blog/api-beta"
+      "domain": "yandex.com",
+      "headline": "Malicious bots are the ultimate remote workers",
+      "summary": "When Yandex went offline, the automated bot traffic didn't just disappear; it simply migrated to other targets like a group of coworkers moving to a new Slack channel. It's comforting to know that even in the digital underworld, nobody is actually quitting—they're just finding a more productive place to be annoying.",
+      "plain_english": "Data shows that when the search engine Yandex experienced a service outage, the automated malicious traffic targeting it immediately shifted to other online platforms.",
+      "source_url": "https://blog.cloudflare.com/yandex-outage/"
     },
     {
       "id": 3,
-      "domain": "topgolf.com",
-      "headline": "Topgolf realized that paying VMware is a great way to lose $11 million",
-      "summary": "Topgolf saved a small fortune by moving away from VMware, proving that sometimes the best way to optimize your budget is just to leave the building. It turns out the most expensive part of your infrastructure is often the license key itself.",
-      "plain_english": "Topgolf saved over $11 million by switching from VMware virtualization software to a different platform.",
-      "source_url": "https://arstechnica.com/information-technology/2026/10/topgolf-saved-over-11-3-million-after-leaving-vmware/"
-    },
-    {
-      "id": 4,
-      "domain": "google.com",
-      "headline": "Google just dropped Gemini 4 Argon, because apparently, we needed a new model this week.",
-      "summary": "Google is back with another model release, proving that the shelf life of a 'state-of-the-art' AI is currently shorter than a carton of milk. It's the tech equivalent of a group project where the deadline keeps moving forward, and everyone is just trying to keep up.",
-      "plain_english": "Google has released Gemini 4 Argon, which is the latest iteration of their artificial intelligence model.",
-      "source_url": "https://deepmind.google/models/gemini/"
+      "domain": "ubuntu.com",
+      "headline": "Ubuntu 26.10 is here to remind you that your distro is outdated",
+      "summary": "Canonical just released the 'Stonking Stingray,' proving that even Linux distros are subject to the relentless pressure of biannual naming conventions. It's the perfect time to spend your entire weekend fixing dependencies you didn't even know were broken.",
+      "plain_english": "The latest version of the Ubuntu operating system, version 26.10, has been officially released to the public.",
+      "source_url": "https://lists.ubuntu.com/archives/ubuntu-announce/2026-October/000330.html"
     }
   ],
   "cooked": [
     {
+      "id": 4,
+      "domain": "bankofamerica.com",
+      "headline": "Bank of America is paying a thousand people to fix what one AI broke",
+      "summary": "Bank of America had to hire a small army of contractors to clean up the mess left behind by the Mythos AI. It turns out that automating your tech stack is a great way to generate full-time employment for everyone who has to patch the fallout.",
+      "plain_english": "Bank of America hired 1,000 contractors to fix security and software issues caused by an artificial intelligence tool called Mythos.",
+      "source_url": "https://www.cnbc.com/2026/10/14/anthropic-mythos-bank-of-america-hiring-cost.html"
+    },
+    {
       "id": 5,
-      "domain": "character.ai",
-      "headline": "Character.ai files for bankruptcy, proving even AI boyfriends have financial problems",
-      "summary": "The startup promised us infinite digital companions, but apparently, they couldn't generate enough revenue to keep the lights on. It turns out that even the most advanced chatbots can't help you with the one thing that actually matters: basic accounting.",
-      "plain_english": "Character.ai has filed for Chapter 11 bankruptcy to restructure its business while continuing operations.",
-      "source_url": "https://blog.character.ai/an-update-on-character-ai/"
+      "domain": "goldmansachs.com",
+      "headline": "Banks are trying to return the AI data center debt they just bought",
+      "summary": "Banks spent months underwriting massive data center loans, but now they are desperately trying to offload that debt to anyone else. It is the financial equivalent of buying a round of drinks for the whole bar and then asking everyone to venmo you back before the tab arrives.",
+      "plain_english": "Financial institutions that provided loans for building AI data centers are now attempting to sell those debts to other investors.",
+      "source_url": "https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/"
     },
     {
       "id": 6,
-      "domain": "microsoft.com",
-      "headline": "The Dutch government decided they'd rather debug open source than pay for Microsoft 365",
-      "summary": "The Dutch tax authorities looked at their Microsoft cloud migration and decided the privacy risks were essentially a subscription to a bad time. It turns out that when your day job is auditing people, you eventually develop an allergy to opaque black-box software.",
-      "plain_english": "The Dutch tax agency has stopped its plan to use Microsoft 365 services due to data privacy concerns and will switch to open-source alternatives instead.",
-      "source_url": "https://www.zdnet.com/business/dutch-tax-authorities-cancel-microsoft-365-cloud-rollout/"
+      "domain": "nvidia.com",
+      "headline": "The AI gold rush is hitting a wall of interest rates",
+      "summary": "Building massive data centers to house AI models is expensive, and it turns out that borrowing money to do so isn't free anymore. It's like trying to build an extension on your house while your mortgage lender decides to stop pretending the economy is fine.",
+      "plain_english": "High interest rates are making it more expensive for companies to fund the construction of large data centers required for artificial intelligence.",
+      "source_url": "https://www.reuters.com/business/finance/market-selloff-rising-rates-test-ai-data-centre-deal-boom-2026-10-15/"
     },
     {
       "id": 7,
-      "domain": "openai.com",
-      "headline": "OpenAI really took 'building in public' to a creepy new level",
-      "summary": "An OpenAI engineer allegedly tried to bug an executive conference room, proving that internal corporate espionage is the new office politics. Apparently, they really wanted to know if the secret to AGI is just better meeting notes or something slightly more illegal.",
-      "plain_english": "An employee at OpenAI was arrested after being accused of recording private conversations inside a conference room used by company executives.",
-      "source_url": "https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/"
+      "domain": "quadream.com",
+      "headline": "Ad networks are now the most efficient way to get hacked",
+      "summary": "We spent decades perfecting ad-blockers to stop annoying pop-ups, but now they are a prerequisite for not getting your phone turned into a remote surveillance device. It's the ultimate 'I didn't click anything' excuse, except this time it's actually true.",
+      "plain_english": "Researchers discovered that digital advertising networks are being used to install spyware on mobile devices without any user interaction.",
+      "source_url": "https://citizenlab.ca/research/how-discover-tech-turned-targeted-ads-into-a-pipeline-for-spyware/"
     },
     {
       "id": 8,
-      "domain": "femern.com",
-      "headline": "A cyberattack just hit the pause button on an entire underwater tunnel",
-      "summary": "Building a massive tunnel between two countries is hard enough without someone deciding to execute a remote kill switch on the construction site. It turns out that even multi-billion dollar infrastructure projects are no match for a classic 'did you try turning it off and on again' security vulnerability.",
-      "plain_english": "A digital security breach has forced the temporary suspension of construction work on a major tunnel project connecting Denmark and Germany.",
-      "source_url": "https://ua.news/en/world/kiberataka-zupinila-budivnitstvo-tuneliu-mizh-daniieiu-ta-nimechchinoiu-rmf24"
+      "domain": "quadream.com",
+      "headline": "Zero-click spyware is the ultimate 'read receipt' nightmare",
+      "summary": "The industry has finally achieved the developer dream of 100% engagement rates by removing the need for the user to actually do anything. It turns out that 'zero-click' is great for conversion metrics but absolutely terrible for your personal safety.",
+      "plain_english": "A security firm found that malicious software is being delivered via targeted advertisements that infect devices without requiring the user to click on anything.",
+      "source_url": "https://www.theguardian.com/technology/2026/oct/15/israeli-firm-digital-ads-enabling-installation-of-zero-click-spyware-researchers-say"
     },
     {
       "id": 9,
-      "domain": "ledger.com",
-      "headline": "Hardware wallets that come with a free, unsolicited cellular data plan",
-      "summary": "Thieves are shipping modified crypto wallets that include an eSIM to broadcast your private keys to the world. It's the hardware equivalent of buying a locked room only to find out the walls are made of glass.",
-      "plain_english": "Hackers are selling tampered hardware cryptocurrency wallets that use a secret cellular connection to steal user funds.",
-      "source_url": "https://www.heise.de/en/news/Crypto-thieves-sell-hardware-wallets-with-secret-eSIM-11485188.html"
+      "domain": "signalscorps.com",
+      "headline": "Your HTTP headers are now a prompt injection playground",
+      "summary": "Researchers found that over 200 million web responses are vulnerable to prompt injection via HTTP headers. It turns out that trusting data from the web is like eating gas station sushi—you really shouldn't, but we keep doing it anyway.",
+      "plain_english": "Security experts discovered that many websites contain hidden commands in their server response data that can trick AI systems into performing unauthorized actions.",
+      "source_url": "https://www.signalscorps.com/blog/prompt-injection-in-http-headers/"
     },
     {
       "id": 10,
-      "domain": "anitab.org",
-      "headline": "The Grace Hopper Celebration just cancelled, and the irony is palpable.",
-      "summary": "The world's largest gathering for women in tech just pulled the plug on their main event. It's like throwing a massive party for diversity and inclusion, only to realize you forgot to send the invites to the actual attendees.",
-      "plain_english": "The AnitaB.org organization has cancelled the Grace Hopper Celebration, which was a major annual conference for women in the technology industry.",
-      "source_url": "https://anitab.org/press-release"
+      "domain": "hormuz.ir",
+      "headline": "Global logistics is having a really bad day at the office",
+      "summary": "Geopolitical tensions in the Strait of Hormuz have escalated to the point where actual container ships are being deleted from the production environment. It turns out that 'physical layer' issues are significantly harder to resolve than a standard DNS outage.",
+      "plain_english": "A container ship was sunk in the Strait of Hormuz during an attack, disrupting maritime shipping in the region.",
+      "source_url": "https://www.cnbc.com/2026/10/14/container-ship-sinks-strait-hormuz-as-iran-war-attacks.html"
     }
   ]
 }
