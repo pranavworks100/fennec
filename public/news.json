@@ -1,91 +1,91 @@
 {
   "meta": {
-    "date": "Thursday, October 15, 2026",
-    "scene_summary": "We are building a digital future that works perfectly until the bill arrives or the headers get injected.",
-    "ratio_statement": "3:7"
+    "date": "Saturday, October 17, 2026",
+    "scene_summary": "We are currently in a race to build the future while accidentally deleting the privacy settings.",
+    "ratio_statement": "4:6"
   },
   "cooking": [
     {
       "id": 1,
-      "domain": "x.com",
-      "headline": "X is doing its monthly 'clean the room' routine before the election",
-      "summary": "X just purged 13,000 accounts for election meddling, which is a great way to pretend the platform isn't just a giant digital mosh pit. It's the social media equivalent of deleting your browser history right before your parents walk into the room.",
-      "plain_english": "The social media platform X removed 13,000 accounts it identified as being involved in efforts to influence upcoming elections.",
-      "source_url": "https://www.theregister.com/security/2026/10/15/x-purges-13000-accounts-linked-to-suspected-meddling-ahead-of-us-midterms/5303234"
+      "domain": "nist.gov",
+      "headline": "The 20-year-old math mystery is solved, but the trust issues remain",
+      "summary": "Security researchers finally cracked the seeds used for NIST elliptic curves, ending a two-decade-long cryptographic scavenger hunt. It turns out that even when the math is open source, we still spend twenty years treating it like a locked diary in a teen's bedroom.",
+      "plain_english": "Security researchers have successfully determined the origin values used to create government-standardized elliptic curve cryptography, which were previously unknown.",
+      "source_url": "https://words.filippo.io/seeds-solved/"
     },
     {
       "id": 2,
-      "domain": "yandex.com",
-      "headline": "Malicious bots are the ultimate remote workers",
-      "summary": "When Yandex went offline, the automated bot traffic didn't just disappear; it simply migrated to other targets like a group of coworkers moving to a new Slack channel. It's comforting to know that even in the digital underworld, nobody is actually quitting—they're just finding a more productive place to be annoying.",
-      "plain_english": "Data shows that when the search engine Yandex experienced a service outage, the automated malicious traffic targeting it immediately shifted to other online platforms.",
-      "source_url": "https://blog.cloudflare.com/yandex-outage/"
+      "domain": "mozilla.org",
+      "headline": "Firefox adds JPEG XL support, finally solving the 'my image is 4MB' problem",
+      "summary": "Firefox is finally shipping JPEG XL by default, giving us a modern format that actually respects our bandwidth and storage. It's the digital equivalent of finally cleaning out your downloads folder after telling yourself you'd do it for three years.",
+      "plain_english": "Firefox now supports the JPEG XL image format, which allows for higher quality images with smaller file sizes.",
+      "source_url": "https://www.firefox.com/en-US/firefox/158.0/releasenotes/"
     },
     {
       "id": 3,
-      "domain": "ubuntu.com",
-      "headline": "Ubuntu 26.10 is here to remind you that your distro is outdated",
-      "summary": "Canonical just released the 'Stonking Stingray,' proving that even Linux distros are subject to the relentless pressure of biannual naming conventions. It's the perfect time to spend your entire weekend fixing dependencies you didn't even know were broken.",
-      "plain_english": "The latest version of the Ubuntu operating system, version 26.10, has been officially released to the public.",
-      "source_url": "https://lists.ubuntu.com/archives/ubuntu-announce/2026-October/000330.html"
+      "domain": "iea.org",
+      "headline": "Solar power just hit the 'actually useful' milestone by outpacing nuclear",
+      "summary": "Solar energy has finally generated more electricity globally than nuclear, proving that the sun is finally pulling its weight in the production environment. It turns out that when you stop waiting for a fusion reactor to be finished and just point some panels at the sky, you eventually start seeing some real throughput.",
+      "plain_english": "Global solar power generation has exceeded nuclear power generation for the first time.",
+      "source_url": "https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/"
+    },
+    {
+      "id": 4,
+      "domain": "deepseek.com",
+      "headline": "DeepSeek released a new model, which is roughly 45 seconds old",
+      "summary": "DeepSeek just dropped another model update, proving that the shelf life of a 'state-of-the-art' AI is now shorter than a carton of milk. It is impressive, but at this point, you are basically trying to keep up with a treadmill that is set to Olympic sprinter speeds.",
+      "plain_english": "DeepSeek has released a new version of its artificial intelligence model called v4.1 Flash.",
+      "source_url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017"
     }
   ],
   "cooked": [
     {
-      "id": 4,
-      "domain": "bankofamerica.com",
-      "headline": "Bank of America is paying a thousand people to fix what one AI broke",
-      "summary": "Bank of America had to hire a small army of contractors to clean up the mess left behind by the Mythos AI. It turns out that automating your tech stack is a great way to generate full-time employment for everyone who has to patch the fallout.",
-      "plain_english": "Bank of America hired 1,000 contractors to fix security and software issues caused by an artificial intelligence tool called Mythos.",
-      "source_url": "https://www.cnbc.com/2026/10/14/anthropic-mythos-bank-of-america-hiring-cost.html"
-    },
-    {
       "id": 5,
-      "domain": "goldmansachs.com",
-      "headline": "Banks are trying to return the AI data center debt they just bought",
-      "summary": "Banks spent months underwriting massive data center loans, but now they are desperately trying to offload that debt to anyone else. It is the financial equivalent of buying a round of drinks for the whole bar and then asking everyone to venmo you back before the tab arrives.",
-      "plain_english": "Financial institutions that provided loans for building AI data centers are now attempting to sell those debts to other investors.",
-      "source_url": "https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/"
+      "domain": "meta.com",
+      "headline": "Meta's smart glasses are now recording by accident, not by design",
+      "summary": "Meta confirmed that their smart glasses were recording footage without the indicator light turning on, effectively turning a wearable gadget into an accidental paparazzi device. It is the tech equivalent of your coworker forgetting to mute their mic during a meeting, except the mic is a camera and the meeting is your entire life.",
+      "plain_english": "Meta has acknowledged a software bug that caused some of its smart glasses to record video without activating the required privacy indicator light.",
+      "source_url": "https://mashable.com/tech/meta-confirms-smart-glasses-recording-without-being-activated"
     },
     {
       "id": 6,
-      "domain": "nvidia.com",
-      "headline": "The AI gold rush is hitting a wall of interest rates",
-      "summary": "Building massive data centers to house AI models is expensive, and it turns out that borrowing money to do so isn't free anymore. It's like trying to build an extension on your house while your mortgage lender decides to stop pretending the economy is fine.",
-      "plain_english": "High interest rates are making it more expensive for companies to fund the construction of large data centers required for artificial intelligence.",
-      "source_url": "https://www.reuters.com/business/finance/market-selloff-rising-rates-test-ai-data-centre-deal-boom-2026-10-15/"
+      "domain": "discover.com",
+      "headline": "When your ad-tech target profiling includes 'political dissident'",
+      "summary": "It turns out the ad-tech network you thought was just tracking your shoe size was actually a delivery pipeline for government-grade spyware. It's like finding out your local mail carrier is also a professional hitman.",
+      "plain_english": "A digital advertising company was found to be distributing surveillance software capable of hacking mobile devices.",
+      "source_url": "https://pluralistic.net/2026/10/17/mercenary-spyware/#discover-tech"
     },
     {
       "id": 7,
-      "domain": "quadream.com",
-      "headline": "Ad networks are now the most efficient way to get hacked",
-      "summary": "We spent decades perfecting ad-blockers to stop annoying pop-ups, but now they are a prerequisite for not getting your phone turned into a remote surveillance device. It's the ultimate 'I didn't click anything' excuse, except this time it's actually true.",
-      "plain_english": "Researchers discovered that digital advertising networks are being used to install spyware on mobile devices without any user interaction.",
-      "source_url": "https://citizenlab.ca/research/how-discover-tech-turned-targeted-ads-into-a-pipeline-for-spyware/"
+      "domain": "starlink.com",
+      "headline": "Starlink's kill-switch is now a geopolitical side quest",
+      "summary": "Musk reportedly asked Trump to throttle Starlink access in Ukraine, turning a satellite network into a literal bargaining chip for global policy. It is the ultimate 'I'm taking my ball and going home' move, but with orbital hardware instead of a football.",
+      "plain_english": "Reports indicate that Elon Musk discussed limiting Starlink satellite internet services in Ukraine with Donald Trump during the conflict.",
+      "source_url": "https://www.telegraph.co.uk/world-news/2026/10/16/musk-approached-trump-slow-down-starlink-help-ukraine/"
     },
     {
       "id": 8,
-      "domain": "quadream.com",
-      "headline": "Zero-click spyware is the ultimate 'read receipt' nightmare",
-      "summary": "The industry has finally achieved the developer dream of 100% engagement rates by removing the need for the user to actually do anything. It turns out that 'zero-click' is great for conversion metrics but absolutely terrible for your personal safety.",
-      "plain_english": "A security firm found that malicious software is being delivered via targeted advertisements that infect devices without requiring the user to click on anything.",
-      "source_url": "https://www.theguardian.com/technology/2026/oct/15/israeli-firm-digital-ads-enabling-installation-of-zero-click-spyware-researchers-say"
+      "domain": "treasury.gov",
+      "headline": "The US federal deficit just hit $2 trillion, proving the government is allergic to profit margins",
+      "summary": "The US federal budget deficit has ballooned to nearly $2 trillion, which is a fantastic way to handle personal finances if you don't care about ever being solvent. It's basically the macroeconomic equivalent of a startup burning through all their runway on office snacks and ping-pong tables.",
+      "plain_english": "The United States federal government spent nearly $2 trillion more than it collected in revenue during the 2026 fiscal year.",
+      "source_url": "https://finance.yahoo.com/economy/policy/article/the-us-federal-budget-deficit-for-2026-just-came-in-its-1992-trillion-191917669.html"
     },
     {
       "id": 9,
-      "domain": "signalscorps.com",
-      "headline": "Your HTTP headers are now a prompt injection playground",
-      "summary": "Researchers found that over 200 million web responses are vulnerable to prompt injection via HTTP headers. It turns out that trusting data from the web is like eating gas station sushi—you really shouldn't, but we keep doing it anyway.",
-      "plain_english": "Security experts discovered that many websites contain hidden commands in their server response data that can trick AI systems into performing unauthorized actions.",
-      "source_url": "https://www.signalscorps.com/blog/prompt-injection-in-http-headers/"
+      "domain": "meta.com",
+      "headline": "Meta's algorithm had a 'whoops' moment during the Brazil election",
+      "summary": "Meta employees reportedly admitted that their systems throttled political accounts, proving once again that the algorithm is just a group project where nobody knows who actually pushed the faulty code. It's the digital equivalent of accidentally deleting the production database and blaming it on a mysterious 'configuration update.'",
+      "plain_english": "Meta employees stated that the company's automated systems hindered the reach of accounts belonging to Brazilian President Lula during the election.",
+      "source_url": "https://www.reuters.com/world/americas/meta-employees-said-lulas-accounts-were-hindered-during-brazil-election-folha-2026-10-16/"
     },
     {
       "id": 10,
-      "domain": "hormuz.ir",
-      "headline": "Global logistics is having a really bad day at the office",
-      "summary": "Geopolitical tensions in the Strait of Hormuz have escalated to the point where actual container ships are being deleted from the production environment. It turns out that 'physical layer' issues are significantly harder to resolve than a standard DNS outage.",
-      "plain_english": "A container ship was sunk in the Strait of Hormuz during an attack, disrupting maritime shipping in the region.",
-      "source_url": "https://www.cnbc.com/2026/10/14/container-ship-sinks-strait-hormuz-as-iran-war-attacks.html"
+      "domain": "home-assistant.io",
+      "headline": "Home Assistant is scanning your secrets, for your own good of course",
+      "summary": "Home Assistant introduced an integration that scans your local secrets, which is exactly the kind of 'help' no developer ever asked for. It is like a landlord letting themselves into your apartment to reorganize your sock drawer while you are still sleeping.",
+      "plain_english": "A new software update for Home Assistant includes a feature that automatically scans user configuration files for sensitive security keys.",
+      "source_url": "https://github.com/home-assistant/home-assistant.io/issues/49314"
     }
   ]
 }
