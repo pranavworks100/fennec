@@ -1,91 +1,91 @@
 {
   "meta": {
-    "date": "Friday, October 23, 2026",
-    "scene_summary": "We're busy building the future of the internet while simultaneously trying to patch the holes we left in the floorboards.",
-    "ratio_statement": "4:6"
+    "date": "Saturday, October 24, 2026",
+    "scene_summary": "We are building a future where everything is connected, mostly so it can be exploited remotely.",
+    "ratio_statement": "3:7"
   },
   "cooking": [
     {
       "id": 1,
-      "domain": "openssl.org",
-      "headline": "OpenSSL 4.1.0 is out, keeping the internet's skeleton from collapsing for another day",
-      "summary": "OpenSSL just dropped version 4.1.0, which is basically the digital duct tape holding the entire modern web together. We all owe the maintainers a beer for keeping this infrastructure from turning into a pumpkin.",
-      "plain_english": "A new version of the OpenSSL software library, which is used to secure internet communications, has been released.",
-      "source_url": "https://github.com/openssl/openssl/releases/tag/openssl-4.1.0"
+      "domain": "openai.com",
+      "headline": "OpenAI is locking the doors to the server room so the AI doesn't escape",
+      "summary": "OpenAI just published a massive guide on securing their model training environment, which sounds suspiciously like the opening scene of a sci-fi movie. If the security is this tight, I can only assume the models have already started trying to brute-force their way out.",
+      "plain_english": "OpenAI has released a detailed report outlining the security measures they have implemented to protect their artificial intelligence training infrastructure.",
+      "source_url": "https://openai.com/index/securing-our-frontier-model-training-environment/"
     },
     {
       "id": 2,
-      "domain": "iceye.com",
-      "headline": "Ukraine is upgrading to a satellite-grade group chat for national defense",
-      "summary": "Iceye and Nokia are teaming up to build a sovereign satellite communication network for Ukraine, which is essentially the ultimate 'do not disturb' mode for national security. It's a massive upgrade from the usual bureaucratic red tape, though I'm sure the uptime requirements make a standard enterprise SLA look like a weekend hobby project.",
-      "plain_english": "Iceye and Nokia are partnering with the Ukrainian Ministry of Defence to develop a secure satellite communication system for the country.",
-      "source_url": "https://www.iceye.com/newsroom/press-releases/iceye-and-nokia-partner-with-the-ministry-of-defence-of-ukraine-to-develop-sovereign-satcom-capability"
+      "domain": "bd.com",
+      "headline": "Elon Musk just bought a seat at the table of traditional cable news",
+      "summary": "Elon Musk has acquired a $1 billion stake in CNN's parent company, because apparently, the internet wasn't loud enough already. It's the corporate equivalent of buying a megaphone for a room you already spend all your time yelling in.",
+      "plain_english": "Elon Musk has purchased a significant financial interest in Warner Bros.",
+      "source_url": "https://symby.com/news?_cid=101605177&preferredLanguage=en"
     },
     {
       "id": 3,
-      "domain": "anthropic.com",
-      "headline": "AI is finally doing the homework we all hated in CS class",
-      "summary": "Anthropic is using LLMs to make formal verification actually usable for mere mortals. It's like having a TA who never sleeps and actually enjoys checking your proofs for edge cases.",
-      "plain_english": "Anthropic has developed a method using artificial intelligence to make the process of formally verifying software code more efficient and scalable.",
-      "source_url": "https://www.anthropic.com/research/formal-verification"
-    },
-    {
-      "id": 4,
-      "domain": "nvidia.com",
-      "headline": "AI compute is the new oil, and we're all just trying to drill",
-      "summary": "Economists are finally realizing that GPU clusters have become the world's most expensive fossil fuel. We are essentially running a global economy on a resource that currently requires its own dedicated power plant just to generate a decent haiku.",
-      "plain_english": "Experts are arguing that computing power has become a fundamental economic resource that requires a new type of market and trading system.",
-      "source_url": "https://www.economist.com/finance-and-economics/2026/10/22/ai-compute-is-the-new-oil-and-needs-a-new-market"
+      "domain": "samsung.com",
+      "headline": "Samsung TV gets a root shell, just in time for your living room to become a botnet",
+      "summary": "Someone managed to get a root shell on a Samsung TV, proving that if it has a screen and a plug, someone is going to turn it into a Linux workstation. It's all fun and games until your television starts mining crypto while you're trying to watch a sitcom.",
+      "plain_english": "A security researcher has gained full administrative access to the operating system of a Samsung smart television.",
+      "source_url": "https://twitter.com/log4j/status/2113014142600953868?s=46"
     }
   ],
   "cooked": [
     {
+      "id": 4,
+      "domain": "nodejs.org",
+      "headline": "HTTP/2 is the gift that keeps on giving, and by giving, I mean RCEs",
+      "summary": "We finally moved past the era of standard buffer overflows, so now we get to have remote code execution via HTTP/2 framing logic. It's comforting to know that no matter how much we upgrade our protocols, the internet is still just a house of cards held together by duct tape.",
+      "plain_english": "A vulnerability in the HTTP/2 protocol allows attackers to remotely run malicious code on servers using Python, Node.js, and other programming languages.",
+      "source_url": "https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87xp_0VypzQLYj6O_RRHlZuQqj33oASGY2YLSoAiMjeOZN40h7Stf8AG7DPrGZbAPVKUXy36HoMudRbvwF3_r2uYNmfJMhpKzywQDM6Ab8"
+    },
+    {
       "id": 5,
-      "domain": "openai.com",
-      "headline": "Sweden is ghosting AI because it can't keep a secret",
-      "summary": "The Swedish government is banning ChatGPT and Claude to stop sensitive data from leaking into the void. It turns out that 'intelligence' is a great productivity tool until it starts treating your state secrets like training data.",
-      "plain_english": "The Swedish government has prohibited the use of ChatGPT and Claude for employees to prevent the potential exposure of classified or sensitive information.",
-      "source_url": "https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet"
+      "domain": "python.org",
+      "headline": "HTTP2Shell is the new group project where everyone's libraries are failing",
+      "summary": "This vulnerability is spreading across the entire ecosystem, proving once again that your application is only as secure as the most obscure dependency you haven't updated since 2022. It's like finding out the foundation of your house is made of cheese right as the rain starts.",
+      "plain_english": "A security flaw in HTTP/2 libraries has been discovered that affects a wide range of common software packages and applications.",
+      "source_url": "https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497"
     },
     {
       "id": 6,
-      "domain": "emudhra.com",
-      "headline": "The 'One' in 1FA stands for 'one giant security hole'",
-      "summary": "eMudhra's OTP system was bypassed with the kind of simplicity that makes you wonder if they just used a 'please' as their authentication protocol. If your security relies on a single layer of protection that can be skipped, you aren't building a fortress, you're building a screen door.",
-      "plain_english": "Researchers discovered a vulnerability in the eMudhra authentication system that allowed users to bypass the mandatory one-time password verification process.",
-      "source_url": "https://mastodon.catgirl.cloud/@49016/117475976434068995"
+      "domain": "google.com",
+      "headline": "Google is now reading your emails to make sure the ads are creepy enough",
+      "summary": "Google is expanding ad targeting to include your personal photos and Gmail content, proving that nothing is truly private if it can be indexed. It's the digital equivalent of your landlord moving into your bedroom just to suggest better furniture.",
+      "plain_english": "Google is updating its privacy policy to allow the use of data from your personal emails and photos to customize the advertisements you see.",
+      "source_url": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update"
     },
     {
       "id": 7,
-      "domain": "emudhra.com",
-      "headline": "eMudhra ghosted Mozilla's deadline because social media was apparently too distracting",
-      "summary": "eMudhra managed to miss a critical security audit deadline and blamed their social media presence for the oversight. It's the corporate equivalent of telling your professor you failed the final because you were too busy posting on Instagram.",
-      "plain_english": "The company eMudhra failed to meet a deadline set by Mozilla for a security investigation and cited social media activity as the reason for the delay.",
-      "source_url": "https://bugzilla.mozilla.org/show_bug.cgi?id=2083449"
+      "domain": "starlink.com",
+      "headline": "Starlink still has a 'terms and conditions' speed limit for war zones",
+      "summary": "Zelenskyy confirmed that Starlink's performance caps are still active, proving that even satellite internet has a strict 'fair use' policy for international conflicts. It turns out you can't just bypass global geopolitics with a firmware update.",
+      "plain_english": "The Ukrainian government stated that Starlink services continue to be subject to speed and usage restrictions.",
+      "source_url": "https://twitter.com/ZelenskyyUa/status/2113677048354947180"
     },
     {
       "id": 8,
-      "domain": "afd.de",
-      "headline": "AfD discovers that 'security through obscurity' isn't a real security strategy",
-      "summary": "Germany's far-right party just had 281 GB of their internal data leaked, proving that digital walls are only as strong as your weakest password. It turns out that keeping secrets is significantly harder than shouting them when your database security is basically a screen door in a hurricane.",
-      "plain_english": "A hacker has stolen and published 281 gigabytes of private data belonging to the German political party AfD.",
-      "source_url": "https://www.bitdefender.com/en-us/blog/hotforsecurity/hacker-leaks-281-gb-data-germany-afd"
+      "domain": "google.com",
+      "headline": "Google is being sued for taking pictures of the things it built maps to see.",
+      "summary": "German courts have decided that Google's aerial imagery is essentially spying, which is a bold stance for a country that relies on the exact same maps to find their way to lunch. It turns out that being the world's most detailed stalker is only acceptable until the legal team starts looking at the fine print.",
+      "plain_english": "A German court has ruled that Google's collection of high-resolution aerial photography constitutes an illegal invasion of privacy.",
+      "source_url": "https://www.courthousenews.com/german-court-calls-google-aerial-imagery-spying/"
     },
     {
       "id": 9,
-      "domain": "openai.com",
-      "headline": "Your AI prompt has a larger carbon footprint depending on your zip code",
-      "summary": "Running the same AI query in Texas emits 8.5 times more CO2 than in Sweden because of how the local power grid is fueled. It turns out your search history is not just a digital footprint, but a literal one.",
-      "plain_english": "The carbon emissions produced by a single artificial intelligence request vary significantly based on the energy source of the region where the data center is located.",
-      "source_url": "https://berget.ai/en/blog/per-request-co2-press-release"
+      "domain": "google.com",
+      "headline": "Google speedran deforestation to build a data center in Finland.",
+      "summary": "Google decided to clear-cut 250,000 trees without a permit, proving that their 'carbon neutral' goals are apparently flexible when there is compute to be deployed. It is the ultimate corporate side quest: save the planet in the README, but delete the forest in production.",
+      "plain_english": "Google cut down 250,000 trees in Finland to build a data center without obtaining the necessary environmental permits.",
+      "source_url": "https://nypost.com/2026/10/24/business/google-illegally-tore-down-250k-trees-for-finland-data-center-infuriating-locals-report/"
     },
     {
       "id": 10,
-      "domain": "openai.com",
-      "headline": "Americans want AI to solve everything except the power bill",
-      "summary": "The public is excited about the magic of AI but draws the line at having a noisy data center built in their own backyard. It's the ultimate 'not in my backyard' moment for the cloud, proving we want the future delivered instantly as long as the infrastructure lives on someone else's planet.",
-      "plain_english": "A new poll shows that most Americans are skeptical of artificial intelligence and oppose the construction of new data centers in their communities.",
-      "source_url": "https://abcnews.com/Politics/americans-ai-bad-society-oppose-data-centers-abcpostipsos/story?id=137414085"
+      "domain": "emudhra.com",
+      "headline": "Indian government sites are still using revoked certs, because security is just a suggestion",
+      "summary": "The Indian government is serving revoked certificates like they are expired coupons at a grocery store checkout. It turns out that when you ignore browser warnings, you aren't just living dangerously; you're essentially hosting a public security fire drill.",
+      "plain_english": "Several official Indian government websites are using digital security certificates that have been officially cancelled and deemed invalid.",
+      "source_url": "https://captnemo.in/blog/2026/10/23/emsign-revoked-gov-in/"
     }
   ]
 }
