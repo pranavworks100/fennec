@@ -1,91 +1,91 @@
 {
   "meta": {
-    "date": "Saturday, October 24, 2026",
-    "scene_summary": "We are building a future where everything is connected, mostly so it can be exploited remotely.",
+    "date": "Wednesday, October 28, 2026",
+    "scene_summary": "We are busy building the future on top of a foundation that is actively being held together by tape and bad intentions.",
     "ratio_statement": "3:7"
   },
   "cooking": [
     {
       "id": 1,
-      "domain": "openai.com",
-      "headline": "OpenAI is locking the doors to the server room so the AI doesn't escape",
-      "summary": "OpenAI just published a massive guide on securing their model training environment, which sounds suspiciously like the opening scene of a sci-fi movie. If the security is this tight, I can only assume the models have already started trying to brute-force their way out.",
-      "plain_english": "OpenAI has released a detailed report outlining the security measures they have implemented to protect their artificial intelligence training infrastructure.",
-      "source_url": "https://openai.com/index/securing-our-frontier-model-training-environment/"
+      "domain": "apple.com",
+      "headline": "The M6 chip is here to remind you that your laptop is already a museum piece",
+      "summary": "Apple just dropped the M6, ensuring that your perfectly functional M4 MacBook now feels like a relic from the dial-up era. It is impressive how they manage to make us feel 'underpowered' while we are mostly just opening browser tabs.",
+      "plain_english": "Apple has announced a new version of the 14-inch MacBook Pro featuring the latest M6 processor.",
+      "source_url": "https://www.apple.com/in/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/"
     },
     {
       "id": 2,
-      "domain": "bd.com",
-      "headline": "Elon Musk just bought a seat at the table of traditional cable news",
-      "summary": "Elon Musk has acquired a $1 billion stake in CNN's parent company, because apparently, the internet wasn't loud enough already. It's the corporate equivalent of buying a megaphone for a room you already spend all your time yelling in.",
-      "plain_english": "Elon Musk has purchased a significant financial interest in Warner Bros.",
-      "source_url": "https://symby.com/news?_cid=101605177&preferredLanguage=en"
+      "domain": "hex.tech",
+      "headline": "Hex raises $100M to prove that data science is still just a fancy spreadsheet",
+      "summary": "Data platforms keep raising massive funding rounds to solve the same 'how do I turn this SQL query into a chart' problem. It's comforting to know that even with nine-figure valuations, we're all still just trying to make a pivot table look like a professional dashboard.",
+      "plain_english": "The data platform company Hex has raised $100 million in new funding to expand its business operations.",
+      "source_url": "https://hex.tech/blog/hex-new-era/"
     },
     {
       "id": 3,
-      "domain": "samsung.com",
-      "headline": "Samsung TV gets a root shell, just in time for your living room to become a botnet",
-      "summary": "Someone managed to get a root shell on a Samsung TV, proving that if it has a screen and a plug, someone is going to turn it into a Linux workstation. It's all fun and games until your television starts mining crypto while you're trying to watch a sitcom.",
-      "plain_english": "A security researcher has gained full administrative access to the operating system of a Samsung smart television.",
-      "source_url": "https://twitter.com/log4j/status/2113014142600953868?s=46"
+      "domain": "discord.com",
+      "headline": "Discord is finally letting Google do the searching for you",
+      "summary": "Discord is indexing public servers so you can find answers via Google instead of digging through their famously impossible internal search. It's a bold move to turn the platform from a digital black hole into a searchable knowledge base.",
+      "plain_english": "Discord is allowing search engines to index messages from public servers, making them discoverable through Google search results.",
+      "source_url": "https://discord.com/blog/making-content-from-discoverable-servers-easier-to-discover"
     }
   ],
   "cooked": [
     {
       "id": 4,
-      "domain": "nodejs.org",
-      "headline": "HTTP/2 is the gift that keeps on giving, and by giving, I mean RCEs",
-      "summary": "We finally moved past the era of standard buffer overflows, so now we get to have remote code execution via HTTP/2 framing logic. It's comforting to know that no matter how much we upgrade our protocols, the internet is still just a house of cards held together by duct tape.",
-      "plain_english": "A vulnerability in the HTTP/2 protocol allows attackers to remotely run malicious code on servers using Python, Node.js, and other programming languages.",
-      "source_url": "https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87xp_0VypzQLYj6O_RRHlZuQqj33oASGY2YLSoAiMjeOZN40h7Stf8AG7DPrGZbAPVKUXy36HoMudRbvwF3_r2uYNmfJMhpKzywQDM6Ab8"
+      "domain": "uefi.org",
+      "headline": "Turns out the basement of your server has a permanent open-door policy",
+      "summary": "A code-execution flaw in UEFI firmware means hackers can move in before your OS even finishes booting. It's like discovering your house has a secret back door that the builder forgot to mention to anyone but the burglars.",
+      "plain_english": "A security vulnerability in the low-level firmware used by most servers allows unauthorized users to gain control over the machine before the operating system starts.",
+      "source_url": "https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/"
     },
     {
       "id": 5,
-      "domain": "python.org",
-      "headline": "HTTP2Shell is the new group project where everyone's libraries are failing",
-      "summary": "This vulnerability is spreading across the entire ecosystem, proving once again that your application is only as secure as the most obscure dependency you haven't updated since 2022. It's like finding out the foundation of your house is made of cheese right as the rain starts.",
-      "plain_english": "A security flaw in HTTP/2 libraries has been discovered that affects a wide range of common software packages and applications.",
-      "source_url": "https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497"
+      "domain": "amazon.com",
+      "headline": "Amazon's AI division is speedrunning a group project where everyone forgot to do their part",
+      "summary": "Amazon is gutting its AI team after failing to turn massive investment into anything remotely useful. It turns out that throwing money at a problem is a great way to build a fancy office, but a terrible way to build a working product.",
+      "plain_english": "Amazon is significantly reducing the size of its artificial intelligence department following a period of underperformance and unsuccessful product development.",
+      "source_url": "https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova"
     },
     {
       "id": 6,
-      "domain": "google.com",
-      "headline": "Google is now reading your emails to make sure the ads are creepy enough",
-      "summary": "Google is expanding ad targeting to include your personal photos and Gmail content, proving that nothing is truly private if it can be indexed. It's the digital equivalent of your landlord moving into your bedroom just to suggest better furniture.",
-      "plain_english": "Google is updating its privacy policy to allow the use of data from your personal emails and photos to customize the advertisements you see.",
-      "source_url": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update"
+      "domain": "php.net",
+      "headline": "Your dependency tree is officially a neighborhood watch list",
+      "summary": "Between PHP, LiteLLM, and GitLab vulnerabilities, it seems like patching is your only personality trait this week. At this rate, we are just spending our entire careers playing whack-a-mole with our own package managers.",
+      "plain_english": "Several major software platforms have recently released security updates to fix critical vulnerabilities that could allow unauthorized access.",
+      "source_url": "https://cloudsleuth.io/blog/php2shell-litellm-gitlab-find-what-you-run/"
     },
     {
       "id": 7,
-      "domain": "starlink.com",
-      "headline": "Starlink still has a 'terms and conditions' speed limit for war zones",
-      "summary": "Zelenskyy confirmed that Starlink's performance caps are still active, proving that even satellite internet has a strict 'fair use' policy for international conflicts. It turns out you can't just bypass global geopolitics with a firmware update.",
-      "plain_english": "The Ukrainian government stated that Starlink services continue to be subject to speed and usage restrictions.",
-      "source_url": "https://twitter.com/ZelenskyyUa/status/2113677048354947180"
+      "domain": "anthropic.com",
+      "headline": "Anthropic learned to write by reading books it wasn't invited to",
+      "summary": "Anthropic apparently decided that 'doing the homework' meant pirating the professor's own textbook to train their model. It's the AI equivalent of getting caught cheating on a final exam because you accidentally cited the answer key in your essay.",
+      "plain_english": "Anthropic is facing criticism for using copyrighted books written by Stanford professors without permission to train its artificial intelligence model, Claude.",
+      "source_url": "https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/"
     },
     {
       "id": 8,
-      "domain": "google.com",
-      "headline": "Google is being sued for taking pictures of the things it built maps to see.",
-      "summary": "German courts have decided that Google's aerial imagery is essentially spying, which is a bold stance for a country that relies on the exact same maps to find their way to lunch. It turns out that being the world's most detailed stalker is only acceptable until the legal team starts looking at the fine print.",
-      "plain_english": "A German court has ruled that Google's collection of high-resolution aerial photography constitutes an illegal invasion of privacy.",
-      "source_url": "https://www.courthousenews.com/german-court-calls-google-aerial-imagery-spying/"
+      "domain": "roblox.com",
+      "headline": "Roblox accidentally speedran a NSFW scraping challenge",
+      "summary": "Roblox tried to build their library by scraping 145GB of data without a filter, ending up with content that definitely wasn't in the project requirements. It turns out that when you automate data collection, you end up with the internet's junk drawer instead of a clean database.",
+      "plain_english": "Roblox downloaded a massive amount of 3D models from an external website without permission, inadvertently including adult content in the process.",
+      "source_url": "https://open3dlab.com/news/roblox-downloaded-145-gb-of-models-from-our-sites/"
     },
     {
       "id": 9,
-      "domain": "google.com",
-      "headline": "Google speedran deforestation to build a data center in Finland.",
-      "summary": "Google decided to clear-cut 250,000 trees without a permit, proving that their 'carbon neutral' goals are apparently flexible when there is compute to be deployed. It is the ultimate corporate side quest: save the planet in the README, but delete the forest in production.",
-      "plain_english": "Google cut down 250,000 trees in Finland to build a data center without obtaining the necessary environmental permits.",
-      "source_url": "https://nypost.com/2026/10/24/business/google-illegally-tore-down-250k-trees-for-finland-data-center-infuriating-locals-report/"
+      "domain": "privateequity.com",
+      "headline": "Private equity is about to find out what happens when the interest rate grace period ends",
+      "summary": "Private equity firms spent years taking on massive debt to buy companies, but now that the 'debt wall' is hitting, they have to actually pay it back. It turns out that refinancing your business's entire existence with credit card logic eventually hits a hard limit.",
+      "plain_english": "Companies owned by private equity firms face a $300 billion debt repayment deadline that will be difficult to manage due to current economic conditions.",
+      "source_url": "https://www.wsj.com/finance/investing/a-300-billion-debt-wall-is-looming-over-private-equity-backed-companies-d6359497"
     },
     {
       "id": 10,
-      "domain": "emudhra.com",
-      "headline": "Indian government sites are still using revoked certs, because security is just a suggestion",
-      "summary": "The Indian government is serving revoked certificates like they are expired coupons at a grocery store checkout. It turns out that when you ignore browser warnings, you aren't just living dangerously; you're essentially hosting a public security fire drill.",
-      "plain_english": "Several official Indian government websites are using digital security certificates that have been officially cancelled and deemed invalid.",
-      "source_url": "https://captnemo.in/blog/2026/10/23/emsign-revoked-gov-in/"
+      "domain": "starlink.com",
+      "headline": "Starlink users find out that 'global connectivity' includes being tracked by private spies",
+      "summary": "You bought a satellite dish to get decent internet in the middle of nowhere, but it turns out you were also signing up for a high-altitude surveillance program. It's the ultimate tech plot twist where the hardware you rely on for freedom becomes the bug in your backyard.",
+      "plain_english": "An Israeli spyware company reportedly targeted Starlink users to monitor their activities through the satellite internet service.",
+      "source_url": "https://www.reuters.com/business/media-telecom/alleged-israeli-spy-company-heavily-targeted-starlink-users-sources-say-2026-10-27/"
     }
   ]
 }
