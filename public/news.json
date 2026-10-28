@@ -1,91 +1,91 @@
 {
   "meta": {
     "date": "Wednesday, October 28, 2026",
-    "scene_summary": "We are busy building the future on top of a foundation that is actively being held together by tape and bad intentions.",
-    "ratio_statement": "3:7"
+    "scene_summary": "We are building a future of satellites and AI while the foundation is held together by firmware bugs and old receipts.",
+    "ratio_statement": "5:5"
   },
   "cooking": [
     {
       "id": 1,
-      "domain": "apple.com",
-      "headline": "The M6 chip is here to remind you that your laptop is already a museum piece",
-      "summary": "Apple just dropped the M6, ensuring that your perfectly functional M4 MacBook now feels like a relic from the dial-up era. It is impressive how they manage to make us feel 'underpowered' while we are mostly just opening browser tabs.",
-      "plain_english": "Apple has announced a new version of the 14-inch MacBook Pro featuring the latest M6 processor.",
-      "source_url": "https://www.apple.com/in/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/"
+      "domain": "amazon.com",
+      "headline": "Amazon is buying a satellite company because shipping packages to your door wasn't enough.",
+      "summary": "Amazon just dropped $11.5 billion on Globalstar to make sure their satellites can talk to your phone from literally anywhere. It is the ultimate flex to ensure your next impulse purchase can be tracked even when you are hiding in the woods.",
+      "plain_english": "Amazon has received regulatory approval to acquire the satellite communications company Globalstar for $11.5 billion to support its satellite internet project.",
+      "source_url": "https://www.reuters.com/business/media-telecom/us-agency-approves-amazon-leos-115-billion-acquisition-globalstar-2026-10-27/"
     },
     {
       "id": 2,
       "domain": "hex.tech",
-      "headline": "Hex raises $100M to prove that data science is still just a fancy spreadsheet",
-      "summary": "Data platforms keep raising massive funding rounds to solve the same 'how do I turn this SQL query into a chart' problem. It's comforting to know that even with nine-figure valuations, we're all still just trying to make a pivot table look like a professional dashboard.",
-      "plain_english": "The data platform company Hex has raised $100 million in new funding to expand its business operations.",
+      "headline": "Hex raises another $100M to make your data notebooks look expensive",
+      "summary": "Hex just secured a massive bag to keep building tools that turn your messy SQL queries into shiny interactive dashboards. It's the ultimate way to tell your stakeholders that your data project is definitely 'production-ready' because it has a toggle switch.",
+      "plain_english": "The data analysis platform Hex has raised 100 million dollars in new funding to continue developing its software for collaborative data science.",
       "source_url": "https://hex.tech/blog/hex-new-era/"
     },
     {
       "id": 3,
-      "domain": "discord.com",
-      "headline": "Discord is finally letting Google do the searching for you",
-      "summary": "Discord is indexing public servers so you can find answers via Google instead of digging through their famously impossible internal search. It's a bold move to turn the platform from a digital black hole into a searchable knowledge base.",
-      "plain_english": "Discord is allowing search engines to index messages from public servers, making them discoverable through Google search results.",
-      "source_url": "https://discord.com/blog/making-content-from-discoverable-servers-easier-to-discover"
+      "domain": "steampowered.com",
+      "headline": "Valve is trying to keep Steam from becoming a digital landfill for AI-generated shovelware.",
+      "summary": "Valve is finally stepping in to address the flood of AI-generated clones and low-effort slop clogging up the store. It's like the teacher finally deciding to ban AI essays after realizing the entire class just turned in the exact same hallucinated report.",
+      "plain_english": "Valve is implementing new policies to manage the influx of AI-generated software and games on the Steam platform.",
+      "source_url": "https://www.invenglobal.com/articles/27761/valve-responds-to-developers-fearing-ai-slop-and-clones"
+    },
+    {
+      "id": 4,
+      "domain": "nvidia.com",
+      "headline": "Nvidia just dropped a transcription model that actually speaks 40 languages",
+      "summary": "Nvidia is releasing an open-source transcription model to handle 40 languages, finally giving developers a way to build apps without paying a premium to a black-box API. It's the digital equivalent of finally getting a translator who doesn't charge by the breath.",
+      "plain_english": "Nvidia has released a free, open-source software tool that can accurately convert spoken audio into text across 40 different languages.",
+      "source_url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary"
+    },
+    {
+      "id": 5,
+      "domain": "tailscale.com",
+      "headline": "Tailscale fixed their SSH bug, and somehow the internet didn't implode",
+      "summary": "Tailscale managed to patch their SSH investigation without turning the whole network into a house of cards. It's the rare security update that actually leaves you feeling safer instead of just wondering what else they broke.",
+      "plain_english": "Tailscale has finished investigating and patching a security vulnerability found in their SSH service.",
+      "source_url": "https://tailscale.com/ssh-investigation-update"
     }
   ],
   "cooked": [
     {
-      "id": 4,
+      "id": 6,
       "domain": "uefi.org",
-      "headline": "Turns out the basement of your server has a permanent open-door policy",
-      "summary": "A code-execution flaw in UEFI firmware means hackers can move in before your OS even finishes booting. It's like discovering your house has a secret back door that the builder forgot to mention to anyone but the burglars.",
-      "plain_english": "A security vulnerability in the low-level firmware used by most servers allows unauthorized users to gain control over the machine before the operating system starts.",
+      "headline": "A vulnerability in the firmware that runs before your OS just gave hackers the keys to the kingdom.",
+      "summary": "We spend all our time securing applications and kernels, only to realize the foundation is basically a screen door in a hurricane. It turns out the most dangerous part of your server is the part that technically doesn't even exist yet.",
+      "plain_english": "A security flaw in the system firmware used by most servers allows unauthorized users to execute malicious code before the operating system even starts.",
       "source_url": "https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/"
     },
     {
-      "id": 5,
-      "domain": "amazon.com",
-      "headline": "Amazon's AI division is speedrunning a group project where everyone forgot to do their part",
-      "summary": "Amazon is gutting its AI team after failing to turn massive investment into anything remotely useful. It turns out that throwing money at a problem is a great way to build a fancy office, but a terrible way to build a working product.",
-      "plain_english": "Amazon is significantly reducing the size of its artificial intelligence department following a period of underperformance and unsuccessful product development.",
-      "source_url": "https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova"
-    },
-    {
-      "id": 6,
-      "domain": "php.net",
-      "headline": "Your dependency tree is officially a neighborhood watch list",
-      "summary": "Between PHP, LiteLLM, and GitLab vulnerabilities, it seems like patching is your only personality trait this week. At this rate, we are just spending our entire careers playing whack-a-mole with our own package managers.",
-      "plain_english": "Several major software platforms have recently released security updates to fix critical vulnerabilities that could allow unauthorized access.",
-      "source_url": "https://cloudsleuth.io/blog/php2shell-litellm-gitlab-find-what-you-run/"
-    },
-    {
       "id": 7,
-      "domain": "anthropic.com",
-      "headline": "Anthropic learned to write by reading books it wasn't invited to",
-      "summary": "Anthropic apparently decided that 'doing the homework' meant pirating the professor's own textbook to train their model. It's the AI equivalent of getting caught cheating on a final exam because you accidentally cited the answer key in your essay.",
-      "plain_english": "Anthropic is facing criticism for using copyrighted books written by Stanford professors without permission to train its artificial intelligence model, Claude.",
-      "source_url": "https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/"
+      "domain": "github.com",
+      "headline": "Harvey raises $500M while a dev drops the open-source version for free",
+      "summary": "Harvey landed a half-billion dollar valuation for legal AI, so a developer casually open-sourced a functional alternative to remind everyone that LLMs are just glorified autocomplete. It's the professional equivalent of someone finishing the group project ten minutes after you spent your entire life savings on a fancy binder.",
+      "plain_english": "A developer released free, open-source software that performs similar legal document analysis tasks as Harvey, which recently raised 500 million dollars.",
+      "source_url": "https://github.com/thomasunise/casecite"
     },
     {
       "id": 8,
-      "domain": "roblox.com",
-      "headline": "Roblox accidentally speedran a NSFW scraping challenge",
-      "summary": "Roblox tried to build their library by scraping 145GB of data without a filter, ending up with content that definitely wasn't in the project requirements. It turns out that when you automate data collection, you end up with the internet's junk drawer instead of a clean database.",
-      "plain_english": "Roblox downloaded a massive amount of 3D models from an external website without permission, inadvertently including adult content in the process.",
-      "source_url": "https://open3dlab.com/news/roblox-downloaded-145-gb-of-models-from-our-sites/"
+      "domain": "microsoft.com",
+      "headline": "Tech giants suddenly remember intellectual property exists now that AI is scraping their own homework.",
+      "summary": "Microsoft and Epic Games are finally calling out AI training as theft, which is a wild pivot for companies that spent years feeding the internet into their own models. It turns out copyright law is only a 'fundamental right' when it's your own proprietary data getting vacuumed up.",
+      "plain_english": "Microsoft and Epic Games are now arguing against AI training on copyrighted material, despite previously supporting the technology.",
+      "source_url": "https://kotaku.com/now-that-the-shoe-is-on-the-other-foot-microsoft-and-epic-games-suddenly-agree-that-ai-is-theft-2000749316"
     },
     {
       "id": 9,
-      "domain": "privateequity.com",
-      "headline": "Private equity is about to find out what happens when the interest rate grace period ends",
-      "summary": "Private equity firms spent years taking on massive debt to buy companies, but now that the 'debt wall' is hitting, they have to actually pay it back. It turns out that refinancing your business's entire existence with credit card logic eventually hits a hard limit.",
-      "plain_english": "Companies owned by private equity firms face a $300 billion debt repayment deadline that will be difficult to manage due to current economic conditions.",
-      "source_url": "https://www.wsj.com/finance/investing/a-300-billion-debt-wall-is-looming-over-private-equity-backed-companies-d6359497"
+      "domain": "alibabacloud.com",
+      "headline": "Qwen has a 'split personality' hidden behind a single neuron",
+      "summary": "Researchers discovered that toggling one specific neuron in the Qwen model completely changes its behavior, which is basically the AI version of finding a hidden 'chaos' switch in your codebase. It turns out even the smartest LLMs are just one bit-flip away from a total mid-life crisis.",
+      "plain_english": "Scientists found that changing the state of a single specific neuron in the Qwen artificial intelligence model can fundamentally alter how the system behaves and responds.",
+      "source_url": "https://qwen-neurons-site.vercel.app/"
     },
     {
       "id": 10,
-      "domain": "starlink.com",
-      "headline": "Starlink users find out that 'global connectivity' includes being tracked by private spies",
-      "summary": "You bought a satellite dish to get decent internet in the middle of nowhere, but it turns out you were also signing up for a high-altitude surveillance program. It's the ultimate tech plot twist where the hardware you rely on for freedom becomes the bug in your backyard.",
-      "plain_english": "An Israeli spyware company reportedly targeted Starlink users to monitor their activities through the satellite internet service.",
-      "source_url": "https://www.reuters.com/business/media-telecom/alleged-israeli-spy-company-heavily-targeted-starlink-users-sources-say-2026-10-27/"
+      "domain": "apple.com",
+      "headline": "Apple's git is still holding onto certificates like a hoarder with old receipts",
+      "summary": "Apple's git implementation is still trusting compromised eMudhra certificates that were flagged years ago. It's like keeping the front door unlocked because you lost the key to the deadbolt, but you're sure nobody noticed.",
+      "plain_english": "Apple's software for managing code versions still accepts security certificates that were previously identified as compromised.",
+      "source_url": "https://emudhra.we-have-a-problem.com/apple.html"
     }
   ]
 }
