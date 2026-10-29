@@ -1,91 +1,91 @@
 {
   "meta": {
-    "date": "Wednesday, October 28, 2026",
-    "scene_summary": "We are building a future of satellites and AI while the foundation is held together by firmware bugs and old receipts.",
-    "ratio_statement": "5:5"
+    "date": "Thursday, October 29, 2026",
+    "scene_summary": "We are building the future with one hand and leaving the keys in the ignition with the other.",
+    "ratio_statement": "6:4"
   },
   "cooking": [
     {
       "id": 1,
-      "domain": "amazon.com",
-      "headline": "Amazon is buying a satellite company because shipping packages to your door wasn't enough.",
-      "summary": "Amazon just dropped $11.5 billion on Globalstar to make sure their satellites can talk to your phone from literally anywhere. It is the ultimate flex to ensure your next impulse purchase can be tracked even when you are hiding in the woods.",
-      "plain_english": "Amazon has received regulatory approval to acquire the satellite communications company Globalstar for $11.5 billion to support its satellite internet project.",
-      "source_url": "https://www.reuters.com/business/media-telecom/us-agency-approves-amazon-leos-115-billion-acquisition-globalstar-2026-10-27/"
+      "domain": "doordash.com",
+      "headline": "DoorDash is buying Instacart to ensure your groceries arrive with a side of cold fries",
+      "summary": "The delivery giant is absorbing its grocery counterpart, creating a final boss of unnecessary convenience fees. It is the ultimate consolidation of companies that specialize in charging you double for an apple.",
+      "plain_english": "DoorDash has reached an agreement to purchase the grocery delivery service Instacart.",
+      "source_url": "https://about.doordash.com/en-us/news/doordash-to-acquire-instacart"
     },
     {
       "id": 2,
-      "domain": "hex.tech",
-      "headline": "Hex raises another $100M to make your data notebooks look expensive",
-      "summary": "Hex just secured a massive bag to keep building tools that turn your messy SQL queries into shiny interactive dashboards. It's the ultimate way to tell your stakeholders that your data project is definitely 'production-ready' because it has a toggle switch.",
-      "plain_english": "The data analysis platform Hex has raised 100 million dollars in new funding to continue developing its software for collaborative data science.",
-      "source_url": "https://hex.tech/blog/hex-new-era/"
+      "domain": "google.com",
+      "headline": "Google is officially more than just a search bar with a homepage",
+      "summary": "Alphabet is finally generating more revenue from things that aren't Blue Links, proving they can make money even when people stop Googling how to fix their code. It turns out the rest of the company is finally doing its homework.",
+      "plain_english": "Google's parent company, Alphabet, now generates the majority of its income from services other than its primary search engine.",
+      "source_url": "https://www.kadoa.com/companies/insights/google-search-below-half"
     },
     {
       "id": 3,
-      "domain": "steampowered.com",
-      "headline": "Valve is trying to keep Steam from becoming a digital landfill for AI-generated shovelware.",
-      "summary": "Valve is finally stepping in to address the flood of AI-generated clones and low-effort slop clogging up the store. It's like the teacher finally deciding to ban AI essays after realizing the entire class just turned in the exact same hallucinated report.",
-      "plain_english": "Valve is implementing new policies to manage the influx of AI-generated software and games on the Steam platform.",
-      "source_url": "https://www.invenglobal.com/articles/27761/valve-responds-to-developers-fearing-ai-slop-and-clones"
+      "domain": "mistral.ai",
+      "headline": "Mistral just dropped their heavy artillery into the open weights pool",
+      "summary": "Mistral released the weights for their latest Large model, effectively handing the keys to the kingdom to anyone with enough VRAM. It's like the smartest kid in class finally decided to share their notes right before the final exam.",
+      "plain_english": "Mistral has publicly released the underlying data for its latest large artificial intelligence model, allowing developers to download and use it for their own projects.",
+      "source_url": "https://mistral.ai/news/mistral-large-4-oss/"
     },
     {
       "id": 4,
       "domain": "nvidia.com",
-      "headline": "Nvidia just dropped a transcription model that actually speaks 40 languages",
-      "summary": "Nvidia is releasing an open-source transcription model to handle 40 languages, finally giving developers a way to build apps without paying a premium to a black-box API. It's the digital equivalent of finally getting a translator who doesn't charge by the breath.",
-      "plain_english": "Nvidia has released a free, open-source software tool that can accurately convert spoken audio into text across 40 different languages.",
-      "source_url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary"
+      "headline": "Nvidia's Grace Blackwell chips are basically a Tetris masterclass",
+      "summary": "New scheduling tech is squeezing 27% more performance out of the same hardware by better arranging the workload. It turns out even multi-billion dollar GPUs suffer from the same 'messy roommate' problem where everything just needs to be organized better.",
+      "plain_english": "Researchers have developed a new scheduling method that increases the efficiency of Nvidia's Grace Blackwell chips by 27% without needing additional hardware.",
+      "source_url": "https://skypilot.ai/blog/grace-blackwell-needs-a-new-scheduler"
     },
     {
       "id": 5,
-      "domain": "tailscale.com",
-      "headline": "Tailscale fixed their SSH bug, and somehow the internet didn't implode",
-      "summary": "Tailscale managed to patch their SSH investigation without turning the whole network into a house of cards. It's the rare security update that actually leaves you feeling safer instead of just wondering what else they broke.",
-      "plain_english": "Tailscale has finished investigating and patching a security vulnerability found in their SSH service.",
-      "source_url": "https://tailscale.com/ssh-investigation-update"
+      "domain": "github.com",
+      "headline": "GitHub is basically the world's largest digital hoarding project",
+      "summary": "GitHub processed 7.4 billion commits in September, requiring a massive infrastructure upgrade just to keep the lights on. It's comforting to know that even with all that hardware, we're still mostly just pushing 'fixed typo' commits to main.",
+      "plain_english": "GitHub processed 7.4 billion code commits in September, which required adding 4 million CPU cores and 160 petabytes of storage to its infrastructure.",
+      "source_url": "https://thenewstack.io/github-7-4b-commits-september/"
+    },
+    {
+      "id": 6,
+      "domain": "microsoft.com",
+      "headline": "Edge browser security is held together by logic bugs and a prayer",
+      "summary": "Researchers chained together a series of logic bugs to bypass Edge's security, proving that complex software is just a house of cards waiting for a breeze. It's comforting to know that even with top-tier security, your browser is basically just a group project where nobody checked the edge cases.",
+      "plain_english": "Security researchers successfully demonstrated a full exploit chain against the Microsoft Edge browser using only logical errors in the software code.",
+      "source_url": "https://blog.orange.tw/posts/2026-10-the-last-proof-of-human-craft-browser-full-chain/"
     }
   ],
   "cooked": [
     {
-      "id": 6,
-      "domain": "uefi.org",
-      "headline": "A vulnerability in the firmware that runs before your OS just gave hackers the keys to the kingdom.",
-      "summary": "We spend all our time securing applications and kernels, only to realize the foundation is basically a screen door in a hurricane. It turns out the most dangerous part of your server is the part that technically doesn't even exist yet.",
-      "plain_english": "A security flaw in the system firmware used by most servers allows unauthorized users to execute malicious code before the operating system even starts.",
-      "source_url": "https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/"
-    },
-    {
       "id": 7,
-      "domain": "github.com",
-      "headline": "Harvey raises $500M while a dev drops the open-source version for free",
-      "summary": "Harvey landed a half-billion dollar valuation for legal AI, so a developer casually open-sourced a functional alternative to remind everyone that LLMs are just glorified autocomplete. It's the professional equivalent of someone finishing the group project ten minutes after you spent your entire life savings on a fancy binder.",
-      "plain_english": "A developer released free, open-source software that performs similar legal document analysis tasks as Harvey, which recently raised 500 million dollars.",
-      "source_url": "https://github.com/thomasunise/casecite"
+      "domain": "gitlab.com",
+      "headline": "GitLab's security incident is the digital equivalent of leaving the keys in the ignition",
+      "summary": "Someone tried to exploit a vulnerability in GitLab, reminding us all that even the most secure dev environments have a screen door. It turns out the only thing harder than writing secure code is realizing everyone else is trying to break it.",
+      "plain_english": "GitLab experienced a security incident involving an attempted exploitation of a specific software vulnerability.",
+      "source_url": "https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html"
     },
     {
       "id": 8,
-      "domain": "microsoft.com",
-      "headline": "Tech giants suddenly remember intellectual property exists now that AI is scraping their own homework.",
-      "summary": "Microsoft and Epic Games are finally calling out AI training as theft, which is a wild pivot for companies that spent years feeding the internet into their own models. It turns out copyright law is only a 'fundamental right' when it's your own proprietary data getting vacuumed up.",
-      "plain_english": "Microsoft and Epic Games are now arguing against AI training on copyrighted material, despite previously supporting the technology.",
-      "source_url": "https://kotaku.com/now-that-the-shoe-is-on-the-other-foot-microsoft-and-epic-games-suddenly-agree-that-ai-is-theft-2000749316"
+      "domain": "dhs.gov",
+      "headline": "The Department of Homeland Security just leaked their own secret guest list",
+      "summary": "The agency responsible for national security managed to leave the door unlocked for 41,000 employees, including the people whose entire job is to stay hidden. It turns out that 'top secret' is just a suggestion when your database permissions are set to public.",
+      "plain_english": "A data breach at the Department of Homeland Security exposed the personal information of 41,000 employees, including undercover officers.",
+      "source_url": "https://www.wired.com/story/massive-leak-exposes-41000-homeland-security-workers-including-undercover-ice-agents/"
     },
     {
       "id": 9,
-      "domain": "alibabacloud.com",
-      "headline": "Qwen has a 'split personality' hidden behind a single neuron",
-      "summary": "Researchers discovered that toggling one specific neuron in the Qwen model completely changes its behavior, which is basically the AI version of finding a hidden 'chaos' switch in your codebase. It turns out even the smartest LLMs are just one bit-flip away from a total mid-life crisis.",
-      "plain_english": "Scientists found that changing the state of a single specific neuron in the Qwen artificial intelligence model can fundamentally alter how the system behaves and responds.",
-      "source_url": "https://qwen-neurons-site.vercel.app/"
+      "domain": "php.net",
+      "headline": "PHP is still the gift that keeps on giving, especially to hackers",
+      "summary": "A chained exploit has successfully rooted 25 servers, proving that legacy code is just a ticking time bomb waiting for a creative developer to find the fuse. If you're still running unpatched PHP, you aren't just hosting a website—you're hosting a public access point for the entire internet.",
+      "plain_english": "A series of vulnerabilities in PHP has been used to gain unauthorized administrative access to 25 servers, including some belonging to the U.S.",
+      "source_url": "https://dreamgroup.com/blog/chained-php2shell-exploit-roots-25-servers"
     },
     {
       "id": 10,
-      "domain": "apple.com",
-      "headline": "Apple's git is still holding onto certificates like a hoarder with old receipts",
-      "summary": "Apple's git implementation is still trusting compromised eMudhra certificates that were flagged years ago. It's like keeping the front door unlocked because you lost the key to the deadbolt, but you're sure nobody noticed.",
-      "plain_english": "Apple's software for managing code versions still accepts security certificates that were previously identified as compromised.",
-      "source_url": "https://emudhra.we-have-a-problem.com/apple.html"
+      "domain": "android.com",
+      "headline": "Android's latest silent update is a zero-click brick button",
+      "summary": "Your phone can now be remotely DoS'd without you even touching it, which is the ultimate 'do not disturb' mode. It is the digital equivalent of a coworker cutting your internet cable just to see if you're actually working.",
+      "plain_english": "A security vulnerability allows attackers to remotely disable Android devices without requiring any user interaction.",
+      "source_url": "https://smsofdeath.com/"
     }
   ]
 }
