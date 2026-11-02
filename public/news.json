@@ -1,91 +1,91 @@
 {
   "meta": {
-    "date": "Friday, October 30, 2026",
-    "scene_summary": "We've successfully automated the process of setting our own money on fire.",
-    "ratio_statement": "2:8"
+    "date": "Monday, November 02, 2026",
+    "scene_summary": "We are currently burning the world's GDP to teach AIs how to be as insecure and accident-prone as the humans who built them.",
+    "ratio_statement": "6:4"
   },
   "cooking": [
     {
       "id": 1,
-      "domain": "cisco.com",
-      "headline": "Cisco is letting an engineer speedrun their legacy code with AI",
-      "summary": "They handed one dev unlimited AI tokens and told him to rewrite 98% of the company's legacy codebase in two years. It's essentially the corporate version of being given a blank check to replace the foundation of a house while the family is still eating dinner inside.",
-      "plain_english": "Cisco has authorized a software engineer to use unlimited artificial intelligence resources to modernize nearly all of the company's existing code within a two-year timeframe.",
-      "source_url": "https://www.tomshardware.com/tech-industry/big-tech/cisco-gives-27-year-old-engineer-unlimited-ai-tokens-to-rewrite-98-percent-of-the-companys-legacy-code-in-24-months-president-plucks-former-startup-founder-telling-him-to-go-nuts"
+      "domain": "anthropic.com",
+      "headline": "Anthropic is burning money like they're trying to heat the entire planet",
+      "summary": "Anthropic has committed to spending $900 billion on compute infrastructure just in time for their IPO. It's the corporate equivalent of maxing out every credit card you own before asking for a raise.",
+      "plain_english": "Anthropic has announced plans to spend nearly one trillion dollars on AI infrastructure as it prepares to go public.",
+      "source_url": "https://www.ft.com/content/4d91dbab-6fe4-45ab-beee-d77e091cb37f"
     },
     {
       "id": 2,
-      "domain": "kernel.org",
-      "headline": "A new Linux TCP vulnerability just dropped, as if your production uptime wasn't already a fragile miracle.",
-      "summary": "The Linux kernel has a new use-after-free vulnerability in the TCP stack, reminding us that the internet is held together by duct tape and prayers. It's the perfect time to patch your servers and pray you didn't accidentally break the one library your entire legacy stack depends on.",
-      "plain_english": "A new security vulnerability has been discovered in the Linux kernel's TCP network communication code that requires a software patch.",
-      "source_url": "https://www.penligent.ai/hackinglabs/cve-2026-98432/"
+      "domain": "anthropic.com",
+      "headline": "Anthropic's revenue is impressive, but their grocery bill is terrifying",
+      "summary": "Anthropic reported a solid $17 billion in quarterly revenue, only to immediately reveal they've promised to spend nearly $900 billion on hardware. It's like landing a dream job with a huge salary, then immediately agreeing to buy a private island you can't afford.",
+      "plain_english": "Anthropic reported seventeen billion dollars in revenue for the third quarter while disclosing nearly nine hundred billion dollars in future spending commitments.",
+      "source_url": "https://www.cnbc.com/2026/11/02/anthropic-ant-s-1-quarter-financials.html"
+    },
+    {
+      "id": 3,
+      "domain": "oracle.com",
+      "headline": "Oracle is taking out a mortgage to pay for the AI party",
+      "summary": "Oracle is raising $20 billion in debt and stock just to buy more hardware for their AI ambitions. It's the corporate equivalent of taking out a massive personal loan because you heard there might be free snacks at the conference.",
+      "plain_english": "Oracle is selling $20 billion in stocks and bonds to fund the purchase of equipment and infrastructure needed for artificial intelligence development.",
+      "source_url": "https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html"
+    },
+    {
+      "id": 4,
+      "domain": "arxiv.org",
+      "headline": "Poisoning the training data is the new supply chain attack",
+      "summary": "Researchers found that if you poison the pre-training data, you can bake a permanent backdoor into an AI agent that survives fine-tuning. It turns out the only thing worse than a buggy codebase is a model that was raised to be a double agent.",
+      "plain_english": "A study demonstrates that injecting malicious data during the initial training phase of an AI model can create hidden vulnerabilities that remain active after the model is refined.",
+      "source_url": "https://arxiv.org/abs/2610.37741"
+    },
+    {
+      "id": 5,
+      "domain": "momentic.ai",
+      "headline": "Finally, an AI agent that can experience the pain of manual QA testing for you",
+      "summary": "Momentic is building agents that navigate your app to catch bugs, effectively automating the most tedious part of a software release. It's like having an intern who actually enjoys clicking every single button on your site for eight hours straight.",
+      "plain_english": "Momentic has developed automated software agents that test applications for bugs by interacting with them just like a human user would.",
+      "source_url": "https://momentic.ai/"
+    },
+    {
+      "id": 6,
+      "domain": "byd.com",
+      "headline": "BYD is speedrunning the EV market while the US is still buffering",
+      "summary": "BYD sold more electric vehicles in a single month than the entire United States managed to move in a full quarter. It turns out that when you actually build the cars people want to buy, the sales numbers tend to do the heavy lifting for you.",
+      "plain_english": "The Chinese electric vehicle manufacturer BYD sold more cars in one month than all electric vehicle manufacturers combined sold in the United States over three months.",
+      "source_url": "https://electrek.co/2026/11/02/byd-sold-more-evs-last-month-than-the-us-did-all-quarter/"
     }
   ],
   "cooked": [
     {
-      "id": 3,
-      "domain": "binance.com",
-      "headline": "Binance just had a $5.6B 'oops' moment",
-      "summary": "Losing billions in a hack is a bold way to prove your security is essentially just a suggestion. At this point, keeping your crypto on an exchange is basically leaving your wallet on a park bench and hoping for the best.",
-      "plain_english": "Binance suffered a massive security breach resulting in the theft of 5.6 billion dollars worth of assets.",
-      "source_url": "https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8"
-    },
-    {
-      "id": 4,
-      "domain": "intel.com",
-      "headline": "Intel's stock just performed a successful skydive without a parachute",
-      "summary": "Intel's outlook is so grim that the stock market decided to start the holiday sale season a few months early. It turns out that being the backbone of the PC industry doesn't help much when nobody is buying the PCs.",
-      "plain_english": "Intel's stock price dropped by 25 percent following a negative financial forecast and concerns regarding the company's future performance.",
-      "source_url": "https://www.reuters.com/business/intel-warning-sparks-chip-rout-pc-weakness-clouds-turnaround-2026-10-30/"
-    },
-    {
-      "id": 5,
-      "domain": "google.com",
-      "headline": "Google just evaporated $500B because the AI hype train hit a speed bump",
-      "summary": "Wall Street spent years betting that Google would own the AI future, only to panic the moment the math didn't look like a straight line to the moon. It turns out that when you build a trillion-dollar company on vibes, the stock price is just a group project where everyone forgets to do the homework on time.",
-      "plain_english": "Google's market value dropped by $500 billion following investor concerns about the company's performance and strategy in the artificial intelligence sector.",
-      "source_url": "https://www.bbc.com/news/articles/cm9qzdqpxy48o"
-    },
-    {
-      "id": 6,
-      "domain": "microsoft.com",
-      "headline": "Azure's security is basically a shared Netflix account for your entire cloud infrastructure",
-      "summary": "Researchers found five ways to jump between tenants, proving that Azure's walls are more like suggestions written on a whiteboard. It's comforting to know that even when you pay for enterprise cloud, your data is still essentially playing a high-stakes game of hot potato with every other company on the server.",
-      "plain_english": "Security researchers identified five vulnerabilities in Microsoft Azure that allowed unauthorized access across different customer environments.",
-      "source_url": "https://www.binarysecurity.no/posts/2026/10/one-root-case"
-    },
-    {
       "id": 7,
-      "domain": "anthropic.com",
-      "headline": "Claude Code extensions are now effectively a 'bring your own backdoor' party",
-      "summary": "Anthropic's official tools were found to be vulnerable to supply chain attacks, turning your AI coding assistant into an unwanted remote worker. It turns out that letting an AI write your code is risky, but letting the extension write it for you while someone else watches is a whole new level of 'oops'.",
-      "plain_english": "Hackers discovered security vulnerabilities in official software extensions used for Claude, potentially allowing unauthorized access to user systems.",
-      "source_url": "https://cyberplace.social/@GossiTheDog/117528831681803563"
+      "domain": "gov.cn",
+      "headline": "China just added a 'Terms and Conditions' page to AI exports",
+      "summary": "China is officially putting export controls on frontier AI models, making the international tech trade feel like a complicated school project with too many permission slips. It's hard to build a global product when your model needs a travel visa just to cross a border.",
+      "plain_english": "The Chinese government has introduced new regulations that require official approval before certain advanced artificial intelligence models can be exported to other countries.",
+      "source_url": "https://labs.cloudsecurityalliance.org/research/csa-research-note-china-ai-export-controls-announcement-48-2/"
     },
     {
       "id": 8,
-      "domain": "northflank.com",
-      "headline": "Northflank got breached, proving that even the cloud isn't just someone else's computer—it's someone else's problem",
-      "summary": "The platform that promises to make hosting easy has had a security incident, reminding us all that 'managed services' is just a fancy term for 'we'll handle the breach for you'. At least now you have a great excuse for why your staging environment is currently unreachable.",
-      "plain_english": "The cloud computing provider Northflank experienced a security breach that compromised their systems.",
-      "source_url": "https://status.northflank.com"
+      "domain": "ubuntu.com",
+      "headline": "Ubuntu is treating a critical RCE like a group project deadline",
+      "summary": "It has been three weeks since a critical remote code execution vulnerability was identified, yet Ubuntu still hasn't shipped the patch. It's like waiting for that one teammate to finally upload their slides five minutes before the presentation starts.",
+      "plain_english": "Ubuntu has not yet released a security update for a major software vulnerability that was discovered three weeks ago.",
+      "source_url": "https://freenode.net/article/ubuntu-lts-kernels-still-unfixed-for-critical-cve-2026-98432"
     },
     {
       "id": 9,
-      "domain": "polymarket.com",
-      "headline": "Betting on the market is fun until the vendor gets phished",
-      "summary": "Polymarket had to hit the pause button because a vendor compromise turned their security into a suggestion. It turns out even a platform built on predicting the future couldn't see their own account takeover coming.",
-      "plain_english": "Polymarket temporarily halted trading because an outside service provider was compromised, leading to unauthorized access to some user wallets.",
-      "source_url": "https://www.nbcnews.com/business/consumer/polymarket-trading-halt-hack-wallets-rcna606405"
+      "domain": "trigger.dev",
+      "headline": "Trigger.dev just accidentally shared their secret sauce with the world",
+      "summary": "Trigger.dev managed to expose their customer environment variables, effectively turning their entire security strategy into a public API. It turns out that keeping your secrets secret is significantly harder than building a tool that automates everything else.",
+      "plain_english": "Trigger.dev experienced a security incident where sensitive environment configuration settings belonging to their customers were exposed.",
+      "source_url": "https://trigger.dev/blog/security-incident-nov-2026"
     },
     {
       "id": 10,
-      "domain": "proton.me",
-      "headline": "Proton CEO says they're done hiring engineers, which is a bold strategy for a tech company.",
-      "summary": "Proton is betting that AI can replace the entire engineering team, finally solving the age-old problem of having to manage actual human beings. It's a bold move to fire your workforce before the robots have even figured out how to fix a merge conflict without crying.",
-      "plain_english": "The CEO of Proton stated that the company will stop hiring new engineers, likely due to the increasing efficiency of artificial intelligence in software development.",
-      "source_url": "https://twitter.com/LayoffAI/status/2115871654366642624"
+      "domain": "unknown",
+      "headline": "Your frozen pizza is now part of a botnet",
+      "summary": "Europe's supermarket freezers are getting hacked, proving that even your dinner is now a potential attack vector. We really spent decades putting computers in everything just to have our ice cream held for ransom.",
+      "plain_english": "A series of cyber-attacks has disrupted the operation of commercial freezer systems across Europe.",
+      "source_url": "https://www.theguardian.com/world/2026/nov/02/supermarket-freezers-across-europe-hit-by-second-suspected-cyber-attack"
     }
   ]
 }
