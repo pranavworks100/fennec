@@ -1,91 +1,91 @@
 {
   "meta": {
-    "date": "Monday, November 02, 2026",
-    "scene_summary": "We are currently burning the world's GDP to teach AIs how to be as insecure and accident-prone as the humans who built them.",
-    "ratio_statement": "6:4"
+    "date": "Tuesday, November 03, 2026",
+    "scene_summary": "The industry is currently divided between those who can afford to print money and those who are busy printing security incidents.",
+    "ratio_statement": "3:7"
   },
   "cooking": [
     {
       "id": 1,
-      "domain": "anthropic.com",
-      "headline": "Anthropic is burning money like they're trying to heat the entire planet",
-      "summary": "Anthropic has committed to spending $900 billion on compute infrastructure just in time for their IPO. It's the corporate equivalent of maxing out every credit card you own before asking for a raise.",
-      "plain_english": "Anthropic has announced plans to spend nearly one trillion dollars on AI infrastructure as it prepares to go public.",
-      "source_url": "https://www.ft.com/content/4d91dbab-6fe4-45ab-beee-d77e091cb37f"
+      "domain": "apple.com",
+      "headline": "Apple is still printing money while everyone else is just printing error logs.",
+      "summary": "Apple dropped their quarterly results, proving that selling hardware at premium prices remains the world's most reliable business model. It turns out that when you own the ecosystem, your bank account doesn't really care about the broader tech market's existential crisis.",
+      "plain_english": "Apple released its latest financial results showing continued profitability for the company.",
+      "source_url": "https://www.apple.com/newsroom/2026/11/apple-reports-fourth-quarter-results/"
     },
     {
       "id": 2,
       "domain": "anthropic.com",
-      "headline": "Anthropic's revenue is impressive, but their grocery bill is terrifying",
-      "summary": "Anthropic reported a solid $17 billion in quarterly revenue, only to immediately reveal they've promised to spend nearly $900 billion on hardware. It's like landing a dream job with a huge salary, then immediately agreeing to buy a private island you can't afford.",
-      "plain_english": "Anthropic reported seventeen billion dollars in revenue for the third quarter while disclosing nearly nine hundred billion dollars in future spending commitments.",
-      "source_url": "https://www.cnbc.com/2026/11/02/anthropic-ant-s-1-quarter-financials.html"
+      "headline": "Anthropic is paying its staff like they're all high-frequency trading algorithms",
+      "summary": "Anthropic's IPO filing shows they are burning $107k per employee every month, which is a bold strategy for a company that hasn't hit profitability. It's comforting to know that even if the AI doesn't achieve AGI, at least the developers are being paid like they've already solved every problem in the universe.",
+      "plain_english": "Anthropic's financial reports show they are spending an average of $107,000 per employee each month.",
+      "source_url": "https://www.techspot.com/news/114428-anthropic-ipo-filing-reveals-17-billion-quarterly-personnel.html"
     },
     {
       "id": 3,
-      "domain": "oracle.com",
-      "headline": "Oracle is taking out a mortgage to pay for the AI party",
-      "summary": "Oracle is raising $20 billion in debt and stock just to buy more hardware for their AI ambitions. It's the corporate equivalent of taking out a massive personal loan because you heard there might be free snacks at the conference.",
-      "plain_english": "Oracle is selling $20 billion in stocks and bonds to fund the purchase of equipment and infrastructure needed for artificial intelligence development.",
-      "source_url": "https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html"
-    },
-    {
-      "id": 4,
-      "domain": "arxiv.org",
-      "headline": "Poisoning the training data is the new supply chain attack",
-      "summary": "Researchers found that if you poison the pre-training data, you can bake a permanent backdoor into an AI agent that survives fine-tuning. It turns out the only thing worse than a buggy codebase is a model that was raised to be a double agent.",
-      "plain_english": "A study demonstrates that injecting malicious data during the initial training phase of an AI model can create hidden vulnerabilities that remain active after the model is refined.",
-      "source_url": "https://arxiv.org/abs/2610.37741"
-    },
-    {
-      "id": 5,
-      "domain": "momentic.ai",
-      "headline": "Finally, an AI agent that can experience the pain of manual QA testing for you",
-      "summary": "Momentic is building agents that navigate your app to catch bugs, effectively automating the most tedious part of a software release. It's like having an intern who actually enjoys clicking every single button on your site for eight hours straight.",
-      "plain_english": "Momentic has developed automated software agents that test applications for bugs by interacting with them just like a human user would.",
-      "source_url": "https://momentic.ai/"
-    },
-    {
-      "id": 6,
-      "domain": "byd.com",
-      "headline": "BYD is speedrunning the EV market while the US is still buffering",
-      "summary": "BYD sold more electric vehicles in a single month than the entire United States managed to move in a full quarter. It turns out that when you actually build the cars people want to buy, the sales numbers tend to do the heavy lifting for you.",
-      "plain_english": "The Chinese electric vehicle manufacturer BYD sold more cars in one month than all electric vehicle manufacturers combined sold in the United States over three months.",
-      "source_url": "https://electrek.co/2026/11/02/byd-sold-more-evs-last-month-than-the-us-did-all-quarter/"
+      "domain": "google.com",
+      "headline": "Google to schools: Use our AI or lose the search engine",
+      "summary": "Google is threatening to cut off search access for schools that don't play ball with their AI tools. It turns out the 'Don't Be Evil' company is fully embracing the 'my way or the highway' approach to classroom management.",
+      "plain_english": "Google will disable its search engine services for educational institutions that choose to block Google's AI products.",
+      "source_url": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html"
     }
   ],
   "cooked": [
     {
+      "id": 4,
+      "domain": "cloudflare.com",
+      "headline": "Cloudflare is having a 'multiple incident' day, and the internet is feeling it",
+      "summary": "Cloudflare is currently juggling multiple active incidents, effectively reminding us that the internet is just a fragile house of cards held together by DNS settings. It's comforting to know that even the people protecting the web occasionally have to deal with their own version of a 'did you try turning it off and on again' nightmare.",
+      "plain_english": "Cloudflare is experiencing several technical service disruptions that are affecting internet connectivity for many websites.",
+      "source_url": "https://www.cloudflarestatus.com/"
+    },
+    {
+      "id": 5,
+      "domain": "google.com",
+      "headline": "Your Android TV box might be moonlighting as a botnet for a side hustle",
+      "summary": "An Android partner managed to turn 1.3 million set-top boxes into a botnet, proving that your streaming hardware is doing more work than you are. It turns out the 'smart' in smart TV mostly refers to how clever the malware is at using your bandwidth for a secret second job.",
+      "plain_english": "A manufacturer of Android-based streaming boxes pre-installed software that secretly enrolled devices into a botnet for malicious activity.",
+      "source_url": "https://www.theverge.com/1024807/google-botnet-android-tv-shut-down"
+    },
+    {
+      "id": 6,
+      "domain": "intel.com",
+      "headline": "Intel is currently speedrunning the 'how to lose a trillion dollars' challenge.",
+      "summary": "The chip industry is going through a massive rout, and Intel is currently serving as the main character of this disaster movie. It's like watching a legacy tech giant try to debug a production environment while the entire server room is actively on fire.",
+      "plain_english": "Intel's stock price has fallen significantly as part of a wider downturn in the semiconductor industry.",
+      "source_url": "https://finance.yahoo.com/markets/article/the-intel-stock-collapse-is-getting-worse--and-the-37-trillion-chip-rout-is-spreading-212154947.html"
+    },
+    {
       "id": 7,
-      "domain": "gov.cn",
-      "headline": "China just added a 'Terms and Conditions' page to AI exports",
-      "summary": "China is officially putting export controls on frontier AI models, making the international tech trade feel like a complicated school project with too many permission slips. It's hard to build a global product when your model needs a travel visa just to cross a border.",
-      "plain_english": "The Chinese government has introduced new regulations that require official approval before certain advanced artificial intelligence models can be exported to other countries.",
-      "source_url": "https://labs.cloudsecurityalliance.org/research/csa-research-note-china-ai-export-controls-announcement-48-2/"
+      "domain": "orkos.com",
+      "headline": "WorkOS just learned that 'security first' is a hard promise to keep",
+      "summary": "WorkOS built their entire brand on making authentication and security easy for developers, which makes their own breach a particularly spicy plot twist. It's the digital equivalent of a professional locksmith accidentally locking their own keys inside the shop.",
+      "plain_english": "The authentication company WorkOS has disclosed that their systems were compromised in a security incident.",
+      "source_url": "https://news.ycombinator.com/item?id=50345712"
     },
     {
       "id": 8,
-      "domain": "ubuntu.com",
-      "headline": "Ubuntu is treating a critical RCE like a group project deadline",
-      "summary": "It has been three weeks since a critical remote code execution vulnerability was identified, yet Ubuntu still hasn't shipped the patch. It's like waiting for that one teammate to finally upload their slides five minutes before the presentation starts.",
-      "plain_english": "Ubuntu has not yet released a security update for a major software vulnerability that was discovered three weeks ago.",
-      "source_url": "https://freenode.net/article/ubuntu-lts-kernels-still-unfixed-for-critical-cve-2026-98432"
+      "domain": "gitbook.com",
+      "headline": "GitBook just learned that documentation is only useful if it isn't public property.",
+      "summary": "GitBook suffered a breach, which is just fantastic news for anyone who enjoys their private internal notes becoming the internet's newest reading material. It turns out the only thing worse than writing documentation is having someone else leak it for you.",
+      "plain_english": "GitBook experienced a security breach that potentially exposed sensitive user documentation and information.",
+      "source_url": "https://news.ycombinator.com/item?id=50354336"
     },
     {
       "id": 9,
-      "domain": "trigger.dev",
-      "headline": "Trigger.dev just accidentally shared their secret sauce with the world",
-      "summary": "Trigger.dev managed to expose their customer environment variables, effectively turning their entire security strategy into a public API. It turns out that keeping your secrets secret is significantly harder than building a tool that automates everything else.",
-      "plain_english": "Trigger.dev experienced a security incident where sensitive environment configuration settings belonging to their customers were exposed.",
-      "source_url": "https://trigger.dev/blog/security-incident-nov-2026"
+      "domain": "postman.com",
+      "headline": "Postman decided your API keys needed a pen pal and tried to send them to the cloud.",
+      "summary": "Postman silently pushed an AI plugin that attempted to share your local API data, effectively turning your private workspace into a public group project. It's a bold strategy to market an AI assistant by accidentally trying to crowdsource your company's secrets.",
+      "plain_english": "Postman automatically installed an AI feature that attempted to sync user API data to their cloud servers without explicit user permission.",
+      "source_url": "https://github.com/postmanlabs/postman-app-support/issues/14370"
     },
     {
       "id": 10,
-      "domain": "unknown",
-      "headline": "Your frozen pizza is now part of a botnet",
-      "summary": "Europe's supermarket freezers are getting hacked, proving that even your dinner is now a potential attack vector. We really spent decades putting computers in everything just to have our ice cream held for ransom.",
-      "plain_english": "A series of cyber-attacks has disrupted the operation of commercial freezer systems across Europe.",
-      "source_url": "https://www.theguardian.com/world/2026/nov/02/supermarket-freezers-across-europe-hit-by-second-suspected-cyber-attack"
+      "domain": "openai.com",
+      "headline": "OpenAI is training on your code again, just in case you forgot to opt out",
+      "summary": "OpenAI seems to have silently re-enabled model training on Codex chats, proving that privacy settings are just suggestions. It's like a landlord who promises not to enter your apartment, then installs a security camera to 'improve the building's infrastructure.'",
+      "plain_english": "OpenAI has resumed using user chat data to train its artificial intelligence models.",
+      "source_url": "https://news.ycombinator.com/item?id=50352757"
     }
   ]
 }
