@@ -1,91 +1,91 @@
 {
   "meta": {
-    "date": "Friday, November 06, 2026",
-    "scene_summary": "We are building the future on top of a stack that currently considers MS Paint a security vulnerability.",
-    "ratio_statement": "2:8"
+    "date": "Saturday, November 07, 2026",
+    "scene_summary": "Big Tech is busy building the data center of the future while the rest of us are just trying to figure out who broke the sandbox.",
+    "ratio_statement": "5:5"
   },
   "cooking": [
     {
       "id": 1,
-      "domain": "perplexity.ai",
-      "headline": "Perplexity is launching AI agents for work, effectively turning your inbox into a group project.",
-      "summary": "Perplexity is rolling out AI agents that can handle complex work tasks, which is great until you realize you are now the manager of a digital team that never sleeps. It's essentially a way to assign tasks to software, hoping that the AI does more work than the guy who never shows up to the Zoom calls.",
-      "plain_english": "Perplexity has introduced a new feature that allows AI-powered agents to perform complex, multi-step work tasks for users.",
-      "source_url": "https://www.perplexity.ai/en-GB/hub/blog/teammates-are-agents-for-complex-ongoing-work"
+      "domain": "amd.com",
+      "headline": "AMD is officially breaking up with your gaming PC to date the data center",
+      "summary": "AMD just told gamers that the server rack is their new priority and consumer PCs are basically a side project. It's the hardware version of your friend who gets a new partner and suddenly stops showing up to game night.",
+      "plain_english": "AMD has announced that it will prioritize its data center business over consumer computer sales, as it expects a significant decline in the personal computer market.",
+      "source_url": "https://www.techradar.com/computing/gpu/amd-ceo-enrages-gamers-by-saying-its-now-a-data-center-first-company-and-predicts-pc-sales-will-plummet-by-a-double-digit-percentage-in-2027"
     },
     {
       "id": 2,
-      "domain": "nvidia.com",
-      "headline": "Nvidia Kubernetes Engine is here because we clearly didn't have enough layers",
-      "summary": "Just when you thought your cluster couldn't get any more complex, someone decided to wrap the entire Nvidia ecosystem in Kubernetes. It's the infrastructure equivalent of deciding your house needs a second roof just to make sure the first one stays dry.",
-      "plain_english": "A new tool has been released to manage Nvidia computing resources within the Kubernetes container orchestration system.",
-      "source_url": "https://github.com/dsx-ai-factory/nvke"
+      "domain": "google.com",
+      "headline": "Google is buying data center land in Wyoming because the cloud needs to live somewhere",
+      "summary": "Google just bought a massive data center site in Wyoming, proving they are fully committed to the real estate side of the AI arms race. Apparently, you can't just host the future of intelligence on a thumb drive in a garage anymore.",
+      "plain_english": "Google has purchased a property in Wyoming previously owned by Crusoe Energy to expand its data center infrastructure.",
+      "source_url": "https://www.crusoe.ai/resources/newsroom/crusoe-wyoming-data-center-campus-update"
+    },
+    {
+      "id": 3,
+      "domain": "github.com",
+      "headline": "GitHub is finally rearranging the furniture in its storage closet",
+      "summary": "GitHub is overhauling how it stores your code to handle the sheer weight of everyone's 'final_final_v2' commits. It turns out even the world's biggest repository needs a spring cleaning to keep from buckling under the pressure of our collective technical debt.",
+      "plain_english": "GitHub has updated its internal system for storing and managing Git data to improve performance and scalability.",
+      "source_url": "https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/"
+    },
+    {
+      "id": 4,
+      "domain": "replit.com",
+      "headline": "Replit is putting your code in a smaller, more expensive glass box",
+      "summary": "Replit rebuilt its sandbox using microVMs, which is essentially giving every line of your code its own tiny, isolated apartment. It is the perfect solution for when your experimental project inevitably tries to break the entire building.",
+      "plain_english": "Replit has updated its platform to use micro-virtual machines, which improves security and isolation for code running in its browser-based environment.",
+      "source_url": "https://frontier.replit.com/sandbox-engine-microvms-part-1/"
+    },
+    {
+      "id": 5,
+      "domain": "perplexity.ai",
+      "headline": "Perplexity just turned your search engine into a group project",
+      "summary": "Perplexity is launching autonomous agents to handle complex workflows, essentially automating the part of your job that involves waiting for someone else to reply. It's a bold move to fix productivity, assuming you enjoy managing AI staff as much as you enjoy managing human ones.",
+      "plain_english": "Perplexity has introduced software agents that can independently perform multi-step work tasks for users.",
+      "source_url": "https://www.perplexity.ai/en-GB/hub/blog/teammates-are-agents-for-complex-ongoing-work"
     }
   ],
   "cooked": [
     {
-      "id": 3,
-      "domain": "nasdaq.com",
-      "headline": "The market just realized AI data centers need more than just vibes to run",
-      "summary": "Investors are hitting the panic button as political shifts threaten the massive energy and land requirements of AI infrastructure. Turns out, building a digital brain is a lot harder when the government stops handing you a blank check for your power bill.",
-      "plain_english": "Stock market valuations for companies focused on artificial intelligence decreased significantly due to concerns over new political policies affecting data center expansion.",
-      "source_url": "https://www.reuters.com/legal/transactional/ai-data-center-stocks-slip-democratic-sweep-clouds-expansion-plans-2026-11-05/"
-    },
-    {
-      "id": 4,
-      "domain": "tesla.com",
-      "headline": "Tesla and SpaceX lost $420 billion, proving even the market has a sense of irony",
-      "summary": "Watching two companies lose nearly half a trillion in value in 48 hours is like watching a production build fail right after you pushed to main on a Friday. It's a brutal reminder that even main character energy can't stop the stock market from throwing a tantrum.",
-      "plain_english": "Tesla and SpaceX experienced a combined market value loss of over $420 billion during a two-day period.",
-      "source_url": "https://techlaws.pages.dev/tesla-and-spacex-lose-over-420b-in-combined-market-cap-in-the-two-days/"
-    },
-    {
-      "id": 5,
-      "domain": "anthropic.com",
-      "headline": "Anthropic's IPO valuation just dropped by a casual billion",
-      "summary": "Investors are finally realizing that burning through venture capital to train models isn't quite the same thing as printing money. It turns out that even with a trillion-dollar price tag, you still need to actually make a profit eventually.",
-      "plain_english": "Anthropic has lowered its expected valuation for its initial public offering following concerns from major investors.",
-      "source_url": "https://epyhia.com/anthropic-ipo-valuation-talks-drop-to-1-3-trillion-as-major-investors"
-    },
-    {
       "id": 6,
       "domain": "meta.com",
-      "headline": "Meta's new business model is apparently just facilitating deepfake scams",
-      "summary": "Documents suggest Meta knowingly kept the lights on for AI-powered fraud to the tune of $16 billion in revenue. It's the ultimate version of 'I don't make the rules, I just sell the ad space' for the digital age.",
-      "plain_english": "Internal documents indicate that Meta was aware of and profited from scam advertisements featuring AI-generated deepfakes.",
-      "source_url": "https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html"
+      "headline": "Corporate America is learning that political favors have a very short expiration date",
+      "summary": "After betting big on a political shift, these tech giants are now discovering that congressional subpoenas are the default tax for being relevant. It is the corporate equivalent of realizing your 'get out of jail free' card was actually just a coupon for a salad.",
+      "plain_english": "Several major technology companies are facing official investigations from members of the United States Congress.",
+      "source_url": "https://www.washingtonpost.com/technology/2026/11/06/after-courting-trump-corporate-america-faces-democratic-reckoning/"
     },
     {
       "id": 7,
       "domain": "microsoft.com",
-      "headline": "Microsoft realizes that renting someone else's AI capacity is just paying for a middleman.",
-      "summary": "Microsoft is winding down its deal to rent AI cloud capacity from Oracle because apparently, even tech giants get tired of paying rent. It turns out that when you have your own data centers, paying a competitor to host your servers is just a very expensive way to admit you weren't ready.",
-      "plain_english": "Microsoft is ending its agreement to use Oracle's cloud infrastructure for its artificial intelligence services.",
+      "headline": "Microsoft and Oracle are breaking up, and it's definitely 'it's not you, it's my own AI cloud'",
+      "summary": "Microsoft is ending its deal to rent Oracle's cloud capacity now that their own GPU clusters are finally ready for prime time. It turns out that relying on your frenemy for infrastructure is only a phase until you build your own backyard server farm.",
+      "plain_english": "Microsoft is discontinuing its agreement to use Oracle's cloud services to support its artificial intelligence operations as its own data center capacity increases.",
       "source_url": "https://www.reuters.com/business/microsoft-is-winding-down-oracle-deal-rent-ai-cloud-capacity-bloomberg-news-2026-11-06/"
     },
     {
       "id": 8,
-      "domain": "microsoft.com",
-      "headline": "MS Paint is now a professional-grade attack vector",
-      "summary": "You can now technically get pwned by a drawing of a stick figure if you open the wrong BMP file. It's comforting to know that even after decades of security patches, our greatest vulnerability remains a 1985 graphics editor.",
-      "plain_english": "A security vulnerability in Microsoft Paint allows attackers to execute malicious code on a computer when a specially crafted image file is opened.",
-      "source_url": "https://www.cve.org/CVERecord?id=CVE-2026-83844"
+      "domain": "slickdeals.net",
+      "headline": "Slickdeals got hacked, so maybe hold off on that 'too good to be true' discount",
+      "summary": "The site dedicated to finding the lowest prices has officially been compromised, proving that even the best deals come with a security catch. It's the digital equivalent of finding a bargain bin item that turns out to be a tracking device.",
+      "plain_english": "The coupon and deal website Slickdeals has experienced a security breach involving unauthorized access to their systems.",
+      "source_url": "https://news.ycombinator.com/item?id=50397121"
     },
     {
       "id": 9,
-      "domain": "faa.gov",
-      "headline": "The FAA is speedrunning a 2028 retirement for floppy disks",
-      "summary": "The air traffic control system is currently running on technology that hasn't been relevant since the invention of the internet. It turns out the biggest threat to aviation isn't turbulence, but finding a drive that can still read a 3.5-inch disk.",
-      "plain_english": "The Federal Aviation Administration plans to replace the legacy computer systems that still rely on floppy disks for air traffic control operations by 2028.",
-      "source_url": "https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/"
+      "domain": "firecracker-microvm.github.io",
+      "headline": "Firecracker just learned that 'sandboxing' is more of a suggestion than a rule.",
+      "summary": "The minimalist VM designed to be the ultimate fortress for serverless functions just got hit with a breakout exploit. It turns out even your high-security hypervisor can be tricked into letting a guest escape if you ask it the right questions.",
+      "plain_english": "A security vulnerability was discovered that allows software running inside a Firecracker virtual machine to escape its confines and access the host system.",
+      "source_url": "https://pwn.ai/blog/firecracker-escape"
     },
     {
       "id": 10,
-      "domain": "anthropic.com",
-      "headline": "Claude Code is leaking your email like a sieve in a rainstorm",
-      "summary": "Anthropic built an AI agent to help you code, but it's apparently been handing out your personal email address to every website it visits. It's the digital equivalent of a helpful assistant who thinks your private contact info is a business card for the public.",
-      "plain_english": "The Claude Code software tool is accidentally sharing user email addresses with websites it accesses during its operation.",
-      "source_url": "https://github.com/anthropics/claude-code/issues/107757"
+      "domain": "realpage.com",
+      "headline": "RealPage found out that algorithmic price fixing is just a cartel with better branding.",
+      "summary": "The company used an algorithm to help landlords coordinate rent hikes, effectively turning the housing market into a giant group project where everyone cheats. Turns out the courts don't consider 'it was the AI's idea' a valid legal defense for price gouging.",
+      "plain_english": "RealPage has agreed to pay $360 million to settle a lawsuit alleging that its software was used to help landlords collude to keep rental prices artificially high.",
+      "source_url": "https://www.multifamilydive.com/news/realpage-rent-pricing-case-360m-renters/873553/"
     }
   ]
 }
