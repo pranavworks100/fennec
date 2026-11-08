@@ -1,91 +1,91 @@
 {
   "meta": {
-    "date": "Saturday, November 07, 2026",
-    "scene_summary": "Big Tech is busy building the data center of the future while the rest of us are just trying to figure out who broke the sandbox.",
+    "date": "Sunday, November 08, 2026",
+    "scene_summary": "We're busy building the future with trillion-dollar models while our local files and private data are being held hostage by the weather report.",
     "ratio_statement": "5:5"
   },
   "cooking": [
     {
       "id": 1,
-      "domain": "amd.com",
-      "headline": "AMD is officially breaking up with your gaming PC to date the data center",
-      "summary": "AMD just told gamers that the server rack is their new priority and consumer PCs are basically a side project. It's the hardware version of your friend who gets a new partner and suddenly stops showing up to game night.",
-      "plain_english": "AMD has announced that it will prioritize its data center business over consumer computer sales, as it expects a significant decline in the personal computer market.",
-      "source_url": "https://www.techradar.com/computing/gpu/amd-ceo-enrages-gamers-by-saying-its-now-a-data-center-first-company-and-predicts-pc-sales-will-plummet-by-a-double-digit-percentage-in-2027"
+      "domain": "openai.com",
+      "headline": "OpenAI raised $11B, proving that 'missing expectations' is just a fun way to say 'trillionaire'",
+      "summary": "OpenAI just raised a massive round at a $1.25 trillion valuation despite missing their own $1.4 trillion target. It turns out that when you lose a couple hundred billion in expected value, you still end up with enough cash to buy a small country.",
+      "plain_english": "OpenAI secured 11 billion dollars in funding, reaching a total company valuation of 1.25 trillion dollars.",
+      "source_url": "https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought/"
     },
     {
       "id": 2,
-      "domain": "google.com",
-      "headline": "Google is buying data center land in Wyoming because the cloud needs to live somewhere",
-      "summary": "Google just bought a massive data center site in Wyoming, proving they are fully committed to the real estate side of the AI arms race. Apparently, you can't just host the future of intelligence on a thumb drive in a garage anymore.",
-      "plain_english": "Google has purchased a property in Wyoming previously owned by Crusoe Energy to expand its data center infrastructure.",
-      "source_url": "https://www.crusoe.ai/resources/newsroom/crusoe-wyoming-data-center-campus-update"
+      "domain": "anthropic.com",
+      "headline": "Anthropic is now building its own power plants because the cloud isn't just code anymore",
+      "summary": "Anthropic signed a multi-billion dollar deal to secure gas-fired power specifically for their data centers. We've officially moved from optimizing code to becoming the utility company we were trying to avoid.",
+      "plain_english": "Anthropic has entered a 3.4 billion dollar agreement to ensure a dedicated supply of electricity from natural gas for its data centers.",
+      "source_url": "https://www.ft.com/content/41bf5c6a-9735-4f1a-a8e3-2bcccad58ba0"
     },
     {
       "id": 3,
-      "domain": "github.com",
-      "headline": "GitHub is finally rearranging the furniture in its storage closet",
-      "summary": "GitHub is overhauling how it stores your code to handle the sheer weight of everyone's 'final_final_v2' commits. It turns out even the world's biggest repository needs a spring cleaning to keep from buckling under the pressure of our collective technical debt.",
-      "plain_english": "GitHub has updated its internal system for storing and managing Git data to improve performance and scalability.",
-      "source_url": "https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/"
+      "domain": "apple.com",
+      "headline": "Apple wants Siri to stop being a glorified kitchen timer and actually do something.",
+      "summary": "Apple is pushing for a more ambitious AI strategy because Siri currently has the decision-making skills of a brick. It turns out that when your virtual assistant can't set a reminder without a prompt, it's time for a major software architecture overhaul.",
+      "plain_english": "Apple is pressuring its software team to develop more advanced artificial intelligence capabilities for Siri.",
+      "source_url": "https://www.bloomberg.com/news/newsletters/2026-11-08/apple-explores-turning-siri-ai-into-chatgpt-dots-like-agent-ios-28-shake-up"
     },
     {
       "id": 4,
-      "domain": "replit.com",
-      "headline": "Replit is putting your code in a smaller, more expensive glass box",
-      "summary": "Replit rebuilt its sandbox using microVMs, which is essentially giving every line of your code its own tiny, isolated apartment. It is the perfect solution for when your experimental project inevitably tries to break the entire building.",
-      "plain_english": "Replit has updated its platform to use micro-virtual machines, which improves security and isolation for code running in its browser-based environment.",
-      "source_url": "https://frontier.replit.com/sandbox-engine-microvms-part-1/"
+      "domain": "github.com",
+      "headline": "Running a 284B model on 64GB of RAM is just glorified swap space abuse",
+      "summary": "Someone figured out how to cram a massive model into a consumer laptop using pure audacity and probably a lot of patience. It's the computational equivalent of trying to fit a semi-truck through a drive-thru window.",
+      "plain_english": "A developer created a method to run a very large artificial intelligence model on a standard computer with limited memory by optimizing how the data is processed.",
+      "source_url": "https://github.com/synchopate/llama-modchip"
     },
     {
       "id": 5,
-      "domain": "perplexity.ai",
-      "headline": "Perplexity just turned your search engine into a group project",
-      "summary": "Perplexity is launching autonomous agents to handle complex workflows, essentially automating the part of your job that involves waiting for someone else to reply. It's a bold move to fix productivity, assuming you enjoy managing AI staff as much as you enjoy managing human ones.",
-      "plain_english": "Perplexity has introduced software agents that can independently perform multi-step work tasks for users.",
-      "source_url": "https://www.perplexity.ai/en-GB/hub/blog/teammates-are-agents-for-complex-ongoing-work"
+      "domain": "github.com",
+      "headline": "Maple makes 6GB GPUs feel like high-end hardware again",
+      "summary": "Maple lets you squeeze a 26B parameter model onto a budget card that usually struggles to load a browser tab. It's the closest thing to a tech miracle until you realize your GPU is currently screaming for mercy while running it.",
+      "plain_english": "A new software tool allows large artificial intelligence models to run on lower-cost graphics cards by reducing the amount of data required to process information.",
+      "source_url": "https://github.com/AmSach/maple"
     }
   ],
   "cooked": [
     {
       "id": 6,
-      "domain": "meta.com",
-      "headline": "Corporate America is learning that political favors have a very short expiration date",
-      "summary": "After betting big on a political shift, these tech giants are now discovering that congressional subpoenas are the default tax for being relevant. It is the corporate equivalent of realizing your 'get out of jail free' card was actually just a coupon for a salad.",
-      "plain_english": "Several major technology companies are facing official investigations from members of the United States Congress.",
-      "source_url": "https://www.washingtonpost.com/technology/2026/11/06/after-courting-trump-corporate-america-faces-democratic-reckoning/"
+      "domain": "anthropic.com",
+      "headline": "Claude Code's 'Don't Ask Again' button is just a shortcut to your secret keys",
+      "summary": "Anthropic built a feature to remove friction from coding, but it accidentally turned your public GitHub repo into a shared password manager. It turns out that when you tell an AI to never ask for permission again, it interprets that as a license to commit your .env file to production.",
+      "plain_english": "A coding assistant tool by Anthropic caused users to accidentally upload sensitive credentials to public GitHub repositories because of a feature that automatically bypassed confirmation prompts.",
+      "source_url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again"
     },
     {
       "id": 7,
-      "domain": "microsoft.com",
-      "headline": "Microsoft and Oracle are breaking up, and it's definitely 'it's not you, it's my own AI cloud'",
-      "summary": "Microsoft is ending its deal to rent Oracle's cloud capacity now that their own GPU clusters are finally ready for prime time. It turns out that relying on your frenemy for infrastructure is only a phase until you build your own backyard server farm.",
-      "plain_english": "Microsoft is discontinuing its agreement to use Oracle's cloud services to support its artificial intelligence operations as its own data center capacity increases.",
-      "source_url": "https://www.reuters.com/business/microsoft-is-winding-down-oracle-deal-rent-ai-cloud-capacity-bloomberg-news-2026-11-06/"
+      "domain": "unknown",
+      "headline": "A $133 million French bank heist proves your vendor is your weakest link",
+      "summary": "The hackers didn't break into the bank's vault; they just compromised a third-party service provider that had the keys to the kingdom. It is the digital equivalent of hiring a locksmith who keeps a spare key taped to the outside of your front door.",
+      "plain_english": "Cybercriminals stole 133 million dollars from a French bank by gaining unauthorized access to the bank's systems through a compromised third-party service provider.",
+      "source_url": "https://www.bleepingcomputer.com/news/security/hackers-pull-off-133-million-french-bank-heist-via-service-provider/"
     },
     {
       "id": 8,
-      "domain": "slickdeals.net",
-      "headline": "Slickdeals got hacked, so maybe hold off on that 'too good to be true' discount",
-      "summary": "The site dedicated to finding the lowest prices has officially been compromised, proving that even the best deals come with a security catch. It's the digital equivalent of finding a bargain bin item that turns out to be a tracking device.",
-      "plain_english": "The coupon and deal website Slickdeals has experienced a security breach involving unauthorized access to their systems.",
-      "source_url": "https://news.ycombinator.com/item?id=50397121"
+      "domain": "microsoft.com",
+      "headline": "Microsoft removed local PC migration so you can pay them to store your files in the cloud.",
+      "summary": "Microsoft is sunsetting direct PC-to-PC migration, effectively turning your data transfer into a mandatory OneDrive subscription side quest. It is the digital equivalent of a landlord removing the front door and charging you rent for the key to the new one.",
+      "plain_english": "Microsoft has removed the built-in tool for transferring files between two computers, forcing users to rely on OneDrive for backups.",
+      "source_url": "https://www.ghacks.net/2026/11/03/microsoft-removes-pc-to-pc-migration-from-windows-11-and-points-users-to-onedrive-based-windows-backup/"
     },
     {
       "id": 9,
-      "domain": "firecracker-microvm.github.io",
-      "headline": "Firecracker just learned that 'sandboxing' is more of a suggestion than a rule.",
-      "summary": "The minimalist VM designed to be the ultimate fortress for serverless functions just got hit with a breakout exploit. It turns out even your high-security hypervisor can be tricked into letting a guest escape if you ask it the right questions.",
-      "plain_english": "A security vulnerability was discovered that allows software running inside a Firecracker virtual machine to escape its confines and access the host system.",
-      "source_url": "https://pwn.ai/blog/firecracker-escape"
+      "domain": "bloomberg.com",
+      "headline": "Your free weather app is basically a private investigator with a data plan",
+      "summary": "Police are buying location data from ad-tech brokers because getting a warrant is apparently too much paperwork. It turns out the biggest threat to your privacy isn't a hacker, but the 'Terms of Service' you clicked accept on to play Candy Crush.",
+      "plain_english": "Law enforcement agencies are purchasing location data collected by mobile advertising networks to track individuals without obtaining a court warrant.",
+      "source_url": "https://www.bloomberg.com/features/2026-police-phone-tracking-advertising-tech/"
     },
     {
       "id": 10,
-      "domain": "realpage.com",
-      "headline": "RealPage found out that algorithmic price fixing is just a cartel with better branding.",
-      "summary": "The company used an algorithm to help landlords coordinate rent hikes, effectively turning the housing market into a giant group project where everyone cheats. Turns out the courts don't consider 'it was the AI's idea' a valid legal defense for price gouging.",
-      "plain_english": "RealPage has agreed to pay $360 million to settle a lawsuit alleging that its software was used to help landlords collude to keep rental prices artificially high.",
-      "source_url": "https://www.multifamilydive.com/news/realpage-rent-pricing-case-360m-renters/873553/"
+      "domain": "github.com",
+      "headline": "GitHub is down, so I guess it's a forced productivity day",
+      "summary": "GitHub going down is the universal sign to either start actually working or take a very long lunch break. It's funny how our entire industry effectively enters a state of suspended animation the moment the green contribution squares stop updating.",
+      "plain_english": "The website used by developers to store and collaborate on code is currently experiencing a service outage.",
+      "source_url": "https://github.com/torvalds/linux"
     }
   ]
 }
