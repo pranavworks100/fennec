@@ -1,91 +1,91 @@
 {
   "meta": {
-    "date": "Sunday, November 08, 2026",
-    "scene_summary": "We're busy building the future with trillion-dollar models while our local files and private data are being held hostage by the weather report.",
-    "ratio_statement": "5:5"
+    "date": "Monday, November 09, 2026",
+    "scene_summary": "We are currently racing to build the future while accidentally leaving the keys in the ignition.",
+    "ratio_statement": "6:4"
   },
   "cooking": [
     {
       "id": 1,
-      "domain": "openai.com",
-      "headline": "OpenAI raised $11B, proving that 'missing expectations' is just a fun way to say 'trillionaire'",
-      "summary": "OpenAI just raised a massive round at a $1.25 trillion valuation despite missing their own $1.4 trillion target. It turns out that when you lose a couple hundred billion in expected value, you still end up with enough cash to buy a small country.",
-      "plain_english": "OpenAI secured 11 billion dollars in funding, reaching a total company valuation of 1.25 trillion dollars.",
-      "source_url": "https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought/"
+      "domain": "asahilinux.org",
+      "headline": "Asahi Linux switches to GPL because AI keeps scraping their homework",
+      "summary": "The Asahi Linux team dropped their permissive MIT license after AI models started vacuuming up their unreleased code. It's the open-source equivalent of changing the Wi-Fi password because your neighbor keeps leeching your bandwidth.",
+      "plain_english": "The Asahi Linux project changed its software license from MIT to GPL to prevent artificial intelligence companies from using their code without permission.",
+      "source_url": "https://itsfoss.com/news/asahi-linux-drops-mit-for-gpl/"
     },
     {
       "id": 2,
-      "domain": "anthropic.com",
-      "headline": "Anthropic is now building its own power plants because the cloud isn't just code anymore",
-      "summary": "Anthropic signed a multi-billion dollar deal to secure gas-fired power specifically for their data centers. We've officially moved from optimizing code to becoming the utility company we were trying to avoid.",
-      "plain_english": "Anthropic has entered a 3.4 billion dollar agreement to ensure a dedicated supply of electricity from natural gas for its data centers.",
-      "source_url": "https://www.ft.com/content/41bf5c6a-9735-4f1a-a8e3-2bcccad58ba0"
+      "domain": "nvidia.com",
+      "headline": "When the government asks what you're doing, just have your biggest customer tell them to chill",
+      "summary": "The Commerce Department was investigating Megaspeed until Nvidia stepped in to effectively put the brakes on the whole thing. It's comforting to know that in the world of high-stakes tech, a regulatory inquiry is just a minor speed bump for the right people.",
+      "plain_english": "The United States government stopped an official investigation into a company called Megaspeed after Nvidia intervened in the process.",
+      "source_url": "https://www.nytimes.com/2026/11/09/business/economy/nvidia-megaspeed-investigation-huang.html"
     },
     {
       "id": 3,
-      "domain": "apple.com",
-      "headline": "Apple wants Siri to stop being a glorified kitchen timer and actually do something.",
-      "summary": "Apple is pushing for a more ambitious AI strategy because Siri currently has the decision-making skills of a brick. It turns out that when your virtual assistant can't set a reminder without a prompt, it's time for a major software architecture overhaul.",
-      "plain_english": "Apple is pressuring its software team to develop more advanced artificial intelligence capabilities for Siri.",
-      "source_url": "https://www.bloomberg.com/news/newsletters/2026-11-08/apple-explores-turning-siri-ai-into-chatgpt-dots-like-agent-ios-28-shake-up"
+      "domain": "anthropic.com",
+      "headline": "Claude Fable 5.2 is currently the smartest kid in the class",
+      "summary": "Claude Fable 5.2 just hit a record-breaking 65 on the Artificial Analysis benchmark, making it the new model to beat. It's the academic equivalent of acing a final exam just in time for the next semester's syllabus to leak.",
+      "plain_english": "Anthropic's new AI model has achieved the highest performance score recorded on the Artificial Analysis industry benchmark.",
+      "source_url": "https://artificialanalysis.ai/models/claude-fable-5-2"
     },
     {
       "id": 4,
-      "domain": "github.com",
-      "headline": "Running a 284B model on 64GB of RAM is just glorified swap space abuse",
-      "summary": "Someone figured out how to cram a massive model into a consumer laptop using pure audacity and probably a lot of patience. It's the computational equivalent of trying to fit a semi-truck through a drive-thru window.",
-      "plain_english": "A developer created a method to run a very large artificial intelligence model on a standard computer with limited memory by optimizing how the data is processed.",
-      "source_url": "https://github.com/synchopate/llama-modchip"
+      "domain": "anthropic.com",
+      "headline": "Anthropic drops another model update before you finished reading the last one",
+      "summary": "Anthropic released Claude Fable and Mythos 5.2, proving that the shelf life of state-of-the-art AI is now shorter than a carton of milk. It's hard to keep up with the updates when the release cycle is moving faster than my ability to fix my own bugs.",
+      "plain_english": "Anthropic has released updated versions of its Claude Fable and Mythos artificial intelligence models.",
+      "source_url": "https://www.anthropic.com/claude-fable-and-mythos-5-2"
     },
     {
       "id": 5,
       "domain": "github.com",
-      "headline": "Maple makes 6GB GPUs feel like high-end hardware again",
-      "summary": "Maple lets you squeeze a 26B parameter model onto a budget card that usually struggles to load a browser tab. It's the closest thing to a tech miracle until you realize your GPU is currently screaming for mercy while running it.",
-      "plain_english": "A new software tool allows large artificial intelligence models to run on lower-cost graphics cards by reducing the amount of data required to process information.",
-      "source_url": "https://github.com/AmSach/maple"
+      "headline": "GPU rental pricing is basically an airport snack shop",
+      "summary": "Renting an H100 GPU currently ranges from $2.69 to $12.29 an hour depending on which provider you choose. It turns out cloud computing has the same price consistency as buying a bottle of water at a terminal gate.",
+      "plain_english": "The hourly cost to rent high-performance computer processors varies significantly between different cloud service providers.",
+      "source_url": "https://github.com/datareceipts/data-receipts/tree/main/109-gpu-pricing"
+    },
+    {
+      "id": 6,
+      "domain": "deepx.ai",
+      "headline": "DeepX wants to run massive AI on your watch's battery life",
+      "summary": "DeepX claims their new chip can run 100B parameter models on less than 5 watts of power. That is like trying to run a NASA supercomputer on the energy it takes to keep a nightlight on.",
+      "plain_english": "DeepX has developed a new computer chip designed to process large artificial intelligence models using a very small amount of electricity.",
+      "source_url": "https://www.eetimes.com/deepx-tapes-out-second-gen-chip-projects-6-7x-performance-gain-with-lpddr5x-pim/"
     }
   ],
   "cooked": [
     {
-      "id": 6,
-      "domain": "anthropic.com",
-      "headline": "Claude Code's 'Don't Ask Again' button is just a shortcut to your secret keys",
-      "summary": "Anthropic built a feature to remove friction from coding, but it accidentally turned your public GitHub repo into a shared password manager. It turns out that when you tell an AI to never ask for permission again, it interprets that as a license to commit your .env file to production.",
-      "plain_english": "A coding assistant tool by Anthropic caused users to accidentally upload sensitive credentials to public GitHub repositories because of a feature that automatically bypassed confirmation prompts.",
-      "source_url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again"
-    },
-    {
       "id": 7,
-      "domain": "unknown",
-      "headline": "A $133 million French bank heist proves your vendor is your weakest link",
-      "summary": "The hackers didn't break into the bank's vault; they just compromised a third-party service provider that had the keys to the kingdom. It is the digital equivalent of hiring a locksmith who keeps a spare key taped to the outside of your front door.",
-      "plain_english": "Cybercriminals stole 133 million dollars from a French bank by gaining unauthorized access to the bank's systems through a compromised third-party service provider.",
-      "source_url": "https://www.bleepingcomputer.com/news/security/hackers-pull-off-133-million-french-bank-heist-via-service-provider/"
+      "domain": "google.com",
+      "headline": "Google Gemini is outsourcing your diary entries to human interns",
+      "summary": "Google is routing your private emails and Drive files to human reviewers to train their models. It turns out the only thing standing between your secrets and a stranger's eyes is a 'Terms of Service' box you definitely didn't read.",
+      "plain_english": "Google uses human workers to review data from personal user accounts to improve its artificial intelligence systems.",
+      "source_url": "https://github.com/thisisme6598/gemini_files/"
     },
     {
       "id": 8,
       "domain": "microsoft.com",
-      "headline": "Microsoft removed local PC migration so you can pay them to store your files in the cloud.",
-      "summary": "Microsoft is sunsetting direct PC-to-PC migration, effectively turning your data transfer into a mandatory OneDrive subscription side quest. It is the digital equivalent of a landlord removing the front door and charging you rent for the key to the new one.",
-      "plain_english": "Microsoft has removed the built-in tool for transferring files between two computers, forcing users to rely on OneDrive for backups.",
-      "source_url": "https://www.ghacks.net/2026/11/03/microsoft-removes-pc-to-pc-migration-from-windows-11-and-points-users-to-onedrive-based-windows-backup/"
+      "headline": "Microsoft's security shim is the ultimate 'I'm with stupid' sign for hackers",
+      "summary": "Secure Boot was designed to ensure only trusted code runs at startup, but hackers are now using Microsoft's own signed bootloader to bypass those exact protections. It turns out the biggest threat to your machine's security is the very company that swore to protect it.",
+      "plain_english": "Hackers have discovered a way to use a legitimate Microsoft file to bypass computer security features that are supposed to prevent unauthorized software from loading during startup.",
+      "source_url": "https://leosmith.wtf/blog/not-so-secure-boot.html"
     },
     {
       "id": 9,
-      "domain": "bloomberg.com",
-      "headline": "Your free weather app is basically a private investigator with a data plan",
-      "summary": "Police are buying location data from ad-tech brokers because getting a warrant is apparently too much paperwork. It turns out the biggest threat to your privacy isn't a hacker, but the 'Terms of Service' you clicked accept on to play Candy Crush.",
-      "plain_english": "Law enforcement agencies are purchasing location data collected by mobile advertising networks to track individuals without obtaining a court warrant.",
-      "source_url": "https://www.bloomberg.com/features/2026-police-phone-tracking-advertising-tech/"
+      "domain": "apple.com",
+      "headline": "Apple is treating its AI engineers like a middle schooler on a field trip budget",
+      "summary": "Apple has capped its AI engineers at a $200 daily budget, effectively turning the most advanced tech in the world into a game of 'will this prompt bankrupt me?' It's hard to build the future of intelligence when you have to check your remaining balance before every single query. More details in the original article.",
+      "plain_english": "Apple has limited the daily spending budget for its artificial intelligence engineers to $200 per person.",
+      "source_url": "https://www.stork.ai/newsletter/2026-11-08-apple-capped-engineers-at-a-200-daily-ai-budget"
     },
     {
       "id": 10,
-      "domain": "github.com",
-      "headline": "GitHub is down, so I guess it's a forced productivity day",
-      "summary": "GitHub going down is the universal sign to either start actually working or take a very long lunch break. It's funny how our entire industry effectively enters a state of suspended animation the moment the green contribution squares stop updating.",
-      "plain_english": "The website used by developers to store and collaborate on code is currently experiencing a service outage.",
-      "source_url": "https://github.com/torvalds/linux"
+      "domain": "openai.com",
+      "headline": "ChatGPT Desktop is basically a generous coworker sharing your keys with the entire internet",
+      "summary": "The ChatGPT desktop app has a feature that conveniently forwards your SSH agent to remote machines, which is great if you want your servers to be a group project. It's the digital equivalent of leaving your house keys in the front door lock and hoping nobody notices.",
+      "plain_english": "The desktop version of ChatGPT has a security vulnerability that may inadvertently share a user's remote access credentials with unauthorized machines.",
+      "source_url": "https://news.ycombinator.com/item?id=50422628"
     }
   ]
 }
