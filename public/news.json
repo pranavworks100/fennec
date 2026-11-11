@@ -1,91 +1,91 @@
 {
   "meta": {
-    "date": "Monday, November 09, 2026",
-    "scene_summary": "We are currently racing to build the future while accidentally leaving the keys in the ignition.",
-    "ratio_statement": "6:4"
+    "date": "Wednesday, November 11, 2026",
+    "scene_summary": "We are busy reinventing the CPU and building local AI just to make sure we have enough compute to power the tools that are currently busy eating the internet.",
+    "ratio_statement": "7:3"
   },
   "cooking": [
     {
       "id": 1,
-      "domain": "asahilinux.org",
-      "headline": "Asahi Linux switches to GPL because AI keeps scraping their homework",
-      "summary": "The Asahi Linux team dropped their permissive MIT license after AI models started vacuuming up their unreleased code. It's the open-source equivalent of changing the Wi-Fi password because your neighbor keeps leeching your bandwidth.",
-      "plain_english": "The Asahi Linux project changed its software license from MIT to GPL to prevent artificial intelligence companies from using their code without permission.",
-      "source_url": "https://itsfoss.com/news/asahi-linux-drops-mit-for-gpl/"
+      "domain": "aws.amazon.com",
+      "headline": "AWS finally lets you run AWS without paying AWS",
+      "summary": "After years of developers building janky local mocks to avoid racking up a massive cloud bill, AWS has finally released their own official emulator. It's essentially the company admitting that the best way to test their product is to not actually use their product.",
+      "plain_english": "Amazon has released a software tool that allows developers to simulate AWS cloud services on their own computers without needing an internet connection to the actual cloud platform.",
+      "source_url": "https://github.com/aws/aws-emulator"
     },
     {
       "id": 2,
-      "domain": "nvidia.com",
-      "headline": "When the government asks what you're doing, just have your biggest customer tell them to chill",
-      "summary": "The Commerce Department was investigating Megaspeed until Nvidia stepped in to effectively put the brakes on the whole thing. It's comforting to know that in the world of high-stakes tech, a regulatory inquiry is just a minor speed bump for the right people.",
-      "plain_english": "The United States government stopped an official investigation into a company called Megaspeed after Nvidia intervened in the process.",
-      "source_url": "https://www.nytimes.com/2026/11/09/business/economy/nvidia-megaspeed-investigation-huang.html"
+      "domain": "hitehouse.gov",
+      "headline": "The government is now the bouncer for your DNA orders",
+      "summary": "The U.S. is tightening rules on synthetic DNA to prevent bioterrorism, effectively making companies screen every order like a suspicious TSA agent.",
+      "plain_english": "The United States government has introduced new regulations requiring companies that produce synthetic DNA to verify the identity of customers and screen orders to prevent the creation of dangerous biological agents.",
+      "source_url": "https://www.science.org/content/article/deter-bioterrorism-u-s-imposes-new-rules-ordering-synthetic-dna"
     },
     {
       "id": 3,
-      "domain": "anthropic.com",
-      "headline": "Claude Fable 5.2 is currently the smartest kid in the class",
-      "summary": "Claude Fable 5.2 just hit a record-breaking 65 on the Artificial Analysis benchmark, making it the new model to beat. It's the academic equivalent of acing a final exam just in time for the next semester's syllabus to leak.",
-      "plain_english": "Anthropic's new AI model has achieved the highest performance score recorded on the Artificial Analysis industry benchmark.",
-      "source_url": "https://artificialanalysis.ai/models/claude-fable-5-2"
+      "domain": "starlink.com",
+      "headline": "Ukraine decides that one billionaire's mood swings aren't a reliable network strategy",
+      "summary": "Ukraine is diversifying its satellite network to include Israeli and Italian tech, essentially moving off the 'Elon-only' plan. It turns out relying on a single person's geopolitical whims for your military infrastructure is about as stable as a merge conflict on a Friday afternoon.",
+      "plain_english": "Ukraine is integrating satellite communication technology from Italy and Israel to reduce its dependence on Starlink services.",
+      "source_url": "https://policy-wire.com/ukraine-pivots-to-israeli-italian-satellite-tech-to-bypass-starlink-restrictions/"
     },
     {
       "id": 4,
-      "domain": "anthropic.com",
-      "headline": "Anthropic drops another model update before you finished reading the last one",
-      "summary": "Anthropic released Claude Fable and Mythos 5.2, proving that the shelf life of state-of-the-art AI is now shorter than a carton of milk. It's hard to keep up with the updates when the release cycle is moving faster than my ability to fix my own bugs.",
-      "plain_english": "Anthropic has released updated versions of its Claude Fable and Mythos artificial intelligence models.",
-      "source_url": "https://www.anthropic.com/claude-fable-and-mythos-5-2"
+      "domain": "apple.com",
+      "headline": "Apple wants you to run AI locally so your RAM can finally taste true suffering",
+      "summary": "Apple is launching a dedicated Mac app to make running local LLMs easier than ever. It's a great way to turn your laptop into a space heater while you wait for a chatbot to tell you what you already knew.",
+      "plain_english": "Apple is releasing a new application for Mac computers designed to simplify the process of running artificial intelligence models directly on the user's device.",
+      "source_url": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/"
     },
     {
       "id": 5,
-      "domain": "github.com",
-      "headline": "GPU rental pricing is basically an airport snack shop",
-      "summary": "Renting an H100 GPU currently ranges from $2.69 to $12.29 an hour depending on which provider you choose. It turns out cloud computing has the same price consistency as buying a bottle of water at a terminal gate.",
-      "plain_english": "The hourly cost to rent high-performance computer processors varies significantly between different cloud service providers.",
-      "source_url": "https://github.com/datareceipts/data-receipts/tree/main/109-gpu-pricing"
+      "domain": "alibabagroup.com",
+      "headline": "Qwen4-Max is here to remind us that AI models have the shelf life of a carton of milk.",
+      "summary": "Alibaba just dropped a preview of Qwen4-Max, proving that the cutting edge of AI moves faster than my ability to update my local dependencies. It is truly impressive how quickly we go from 'state-of-the-art' to 'legacy system' in this industry.",
+      "plain_english": "Alibaba has released a preview version of its latest artificial intelligence model.",
+      "source_url": "https://twitter.com/Alibaba_Qwen/status/2120335993643684315"
     },
     {
       "id": 6,
-      "domain": "deepx.ai",
-      "headline": "DeepX wants to run massive AI on your watch's battery life",
-      "summary": "DeepX claims their new chip can run 100B parameter models on less than 5 watts of power. That is like trying to run a NASA supercomputer on the energy it takes to keep a nightlight on.",
-      "plain_english": "DeepX has developed a new computer chip designed to process large artificial intelligence models using a very small amount of electricity.",
-      "source_url": "https://www.eetimes.com/deepx-tapes-out-second-gen-chip-projects-6-7x-performance-gain-with-lpddr5x-pim/"
+      "domain": "tendrils.co",
+      "headline": "Another $30M raised to reinvent the CPU, because apparently, x86 wasn't spicy enough for us.",
+      "summary": "Investors are pouring millions into hardware startups again, betting that we haven't actually peaked with the chips we've used for decades. It is a bold move to try and disrupt the CPU market, which is basically the tech equivalent of trying to reinvent the wheel but with more thermal throttling.",
+      "plain_english": "A company has raised 30 million dollars in funding to develop new computer processor technology.",
+      "source_url": "https://tendrils.co/blog/2026-11-10/30m-raised"
+    },
+    {
+      "id": 7,
+      "domain": "anthropic.com",
+      "headline": "Anthropic is now hunting their own bugs for sport",
+      "summary": "Anthropic is actively publishing vulnerabilities found in their own models, which is the AI equivalent of grading your own homework to prove you're actually paying attention. It's a bold strategy to show they're ahead of the curve, provided they don't find anything that makes them regret the transparency.",
+      "plain_english": "Anthropic is releasing reports detailing security vulnerabilities discovered within their artificial intelligence models.",
+      "source_url": "https://www.vulncheck.com/blog/anthropic-glasswing-november-update"
     }
   ],
   "cooked": [
     {
-      "id": 7,
-      "domain": "google.com",
-      "headline": "Google Gemini is outsourcing your diary entries to human interns",
-      "summary": "Google is routing your private emails and Drive files to human reviewers to train their models. It turns out the only thing standing between your secrets and a stranger's eyes is a 'Terms of Service' box you definitely didn't read.",
-      "plain_english": "Google uses human workers to review data from personal user accounts to improve its artificial intelligence systems.",
-      "source_url": "https://github.com/thisisme6598/gemini_files/"
-    },
-    {
       "id": 8,
-      "domain": "microsoft.com",
-      "headline": "Microsoft's security shim is the ultimate 'I'm with stupid' sign for hackers",
-      "summary": "Secure Boot was designed to ensure only trusted code runs at startup, but hackers are now using Microsoft's own signed bootloader to bypass those exact protections. It turns out the biggest threat to your machine's security is the very company that swore to protect it.",
-      "plain_english": "Hackers have discovered a way to use a legitimate Microsoft file to bypass computer security features that are supposed to prevent unauthorized software from loading during startup.",
-      "source_url": "https://leosmith.wtf/blog/not-so-secure-boot.html"
+      "domain": "github.com",
+      "headline": "Open source projects are now checking IDs at the door to keep the LLMs out",
+      "summary": "Maintainers are banning AI-generated code, proving that even open source projects are tired of the 'I'm feeling lucky' approach to bug fixes. Apparently, nobody wants to spend their weekend debugging a hallucination that confidently broke the build.",
+      "plain_english": "Several open source software projects have implemented rules to prohibit the submission of code written by artificial intelligence tools.",
+      "source_url": "https://osssaysno.com"
     },
     {
       "id": 9,
-      "domain": "apple.com",
-      "headline": "Apple is treating its AI engineers like a middle schooler on a field trip budget",
-      "summary": "Apple has capped its AI engineers at a $200 daily budget, effectively turning the most advanced tech in the world into a game of 'will this prompt bankrupt me?' It's hard to build the future of intelligence when you have to check your remaining balance before every single query. More details in the original article.",
-      "plain_english": "Apple has limited the daily spending budget for its artificial intelligence engineers to $200 per person.",
-      "source_url": "https://www.stork.ai/newsletter/2026-11-08-apple-capped-engineers-at-a-200-daily-ai-budget"
+      "domain": "python.org",
+      "headline": "The Zen of Python loses its primary author",
+      "summary": "Tim Peters has passed away, leaving behind the Zen of Python and a legacy of code that actually works. We'll miss the man who taught us that simple is better than complex, even if we still ignore that advice every single day.",
+      "plain_english": "Tim Peters, a significant contributor to the Python programming language and author of the Zen of Python, has died.",
+      "source_url": "https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028"
     },
     {
       "id": 10,
-      "domain": "openai.com",
-      "headline": "ChatGPT Desktop is basically a generous coworker sharing your keys with the entire internet",
-      "summary": "The ChatGPT desktop app has a feature that conveniently forwards your SSH agent to remote machines, which is great if you want your servers to be a group project. It's the digital equivalent of leaving your house keys in the front door lock and hoping nobody notices.",
-      "plain_english": "The desktop version of ChatGPT has a security vulnerability that may inadvertently share a user's remote access credentials with unauthorized machines.",
-      "source_url": "https://news.ycombinator.com/item?id=50422628"
+      "domain": "janestreet.com",
+      "headline": "Jane Street almost traded their servers for an indoor swimming pool",
+      "summary": "A false fire alarm triggered a total flood of the datacenter's fire suppression system, nearly turning expensive hardware into high-end paperweights. It's the ultimate reminder that even the most sophisticated trading algorithms are no match for a faulty smoke detector.",
+      "plain_english": "A malfunctioning smoke alarm accidentally activated a fire suppression system that sprayed water over a financial firm's computer servers.",
+      "source_url": "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/"
     }
   ]
 }
