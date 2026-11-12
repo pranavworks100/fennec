@@ -1,91 +1,91 @@
 {
   "meta": {
-    "date": "Wednesday, November 11, 2026",
-    "scene_summary": "We are busy reinventing the CPU and building local AI just to make sure we have enough compute to power the tools that are currently busy eating the internet.",
-    "ratio_statement": "7:3"
+    "date": "Thursday, November 12, 2026",
+    "scene_summary": "We are busy building the future of AI while the rest of our stack is busy reliving the greatest hits of the nineties.",
+    "ratio_statement": "2:8"
   },
   "cooking": [
     {
       "id": 1,
-      "domain": "aws.amazon.com",
-      "headline": "AWS finally lets you run AWS without paying AWS",
-      "summary": "After years of developers building janky local mocks to avoid racking up a massive cloud bill, AWS has finally released their own official emulator. It's essentially the company admitting that the best way to test their product is to not actually use their product.",
-      "plain_english": "Amazon has released a software tool that allows developers to simulate AWS cloud services on their own computers without needing an internet connection to the actual cloud platform.",
-      "source_url": "https://github.com/aws/aws-emulator"
+      "domain": "anthropic.com",
+      "headline": "Anthropic is preparing for an IPO, because apparently the AI arms race needs a public stock ticker to thrive.",
+      "summary": "Anthropic is heading toward a public listing, moving from 'research lab with a mission' to 'company that now has to explain its quarterly earnings to people in suits.' It's the classic transition from solving AGI safety to making sure the line on the graph goes up for the investors. More details in the original article.",
+      "plain_english": "The artificial intelligence company Anthropic is planning to offer its shares to the public on the stock market.",
+      "source_url": "https://ipo.anthropic.com/us/"
     },
     {
       "id": 2,
-      "domain": "hitehouse.gov",
-      "headline": "The government is now the bouncer for your DNA orders",
-      "summary": "The U.S. is tightening rules on synthetic DNA to prevent bioterrorism, effectively making companies screen every order like a suspicious TSA agent.",
-      "plain_english": "The United States government has introduced new regulations requiring companies that produce synthetic DNA to verify the identity of customers and screen orders to prevent the creation of dangerous biological agents.",
-      "source_url": "https://www.science.org/content/article/deter-bioterrorism-u-s-imposes-new-rules-ordering-synthetic-dna"
-    },
-    {
-      "id": 3,
-      "domain": "starlink.com",
-      "headline": "Ukraine decides that one billionaire's mood swings aren't a reliable network strategy",
-      "summary": "Ukraine is diversifying its satellite network to include Israeli and Italian tech, essentially moving off the 'Elon-only' plan. It turns out relying on a single person's geopolitical whims for your military infrastructure is about as stable as a merge conflict on a Friday afternoon.",
-      "plain_english": "Ukraine is integrating satellite communication technology from Italy and Israel to reduce its dependence on Starlink services.",
-      "source_url": "https://policy-wire.com/ukraine-pivots-to-israeli-italian-satellite-tech-to-bypass-starlink-restrictions/"
-    },
-    {
-      "id": 4,
-      "domain": "apple.com",
-      "headline": "Apple wants you to run AI locally so your RAM can finally taste true suffering",
-      "summary": "Apple is launching a dedicated Mac app to make running local LLMs easier than ever. It's a great way to turn your laptop into a space heater while you wait for a chatbot to tell you what you already knew.",
-      "plain_english": "Apple is releasing a new application for Mac computers designed to simplify the process of running artificial intelligence models directly on the user's device.",
-      "source_url": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/"
-    },
-    {
-      "id": 5,
-      "domain": "alibabagroup.com",
-      "headline": "Qwen4-Max is here to remind us that AI models have the shelf life of a carton of milk.",
-      "summary": "Alibaba just dropped a preview of Qwen4-Max, proving that the cutting edge of AI moves faster than my ability to update my local dependencies. It is truly impressive how quickly we go from 'state-of-the-art' to 'legacy system' in this industry.",
-      "plain_english": "Alibaba has released a preview version of its latest artificial intelligence model.",
-      "source_url": "https://twitter.com/Alibaba_Qwen/status/2120335993643684315"
-    },
-    {
-      "id": 6,
-      "domain": "tendrils.co",
-      "headline": "Another $30M raised to reinvent the CPU, because apparently, x86 wasn't spicy enough for us.",
-      "summary": "Investors are pouring millions into hardware startups again, betting that we haven't actually peaked with the chips we've used for decades. It is a bold move to try and disrupt the CPU market, which is basically the tech equivalent of trying to reinvent the wheel but with more thermal throttling.",
-      "plain_english": "A company has raised 30 million dollars in funding to develop new computer processor technology.",
-      "source_url": "https://tendrils.co/blog/2026-11-10/30m-raised"
-    },
-    {
-      "id": 7,
-      "domain": "anthropic.com",
-      "headline": "Anthropic is now hunting their own bugs for sport",
-      "summary": "Anthropic is actively publishing vulnerabilities found in their own models, which is the AI equivalent of grading your own homework to prove you're actually paying attention. It's a bold strategy to show they're ahead of the curve, provided they don't find anything that makes them regret the transparency.",
-      "plain_english": "Anthropic is releasing reports detailing security vulnerabilities discovered within their artificial intelligence models.",
-      "source_url": "https://www.vulncheck.com/blog/anthropic-glasswing-november-update"
+      "domain": "google.com",
+      "headline": "Gemini 4 Hydrogen just dropped, because apparently we're naming models after the periodic table now.",
+      "summary": "Google released a new model that promises to be faster and smarter, which is a great way to ensure your current project is obsolete by next Tuesday. It's the AI equivalent of a new iPhone release, but at least this one doesn't require a dongle.",
+      "plain_english": "Google has announced the release of its latest artificial intelligence model, Gemini 4 Hydrogen.",
+      "source_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/"
     }
   ],
   "cooked": [
     {
-      "id": 8,
+      "id": 3,
+      "domain": "nvidia.com",
+      "headline": "Jensen Huang resigns, and the leather jacket market just crashed",
+      "summary": "The CEO who turned the world into a massive GPU cluster has stepped down amid personal scandal. It turns out even the person powering the AI revolution can't escape the legacy of human drama.",
+      "plain_english": "Jensen Huang has resigned as the CEO of Nvidia following reports of an affair.",
+      "source_url": "https://www.reuters.com/live/nvidia-live-board-meets-fate-ceo-jensen-huang-after-affair-reports-2026-11-12/"
+    },
+    {
+      "id": 4,
+      "domain": "microsoft.com",
+      "headline": "Microsoft's status page is down, proving their transparency is purely performative",
+      "summary": "Outlook is throwing errors, and the status page meant to tell us why is also taking a nap. It's like calling the fire department only to find out their office is currently on fire.",
+      "plain_english": "Microsoft Outlook is experiencing an outage and the company's official status dashboard is also inaccessible.",
+      "source_url": "https://gvwire.com/2026/11/12/microsoft-outlook-down-for-thousands-of-users-downdetector-shows/"
+    },
+    {
+      "id": 5,
+      "domain": "apache.org",
+      "headline": "Apache HTTP Server just dropped a critical RCE like it's 1999",
+      "summary": "It turns out the software powering half the internet still has critical holes large enough to drive a truck through. Nothing says 'stable production environment' like a vulnerability that lets strangers run whatever code they want on your server.",
+      "plain_english": "A serious security flaw has been discovered in the Apache HTTP Server software that could allow unauthorized users to remotely execute malicious code.",
+      "source_url": "https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability"
+    },
+    {
+      "id": 6,
+      "domain": "postgresql.org",
+      "headline": "A 22-year-old PostgreSQL bug is finally old enough to legally drink",
+      "summary": "This vulnerability has been hiding in the codebase since the days of dial-up internet, waiting for someone to finally notice it. It's comforting to know that our most reliable databases are essentially just ancient, haunted architecture held together by hope.",
+      "plain_english": "A security vulnerability that has existed in the PostgreSQL database software for 22 years has been identified and can be exploited to run unauthorized commands.",
+      "source_url": "https://mehmetince.net/part-3-6-how-i-ended-up-turning-a-22-year-old-postgresql-type-confusion-primitive-into-rce-cve-2026-6460/"
+    },
+    {
+      "id": 7,
       "domain": "github.com",
-      "headline": "Open source projects are now checking IDs at the door to keep the LLMs out",
-      "summary": "Maintainers are banning AI-generated code, proving that even open source projects are tired of the 'I'm feeling lucky' approach to bug fixes. Apparently, nobody wants to spend their weekend debugging a hallucination that confidently broke the build.",
-      "plain_english": "Several open source software projects have implemented rules to prohibit the submission of code written by artificial intelligence tools.",
-      "source_url": "https://osssaysno.com"
+      "headline": "GitHub went down, and suddenly everyone had to actually remember how their CI/CD pipeline works.",
+      "summary": "GitHub experienced a widespread outage affecting Webhooks and Actions, forcing developers to confront the terrifying reality of their own build processes. It turns out that when the internet's favorite remote control stops working, we all just stare at our screens and wait for the status page to turn green.",
+      "plain_english": "GitHub experienced technical issues that caused service disruptions for many of its automated tools and features.",
+      "source_url": "https://www.githubstatus.com/incidents/dvy0t3mvh1lg"
+    },
+    {
+      "id": 8,
+      "domain": "nintendo.com",
+      "headline": "Nintendo is treating GitHub like a boss level they need to speedrun with a DMCA hammer.",
+      "summary": "Nintendo just nuked a massive pile of emulator repositories from GitHub, proving they'd rather delete history than let you play it on a PC. It's like being the kid who takes the ball home because they're losing, except the ball is a 20-year-old console firmware.",
+      "plain_english": "Nintendo has issued legal requests to remove software from GitHub that allows users to play Nintendo games on non-Nintendo devices.",
+      "source_url": "https://www.ign.com/articles/nintendo-takes-down-switch-emulators-and-mod-chip-firmware-in-massive-github-dmca-sweep"
     },
     {
       "id": 9,
-      "domain": "python.org",
-      "headline": "The Zen of Python loses its primary author",
-      "summary": "Tim Peters has passed away, leaving behind the Zen of Python and a legacy of code that actually works. We'll miss the man who taught us that simple is better than complex, even if we still ignore that advice every single day.",
-      "plain_english": "Tim Peters, a significant contributor to the Python programming language and author of the Zen of Python, has died.",
-      "source_url": "https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028"
+      "domain": "microsoft.com",
+      "headline": "Microsoft Defender is just a very enthusiastic intern stealing your source code",
+      "summary": "Microsoft's security scanner was caught uploading unreleased private software to the cloud without asking for permission. It's like having a bodyguard who decides to bring your diary to the local library just to make sure it doesn't contain any secrets.",
+      "plain_english": "A developer discovered that Microsoft Defender automatically uploaded their private, unreleased software to Microsoft's servers for analysis without explicit user consent.",
+      "source_url": "https://garrettstimpson.ca/posts/2026/11/11/caught-microsoft-red-handed-with-hodometer/"
     },
     {
       "id": 10,
-      "domain": "janestreet.com",
-      "headline": "Jane Street almost traded their servers for an indoor swimming pool",
-      "summary": "A false fire alarm triggered a total flood of the datacenter's fire suppression system, nearly turning expensive hardware into high-end paperweights. It's the ultimate reminder that even the most sophisticated trading algorithms are no match for a faulty smoke detector.",
-      "plain_english": "A malfunctioning smoke alarm accidentally activated a fire suppression system that sprayed water over a financial firm's computer servers.",
-      "source_url": "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/"
+      "domain": "microsoft.com",
+      "headline": "Azure is doing its best impression of a weekend server crash",
+      "summary": "Users are reporting widespread Azure outages, reminding everyone that even the biggest cloud providers aren't immune to the classic 'have you tried turning it off and on again?' dilemma. If you were looking for an excuse to step away from your terminal today, the infrastructure gods have finally granted your wish.",
+      "plain_english": "Multiple users are reporting service disruptions across Microsoft's Azure cloud platform.",
+      "source_url": "https://news.ycombinator.com/item?id=50471668"
     }
   ]
 }
