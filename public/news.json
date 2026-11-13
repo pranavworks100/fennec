@@ -1,91 +1,91 @@
 {
   "meta": {
-    "date": "Thursday, November 12, 2026",
-    "scene_summary": "We are busy building the future of AI while the rest of our stack is busy reliving the greatest hits of the nineties.",
+    "date": "Friday, November 13, 2026",
+    "scene_summary": "We're building the future on a foundation of digital house of cards held together by duct tape and prayers.",
     "ratio_statement": "2:8"
   },
   "cooking": [
     {
       "id": 1,
-      "domain": "anthropic.com",
-      "headline": "Anthropic is preparing for an IPO, because apparently the AI arms race needs a public stock ticker to thrive.",
-      "summary": "Anthropic is heading toward a public listing, moving from 'research lab with a mission' to 'company that now has to explain its quarterly earnings to people in suits.' It's the classic transition from solving AGI safety to making sure the line on the graph goes up for the investors. More details in the original article.",
-      "plain_english": "The artificial intelligence company Anthropic is planning to offer its shares to the public on the stock market.",
-      "source_url": "https://ipo.anthropic.com/us/"
+      "domain": "nvidia.com",
+      "headline": "Turns out you can track AI models back to the GPUs they were trained on like a digital breadcrumb trail.",
+      "summary": "Researchers found they can fingerprint Chinese AI models by identifying the specific export-controlled hardware used to train them. It's the ultimate 'I know what you did last summer' for global supply chain restrictions.",
+      "plain_english": "Researchers have developed a method to identify the specific types of computer chips used to train artificial intelligence models by analyzing the output of those models.",
+      "source_url": "https://unemploymentlabs.com/checkpoint-forensics"
     },
     {
       "id": 2,
-      "domain": "google.com",
-      "headline": "Gemini 4 Hydrogen just dropped, because apparently we're naming models after the periodic table now.",
-      "summary": "Google released a new model that promises to be faster and smarter, which is a great way to ensure your current project is obsolete by next Tuesday. It's the AI equivalent of a new iPhone release, but at least this one doesn't require a dongle.",
-      "plain_english": "Google has announced the release of its latest artificial intelligence model, Gemini 4 Hydrogen.",
-      "source_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/"
+      "domain": "openai.com",
+      "headline": "OpenAI fires its robotics team because the LLM finally learned how to move",
+      "summary": "OpenAI realized that if your model can hallucinate a solution, you don't actually need a specialized team to build the hardware for it. It turns out the easiest way to solve robotics is to just stop building the robot and let the model pretend it's everywhere.",
+      "plain_english": "OpenAI has dissolved its robotics division because it is now using its general-purpose AI models to control robotic systems instead.",
+      "source_url": "https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots/"
     }
   ],
   "cooked": [
     {
       "id": 3,
-      "domain": "nvidia.com",
-      "headline": "Jensen Huang resigns, and the leather jacket market just crashed",
-      "summary": "The CEO who turned the world into a massive GPU cluster has stepped down amid personal scandal. It turns out even the person powering the AI revolution can't escape the legacy of human drama.",
-      "plain_english": "Jensen Huang has resigned as the CEO of Nvidia following reports of an affair.",
-      "source_url": "https://www.reuters.com/live/nvidia-live-board-meets-fate-ceo-jensen-huang-after-affair-reports-2026-11-12/"
+      "domain": "microsoft.com",
+      "headline": "Microsoft's global outage is the digital equivalent of a server room fire drill during a final exam.",
+      "summary": "Microsoft is currently experiencing a massive global outage that has effectively turned the internet into a very expensive paperweight. It's the perfect reminder that our entire modern infrastructure is held together by hope and a few configuration files.",
+      "plain_english": "A widespread technical issue is causing global disruptions to Microsoft services and the businesses that rely on them.",
+      "source_url": "https://www.cnn.com/2026/11/12/business/live-news/microsoft-global-outage-intl-hnk"
     },
     {
       "id": 4,
       "domain": "microsoft.com",
-      "headline": "Microsoft's status page is down, proving their transparency is purely performative",
-      "summary": "Outlook is throwing errors, and the status page meant to tell us why is also taking a nap. It's like calling the fire department only to find out their office is currently on fire.",
-      "plain_english": "Microsoft Outlook is experiencing an outage and the company's official status dashboard is also inaccessible.",
-      "source_url": "https://gvwire.com/2026/11/12/microsoft-outlook-down-for-thousands-of-users-downdetector-shows/"
+      "headline": "When the fix for the outage is not going as expected, you know it's time to just go touch some grass.",
+      "summary": "Microsoft admitted that the recovery process is not going according to plan, which is engineer. speak for 'we have no idea why this is still broken.' Nothing builds confidence quite like watching the architects of the outage struggle to debug their own panic button.",
+      "plain_english": "Microsoft has reported that their efforts to restore services affected by the global outage have encountered unexpected difficulties.",
+      "source_url": "https://www.bbc.com/news/live/cq5y10ge3dp3t"
     },
     {
       "id": 5,
-      "domain": "apache.org",
-      "headline": "Apache HTTP Server just dropped a critical RCE like it's 1999",
-      "summary": "It turns out the software powering half the internet still has critical holes large enough to drive a truck through. Nothing says 'stable production environment' like a vulnerability that lets strangers run whatever code they want on your server.",
-      "plain_english": "A serious security flaw has been discovered in the Apache HTTP Server software that could allow unauthorized users to remotely execute malicious code.",
-      "source_url": "https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability"
+      "domain": "tsmc.com",
+      "headline": "The company that builds the world's chips just got a reminder that they aren't unhackable",
+      "summary": "TSMC manufactures the silicon that powers the entire planet, yet they still couldn't stop someone from poking around their infrastructure. It's the ultimate reminder that even if you own the source of all computing power, you're still just one bad firewall config away from a bad day.",
+      "plain_english": "TSMC, the world's largest semiconductor manufacturer, has reported a security breach involving unauthorized access to their systems.",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1046179/000104617926000800/a20261112statementregardin.htm"
     },
     {
       "id": 6,
-      "domain": "postgresql.org",
-      "headline": "A 22-year-old PostgreSQL bug is finally old enough to legally drink",
-      "summary": "This vulnerability has been hiding in the codebase since the days of dial-up internet, waiting for someone to finally notice it. It's comforting to know that our most reliable databases are essentially just ancient, haunted architecture held together by hope.",
-      "plain_english": "A security vulnerability that has existed in the PostgreSQL database software for 22 years has been identified and can be exploited to run unauthorized commands.",
-      "source_url": "https://mehmetince.net/part-3-6-how-i-ended-up-turning-a-22-year-old-postgresql-type-confusion-primitive-into-rce-cve-2026-6460/"
+      "domain": "anthropic.com",
+      "headline": "Claude is currently taking a mandatory mental health day",
+      "summary": "The AI that usually helps us debug our code has decided to become the bug itself today. It's comforting to know that even the smartest models occasionally decide they've had enough of our prompt engineering and just go on strike.",
+      "plain_english": "Anthropic's Claude AI services are currently experiencing a technical outage, preventing users from accessing the platform.",
+      "source_url": "https://status.claude.com/incidents/nn11wk485zfn"
     },
     {
       "id": 7,
-      "domain": "github.com",
-      "headline": "GitHub went down, and suddenly everyone had to actually remember how their CI/CD pipeline works.",
-      "summary": "GitHub experienced a widespread outage affecting Webhooks and Actions, forcing developers to confront the terrifying reality of their own build processes. It turns out that when the internet's favorite remote control stops working, we all just stare at our screens and wait for the status page to turn green.",
-      "plain_english": "GitHub experienced technical issues that caused service disruptions for many of its automated tools and features.",
-      "source_url": "https://www.githubstatus.com/incidents/dvy0t3mvh1lg"
+      "domain": "anthropic.com",
+      "headline": "Claude is currently experiencing a collective existential crisis",
+      "summary": "Claude is down, which is a bit like your smartest colleague suddenly deciding to take an indefinite lunch break. It's hard to finish your sprint when the thing you're building on is literally staring at a 503 error page.",
+      "plain_english": "The artificial intelligence platform Claude is currently unavailable to users due to a technical outage.",
+      "source_url": "https://status.claude.com/history"
     },
     {
       "id": 8,
-      "domain": "nintendo.com",
-      "headline": "Nintendo is treating GitHub like a boss level they need to speedrun with a DMCA hammer.",
-      "summary": "Nintendo just nuked a massive pile of emulator repositories from GitHub, proving they'd rather delete history than let you play it on a PC. It's like being the kid who takes the ball home because they're losing, except the ball is a 20-year-old console firmware.",
-      "plain_english": "Nintendo has issued legal requests to remove software from GitHub that allows users to play Nintendo games on non-Nintendo devices.",
-      "source_url": "https://www.ign.com/articles/nintendo-takes-down-switch-emulators-and-mod-chip-firmware-in-massive-github-dmca-sweep"
+      "domain": "caixa.gov.br",
+      "headline": "Brazil's Caixa insurer accidentally made everyone's tax ID public knowledge",
+      "summary": "Caixa managed to leak the data of 7.6 million customers, proving that their security strategy was apparently just 'hope nobody notices.' It's the digital equivalent of leaving your house keys in the front door lock and then going on a three. week vacation.",
+      "plain_english": "A data breach at the Brazilian insurer Caixa exposed the names and tax identification numbers of 7.6 million customers.",
+      "source_url": "https://filemanager-cdn.mziq.com/published/3972906b-e50b-4f74-ab74-4d0d32125d11/9567a559-d20a-486e-a7ae-5c6bbc030c5e"
     },
     {
       "id": 9,
-      "domain": "microsoft.com",
-      "headline": "Microsoft Defender is just a very enthusiastic intern stealing your source code",
-      "summary": "Microsoft's security scanner was caught uploading unreleased private software to the cloud without asking for permission. It's like having a bodyguard who decides to bring your diary to the local library just to make sure it doesn't contain any secrets.",
-      "plain_english": "A developer discovered that Microsoft Defender automatically uploaded their private, unreleased software to Microsoft's servers for analysis without explicit user consent.",
-      "source_url": "https://garrettstimpson.ca/posts/2026/11/11/caught-microsoft-red-handed-with-hodometer/"
+      "domain": "apify.com",
+      "headline": "Apify had a security incident, which is the tech equivalent of leaving your keys in the ignition.",
+      "summary": "Apify suffered a security incident that serves as a painful reminder that even the best web scraping tools can't scrape their way out of a data leak. It turns out that your data is only as secure as the last person who forgot to update their environment variables.",
+      "plain_english": "Apify experienced a security breach that potentially exposed user data.",
+      "source_url": "https://status.apify.com/incidents/sxd1dj5j6749"
     },
     {
       "id": 10,
-      "domain": "microsoft.com",
-      "headline": "Azure is doing its best impression of a weekend server crash",
-      "summary": "Users are reporting widespread Azure outages, reminding everyone that even the biggest cloud providers aren't immune to the classic 'have you tried turning it off and on again?' dilemma. If you were looking for an excuse to step away from your terminal today, the infrastructure gods have finally granted your wish.",
-      "plain_english": "Multiple users are reporting service disruptions across Microsoft's Azure cloud platform.",
-      "source_url": "https://news.ycombinator.com/item?id=50471668"
+      "domain": "fbi.gov",
+      "headline": "North Korean hackers are now just using deepfakes to pass your job interview",
+      "summary": "The FBI reports that hackers are using fake video calls to steal $400 million, which is the most high-stakes version of 'my camera is broken' ever recorded. It is truly peak tech progress when the most sophisticated security breach is just a really convincing Zoom background.",
+      "plain_english": "The FBI has warned that North Korean hackers are using fake video calls and deepfake technology to conduct fraudulent cryptocurrency thefts.",
+      "source_url": "https://www.bbc.com/news/articles/cqdj1ellpd70o"
     }
   ]
 }
