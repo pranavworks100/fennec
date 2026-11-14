@@ -1,91 +1,91 @@
 {
   "meta": {
-    "date": "Friday, November 13, 2026",
-    "scene_summary": "We're building the future on a foundation of digital house of cards held together by duct tape and prayers.",
-    "ratio_statement": "2:8"
+    "date": "Saturday, November 14, 2026",
+    "scene_summary": "The industry is currently shipping features faster than the consequences can load.",
+    "ratio_statement": "3:7"
   },
   "cooking": [
     {
       "id": 1,
-      "domain": "nvidia.com",
-      "headline": "Turns out you can track AI models back to the GPUs they were trained on like a digital breadcrumb trail.",
-      "summary": "Researchers found they can fingerprint Chinese AI models by identifying the specific export-controlled hardware used to train them. It's the ultimate 'I know what you did last summer' for global supply chain restrictions.",
-      "plain_english": "Researchers have developed a method to identify the specific types of computer chips used to train artificial intelligence models by analyzing the output of those models.",
-      "source_url": "https://unemploymentlabs.com/checkpoint-forensics"
+      "domain": "google.com",
+      "headline": "Security agencies are using ad-tracking data to skip the warrant process.",
+      "summary": "Governments are buying the same location data used to show you ads for sneakers to track people instead of using a judge. It is the ultimate crossover between surveillance state and targeted marketing.",
+      "plain_english": "Security agencies globally are purchasing commercially available location data from advertising networks to track individuals without obtaining warrants.",
+      "source_url": "https://citizenlab.ca/security-agencies-worldwide-found-to-use-ad-based-surveillance-system/"
     },
     {
       "id": 2,
-      "domain": "openai.com",
-      "headline": "OpenAI fires its robotics team because the LLM finally learned how to move",
-      "summary": "OpenAI realized that if your model can hallucinate a solution, you don't actually need a specialized team to build the hardware for it. It turns out the easiest way to solve robotics is to just stop building the robot and let the model pretend it's everywhere.",
-      "plain_english": "OpenAI has dissolved its robotics division because it is now using its general-purpose AI models to control robotic systems instead.",
-      "source_url": "https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots/"
+      "domain": "anthropic.com",
+      "headline": "Anthropic lets you hire a team of AI workers to help you mess up your codebase in parallel.",
+      "summary": "Anthropic is letting you run multiple AI agents at once to tackle your projects, which is basically just outsourcing your technical debt to a digital group project. It's a great way to watch five different models argue over the same merge conflict simultaneously.",
+      "plain_english": "Anthropic has updated its platform to allow multiple AI-powered agents to work on coding tasks at the same time.",
+      "source_url": "https://claude.com/resources/articles/projects-redesigned"
+    },
+    {
+      "id": 3,
+      "domain": "pypi.org",
+      "headline": "PyPI adds security labels so you know which packages are actually haunted",
+      "summary": "PyPI finally added clear security signals to project pages, making it much harder to accidentally install a digital Trojan horse. It's a great update, provided you actually look at the screen before running 'pip install' on a package with three downloads.",
+      "plain_english": "The Python Package Index has updated its project pages to include more visible information regarding the security status of software packages.",
+      "source_url": "https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/"
     }
   ],
   "cooked": [
     {
-      "id": 3,
-      "domain": "microsoft.com",
-      "headline": "Microsoft's global outage is the digital equivalent of a server room fire drill during a final exam.",
-      "summary": "Microsoft is currently experiencing a massive global outage that has effectively turned the internet into a very expensive paperweight. It's the perfect reminder that our entire modern infrastructure is held together by hope and a few configuration files.",
-      "plain_english": "A widespread technical issue is causing global disruptions to Microsoft services and the businesses that rely on them.",
-      "source_url": "https://www.cnn.com/2026/11/12/business/live-news/microsoft-global-outage-intl-hnk"
-    },
-    {
       "id": 4,
-      "domain": "microsoft.com",
-      "headline": "When the fix for the outage is not going as expected, you know it's time to just go touch some grass.",
-      "summary": "Microsoft admitted that the recovery process is not going according to plan, which is engineer. speak for 'we have no idea why this is still broken.' Nothing builds confidence quite like watching the architects of the outage struggle to debug their own panic button.",
-      "plain_english": "Microsoft has reported that their efforts to restore services affected by the global outage have encountered unexpected difficulties.",
-      "source_url": "https://www.bbc.com/news/live/cq5y10ge3dp3t"
+      "domain": "faa.gov",
+      "headline": "The FAA is having a 'system issue' that sounds suspiciously like a merge conflict in production.",
+      "summary": "The entire US airspace just hit a nationwide ground stop because of an 'extraordinary circumstance' that shut down critical flight systems. It's truly comforting to know the most complex aviation network on earth is one buggy deployment away from turning the entire sky into a giant waiting room.",
+      "plain_english": "The Federal Aviation Administration temporarily grounded all flights across the United States due to a major technical failure in their computer systems.",
+      "source_url": "https://www.axios.com/2026/11/13/faa-nationwide-ground-stop"
     },
     {
       "id": 5,
-      "domain": "tsmc.com",
-      "headline": "The company that builds the world's chips just got a reminder that they aren't unhackable",
-      "summary": "TSMC manufactures the silicon that powers the entire planet, yet they still couldn't stop someone from poking around their infrastructure. It's the ultimate reminder that even if you own the source of all computing power, you're still just one bad firewall config away from a bad day.",
-      "plain_english": "TSMC, the world's largest semiconductor manufacturer, has reported a security breach involving unauthorized access to their systems.",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/1046179/000104617926000800/a20261112statementregardin.htm"
+      "domain": "meta.com",
+      "headline": "Italy just billed Meta $887M for treating Android user data like a public buffet.",
+      "summary": "Meta was hit with a massive fine for scraping data from Android users without proper consent, proving once again that their privacy settings are essentially just 'suggestions' for developers. At this point, the legal department is probably just a line item in the marketing budget.",
+      "plain_english": "Italian regulators have fined Meta 887 million dollars for improperly collecting and using personal data from Android users.",
+      "source_url": "https://www.reuters.com/world/italy-fines-meta-887-million-over-android-users-data-access-2026-11-14/"
     },
     {
       "id": 6,
-      "domain": "anthropic.com",
-      "headline": "Claude is currently taking a mandatory mental health day",
-      "summary": "The AI that usually helps us debug our code has decided to become the bug itself today. It's comforting to know that even the smartest models occasionally decide they've had enough of our prompt engineering and just go on strike.",
-      "plain_english": "Anthropic's Claude AI services are currently experiencing a technical outage, preventing users from accessing the platform.",
-      "source_url": "https://status.claude.com/incidents/nn11wk485zfn"
+      "domain": "lovable.dev",
+      "headline": "Lovable's 'AI-powered' dev platform just built an open-door policy for your passport.",
+      "summary": "Lovable promised to build apps for you, but they accidentally built a public archive of your private messages and ID documents instead. It turns out that when you automate everything, you also automate the security breach.",
+      "plain_english": "A software development tool inadvertently exposed sensitive user documents and private communications due to a security configuration error.",
+      "source_url": "https://www.crissyfield.de/research/lovable-en/"
     },
     {
       "id": 7,
-      "domain": "anthropic.com",
-      "headline": "Claude is currently experiencing a collective existential crisis",
-      "summary": "Claude is down, which is a bit like your smartest colleague suddenly deciding to take an indefinite lunch break. It's hard to finish your sprint when the thing you're building on is literally staring at a 503 error page.",
-      "plain_english": "The artificial intelligence platform Claude is currently unavailable to users due to a technical outage.",
-      "source_url": "https://status.claude.com/history"
+      "domain": "nvidia.com",
+      "headline": "Nvidia is basically that kid who buys their own lemonade to win the neighborhood competition.",
+      "summary": "Allegations suggest Nvidia has been funneling money into AI startups just so those same companies would turn around and buy their GPUs. It is a bold strategy to manufacture demand that looks suspiciously like a group project where you do all the work and then grade yourself.",
+      "plain_english": "Nvidia is accused of funding startup companies that use that money to purchase Nvidia's own graphics processing units.",
+      "source_url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus"
     },
     {
       "id": 8,
-      "domain": "caixa.gov.br",
-      "headline": "Brazil's Caixa insurer accidentally made everyone's tax ID public knowledge",
-      "summary": "Caixa managed to leak the data of 7.6 million customers, proving that their security strategy was apparently just 'hope nobody notices.' It's the digital equivalent of leaving your house keys in the front door lock and then going on a three. week vacation.",
-      "plain_english": "A data breach at the Brazilian insurer Caixa exposed the names and tax identification numbers of 7.6 million customers.",
-      "source_url": "https://filemanager-cdn.mziq.com/published/3972906b-e50b-4f74-ab74-4d0d32125d11/9567a559-d20a-486e-a7ae-5c6bbc030c5e"
+      "domain": "nvidia.com",
+      "headline": "A billion-dollar exit right before a scandal is the corporate equivalent of 'I forgot my wallet' when the check arrives.",
+      "summary": "An Nvidia director managed to offload nearly a billion dollars in stock just weeks before the recent Jensen Huang scandal broke. The timing is so perfect it makes you wonder if they have a crystal ball or just really good intuition for when the vibes are about to shift.",
+      "plain_english": "A member of Nvidia's board of directors sold a large amount of company stock shortly before negative news about the CEO was made public.",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-director-sold-nearly-1b-160000846.html"
     },
     {
       "id": 9,
-      "domain": "apify.com",
-      "headline": "Apify had a security incident, which is the tech equivalent of leaving your keys in the ignition.",
-      "summary": "Apify suffered a security incident that serves as a painful reminder that even the best web scraping tools can't scrape their way out of a data leak. It turns out that your data is only as secure as the last person who forgot to update their environment variables.",
-      "plain_english": "Apify experienced a security breach that potentially exposed user data.",
-      "source_url": "https://status.apify.com/incidents/sxd1dj5j6749"
+      "domain": "google.com",
+      "headline": "Google Search behind a login wall is the ultimate 'you can't sit with us' move.",
+      "summary": "Google is reportedly testing a login requirement to use its search engine, finally turning the internet's front door into a gated community. It's a bold strategy to make sure nobody accidentally stumbles upon their results without paying the toll of their personal data.",
+      "plain_english": "Google is reportedly exploring a change that would require users to sign into an account to access the search engine.",
+      "source_url": "https://news.ycombinator.com/item?id=50491617"
     },
     {
       "id": 10,
-      "domain": "fbi.gov",
-      "headline": "North Korean hackers are now just using deepfakes to pass your job interview",
-      "summary": "The FBI reports that hackers are using fake video calls to steal $400 million, which is the most high-stakes version of 'my camera is broken' ever recorded. It is truly peak tech progress when the most sophisticated security breach is just a really convincing Zoom background.",
-      "plain_english": "The FBI has warned that North Korean hackers are using fake video calls and deepfake technology to conduct fraudulent cryptocurrency thefts.",
-      "source_url": "https://www.bbc.com/news/articles/cqdj1ellpd70o"
+      "domain": "rosneft.ru",
+      "headline": "Ukraine is speedrunning a hostile takeover of the Russian energy sector",
+      "summary": "Ukraine managed to knock out 36% of Russia's refining capacity in under two weeks using nothing but drones. It turns out that having the world's largest oil reserves doesn't help much when your infrastructure is basically a giant, flammable tech debt trap.",
+      "plain_english": "Ukrainian drone strikes have successfully disabled more than one-third of Russia's oil refining capacity in less than fourteen days.",
+      "source_url": "https://english.nv.ua/nation/thirteen-day-drone-blitz-paralyzes-36-of-moscow-s-oil-50658616.html"
     }
   ]
 }
