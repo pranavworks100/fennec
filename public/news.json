@@ -1,91 +1,91 @@
 {
   "meta": {
-    "date": "Saturday, November 14, 2026",
-    "scene_summary": "The industry is currently shipping features faster than the consequences can load.",
-    "ratio_statement": "3:7"
+    "date": "Sunday, November 15, 2026",
+    "scene_summary": "We are building a future that runs on rocket science and hope, but it's still getting taken down by a single bad router in Arkansas.",
+    "ratio_statement": "4:6"
   },
   "cooking": [
     {
       "id": 1,
-      "domain": "google.com",
-      "headline": "Security agencies are using ad-tracking data to skip the warrant process.",
-      "summary": "Governments are buying the same location data used to show you ads for sneakers to track people instead of using a judge. It is the ultimate crossover between surveillance state and targeted marketing.",
-      "plain_english": "Security agencies globally are purchasing commercially available location data from advertising networks to track individuals without obtaining warrants.",
-      "source_url": "https://citizenlab.ca/security-agencies-worldwide-found-to-use-ad-based-surveillance-system/"
+      "domain": "anthropic.com",
+      "headline": "Anthropic is going public, because burning venture capital is so last season.",
+      "summary": "Anthropic filed for an IPO, finally inviting the general public to help foot the bill for their massive AI training costs. It is the ultimate group project where everyone gets to contribute their savings while hoping the model eventually learns to write a decent commit message.",
+      "plain_english": "Anthropic has filed the necessary paperwork to officially begin selling shares of its stock to the public.",
+      "source_url": "https://www.nytimes.com/2026/11/15/business/anthropic-ipo-filing-prospectus.html"
     },
     {
       "id": 2,
-      "domain": "anthropic.com",
-      "headline": "Anthropic lets you hire a team of AI workers to help you mess up your codebase in parallel.",
-      "summary": "Anthropic is letting you run multiple AI agents at once to tackle your projects, which is basically just outsourcing your technical debt to a digital group project. It's a great way to watch five different models argue over the same merge conflict simultaneously.",
-      "plain_english": "Anthropic has updated its platform to allow multiple AI-powered agents to work on coding tasks at the same time.",
-      "source_url": "https://claude.com/resources/articles/projects-redesigned"
+      "domain": "nvidia.com",
+      "headline": "The case against Nvidia's CEO is starting to look like a poorly documented bug report",
+      "summary": "The espionage allegations that supposedly tanked the CEO's career are crumbling under scrutiny faster than a legacy codebase without unit tests. It is the corporate equivalent of getting fired for a production outage, only to realize the server was just unplugged by the cleaning crew.",
+      "plain_english": "Evidence supporting the espionage claims against the Nvidia CEO is increasingly being questioned and appearing unreliable.",
+      "source_url": "https://www.businessinsider.com/intelligence-jensen-huang-downfall-shaky-nvidia-china-spy-gpus-2026-11"
     },
     {
       "id": 3,
-      "domain": "pypi.org",
-      "headline": "PyPI adds security labels so you know which packages are actually haunted",
-      "summary": "PyPI finally added clear security signals to project pages, making it much harder to accidentally install a digital Trojan horse. It's a great update, provided you actually look at the screen before running 'pip install' on a package with three downloads.",
-      "plain_english": "The Python Package Index has updated its project pages to include more visible information regarding the security status of software packages.",
-      "source_url": "https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/"
+      "domain": "amazon.com",
+      "headline": "Amazon just got a union contract, proving that even the final boss has to negotiate eventually.",
+      "summary": "After years of dodging unionization efforts like a junior dev avoiding documentation, Amazon finally has a contract in B.C. It turns out that even the most optimized logistics machine in the world can't outrun the inevitable force of human collective bargaining.",
+      "plain_english": "A government arbitrator has mandated the first union contract for Amazon employees in North America at a facility in British Columbia.",
+      "source_url": "https://www.cbc.ca/news/canada/british-columbia/amazon-union-contract-b-c-first-north-america-9.7421834"
+    },
+    {
+      "id": 4,
+      "domain": "spacex.com",
+      "headline": "SpaceX is now playing a high-stakes game of catch with 150-ton rockets.",
+      "summary": "SpaceX has successfully caught the Starship booster again, turning what was once a multi-billion dollar explosion risk into a routine parking maneuver. It is the ultimate flex for a company that treats orbital mechanics like a game of catch in the backyard.",
+      "plain_english": "SpaceX successfully caught the Starship launch vehicle booster upon its return to the launch site during the fifteenth flight test.",
+      "source_url": "https://www.spacex.com/launches/starship-flight-15"
     }
   ],
   "cooked": [
     {
-      "id": 4,
-      "domain": "faa.gov",
-      "headline": "The FAA is having a 'system issue' that sounds suspiciously like a merge conflict in production.",
-      "summary": "The entire US airspace just hit a nationwide ground stop because of an 'extraordinary circumstance' that shut down critical flight systems. It's truly comforting to know the most complex aviation network on earth is one buggy deployment away from turning the entire sky into a giant waiting room.",
-      "plain_english": "The Federal Aviation Administration temporarily grounded all flights across the United States due to a major technical failure in their computer systems.",
-      "source_url": "https://www.axios.com/2026/11/13/faa-nationwide-ground-stop"
-    },
-    {
       "id": 5,
-      "domain": "meta.com",
-      "headline": "Italy just billed Meta $887M for treating Android user data like a public buffet.",
-      "summary": "Meta was hit with a massive fine for scraping data from Android users without proper consent, proving once again that their privacy settings are essentially just 'suggestions' for developers. At this point, the legal department is probably just a line item in the marketing budget.",
-      "plain_english": "Italian regulators have fined Meta 887 million dollars for improperly collecting and using personal data from Android users.",
-      "source_url": "https://www.reuters.com/world/italy-fines-meta-887-million-over-android-users-data-access-2026-11-14/"
+      "domain": "uber.com",
+      "headline": "Uber's security is once again letting drivers' private data hitch a ride.",
+      "summary": "Uber confirmed that hackers walked away with drivers' license information, proving once again that their security is about as sturdy as a screen door in a hurricane. It is the digital equivalent of leaving your house keys in the ignition and being surprised when the car goes for a joyride.",
+      "plain_english": "Uber has confirmed a data breach that resulted in the theft of personal driver license information.",
+      "source_url": "https://techcrunch.com/2026/11/13/uber-confirms-hackers-stole-thousands-of-drivers-license-information-in-data-breach/"
     },
     {
       "id": 6,
-      "domain": "lovable.dev",
-      "headline": "Lovable's 'AI-powered' dev platform just built an open-door policy for your passport.",
-      "summary": "Lovable promised to build apps for you, but they accidentally built a public archive of your private messages and ID documents instead. It turns out that when you automate everything, you also automate the security breach.",
-      "plain_english": "A software development tool inadvertently exposed sensitive user documents and private communications due to a security configuration error.",
-      "source_url": "https://www.crissyfield.de/research/lovable-en/"
+      "domain": "l3harris.com",
+      "headline": "The entire US aviation network has a single point of failure and it lives in Arkansas",
+      "summary": "We spent decades building complex redundancy into aviation systems, only to find out the whole thing rests on one router in a small town. It is the architectural equivalent of keeping the company's entire production database on a dusty laptop under a desk.",
+      "plain_english": "A single network router located in Arkansas caused a nationwide grounding of all flights in the United States.",
+      "source_url": "https://www.wsj.com/business/airlines/the-single-router-in-southern-arkansas-that-ground-air-travel-to-a-halt-eedc326c"
     },
     {
       "id": 7,
-      "domain": "nvidia.com",
-      "headline": "Nvidia is basically that kid who buys their own lemonade to win the neighborhood competition.",
-      "summary": "Allegations suggest Nvidia has been funneling money into AI startups just so those same companies would turn around and buy their GPUs. It is a bold strategy to manufacture demand that looks suspiciously like a group project where you do all the work and then grade yourself.",
-      "plain_english": "Nvidia is accused of funding startup companies that use that money to purchase Nvidia's own graphics processing units.",
-      "source_url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus"
+      "domain": "l3harris.com",
+      "headline": "L3Harris proves that one bad router can ruin everyone's weekend",
+      "summary": "The aviation industry is built on millions of lines of code and high-stakes engineering, yet it was brought to its knees by one piece of hardware acting as a bottleneck. It turns out even the most sophisticated infrastructure is just one configuration error away from becoming a very expensive paperweight.",
+      "plain_english": "L3Harris is identified as the company responsible for the router that caused the recent national aviation shutdown.",
+      "source_url": "https://www.reuters.com/business/aerospace-defense/us-aviation-shutdown-blamed-l3-harris-installed-router-2026-11-14/"
     },
     {
       "id": 8,
       "domain": "nvidia.com",
-      "headline": "A billion-dollar exit right before a scandal is the corporate equivalent of 'I forgot my wallet' when the check arrives.",
-      "summary": "An Nvidia director managed to offload nearly a billion dollars in stock just weeks before the recent Jensen Huang scandal broke. The timing is so perfect it makes you wonder if they have a crystal ball or just really good intuition for when the vibes are about to shift.",
-      "plain_english": "A member of Nvidia's board of directors sold a large amount of company stock shortly before negative news about the CEO was made public.",
-      "source_url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-director-sold-nearly-1b-160000846.html"
+      "headline": "Nvidia is basically that student who buys all the supplies to inflate the group project budget",
+      "summary": "Nvidia allegedly used circular financing to keep GPU prices artificially high by essentially funding its own customers. It turns out the 'infinite demand' for AI chips was just a very expensive game of musical chairs.",
+      "plain_english": "Nvidia is accused of using complex financial arrangements to maintain high prices for its graphics processing units.",
+      "source_url": "https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html"
     },
     {
       "id": 9,
-      "domain": "google.com",
-      "headline": "Google Search behind a login wall is the ultimate 'you can't sit with us' move.",
-      "summary": "Google is reportedly testing a login requirement to use its search engine, finally turning the internet's front door into a gated community. It's a bold strategy to make sure nobody accidentally stumbles upon their results without paying the toll of their personal data.",
-      "plain_english": "Google is reportedly exploring a change that would require users to sign into an account to access the search engine.",
-      "source_url": "https://news.ycombinator.com/item?id=50491617"
+      "domain": "nvidia.com",
+      "headline": "Jensen Huang is speedrunning the 'how to manufacture a supply shortage' tutorial",
+      "summary": "Reports suggest Nvidia funded startups just so those startups would turn around and buy Nvidia's excess silicon. It's the corporate equivalent of buying your own lemonade from your kid's stand to make the neighbors think you're a mogul.",
+      "plain_english": "Nvidia allegedly provided financial support to startups with the expectation that they would use the funds to purchase Nvidia's products.",
+      "source_url": "https://wccftech.com/jensen-huang-financed-ai-startups-absorb-excess-silicon/"
     },
     {
       "id": 10,
-      "domain": "rosneft.ru",
-      "headline": "Ukraine is speedrunning a hostile takeover of the Russian energy sector",
-      "summary": "Ukraine managed to knock out 36% of Russia's refining capacity in under two weeks using nothing but drones. It turns out that having the world's largest oil reserves doesn't help much when your infrastructure is basically a giant, flammable tech debt trap.",
-      "plain_english": "Ukrainian drone strikes have successfully disabled more than one-third of Russia's oil refining capacity in less than fourteen days.",
-      "source_url": "https://english.nv.ua/nation/thirteen-day-drone-blitz-paralyzes-36-of-moscow-s-oil-50658616.html"
+      "domain": "nvidia.com",
+      "headline": "Jensen Huang is reportedly treating board meetings like a high-stakes LeetCode interview",
+      "summary": "Reports suggest Jensen Huang's management style involves aggressive outbursts that make a stressful sprint planning session look like a spa day. It turns out that when you're printing money, you don't necessarily have to be the chillest person in the room.",
+      "plain_english": "Allegations have surfaced describing abusive behavior by Nvidia CEO Jensen Huang during company board meetings.",
+      "source_url": "https://www.indiatoday.in/world/story/jensen-huang-nvidia-workplace-allegations-executive-outbursts-resignation-3039203-2026-11-15"
     }
   ]
 }
