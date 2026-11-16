@@ -1,91 +1,91 @@
 {
   "meta": {
-    "date": "Sunday, November 15, 2026",
-    "scene_summary": "We are building a future that runs on rocket science and hope, but it's still getting taken down by a single bad router in Arkansas.",
+    "date": "Monday, November 16, 2026",
+    "scene_summary": "We are burning down the forest to power the memes, only to find the fire alarm is also broken.",
     "ratio_statement": "4:6"
   },
   "cooking": [
     {
       "id": 1,
-      "domain": "anthropic.com",
-      "headline": "Anthropic is going public, because burning venture capital is so last season.",
-      "summary": "Anthropic filed for an IPO, finally inviting the general public to help foot the bill for their massive AI training costs. It is the ultimate group project where everyone gets to contribute their savings while hoping the model eventually learns to write a decent commit message.",
-      "plain_english": "Anthropic has filed the necessary paperwork to officially begin selling shares of its stock to the public.",
-      "source_url": "https://www.nytimes.com/2026/11/15/business/anthropic-ipo-filing-prospectus.html"
+      "domain": "ired.com",
+      "headline": "We're burning the entire state of Michigan just to generate cat memes.",
+      "summary": "Four hundred data centers are now consuming more electricity than an entire U.S. state, which is a bold strategy for the planet.",
+      "plain_english": "A small group of 400 large data centers now uses more total electricity than the entire state of Michigan.",
+      "source_url": "https://www.wired.com/story/data-centers-use-more-electricity-than-michigan/"
     },
     {
       "id": 2,
-      "domain": "nvidia.com",
-      "headline": "The case against Nvidia's CEO is starting to look like a poorly documented bug report",
-      "summary": "The espionage allegations that supposedly tanked the CEO's career are crumbling under scrutiny faster than a legacy codebase without unit tests. It is the corporate equivalent of getting fired for a production outage, only to realize the server was just unplugged by the cleaning crew.",
-      "plain_english": "Evidence supporting the espionage claims against the Nvidia CEO is increasingly being questioned and appearing unreliable.",
-      "source_url": "https://www.businessinsider.com/intelligence-jensen-huang-downfall-shaky-nvidia-china-spy-gpus-2026-11"
+      "domain": "torproject.org",
+      "headline": "The Tor Project is playing Whac-A-Mole with a DDoS attack",
+      "summary": "Tor is fighting off a massive, sustained traffic spike by pushing out a rapid-response security patch. It is basically the digital equivalent of trying to fix a leaky faucet while the entire neighborhood is trying to use your bathroom at once.",
+      "plain_english": "The Tor Project has released a software update to protect its network from a large-scale attempt to overwhelm it with fake traffic.",
+      "source_url": "https://forum.torproject.org/t/security-release-0-4-9-17/22454"
     },
     {
       "id": 3,
-      "domain": "amazon.com",
-      "headline": "Amazon just got a union contract, proving that even the final boss has to negotiate eventually.",
-      "summary": "After years of dodging unionization efforts like a junior dev avoiding documentation, Amazon finally has a contract in B.C. It turns out that even the most optimized logistics machine in the world can't outrun the inevitable force of human collective bargaining.",
-      "plain_english": "A government arbitrator has mandated the first union contract for Amazon employees in North America at a facility in British Columbia.",
-      "source_url": "https://www.cbc.ca/news/canada/british-columbia/amazon-union-contract-b-c-first-north-america-9.7421834"
+      "domain": "qwen.ai",
+      "headline": "Qwen4-Max dropped, making your current LLM feel like a calculator from 2005",
+      "summary": "Every few weeks a new model claims to be the smartest thing in the room, which is great until you realize your GPU budget is crying for help. It's the tech equivalent of a high school student winning a Nobel Prize every Tuesday.",
+      "plain_english": "Alibaba has released a new, highly advanced artificial intelligence model called Qwen4-Max.",
+      "source_url": "https://qwen.ai/blog?id=qwen4-max"
     },
     {
       "id": 4,
-      "domain": "spacex.com",
-      "headline": "SpaceX is now playing a high-stakes game of catch with 150-ton rockets.",
-      "summary": "SpaceX has successfully caught the Starship booster again, turning what was once a multi-billion dollar explosion risk into a routine parking maneuver. It is the ultimate flex for a company that treats orbital mechanics like a game of catch in the backyard.",
-      "plain_english": "SpaceX successfully caught the Starship launch vehicle booster upon its return to the launch site during the fifteenth flight test.",
-      "source_url": "https://www.spacex.com/launches/starship-flight-15"
+      "domain": "microsoft.com",
+      "headline": "Active Directory is finally being retired, or at least that's what we keep telling ourselves",
+      "summary": "We've been trying to break up with Active Directory for decades, but it's the toxic ex that just refuses to move out of the infrastructure. Maybe this time we'll actually make the switch, provided we don't accidentally delete the entire company's access permissions first.",
+      "plain_english": "New identity management systems are replacing the traditional Active Directory framework for authenticating machines and users.",
+      "source_url": "https://infisical.com/blog/active-directory-machine-identity"
     }
   ],
   "cooked": [
     {
       "id": 5,
-      "domain": "uber.com",
-      "headline": "Uber's security is once again letting drivers' private data hitch a ride.",
-      "summary": "Uber confirmed that hackers walked away with drivers' license information, proving once again that their security is about as sturdy as a screen door in a hurricane. It is the digital equivalent of leaving your house keys in the ignition and being surprised when the car goes for a joyride.",
-      "plain_english": "Uber has confirmed a data breach that resulted in the theft of personal driver license information.",
-      "source_url": "https://techcrunch.com/2026/11/13/uber-confirms-hackers-stole-thousands-of-drivers-license-information-in-data-breach/"
+      "domain": "united.com",
+      "headline": "United Airlines discovers that 'high availability' is just a suggestion",
+      "summary": "United Airlines suffered a massive system outage, proving that even global aviation still runs on hope and legacy middleware. It turns out that when your scheduling software decides to take an unscheduled vacation, thousands of passengers get to join it.",
+      "plain_english": "United Airlines experienced a major technical failure that disrupted their flight operations and caused widespread delays.",
+      "source_url": "https://www.cnn.com/2026/11/16/us/united-airlines-outage"
     },
     {
       "id": 6,
-      "domain": "l3harris.com",
-      "headline": "The entire US aviation network has a single point of failure and it lives in Arkansas",
-      "summary": "We spent decades building complex redundancy into aviation systems, only to find out the whole thing rests on one router in a small town. It is the architectural equivalent of keeping the company's entire production database on a dusty laptop under a desk.",
-      "plain_english": "A single network router located in Arkansas caused a nationwide grounding of all flights in the United States.",
-      "source_url": "https://www.wsj.com/business/airlines/the-single-router-in-southern-arkansas-that-ground-air-travel-to-a-halt-eedc326c"
+      "domain": "optimizely.com",
+      "headline": "Optimizely got 'optimized' by hackers injecting a skimmer",
+      "summary": "Optimizely was compromised, allowing attackers to inject malicious code directly into their platform's delivery chain. It is the ultimate irony when the tool meant for A/B testing your site ends up running a live experiment on your users' payment data.",
+      "plain_english": "Hackers gained access to Optimizely's systems to insert malicious software that steals information from websites using their services.",
+      "source_url": "https://amirulcyber.com/2026/11/16/optimjack-optimizely-skimmer/"
     },
     {
       "id": 7,
-      "domain": "l3harris.com",
-      "headline": "L3Harris proves that one bad router can ruin everyone's weekend",
-      "summary": "The aviation industry is built on millions of lines of code and high-stakes engineering, yet it was brought to its knees by one piece of hardware acting as a bottleneck. It turns out even the most sophisticated infrastructure is just one configuration error away from becoming a very expensive paperweight.",
-      "plain_english": "L3Harris is identified as the company responsible for the router that caused the recent national aviation shutdown.",
-      "source_url": "https://www.reuters.com/business/aerospace-defense/us-aviation-shutdown-blamed-l3-harris-installed-router-2026-11-14/"
+      "domain": "microsoft.com",
+      "headline": "Microsoft's fix for a bug just became the bug",
+      "summary": "Microsoft confirmed that a massive email outage was caused by a software defect they accidentally introduced while trying to fix a previous issue in July. It's the digital equivalent of trying to fix a leaky faucet and accidentally flooding the entire neighborhood instead.",
+      "plain_english": "Microsoft experienced a significant email service disruption because of an error in a software update designed to resolve a prior problem.",
+      "source_url": "https://www.theregister.com/saas/2026/11/16/microsoft-blames-monster-email-outage-on-software-defect-introduced-in-july-fix/5310026"
     },
     {
       "id": 8,
-      "domain": "nvidia.com",
-      "headline": "Nvidia is basically that student who buys all the supplies to inflate the group project budget",
-      "summary": "Nvidia allegedly used circular financing to keep GPU prices artificially high by essentially funding its own customers. It turns out the 'infinite demand' for AI chips was just a very expensive game of musical chairs.",
-      "plain_english": "Nvidia is accused of using complex financial arrangements to maintain high prices for its graphics processing units.",
-      "source_url": "https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html"
+      "domain": "jpmorganchase.com",
+      "headline": "JPMorgan Chase just reminded us that money is basically just a database row",
+      "summary": "A technical glitch at JPMorgan Chase caused widespread banking delays across multiple US institutions, proving once again that our entire financial system is held together by hope and legacy code. It turns out that when the database goes down, your net worth becomes purely theoretical.",
+      "plain_english": "A technical issue at JPMorgan Chase resulted in transaction processing delays that affected multiple American banks.",
+      "source_url": "https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda"
     },
     {
       "id": 9,
-      "domain": "nvidia.com",
-      "headline": "Jensen Huang is speedrunning the 'how to manufacture a supply shortage' tutorial",
-      "summary": "Reports suggest Nvidia funded startups just so those startups would turn around and buy Nvidia's excess silicon. It's the corporate equivalent of buying your own lemonade from your kid's stand to make the neighbors think you're a mogul.",
-      "plain_english": "Nvidia allegedly provided financial support to startups with the expectation that they would use the funds to purchase Nvidia's products.",
-      "source_url": "https://wccftech.com/jensen-huang-financed-ai-startups-absorb-excess-silicon/"
+      "domain": "hntrends.com",
+      "headline": "The job market is currently doing a very convincing impression of a desert.",
+      "summary": "Hiring posts are at a 12-year low while AI handles half the workload, proving we've successfully automated ourselves out of a paycheck. It's a great time to be a GPU, but a terrible time to be a junior dev looking for their first commit.",
+      "plain_english": "Job openings are at a twelve-year low as artificial intelligence tools are now being used to perform half of all job tasks.",
+      "source_url": "https://www.hntrends.com/2026/november.html"
     },
     {
       "id": 10,
-      "domain": "nvidia.com",
-      "headline": "Jensen Huang is reportedly treating board meetings like a high-stakes LeetCode interview",
-      "summary": "Reports suggest Jensen Huang's management style involves aggressive outbursts that make a stressful sprint planning session look like a spa day. It turns out that when you're printing money, you don't necessarily have to be the chillest person in the room.",
-      "plain_english": "Allegations have surfaced describing abusive behavior by Nvidia CEO Jensen Huang during company board meetings.",
-      "source_url": "https://www.indiatoday.in/world/story/jensen-huang-nvidia-workplace-allegations-executive-outbursts-resignation-3039203-2026-11-15"
+      "domain": "ublock.org",
+      "headline": "uBlock Origin's element picker just became a security hole",
+      "summary": "The tool designed to help you nuke annoying website ads accidentally created a path for malicious scripts to run in your browser. It turns out that giving a browser extension the power to pick and choose elements is a great way to let attackers pick your pockets instead.",
+      "plain_english": "A security vulnerability was discovered in the uBlock Origin browser extension that could allow malicious websites to execute unauthorized code.",
+      "source_url": "https://iter.ca/post/ubo-uxss/"
     }
   ]
 }
