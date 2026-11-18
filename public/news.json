@@ -1,91 +1,91 @@
 {
   "meta": {
-    "date": "Tuesday, November 17, 2026",
-    "scene_summary": "We're busy building the future of AI while the present infrastructure is busy forgetting how to do its basic job.",
-    "ratio_statement": "3:7"
+    "date": "Wednesday, November 18, 2026",
+    "scene_summary": "We're building the future of AI while the present is busy setting the server room on fire.",
+    "ratio_statement": "1:9"
   },
   "cooking": [
     {
       "id": 1,
-      "domain": "nvidia.com",
-      "headline": "Nvidia is making so much money that the sales reports have gone into witness protection.",
-      "summary": "When you hit $104 billion in revenue, you stop itemizing the receipt and just start buying the store. It turns out that when you become the global dealer for AI chips, you don't really have to explain your sales strategy to anyone anymore.",
-      "plain_english": "Nvidia has stopped publicly disclosing specific sales data for Singapore following a period of massive revenue growth.",
-      "source_url": "https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf"
-    },
-    {
-      "id": 2,
-      "domain": "nvidia.com",
-      "headline": "Jensen Huang is pulling a classic 'I might come back' move",
-      "summary": "Jensen Huang resigned and immediately realized that watching the company from the sidelines is significantly less fun than running the show. It's the corporate equivalent of leaving a party only to realize you left your phone inside.",
-      "plain_english": "Jensen Huang has indicated he is willing to return to his former role at Nvidia shortly after announcing his resignation.",
-      "source_url": "https://www.cnbc.com/2026/11/17/nvidia-jensen-huang-statement.html"
-    },
-    {
-      "id": 3,
-      "domain": "microsoft.com",
-      "headline": "Windows 11 is now acting like the group project partner who watches you work.",
-      "summary": "Microsoft is tracking exactly which coding tools you use, because apparently, they need to know which IDE is helping you write the bugs they'll eventually patch. It's like having a manager hover over your shoulder, but with more telemetry and less helpful advice.",
-      "plain_english": "Windows 11 collects and stores information regarding the specific software and coding tools developers use on their systems.",
-      "source_url": "https://xusheng.dev/posts/windows-coding-agent-telemetry/"
+      "domain": "google.com",
+      "headline": "Google just dropped Genie 4, as if we didn't have enough tabs open already",
+      "summary": "Google released a new version of their generative world model, because clearly, the only thing missing from our lives was another AI to keep us distracted. It is the perfect tool for when you want to avoid fixing that one lingering production bug for another few hours.",
+      "plain_english": "Google has launched Genie 4, which is a new artificial intelligence model capable of generating interactive virtual environments.",
+      "source_url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/"
     }
   ],
   "cooked": [
     {
+      "id": 2,
+      "domain": "nsa.gov",
+      "headline": "Turns out 'let AI handle the deployments' was just a fancy way to say 'let's break everything at once.'",
+      "summary": "Bank CEOs and the NSA are finally admitting that letting AI push patches to critical infrastructure is like handing a toddler the keys to a Ferrari. It turns out that when you automate chaos, you don't get efficiency; you just get a really fast way to crash the global economy.",
+      "plain_english": "Bank leaders and intelligence officials stated that recent banking system outages were caused by automated artificial intelligence software updates.",
+      "source_url": "https://www.washingtonsun.com/technology/bank-ceos-nsa-tell-congress-ai-driven-patches-behind-outages"
+    },
+    {
+      "id": 3,
+      "domain": "nginx.org",
+      "headline": "Nginx just dropped a remote code execution vulnerability that makes 'move fast and break things' look polite.",
+      "summary": "There is a new remote code execution vulnerability in Nginx, which is essentially the digital equivalent of leaving your front door wide open while inviting the whole internet inside. It's the perfect time to remind everyone that your web server is only as secure as the last patch you ignored.",
+      "plain_english": "A critical security flaw has been discovered in Nginx that allows unauthorized attackers to remotely execute malicious code on affected servers.",
+      "source_url": "https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities"
+    },
+    {
       "id": 4,
-      "domain": "defense.gov",
-      "headline": "The US national security network just hit a 404, proving even the Pentagon has bad days",
-      "summary": "The highly classified network meant to handle the nation's biggest secrets apparently went down for an unplanned maintenance break. It turns out that even the most secure infrastructure in the world is still just a collection of servers that can be brought down by a bad update or a loose cable.",
-      "plain_english": "A secure communication system used by the United States government for classified information experienced a service outage.",
-      "source_url": "https://www.cnn.com/2026/11/17/politics/highly-classified-national-security-communications-network-goes-down"
+      "domain": "nginx.org",
+      "headline": "When your reverse proxy decides to become the landlord",
+      "summary": "NGINX is supposed to be the bouncer at the door, but this exploit lets visitors walk right into the server's basement and start rearranging the furniture. It turns out the most secure way to handle web traffic is to just hope nobody finds the trapdoor in your configuration.",
+      "plain_english": "A security vulnerability in the NGINX web server software allows an attacker to gain full administrative control over the host system.",
+      "source_url": "https://nginx2root.com/"
     },
     {
       "id": 5,
-      "domain": "optimizely.com",
-      "headline": "Optimizely turned every major news site into a malware delivery service",
-      "summary": "Optimizely had their supply chain compromised, effectively turning the world's most trusted news outlets into unsuspecting malware distributors. It's the digital equivalent of trusting your friend to hold your bag and realizing they've been using it to smuggle contraband the whole time.",
-      "plain_english": "Hackers compromised Optimizely's software, allowing them to place malicious code on the websites of several major media organizations and companies.",
-      "source_url": "https://www.bleepingcomputer.com/news/security/optimizely-supply-chain-attack-delivers-malware-to-cnn-fox-news-bbc-salesforce-sites/"
+      "domain": "openjdk.org",
+      "headline": "Java's Base64 decoder is having a rough week",
+      "summary": "Java's latest trick is turning a simple Base64 string into a remote code execution vulnerability, proving that even basic data processing can be a total landmine. It is the digital equivalent of trying to read a postcard and accidentally granting the mailman power of attorney over your house.",
+      "plain_english": "A flaw in the Java development kit allows unauthorized code execution when the software processes certain types of encoded data.",
+      "source_url": "https://calif.io/java4shell/"
     },
     {
       "id": 6,
-      "domain": "oracle.com",
-      "headline": "Java 17 just dropped a pre-auth RCE, because security is just a suggestion now.",
-      "summary": "We really thought we were past the era of 'oops, remote code execution,' but Java 17 decided to bring that vintage energy back. It's the digital equivalent of finding out your front door lock was actually just a sticker of a lock.",
-      "plain_english": "A critical security vulnerability has been discovered in Java 17 that allows unauthorized attackers to remotely execute code on affected servers.",
-      "source_url": "https://www.aikido.dev/blog/java-17-rce-vulnerability-cve-2026-114938"
+      "domain": "kernel.org",
+      "headline": "KVM just found out that sometimes you need to actually clear your cache",
+      "summary": "A security patch just landed for KVM because it was failing to reset the MMU context when emulating an INIT signal. It turns out that carrying over stale state during a system reset is a great way to let attackers play tag with your memory.",
+      "plain_english": "A vulnerability in the Linux kernel's virtual machine software has been fixed to ensure memory settings are properly cleared when a virtual computer restarts.",
+      "source_url": "https://www.cve.org/CVERecord?id=CVE-2026-99312"
     },
     {
       "id": 7,
-      "domain": "baidu.com",
-      "headline": "The AI gold rush is hitting the 'where is the money' phase",
-      "summary": "Baidu and Xiaomi CEOs are finally noticing that burning billions on GPU clusters isn't quite paying the rent yet. It turns out that 'AI-powered' isn't a substitute for a business model that actually generates profit.",
-      "plain_english": "The leaders of Baidu and Xiaomi are concerned that the massive financial investment in artificial intelligence is not resulting in sufficient revenue.",
-      "source_url": "https://www.scmp.com/tech/big-tech/article/3374774/baidu-xiaomi-ceos-warn-growing-gap-between-ai-hype-and-returns"
+      "domain": "optimizely.com",
+      "headline": "Hackers are using A/B testing to see if your computer prefers malware",
+      "summary": "Attackers hijacked Optimizely to run A/B tests on malicious payloads to see which versions tricked the most users. It's the ultimate growth hacking nightmare where the conversion metric is how many people you successfully infect.",
+      "plain_english": "Cybercriminals used a legitimate website testing service to experiment with different versions of malware to determine which ones were most effective at infecting users.",
+      "source_url": "https://krebsonsecurity.com/2026/11/attackers-used-optimizely-to-a-b-test-malware-on-top-websites/"
     },
     {
       "id": 8,
-      "domain": "apple.com",
-      "headline": "Apple services are down, reminding us that the cloud is just someone else's computer on vacation.",
-      "summary": "Apple's ecosystem hit a wall today, proving that even a trillion-dollar company can't escape the 'it works on my machine' paradox. It turns out that when the mothership goes offline, your expensive hardware becomes a very sleek, very minimalist paperweight.",
-      "plain_english": "Apple is experiencing technical problems that have made several of their online services unavailable to users.",
-      "source_url": "https://9to5mac.com/2026/11/17/icloud-app-store-and-other-apple-services-hit-by-ongoing-outage/"
+      "domain": "aymo.com",
+      "headline": "Waymo is officially banned from California freeways",
+      "summary": "California regulators decided that autonomous cars need to stay off the highway, effectively putting them on a permanent learner's permit. It turns out that teaching a robot to merge in LA traffic is the ultimate 'do not try this at home' project.",
+      "plain_english": "California has prohibited Waymo's self-driving vehicles from operating on state freeways.",
+      "source_url": "https://apnews.com/article/waymo-driverless-vehicle-california-freeway-ban-37bcd5371a4699a1850b7666b271946b"
     },
     {
       "id": 9,
-      "domain": "united.com",
-      "headline": "United Airlines is having a system outage, effectively turning the airport into a very expensive waiting room.",
-      "summary": "United is dealing with a major system failure, which is the aviation equivalent of a production deployment gone horribly wrong on a Friday afternoon. At least when your code breaks, you don't have to explain to a hundred people why they're stuck in a terminal for six hours.",
-      "plain_english": "United Airlines is suffering from a widespread computer system failure that has caused significant disruptions to their flight operations.",
-      "source_url": "https://www.cnn.com/2026/11/16/us/united-airlines-outage"
+      "domain": "nvidia.com",
+      "headline": "Nvidia board says Jensen Huang is not getting his job back",
+      "summary": "The board has officially confirmed they aren't looking to rehire their former CEO, which is a classic 'we've moved on' energy. It's like breaking up with your partner and then having them check your LinkedIn profile every single day to see if you're hiring.",
+      "plain_english": "Nvidia's board of directors stated they do not intend to reappoint Jensen Huang as CEO.",
+      "source_url": "https://www.cnbc.com/2026/11/17/nvidia-nvda-earnings-report-q3-2027.html"
     },
     {
       "id": 10,
-      "domain": "mem.ai",
-      "headline": "The 'note-taking app that thinks for you' has decided to stop thinking entirely.",
-      "summary": "Mem promised to build a second brain for your notes, but apparently, even the smartest AI can't manage its own business model. It turns out that offloading your memory to a startup is only a good idea if the startup lasts longer than your actual brain cells.",
-      "plain_english": "The note-taking application Mem is shutting down and users must export their data before the service closes.",
-      "source_url": "https://get.mem.ai/blog/mem-is-shutting-down"
+      "domain": "harvard.edu",
+      "headline": "AI coding agents have officially turned us all into full-time code reviewers",
+      "summary": "Researchers found that AI agents are great at writing code, they just forgot to mention that you now have to spend your entire day babysitting their hallucinations. It turns out the promised automation just shifted the bottleneck from typing to reading someone else's messy work.",
+      "plain_english": "A study by Harvard researchers indicates that while AI tools speed up the initial writing of code, they create a new delay by requiring humans to spend more time reviewing and correcting the AI's output.",
+      "source_url": "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/"
     }
   ]
 }
