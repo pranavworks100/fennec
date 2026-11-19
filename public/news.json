@@ -1,91 +1,91 @@
 {
   "meta": {
-    "date": "Wednesday, November 18, 2026",
-    "scene_summary": "We're building the future of AI while the present is busy setting the server room on fire.",
-    "ratio_statement": "1:9"
+    "date": "Thursday, November 19, 2026",
+    "scene_summary": "The industry is spending billions to build the future while accidentally leaving the back door wide open.",
+    "ratio_statement": "6:4"
   },
   "cooking": [
     {
       "id": 1,
+      "domain": "anthropic.com",
+      "headline": "Anthropic hits a $2T valuation, proving AI is the new real estate",
+      "summary": "Anthropic just debuted on the Nasdaq with a valuation that makes most GDPs look like a rounding error. It's comforting to know that in a world of infinite compute, we've finally found a way to turn prompt engineering into a trillion-dollar asset class.",
+      "plain_english": "Anthropic began trading on the stock market at a valuation of two trillion dollars.",
+      "source_url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/"
+    },
+    {
+      "id": 2,
+      "domain": "anthropic.com",
+      "headline": "Anthropic prices its IPO, or how to turn tokens into gold",
+      "summary": "Anthropic has officially set the price for its IPO, moving from a research lab to a public company with a massive target on its back. It's the ultimate graduation ceremony where you trade your 'Safety First' mission statement for quarterly earnings calls.",
+      "plain_english": "Anthropic has finalized the pricing for its initial public offering of shares.",
+      "source_url": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering"
+    },
+    {
+      "id": 3,
+      "domain": "paloaltonetworks.com",
+      "headline": "Palo Alto Networks just dropped $4.5B to make sure your firewall doesn't have a mid-life crisis.",
+      "summary": "Palo Alto Networks is spending billions to acquire Applied Compute, apparently deciding that the best way to secure the cloud is to just buy the hardware running it. It's the corporate equivalent of buying the whole restaurant just to make sure your order comes out correctly.",
+      "plain_english": "Palo Alto Networks is purchasing the company Applied Compute for 4.5 billion dollars to improve its cybersecurity and cloud computing capabilities.",
+      "source_url": "https://investors.paloaltonetworks.com/news-releases/news-release-details/palo-alto-networks-acquire-applied-compute-bringing-secure-open"
+    },
+    {
+      "id": 4,
+      "domain": "postgresql.org",
+      "headline": "PostgreSQL 19 is out, proving that 'boring' is just a synonym for 'actually works'.",
+      "summary": "While everyone else is busy chasing the latest AI hype cycle, Postgres just casually dropped another major release that will outlive us all. It's the reliable friend who shows up to every group project, does all the work, and doesn't ask for a shoutout.",
+      "plain_english": "The latest version of the PostgreSQL database software has been officially released with new features and improvements.",
+      "source_url": "https://www.postgresql.org/about/news/postgresql-19-released-3449/"
+    },
+    {
+      "id": 5,
       "domain": "google.com",
-      "headline": "Google just dropped Genie 4, as if we didn't have enough tabs open already",
-      "summary": "Google released a new version of their generative world model, because clearly, the only thing missing from our lives was another AI to keep us distracted. It is the perfect tool for when you want to avoid fixing that one lingering production bug for another few hours.",
-      "plain_english": "Google has launched Genie 4, which is a new artificial intelligence model capable of generating interactive virtual environments.",
-      "source_url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/"
+      "headline": "DeepMind employees are unionizing because even the AI overlords need HR support.",
+      "summary": "The people building the world's most advanced artificial intelligence have decided that their own workplace conditions are the real priority. It's a classic plot twist where the engineers who automate everything finally realize they shouldn't be treated like legacy code.",
+      "plain_english": "Employees at Google DeepMind have formed a labor union to advocate for better working conditions and collective bargaining rights.",
+      "source_url": "https://www.gdmunion.co.uk"
+    },
+    {
+      "id": 6,
+      "domain": "tiktok.com",
+      "headline": "Germany and Austria want to move TikTok into their own backyard",
+      "summary": "European regulators are trying to put TikTok under local control to curb its influence, essentially asking for the keys to someone else's black box. It's like demanding to audit the source code of a group project you weren't invited to join.",
+      "plain_english": "Government officials in Germany and Austria are proposing that TikTok be managed and regulated by European entities rather than its current international leadership.",
+      "source_url": "https://www.techcentral.ie/germany-and-austria-call-for-european-control-of-tiktok/"
     }
   ],
   "cooked": [
     {
-      "id": 2,
-      "domain": "nsa.gov",
-      "headline": "Turns out 'let AI handle the deployments' was just a fancy way to say 'let's break everything at once.'",
-      "summary": "Bank CEOs and the NSA are finally admitting that letting AI push patches to critical infrastructure is like handing a toddler the keys to a Ferrari. It turns out that when you automate chaos, you don't get efficiency; you just get a really fast way to crash the global economy.",
-      "plain_english": "Bank leaders and intelligence officials stated that recent banking system outages were caused by automated artificial intelligence software updates.",
-      "source_url": "https://www.washingtonsun.com/technology/bank-ceos-nsa-tell-congress-ai-driven-patches-behind-outages"
-    },
-    {
-      "id": 3,
-      "domain": "nginx.org",
-      "headline": "Nginx just dropped a remote code execution vulnerability that makes 'move fast and break things' look polite.",
-      "summary": "There is a new remote code execution vulnerability in Nginx, which is essentially the digital equivalent of leaving your front door wide open while inviting the whole internet inside. It's the perfect time to remind everyone that your web server is only as secure as the last patch you ignored.",
-      "plain_english": "A critical security flaw has been discovered in Nginx that allows unauthorized attackers to remotely execute malicious code on affected servers.",
-      "source_url": "https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities"
-    },
-    {
-      "id": 4,
-      "domain": "nginx.org",
-      "headline": "When your reverse proxy decides to become the landlord",
-      "summary": "NGINX is supposed to be the bouncer at the door, but this exploit lets visitors walk right into the server's basement and start rearranging the furniture. It turns out the most secure way to handle web traffic is to just hope nobody finds the trapdoor in your configuration.",
-      "plain_english": "A security vulnerability in the NGINX web server software allows an attacker to gain full administrative control over the host system.",
-      "source_url": "https://nginx2root.com/"
-    },
-    {
-      "id": 5,
-      "domain": "openjdk.org",
-      "headline": "Java's Base64 decoder is having a rough week",
-      "summary": "Java's latest trick is turning a simple Base64 string into a remote code execution vulnerability, proving that even basic data processing can be a total landmine. It is the digital equivalent of trying to read a postcard and accidentally granting the mailman power of attorney over your house.",
-      "plain_english": "A flaw in the Java development kit allows unauthorized code execution when the software processes certain types of encoded data.",
-      "source_url": "https://calif.io/java4shell/"
-    },
-    {
-      "id": 6,
-      "domain": "kernel.org",
-      "headline": "KVM just found out that sometimes you need to actually clear your cache",
-      "summary": "A security patch just landed for KVM because it was failing to reset the MMU context when emulating an INIT signal. It turns out that carrying over stale state during a system reset is a great way to let attackers play tag with your memory.",
-      "plain_english": "A vulnerability in the Linux kernel's virtual machine software has been fixed to ensure memory settings are properly cleared when a virtual computer restarts.",
-      "source_url": "https://www.cve.org/CVERecord?id=CVE-2026-99312"
-    },
-    {
       "id": 7,
-      "domain": "optimizely.com",
-      "headline": "Hackers are using A/B testing to see if your computer prefers malware",
-      "summary": "Attackers hijacked Optimizely to run A/B tests on malicious payloads to see which versions tricked the most users. It's the ultimate growth hacking nightmare where the conversion metric is how many people you successfully infect.",
-      "plain_english": "Cybercriminals used a legitimate website testing service to experiment with different versions of malware to determine which ones were most effective at infecting users.",
-      "source_url": "https://krebsonsecurity.com/2026/11/attackers-used-optimizely-to-a-b-test-malware-on-top-websites/"
+      "domain": "apple.com",
+      "headline": "The UK government just tried to 'request' a backdoor like it's a feature update.",
+      "summary": "The UK government forced Apple to admit they received a secret order to break their own encryption, which is a bit like asking your landlord to install a master key to your apartment. It turns out that 'security by design' is really just a polite suggestion until the government sends a subpoena.",
+      "plain_english": "The United Kingdom government legally required Apple to secretly weaken its device encryption, and Apple has now been forced to disclose the existence of this order.",
+      "source_url": "https://macanorak.com/uk-government-forced-to-admit-it-issued-apple-a-secret-encryption-order/"
     },
     {
       "id": 8,
-      "domain": "aymo.com",
-      "headline": "Waymo is officially banned from California freeways",
-      "summary": "California regulators decided that autonomous cars need to stay off the highway, effectively putting them on a permanent learner's permit. It turns out that teaching a robot to merge in LA traffic is the ultimate 'do not try this at home' project.",
-      "plain_english": "California has prohibited Waymo's self-driving vehicles from operating on state freeways.",
-      "source_url": "https://apnews.com/article/waymo-driverless-vehicle-california-freeway-ban-37bcd5371a4699a1850b7666b271946b"
+      "domain": "rubyonrails.org",
+      "headline": "Ruby on Rails just added a 'remote code execution' feature for free",
+      "summary": "The framework that promised to make web development easy has accidentally enabled hackers to run commands on your server without even needing a password. It is like leaving your front door unlocked because you were too busy optimizing the welcome mat.",
+      "plain_english": "A security vulnerability in the Ruby on Rails framework allows unauthorized users to execute arbitrary code on a server without needing to log in.",
+      "source_url": "https://verialabs.com/ruby2shell/"
     },
     {
       "id": 9,
-      "domain": "nvidia.com",
-      "headline": "Nvidia board says Jensen Huang is not getting his job back",
-      "summary": "The board has officially confirmed they aren't looking to rehire their former CEO, which is a classic 'we've moved on' energy. It's like breaking up with your partner and then having them check your LinkedIn profile every single day to see if you're hiring.",
-      "plain_english": "Nvidia's board of directors stated they do not intend to reappoint Jensen Huang as CEO.",
-      "source_url": "https://www.cnbc.com/2026/11/17/nvidia-nvda-earnings-report-q3-2027.html"
+      "domain": "ruby-lang.org",
+      "headline": "Turns out your regex is not just slow, it is also a security hole",
+      "summary": "Ruby's string and regular expression processing has some new vulnerabilities that make your text parsing look like a liability instead of a feature. It is the coding equivalent of realizing that the 'helpful' assistant you hired is actually a double agent.",
+      "plain_english": "Ruby has released security patches to fix vulnerabilities found in its regular expression engine and string case conversion functions.",
+      "source_url": "https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/"
     },
     {
       "id": 10,
-      "domain": "harvard.edu",
-      "headline": "AI coding agents have officially turned us all into full-time code reviewers",
-      "summary": "Researchers found that AI agents are great at writing code, they just forgot to mention that you now have to spend your entire day babysitting their hallucinations. It turns out the promised automation just shifted the bottleneck from typing to reading someone else's messy work.",
-      "plain_english": "A study by Harvard researchers indicates that while AI tools speed up the initial writing of code, they create a new delay by requiring humans to spend more time reviewing and correcting the AI's output.",
-      "source_url": "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/"
+      "domain": "att.com",
+      "headline": "ICE is paying AT&T to play the ultimate game of 'Ctrl+F' on your phone records",
+      "summary": "ICE is dropping cash for access to a massive database of call records, proving that your metadata is essentially a public utility for anyone with a budget. It's the digital equivalent of paying your landlord to give the cops a spare key to your apartment.",
+      "plain_english": "U.S.",
+      "source_url": "https://www.404media.co/ice-is-paying-at-t-to-dig-through-a-mountain-of-call-records-hemisphere-data-analytical-services/"
     }
   ]
 }
