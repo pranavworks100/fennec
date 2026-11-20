@@ -1,91 +1,91 @@
 {
   "meta": {
-    "date": "Thursday, November 19, 2026",
-    "scene_summary": "The industry is spending billions to build the future while accidentally leaving the back door wide open.",
-    "ratio_statement": "6:4"
+    "date": "Friday, November 20, 2026",
+    "scene_summary": "We are building a future where hardware hallucinates, software leaks, and the only thing truly autonomous is the legal liability.",
+    "ratio_statement": "3:7"
   },
   "cooking": [
     {
       "id": 1,
-      "domain": "anthropic.com",
-      "headline": "Anthropic hits a $2T valuation, proving AI is the new real estate",
-      "summary": "Anthropic just debuted on the Nasdaq with a valuation that makes most GDPs look like a rounding error. It's comforting to know that in a world of infinite compute, we've finally found a way to turn prompt engineering into a trillion-dollar asset class.",
-      "plain_english": "Anthropic began trading on the stock market at a valuation of two trillion dollars.",
-      "source_url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/"
+      "domain": "mailchimp.com",
+      "headline": "Bending Spoons is buying Mailchimp to turn your newsletter into a gym membership you can't cancel.",
+      "summary": "Bending Spoons is acquiring Mailchimp, likely adding it to a collection of apps that will inevitably send you five notifications for an email you already read. It is the corporate version of collecting browser tabs you know you'll never actually look at again.",
+      "plain_english": "The software company Bending Spoons has reached an agreement to purchase the email marketing platform Mailchimp.",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/2004711/000200471126000026/bsp_ex99-1.htm"
     },
     {
       "id": 2,
-      "domain": "anthropic.com",
-      "headline": "Anthropic prices its IPO, or how to turn tokens into gold",
-      "summary": "Anthropic has officially set the price for its IPO, moving from a research lab to a public company with a massive target on its back. It's the ultimate graduation ceremony where you trade your 'Safety First' mission statement for quarterly earnings calls.",
-      "plain_english": "Anthropic has finalized the pricing for its initial public offering of shares.",
-      "source_url": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering"
+      "domain": "postgresql.org",
+      "headline": "Postgres 19 is here to remind us that we're still just running SQL in the cloud",
+      "summary": "Postgres 19 is officially out, proving that while everyone else is chasing the next AI hype cycle, we're all still just migrating tables. It's comforting to know that even as the tech world pivots, our primary database remains the most reliable roommate we've ever had.",
+      "plain_english": "The latest version of the PostgreSQL database software has been released and is now available on major cloud platforms.",
+      "source_url": "https://www.databricks.com/blog/postgresql-19-available-lakebase"
     },
     {
       "id": 3,
-      "domain": "paloaltonetworks.com",
-      "headline": "Palo Alto Networks just dropped $4.5B to make sure your firewall doesn't have a mid-life crisis.",
-      "summary": "Palo Alto Networks is spending billions to acquire Applied Compute, apparently deciding that the best way to secure the cloud is to just buy the hardware running it. It's the corporate equivalent of buying the whole restaurant just to make sure your order comes out correctly.",
-      "plain_english": "Palo Alto Networks is purchasing the company Applied Compute for 4.5 billion dollars to improve its cybersecurity and cloud computing capabilities.",
-      "source_url": "https://investors.paloaltonetworks.com/news-releases/news-release-details/palo-alto-networks-acquire-applied-compute-bringing-secure-open"
-    },
-    {
-      "id": 4,
-      "domain": "postgresql.org",
-      "headline": "PostgreSQL 19 is out, proving that 'boring' is just a synonym for 'actually works'.",
-      "summary": "While everyone else is busy chasing the latest AI hype cycle, Postgres just casually dropped another major release that will outlive us all. It's the reliable friend who shows up to every group project, does all the work, and doesn't ask for a shoutout.",
-      "plain_english": "The latest version of the PostgreSQL database software has been officially released with new features and improvements.",
-      "source_url": "https://www.postgresql.org/about/news/postgresql-19-released-3449/"
-    },
-    {
-      "id": 5,
-      "domain": "google.com",
-      "headline": "DeepMind employees are unionizing because even the AI overlords need HR support.",
-      "summary": "The people building the world's most advanced artificial intelligence have decided that their own workplace conditions are the real priority. It's a classic plot twist where the engineers who automate everything finally realize they shouldn't be treated like legacy code.",
-      "plain_english": "Employees at Google DeepMind have formed a labor union to advocate for better working conditions and collective bargaining rights.",
-      "source_url": "https://www.gdmunion.co.uk"
-    },
-    {
-      "id": 6,
-      "domain": "tiktok.com",
-      "headline": "Germany and Austria want to move TikTok into their own backyard",
-      "summary": "European regulators are trying to put TikTok under local control to curb its influence, essentially asking for the keys to someone else's black box. It's like demanding to audit the source code of a group project you weren't invited to join.",
-      "plain_english": "Government officials in Germany and Austria are proposing that TikTok be managed and regulated by European entities rather than its current international leadership.",
-      "source_url": "https://www.techcentral.ie/germany-and-austria-call-for-european-control-of-tiktok/"
+      "domain": "architectlabs.com",
+      "headline": "AI just designed its own CPU, so now the hardware can hallucinate too",
+      "summary": "We finally automated the process of creating complex hardware architectures, effectively outsourcing the most stressful part of engineering to a machine. I can't wait to debug a CPU that decided a specific logic gate was just a vibe it didn't feel like including.",
+      "plain_english": "Researchers have used artificial intelligence to design and verify a new computer processor architecture called Frostbite.",
+      "source_url": "https://architectlabs.com/blog/frostbite"
     }
   ],
   "cooked": [
     {
+      "id": 4,
+      "domain": "openssl.org",
+      "headline": "OpenSSL just dropped a buffer overflow that makes your security stack feel like a house of cards.",
+      "summary": "We spend our entire careers building digital fortresses only to realize the foundation is held together by a single, fragile string. It's comforting to know that the library securing the internet is just one bad memory allocation away from a complete nervous breakdown.",
+      "plain_english": "A critical vulnerability was discovered in the OpenSSL software library that could allow attackers to crash systems or potentially execute unauthorized code.",
+      "source_url": "https://github.com/openssl/openssl/pull/33652"
+    },
+    {
+      "id": 5,
+      "domain": "jpmorganchase.com",
+      "headline": "Visa and Mastercard leaked customer data, proving that 'world-class security' is just a suggestion.",
+      "summary": "It's impressive how the biggest financial institutions in the world can handle trillions of dollars but still treat user data like a group project file left on a public desktop. I'm sure the 'we take your privacy seriously' email blast will definitely make up for the fact that my credit card info is currently being traded for pocket change.",
+      "plain_english": "Major financial institutions including Visa, Mastercard, and JPMorgan Chase have experienced a data breach that exposed sensitive customer information.",
+      "source_url": "https://www.wsj.com/finance/banking/visa-mastercard-and-jpmorgan-customer-data-leaked-by-hackers-3b5a0f87"
+    },
+    {
+      "id": 6,
+      "domain": "nvidia.com",
+      "headline": "Nvidia's accounting is under SEC review, proving even GPU gods have to show their work",
+      "summary": "Nvidia has been printing money like it's a side quest, but now the SEC wants to see the actual receipts for those massive gains. It turns out that when you start making more money than some countries, people eventually stop ignoring your spreadsheet errors.",
+      "plain_english": "The Securities and Exchange Commission is investigating Nvidia regarding its financial accounting practices.",
+      "source_url": "https://finance.yahoo.com/markets/article/nvidia-stock-extends-25-trillion-rout-as-sec-probe-reportedly-investigates-its-accounting-194945274.html"
+    },
+    {
       "id": 7,
-      "domain": "apple.com",
-      "headline": "The UK government just tried to 'request' a backdoor like it's a feature update.",
-      "summary": "The UK government forced Apple to admit they received a secret order to break their own encryption, which is a bit like asking your landlord to install a master key to your apartment. It turns out that 'security by design' is really just a polite suggestion until the government sends a subpoena.",
-      "plain_english": "The United Kingdom government legally required Apple to secretly weaken its device encryption, and Apple has now been forced to disclose the existence of this order.",
-      "source_url": "https://macanorak.com/uk-government-forced-to-admit-it-issued-apple-a-secret-encryption-order/"
+      "domain": "anthropic.com",
+      "headline": "Anthropic's IPO is a reminder that the AI hype train has a very specific speed limit",
+      "summary": "Anthropic went public right as the market decided to hit the brakes, turning their highly anticipated debut into a lesson in bad timing. It's the classic group project experience where you do all the work, but the final grade still gets dragged down by the rest of the class.",
+      "plain_english": "Anthropic's stock price declined significantly following its initial public offering as part of a broader market downturn.",
+      "source_url": "https://www.nbcnews.com/business/markets/anthropic-shares-markets-selloff-nasdaq-rcna610394"
     },
     {
       "id": 8,
-      "domain": "rubyonrails.org",
-      "headline": "Ruby on Rails just added a 'remote code execution' feature for free",
-      "summary": "The framework that promised to make web development easy has accidentally enabled hackers to run commands on your server without even needing a password. It is like leaving your front door unlocked because you were too busy optimizing the welcome mat.",
-      "plain_english": "A security vulnerability in the Ruby on Rails framework allows unauthorized users to execute arbitrary code on a server without needing to log in.",
-      "source_url": "https://verialabs.com/ruby2shell/"
+      "domain": "google.com",
+      "headline": "Google wants to lock Pixel bootloaders, because freedom is a bug they haven't patched yet.",
+      "summary": "Google is reportedly tightening the screws on Pixel bootloaders, effectively telling privacy enthusiasts that their hardware is really just a rental. It's the classic 'we built this open platform for you to use, but only in the specific way we want' move.",
+      "plain_english": "GrapheneOS alleges that Google is making it harder to install alternative operating systems on Pixel devices by potentially restricting access to the bootloader.",
+      "source_url": "https://www.androidauthority.com/grapheneos-team-google-pressure-3737525/"
     },
     {
       "id": 9,
-      "domain": "ruby-lang.org",
-      "headline": "Turns out your regex is not just slow, it is also a security hole",
-      "summary": "Ruby's string and regular expression processing has some new vulnerabilities that make your text parsing look like a liability instead of a feature. It is the coding equivalent of realizing that the 'helpful' assistant you hired is actually a double agent.",
-      "plain_english": "Ruby has released security patches to fix vulnerabilities found in its regular expression engine and string case conversion functions.",
-      "source_url": "https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/"
+      "domain": "uscourts.gov",
+      "headline": "Courts tell police that 'the AI hallucinated a crime' isn't valid probable cause",
+      "summary": "A court ruled that law enforcement can't use AI-generated guesses to justify a search, effectively telling cops they can't blame the computer for their intuition. Apparently, 'the model said so' is about as legally binding as a group project member claiming the dog ate their homework.",
+      "plain_english": "A court has ruled that police cannot use evidence or justifications generated solely by artificial intelligence to establish the legal right to search a person or their property.",
+      "source_url": "https://www.techdirt.com/2026/11/19/court-tells-cops-that-the-4th-amendment-doesnt-cover-ai-generated-probable-cause/"
     },
     {
       "id": 10,
-      "domain": "att.com",
-      "headline": "ICE is paying AT&T to play the ultimate game of 'Ctrl+F' on your phone records",
-      "summary": "ICE is dropping cash for access to a massive database of call records, proving that your metadata is essentially a public utility for anyone with a budget. It's the digital equivalent of paying your landlord to give the cops a spare key to your apartment.",
-      "plain_english": "U.S.",
-      "source_url": "https://www.404media.co/ice-is-paying-at-t-to-dig-through-a-mountain-of-call-records-hemisphere-data-analytical-services/"
+      "domain": "anthropic.com",
+      "headline": "When your AI chat history becomes a subpoena",
+      "summary": "The FBI is now calling people based on their AI prompts, turning your private brainstorming sessions into a potential deposition. It turns out the 'delete chat' button is just a suggestion, and your private thoughts are now public record.",
+      "plain_english": "A user received a phone call from the FBI regarding content discussed within their private interactions with the Claude artificial intelligence model.",
+      "source_url": "https://austinpatrick.substack.com/p/when-should-ai-labs-alert-police"
     }
   ]
 }
