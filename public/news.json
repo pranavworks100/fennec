@@ -1,91 +1,91 @@
 {
   "meta": {
-    "date": "Saturday, November 21, 2026",
-    "scene_summary": "We're busy building the future with AI math while the rest of the supply chain burns to the ground.",
-    "ratio_statement": "3:7"
+    "date": "Sunday, November 22, 2026",
+    "scene_summary": "We are currently building a digital future that leaks faster than it ships.",
+    "ratio_statement": "5:5"
   },
   "cooking": [
     {
       "id": 1,
-      "domain": "google.com",
-      "headline": "AI just solved a math problem that would take a human ten lifetimes",
-      "summary": "AI has finally cracked a major mathematical mystery, proving that if you give a computer enough compute, it will eventually do your homework better than you ever could. At least now when we fail our math exams, we can blame the machine for making the answer too hard to understand.",
-      "plain_english": "An artificial intelligence system has successfully solved a complex, long-standing problem in the field of mathematics.",
-      "source_url": "https://www.economist.com/science-and-technology/2026/11/20/ai-may-have-solved-the-most-important-problem-in-mathematics"
+      "domain": "softbank.com",
+      "headline": "SoftBank tried to buy SK Hynix for $1T, proving they have more money than sense",
+      "summary": "Masayoshi Son apparently thought he could just buy the entire chip supply chain like he was shopping for groceries on a Sunday. It's comforting to know that even with a trillion dollars, some people still think they can just throw a check at a hardware manufacturing monopoly and call it a strategy.",
+      "plain_english": "SoftBank reportedly considered acquiring semiconductor manufacturer SK Hynix for one trillion dollars.",
+      "source_url": "https://www.reuters.com/world/asia-pacific/softbanks-son-explored-1-trillion-buyout-sk-hynix-information-reports-2026-11-21/"
     },
     {
       "id": 2,
-      "domain": "digger.dev",
-      "headline": "OpenComputer is the open source answer to your AI coding agent addiction",
-      "summary": "We finally have an open-source alternative to Devin, because apparently, we haven't automated enough of our own jobs yet. It's the perfect tool for when you want your computer to hallucinate bugs at a speed only a machine can match.",
-      "plain_english": "OpenComputer is a free, publicly available software tool designed to act as an automated assistant for writing and managing computer code.",
-      "source_url": "https://github.com/diggerhq/opencomputer"
+      "domain": "tesla.com",
+      "headline": "Tesla's FSD v15 is here to fix the potholes that v14 definitely didn't hit",
+      "summary": "Tesla is rolling out FSD v15 to tackle real-world road hazards like signs and potholes, which is basically the automotive equivalent of patching a production bug that shouldn't have existed in the first place. It's great that the car is getting smarter, but I'm still waiting for the update that stops it from treating a construction zone like a suggestion.",
+      "plain_english": "Tesla has released version 15 of its Full Self-Driving software, which includes improvements designed to better identify traffic signs and navigate road surface defects.",
+      "source_url": "https://electrek.co/2026/11/21/tesla-fsd-v15-rollout-25x-safety-reality-view/"
     },
     {
       "id": 3,
-      "domain": "onurgumus.github.io",
-      "headline": "Zero C# lets you escape the garbage collector, just like your landlord escapes maintenance requests",
-      "summary": "Someone decided C# is way too comfortable and stripped out the runtime and garbage collector entirely. It's a bold move to manually manage your own memory in 2026, but hey, at least you can finally blame yourself when it crashes.",
-      "plain_english": "Zero C# is a tool that allows developers to write and run C# code without relying on the standard software framework or automatic memory management systems.",
-      "source_url": "https://onurgumus.github.io/zero-csharp/index.html"
+      "domain": "dragos.com",
+      "headline": "Putting canary tokens in your AI supply chain is just digital glitter bombing.",
+      "summary": "Security researchers are now baiting AI supply chains with fake files to catch hackers in the act. It turns out the best way to stop a sophisticated cyber threat is to leave a digital breadcrumb trail that screams 'please click me'.",
+      "plain_english": "Security experts are using hidden tracking files within AI software supply chains to detect and identify unauthorized access attempts.",
+      "source_url": "https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens"
+    },
+    {
+      "id": 4,
+      "domain": "regjeringen.no",
+      "headline": "Norway wants to ground your digital social life",
+      "summary": "Norway is expanding its under-16 social media ban to include games and messaging apps, essentially trying to force an entire generation into a forced digital detox. Good luck explaining to a teenager that they can't touch Discord or their games while the government is the one acting like the strict parent who kills the Wi-Fi at 9 PM.",
+      "plain_english": "The Norwegian government is proposing legislation to restrict access to social media, online gaming, and messaging services for children under the age of 16.",
+      "source_url": "https://www.euronews.com/2026/10/19/norway-to-extend-proposed-under-16-social-media-ban-to-online-games-and-messaging-apps"
+    },
+    {
+      "id": 5,
+      "domain": "toyota.com",
+      "headline": "Toyota, Nissan, and Honda are finally realizing they can share Legos",
+      "summary": "These car giants are standardizing parts to save money, finally admitting that reinventing the wheel for every single model is a massive waste of time. It's the automotive equivalent of realizing you don't need to write a custom framework for every single microservice.",
+      "plain_english": "Toyota, Nissan, and Honda have agreed to standardize vehicle components to reduce manufacturing costs and improve supply chain efficiency.",
+      "source_url": "https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/"
     }
   ],
   "cooked": [
     {
-      "id": 4,
-      "domain": "anthropic.com",
-      "headline": "Anthropic's IPO is the latest sign that the AI bubble is leaking air",
-      "summary": "Anthropic tried to go public during a massive market cooling, proving that even the smartest AI models can't predict a brutal Wall Street vibe check. Turns out, investors are finally realizing that burning billions in GPU costs isn't exactly a sustainable business model.",
-      "plain_english": "Anthropic's initial public offering performed poorly as part of a wider decline in the market value of artificial intelligence companies.",
-      "source_url": "https://www.wsj.com/finance/stocks/anthropics-ipo-bust-punctuates-4-trillion-ai-wipeout-on-wall-street-f1f1ec90"
-    },
-    {
-      "id": 5,
-      "domain": "fbi.gov",
-      "headline": "The FBI's criminal database might have been hacked, which is the ultimate 'who watches the watchmen' moment.",
-      "summary": "The agency tasked with catching the world's most sophisticated hackers reportedly got their own database compromised by an intruder. It turns out that even the people who write the security playbooks can still fall for a classic phishing expedition.",
-      "plain_english": "The Federal Bureau of Investigation is investigating a potential security breach of its internal criminal records system.",
-      "source_url": "https://www.bbc.com/news/articles/cvze7de86pk3o"
-    },
-    {
       "id": 6,
-      "domain": "gnupg.org",
-      "headline": "An RCE vulnerability in GnuPG is the security equivalent of finding a hole in your front door's deadbolt.",
-      "summary": "We rely on GnuPG to keep our most sensitive communications locked away, but this bug basically hands the keys to anyone with a malicious file. It is a harsh reminder that the tools we trust to save us are just as prone to spaghetti code as everything else.",
-      "plain_english": "A critical security vulnerability has been discovered in GnuPG that allows an attacker to execute unauthorized commands on a user's computer.",
-      "source_url": "https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html"
+      "domain": "backblaze.com",
+      "headline": "Backblaze's new privacy policy is a masterclass in how to lose customer trust in one update",
+      "summary": "Backblaze updated their policy in a way that has users worried their backups aren't as private as they once were. It's like finding out your digital safe now has a 'share contents with marketers' feature hidden in the fine print.",
+      "plain_english": "Backblaze users are concerned that a recent update to the company's privacy policy may allow for the sale or sharing of their personal information.",
+      "source_url": "https://www.neowin.net/news/backblaze-customers-worried-of-personal-data-salesharing-after-policy-update/"
     },
     {
       "id": 7,
-      "domain": "nvidia.com",
-      "headline": "Nvidia is finding out that accounting is harder than training LLMs",
-      "summary": "The SEC is poking around Nvidia's books, which is exactly the kind of side quest no one wants during a historic bull run. It turns out that when you start making more money than some countries, people eventually stop asking about your GPU benchmarks and start asking about your spreadsheets.",
-      "plain_english": "The U.S.",
-      "source_url": "https://www.marketscreener.com/news/us-sec-s-nvidia-probe-is-examining-potential-accounting-issues-sources-say-ce785ed3dd8ff627"
+      "domain": "together.ai",
+      "headline": "Together.ai accidentally turned 'prompt engineering' into 'prompt leaking'",
+      "summary": "Together.ai admitted that some user prompts were visible to other customers for a few months, which is the AI equivalent of leaving your diary open on the lunch table. At least now we know that 'top secret' system prompts are usually just one typo away from becoming public knowledge.",
+      "plain_english": "Together.ai experienced a security issue where some users' prompts were inadvertently exposed to other customers over the summer.",
+      "source_url": "https://www.together.ai/blog/security-event-prompt-leakage-for-requests-in-june-and-july-of-2026"
     },
     {
       "id": 8,
-      "domain": "openai.com",
-      "headline": "Our AI supply chain is basically a group project where no one checked their code",
-      "summary": "AI tools are leaking user data because the underlying supply chain is held together by duct tape and blind optimism. It is the digital equivalent of submitting a final project where you accidentally left your API keys in the public repo.",
-      "plain_english": "Security researchers have found that vulnerabilities in the software supply chains used to build AI systems are frequently exposing sensitive user information.",
-      "source_url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/"
+      "domain": "bridgewater.com",
+      "headline": "Current AI security is like using a screen door to stop a flood.",
+      "summary": "New reports suggest that our current defenses against AI-driven cyber viruses are essentially just thoughts and prayers. It's comforting to know that while AI can write code, it's also remarkably efficient at finding new ways to break the internet.",
+      "plain_english": "Existing security measures are considered insufficient to effectively contain or mitigate the rapid spread of automated AI-driven cyber threats.",
+      "source_url": "https://www.bridgewater.com/research-and-insights/current-efforts-arent-enough-to-slow-the-ai-cyber-virus"
     },
     {
       "id": 9,
-      "domain": "openrouter.ai",
-      "headline": "OpenRouter prompts may have been exposed, proving privacy is just a suggestion",
-      "summary": "Users discovered that their sensitive prompts sent to Minimax via OpenRouter were potentially readable by unauthorized parties. It turns out the 'cloud' is really just someone else's computer where your private data is currently on a public reading tour.",
-      "plain_english": "OpenRouter users reported that prompts sent to the Minimax model may have been accessible to unauthorized individuals.",
-      "source_url": "https://news.ycombinator.com/item?id=50585962"
+      "domain": "un.org",
+      "headline": "World leaders fail to agree on 'Terminator' rules",
+      "summary": "The UN tried to set boundaries for autonomous weapons, but the talks collapsed because apparently, we can't even agree on how to stop the robots from taking over. It's like a group project where nobody does the research and everyone just hopes the final submission doesn't delete the entire codebase.",
+      "plain_english": "International negotiations to create rules for the use of autonomous weapons have ended without an agreement.",
+      "source_url": "https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse"
     },
     {
       "id": 10,
-      "domain": "nasdaq.com",
-      "headline": "Nasdaq erases all 2026 gains, officially ending the year's vibe check",
-      "summary": "The market spent all year climbing a mountain only to realize it forgot its wallet at the trailhead. If your portfolio is currently tracking at zero, at least you can say you've reached a state of perfect, tax-neutral zen.",
-      "plain_english": "The Nasdaq stock index has declined to the level it was at the beginning of 2026, meaning all gains for the year have been lost.",
-      "source_url": "https://www.cnbc.com/2026/11/19/stock-market-today-live-updates.html"
+      "domain": "openrouter.ai",
+      "headline": "Inference providers are accidentally leaking your 'private' prompts",
+      "summary": "Turns out your sensitive data was being logged by providers because privacy is apparently just a suggestion in the LLM ecosystem. It's like leaving your diary on the school bus and hoping the other kids don't know how to read.",
+      "plain_english": "Several AI inference providers failed to properly secure user data, resulting in prompts being stored and exposed in logs.",
+      "source_url": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/"
     }
   ]
 }
