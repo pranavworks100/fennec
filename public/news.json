@@ -1,91 +1,91 @@
 {
   "meta": {
     "date": "Tuesday, November 24, 2026",
-    "scene_summary": "We're busy building the future, while the government and the lawyers are busy breaking it.",
-    "ratio_statement": "6:4"
+    "scene_summary": "We've spent the last decade turning every problem into a software solution, and now we're just waiting for the software to finish setting itself on fire.",
+    "ratio_statement": "3:7"
   },
   "cooking": [
     {
       "id": 1,
-      "domain": "nvidia.com",
-      "headline": "When the CEO is a system dependency that the government can't afford to lose",
-      "summary": "Trump is reportedly pushing to bring Jensen Huang back to the helm, proving that some tech leaders are truly 'too big to fail.' It's like trying to reinstall a core library after you already deleted it to save space. More details in the original article.",
-      "plain_english": "Former President Trump is allegedly working to reinstate Jensen Huang as the leader of Nvidia.",
-      "source_url": "https://www.nytimes.com/2026/11/23/us/politics/trump-nvidia-huang.html"
+      "domain": "grafana.com",
+      "headline": "Grafana just dropped enough security patches to keep your dev team busy all weekend",
+      "summary": "Grafana released a massive wave of updates to squash multiple vulnerabilities, ensuring your dashboards stay pretty but secure. It's the perfect reminder that the only thing more stressful than a broken production environment is realizing you're five versions behind on your dependencies.",
+      "plain_english": "Grafana has released several software updates to fix multiple security vulnerabilities discovered in its platform.",
+      "source_url": "https://grafana.com/grafana/download"
     },
     {
       "id": 2,
-      "domain": "stalw.art",
-      "headline": "Stalwart is betting you'd rather run your own mail server than pay Microsoft",
-      "summary": "Stalwart just dropped a drop-in replacement for Exchange, finally giving sysadmins a way to escape the corporate email tax. It turns out the only thing developers hate more than configuring SMTP is actually paying for the privilege of troubleshooting it.",
-      "plain_english": "Stalwart has released software that allows companies to manage their own email systems instead of using Microsoft's subscription-based service.",
-      "source_url": "https://stalw.art/blog/microsoft-exchange-replacement/"
+      "domain": "amd.com",
+      "headline": "AMD's performance jump since Zen 1 is essentially a hardware speedrun.",
+      "summary": "Seeing a 12x performance increase in less than a decade makes your current upgrade cycle look like a slow-motion car crash. It's comforting to know that while your code is getting slower, the hardware is at least trying to compensate for your lack of optimization.",
+      "plain_english": "Benchmarks show that AMD's latest EPYC processors are over 12 times faster than their models from less than ten years ago.",
+      "source_url": "https://www.phoronix.com/review/amd-epyc-9006-7601"
     },
     {
       "id": 3,
-      "domain": "docker.com",
-      "headline": "Docker is trying to convince us that 'trust' is a feature you can ship",
-      "summary": "Docker is rolling out new security features focused on building trust into the container lifecycle. It's a bold move to suggest that developers might finally stop pulling random images from the internet just because they seem to work.",
-      "plain_english": "Docker has introduced new security tools designed to verify the authenticity and safety of software images used in containers.",
-      "source_url": "https://www.docker.com/blog/meet-the-new-docker-built-to-run-on-trust/"
-    },
-    {
-      "id": 4,
-      "domain": "ladybird.org",
-      "headline": "A new browser engine just dropped, and it wasn't built by a trillion-dollar company",
-      "summary": "Ladybird just hit alpha, proving that you can actually build a browser engine from scratch without being a massive tech conglomerate. It's the software equivalent of building a car in your garage that actually manages to pass inspection.",
-      "plain_english": "The Ladybird web browser has reached an early testing stage, marking a significant milestone in the development of an independent browser engine.",
-      "source_url": "https://ladybird.org/posts/alpha/"
-    },
-    {
-      "id": 5,
-      "domain": "z.ai",
-      "headline": "GLM-5.4 introduces a loop transformer, because your code wasn't recursive enough already",
-      "summary": "The team at Z.ai is trying to teach AI how to loop properly, finally admitting that current models are bad at basic iterative tasks. It's a bold attempt to fix the 'I forgot how to finish this function' problem that plagues every junior dev on their first week.",
-      "plain_english": "The company Z.ai has released a new artificial intelligence model designed to better handle repetitive coding tasks through a specialized processing method.",
-      "source_url": "https://z.ai/blog/glm-5.4"
-    },
-    {
-      "id": 6,
-      "domain": "nango.dev",
-      "headline": "Managing 1,000 API integrations is just 1,000 ways for OAuth to ruin your weekend",
-      "summary": "Nango survived the trenches of maintaining auth for a thousand different APIs and lived to tell the tale of why your 'simple' integration is actually a ticking time bomb. It turns out that when you scale to that many providers, you stop being a developer and start being a professional hostage negotiator for tokens.",
-      "plain_english": "Nango has published a report detailing the challenges and lessons learned from maintaining authentication systems for one thousand different external software services.",
-      "source_url": "https://nango.dev/blog/lessons-from-operating-api-auth-for-900-apis/"
+      "domain": "ny.gov",
+      "headline": "New York just patched the 'DLC for your car' exploit",
+      "summary": "Car manufacturers were trying to turn basic hardware features into recurring SaaS revenue streams. New York just pushed a commit that prevents them from charging you to unlock your own heated seats.",
+      "plain_english": "New York has passed a law that prohibits car companies from charging subscription fees for hardware features that are already installed in a vehicle.",
+      "source_url": "https://www.governor.ny.gov/news/money-your-pockets-governor-hochul-signs-bill-restricting-exploitative-vehicle-subscription"
     }
   ],
   "cooked": [
     {
+      "id": 4,
+      "domain": "microsoft.com",
+      "headline": "Microsoft declares 'Code Red' because the cloud is just someone else's computer on fire",
+      "summary": "Microsoft is officially in crisis mode after a massive outage reminded everyone that their entire infrastructure is essentially a house of cards. It turns out that when you build the world's digital backbone, 'turning it off and on again' is a lot more stressful than it is at home.",
+      "plain_english": "Microsoft has initiated an emergency response plan following a widespread service disruption that affected their internal systems and users.",
+      "source_url": "https://www.reuters.com/business/microsoft-declares-code-red-after-historic-outage-internal-memos-show-2026-11-24/"
+    },
+    {
+      "id": 5,
+      "domain": "checkpoint.com",
+      "headline": "The security company's security management servers are currently being managed by strangers",
+      "summary": "There is a special kind of irony in watching a cybersecurity firm get breached while they are supposed to be protecting everyone else. It is like showing up to fire safety training only to find the building is already engulfed in flames.",
+      "plain_english": "Hackers are actively targeting and exploiting vulnerabilities in the security management servers used by Check Point.",
+      "source_url": "https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign"
+    },
+    {
+      "id": 6,
+      "domain": "cia.gov",
+      "headline": "The CIA got hacked, proving that even spies have a 'forgot password' problem",
+      "summary": "The Central Intelligence Agency suffered a breach on an unclassified system, which is basically the digital equivalent of leaving your garage door open. It turns out that even the world's most sophisticated intelligence network isn't immune to the classic 'I'm sure this file is safe to open' mistake.",
+      "plain_english": "The Central Intelligence Agency experienced a cyberattack on a computer system that does not contain classified information.",
+      "source_url": "https://apnews.com/article/cia-cyberattack-unclassified-system-bfa6d3b02e3b0e2779dfb613c900bd77"
+    },
+    {
       "id": 7,
-      "domain": "nvidia.com",
-      "headline": "Congress is currently doing a code review on Nvidia's leadership",
-      "summary": "Lawmakers are slamming the potential return of Jensen Huang, treating the corporate board shuffle like a massive project failure. It turns out that when you run the world's most important GPU factory, your HR drama becomes a matter of national security.",
-      "plain_english": "Members of Congress have criticized the reported efforts to bring Jensen Huang back to Nvidia, calling the situation an ethical failure.",
-      "source_url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-congress-trump.html"
+      "domain": "megaspeed.com",
+      "headline": "Megaspeed just got the 'we don't know you' treatment from the U.S. government.",
+      "summary": "Being an Nvidia partner is usually a golden ticket, until the Commerce Department decides your export list looks a little too suspicious. It turns out that 'global expansion' is a great strategy right up until the federal government hits your access token with a 403 Forbidden.",
+      "plain_english": "The U.S.",
+      "source_url": "https://www.upi.com/Top_News/US/2026/11/24/NVIDIA-partner-Megaspeed/1701795520063/"
     },
     {
       "id": 8,
-      "domain": "apple.com",
-      "headline": "Apple just evicted a nine-year-old app from the EU store for being too open-source",
-      "summary": "After nine years of service, Apple decided a developer's app was suddenly unfit for the EU App Store. It's the digital version of a landlord deciding your rent-controlled apartment is now a luxury boutique hotel.",
-      "plain_english": "Apple removed a long-standing open-source application from its European App Store, citing compliance issues after nine years of availability.",
-      "source_url": "https://github.com/glushchenko/fsnotes/discussions/2056"
+      "domain": "meta.com",
+      "headline": "Meta's moderation algorithm just triggered a physical side quest",
+      "summary": "When your automated account bans are so aggressive that politicians decide to raid your headquarters, you've officially lost the plot. It turns out that 'contact support' is a lot less effective than showing up at the office with a mob.",
+      "plain_english": "Indian opposition politicians entered Meta's offices to protest the suspension of their Instagram accounts.",
+      "source_url": "https://korben.info/en/india-opposition-storms-meta-offices-instagram-accounts.html"
     },
     {
       "id": 9,
-      "domain": "rockstargames.com",
-      "headline": "Rockstar's security team is currently having the worst Monday in history",
-      "summary": "Someone managed to leak the actual Xbox executable for GTA 6, turning Rockstar's internal build process into a public download link. It's the digital equivalent of leaving your house keys in the front door lock with a 'Welcome' sign attached.",
-      "plain_english": "A functional version of the upcoming Grand Theft Auto 6 game for the Xbox console has been leaked online.",
-      "source_url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1y3jzqe/cyberleek_posted_the_gta_6_xbox_build_executable/"
+      "domain": "anthropic.com",
+      "headline": "Anthropic's IPO stock price is officially speedrunning a race to the bottom.",
+      "summary": "Investors are realizing that being the 'safer' AI company doesn't actually make the stock chart look any less dangerous. It turns out the market isn't interested in a safety-first approach when the share price is crashing in real-time.",
+      "plain_english": "Anthropic's stock price has fallen below the value at which it was initially sold to the public.",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-11-24/anthropic-breaks-below-83-ipo-price-in-premarket-trading"
     },
     {
       "id": 10,
       "domain": "openai.com",
-      "headline": "The AI bubble is starting to deflate, and it's making a very sad squeaking noise",
-      "summary": "The massive influx of venture capital into AI is finally hitting the wall of actual revenue expectations. It turns out that burning billions on GPU clusters is only a viable business model if you eventually find customers who don't just want to play with chatbots for free.",
-      "plain_english": "Investors are becoming more skeptical about the financial sustainability and profitability of the current artificial intelligence boom.",
-      "source_url": "https://mathbabe.org/2026/11/23/buckle-up-the-ai-bubble-is-popping/"
+      "headline": "We're burning cash to make tokens cheaper, which is basically the worst business model ever.",
+      "summary": "The industry is stuck in a loop where we spend billions on massive data centers only to slash prices and drive revenue into the ground. It's like opening an expensive restaurant just to hand out free samples until you run out of money.",
+      "plain_english": "The high cost of building artificial intelligence infrastructure is not being covered by the declining price of using AI services.",
+      "source_url": "https://philippdubach.com/posts/cheaper-ai-tokens-wont-pay-for-capex/"
     }
   ]
 }
