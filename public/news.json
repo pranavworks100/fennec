@@ -1,91 +1,91 @@
 {
   "meta": {
-    "date": "Sunday, November 22, 2026",
-    "scene_summary": "We are currently building a digital future that leaks faster than it ships.",
-    "ratio_statement": "5:5"
+    "date": "Tuesday, November 24, 2026",
+    "scene_summary": "We're busy building the future, while the government and the lawyers are busy breaking it.",
+    "ratio_statement": "6:4"
   },
   "cooking": [
     {
       "id": 1,
-      "domain": "softbank.com",
-      "headline": "SoftBank tried to buy SK Hynix for $1T, proving they have more money than sense",
-      "summary": "Masayoshi Son apparently thought he could just buy the entire chip supply chain like he was shopping for groceries on a Sunday. It's comforting to know that even with a trillion dollars, some people still think they can just throw a check at a hardware manufacturing monopoly and call it a strategy.",
-      "plain_english": "SoftBank reportedly considered acquiring semiconductor manufacturer SK Hynix for one trillion dollars.",
-      "source_url": "https://www.reuters.com/world/asia-pacific/softbanks-son-explored-1-trillion-buyout-sk-hynix-information-reports-2026-11-21/"
+      "domain": "nvidia.com",
+      "headline": "When the CEO is a system dependency that the government can't afford to lose",
+      "summary": "Trump is reportedly pushing to bring Jensen Huang back to the helm, proving that some tech leaders are truly 'too big to fail.' It's like trying to reinstall a core library after you already deleted it to save space. More details in the original article.",
+      "plain_english": "Former President Trump is allegedly working to reinstate Jensen Huang as the leader of Nvidia.",
+      "source_url": "https://www.nytimes.com/2026/11/23/us/politics/trump-nvidia-huang.html"
     },
     {
       "id": 2,
-      "domain": "tesla.com",
-      "headline": "Tesla's FSD v15 is here to fix the potholes that v14 definitely didn't hit",
-      "summary": "Tesla is rolling out FSD v15 to tackle real-world road hazards like signs and potholes, which is basically the automotive equivalent of patching a production bug that shouldn't have existed in the first place. It's great that the car is getting smarter, but I'm still waiting for the update that stops it from treating a construction zone like a suggestion.",
-      "plain_english": "Tesla has released version 15 of its Full Self-Driving software, which includes improvements designed to better identify traffic signs and navigate road surface defects.",
-      "source_url": "https://electrek.co/2026/11/21/tesla-fsd-v15-rollout-25x-safety-reality-view/"
+      "domain": "stalw.art",
+      "headline": "Stalwart is betting you'd rather run your own mail server than pay Microsoft",
+      "summary": "Stalwart just dropped a drop-in replacement for Exchange, finally giving sysadmins a way to escape the corporate email tax. It turns out the only thing developers hate more than configuring SMTP is actually paying for the privilege of troubleshooting it.",
+      "plain_english": "Stalwart has released software that allows companies to manage their own email systems instead of using Microsoft's subscription-based service.",
+      "source_url": "https://stalw.art/blog/microsoft-exchange-replacement/"
     },
     {
       "id": 3,
-      "domain": "dragos.com",
-      "headline": "Putting canary tokens in your AI supply chain is just digital glitter bombing.",
-      "summary": "Security researchers are now baiting AI supply chains with fake files to catch hackers in the act. It turns out the best way to stop a sophisticated cyber threat is to leave a digital breadcrumb trail that screams 'please click me'.",
-      "plain_english": "Security experts are using hidden tracking files within AI software supply chains to detect and identify unauthorized access attempts.",
-      "source_url": "https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens"
+      "domain": "docker.com",
+      "headline": "Docker is trying to convince us that 'trust' is a feature you can ship",
+      "summary": "Docker is rolling out new security features focused on building trust into the container lifecycle. It's a bold move to suggest that developers might finally stop pulling random images from the internet just because they seem to work.",
+      "plain_english": "Docker has introduced new security tools designed to verify the authenticity and safety of software images used in containers.",
+      "source_url": "https://www.docker.com/blog/meet-the-new-docker-built-to-run-on-trust/"
     },
     {
       "id": 4,
-      "domain": "regjeringen.no",
-      "headline": "Norway wants to ground your digital social life",
-      "summary": "Norway is expanding its under-16 social media ban to include games and messaging apps, essentially trying to force an entire generation into a forced digital detox. Good luck explaining to a teenager that they can't touch Discord or their games while the government is the one acting like the strict parent who kills the Wi-Fi at 9 PM.",
-      "plain_english": "The Norwegian government is proposing legislation to restrict access to social media, online gaming, and messaging services for children under the age of 16.",
-      "source_url": "https://www.euronews.com/2026/10/19/norway-to-extend-proposed-under-16-social-media-ban-to-online-games-and-messaging-apps"
+      "domain": "ladybird.org",
+      "headline": "A new browser engine just dropped, and it wasn't built by a trillion-dollar company",
+      "summary": "Ladybird just hit alpha, proving that you can actually build a browser engine from scratch without being a massive tech conglomerate. It's the software equivalent of building a car in your garage that actually manages to pass inspection.",
+      "plain_english": "The Ladybird web browser has reached an early testing stage, marking a significant milestone in the development of an independent browser engine.",
+      "source_url": "https://ladybird.org/posts/alpha/"
     },
     {
       "id": 5,
-      "domain": "toyota.com",
-      "headline": "Toyota, Nissan, and Honda are finally realizing they can share Legos",
-      "summary": "These car giants are standardizing parts to save money, finally admitting that reinventing the wheel for every single model is a massive waste of time. It's the automotive equivalent of realizing you don't need to write a custom framework for every single microservice.",
-      "plain_english": "Toyota, Nissan, and Honda have agreed to standardize vehicle components to reduce manufacturing costs and improve supply chain efficiency.",
-      "source_url": "https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/"
+      "domain": "z.ai",
+      "headline": "GLM-5.4 introduces a loop transformer, because your code wasn't recursive enough already",
+      "summary": "The team at Z.ai is trying to teach AI how to loop properly, finally admitting that current models are bad at basic iterative tasks. It's a bold attempt to fix the 'I forgot how to finish this function' problem that plagues every junior dev on their first week.",
+      "plain_english": "The company Z.ai has released a new artificial intelligence model designed to better handle repetitive coding tasks through a specialized processing method.",
+      "source_url": "https://z.ai/blog/glm-5.4"
+    },
+    {
+      "id": 6,
+      "domain": "nango.dev",
+      "headline": "Managing 1,000 API integrations is just 1,000 ways for OAuth to ruin your weekend",
+      "summary": "Nango survived the trenches of maintaining auth for a thousand different APIs and lived to tell the tale of why your 'simple' integration is actually a ticking time bomb. It turns out that when you scale to that many providers, you stop being a developer and start being a professional hostage negotiator for tokens.",
+      "plain_english": "Nango has published a report detailing the challenges and lessons learned from maintaining authentication systems for one thousand different external software services.",
+      "source_url": "https://nango.dev/blog/lessons-from-operating-api-auth-for-900-apis/"
     }
   ],
   "cooked": [
     {
-      "id": 6,
-      "domain": "backblaze.com",
-      "headline": "Backblaze's new privacy policy is a masterclass in how to lose customer trust in one update",
-      "summary": "Backblaze updated their policy in a way that has users worried their backups aren't as private as they once were. It's like finding out your digital safe now has a 'share contents with marketers' feature hidden in the fine print.",
-      "plain_english": "Backblaze users are concerned that a recent update to the company's privacy policy may allow for the sale or sharing of their personal information.",
-      "source_url": "https://www.neowin.net/news/backblaze-customers-worried-of-personal-data-salesharing-after-policy-update/"
-    },
-    {
       "id": 7,
-      "domain": "together.ai",
-      "headline": "Together.ai accidentally turned 'prompt engineering' into 'prompt leaking'",
-      "summary": "Together.ai admitted that some user prompts were visible to other customers for a few months, which is the AI equivalent of leaving your diary open on the lunch table. At least now we know that 'top secret' system prompts are usually just one typo away from becoming public knowledge.",
-      "plain_english": "Together.ai experienced a security issue where some users' prompts were inadvertently exposed to other customers over the summer.",
-      "source_url": "https://www.together.ai/blog/security-event-prompt-leakage-for-requests-in-june-and-july-of-2026"
+      "domain": "nvidia.com",
+      "headline": "Congress is currently doing a code review on Nvidia's leadership",
+      "summary": "Lawmakers are slamming the potential return of Jensen Huang, treating the corporate board shuffle like a massive project failure. It turns out that when you run the world's most important GPU factory, your HR drama becomes a matter of national security.",
+      "plain_english": "Members of Congress have criticized the reported efforts to bring Jensen Huang back to Nvidia, calling the situation an ethical failure.",
+      "source_url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-congress-trump.html"
     },
     {
       "id": 8,
-      "domain": "bridgewater.com",
-      "headline": "Current AI security is like using a screen door to stop a flood.",
-      "summary": "New reports suggest that our current defenses against AI-driven cyber viruses are essentially just thoughts and prayers. It's comforting to know that while AI can write code, it's also remarkably efficient at finding new ways to break the internet.",
-      "plain_english": "Existing security measures are considered insufficient to effectively contain or mitigate the rapid spread of automated AI-driven cyber threats.",
-      "source_url": "https://www.bridgewater.com/research-and-insights/current-efforts-arent-enough-to-slow-the-ai-cyber-virus"
+      "domain": "apple.com",
+      "headline": "Apple just evicted a nine-year-old app from the EU store for being too open-source",
+      "summary": "After nine years of service, Apple decided a developer's app was suddenly unfit for the EU App Store. It's the digital version of a landlord deciding your rent-controlled apartment is now a luxury boutique hotel.",
+      "plain_english": "Apple removed a long-standing open-source application from its European App Store, citing compliance issues after nine years of availability.",
+      "source_url": "https://github.com/glushchenko/fsnotes/discussions/2056"
     },
     {
       "id": 9,
-      "domain": "un.org",
-      "headline": "World leaders fail to agree on 'Terminator' rules",
-      "summary": "The UN tried to set boundaries for autonomous weapons, but the talks collapsed because apparently, we can't even agree on how to stop the robots from taking over. It's like a group project where nobody does the research and everyone just hopes the final submission doesn't delete the entire codebase.",
-      "plain_english": "International negotiations to create rules for the use of autonomous weapons have ended without an agreement.",
-      "source_url": "https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse"
+      "domain": "rockstargames.com",
+      "headline": "Rockstar's security team is currently having the worst Monday in history",
+      "summary": "Someone managed to leak the actual Xbox executable for GTA 6, turning Rockstar's internal build process into a public download link. It's the digital equivalent of leaving your house keys in the front door lock with a 'Welcome' sign attached.",
+      "plain_english": "A functional version of the upcoming Grand Theft Auto 6 game for the Xbox console has been leaked online.",
+      "source_url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1y3jzqe/cyberleek_posted_the_gta_6_xbox_build_executable/"
     },
     {
       "id": 10,
-      "domain": "openrouter.ai",
-      "headline": "Inference providers are accidentally leaking your 'private' prompts",
-      "summary": "Turns out your sensitive data was being logged by providers because privacy is apparently just a suggestion in the LLM ecosystem. It's like leaving your diary on the school bus and hoping the other kids don't know how to read.",
-      "plain_english": "Several AI inference providers failed to properly secure user data, resulting in prompts being stored and exposed in logs.",
-      "source_url": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/"
+      "domain": "openai.com",
+      "headline": "The AI bubble is starting to deflate, and it's making a very sad squeaking noise",
+      "summary": "The massive influx of venture capital into AI is finally hitting the wall of actual revenue expectations. It turns out that burning billions on GPU clusters is only a viable business model if you eventually find customers who don't just want to play with chatbots for free.",
+      "plain_english": "Investors are becoming more skeptical about the financial sustainability and profitability of the current artificial intelligence boom.",
+      "source_url": "https://mathbabe.org/2026/11/23/buckle-up-the-ai-bubble-is-popping/"
     }
   ]
 }
