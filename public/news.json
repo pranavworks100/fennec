@@ -1,91 +1,91 @@
 {
   "meta": {
-    "date": "Thursday, November 26, 2026",
-    "scene_summary": "We're building an AI-powered future where everything is automated except the layoffs and the server bills.",
-    "ratio_statement": "1:9"
+    "date": "Friday, November 27, 2026",
+    "scene_summary": "We are building the future on a foundation of screen doors and out-of-office replies.",
+    "ratio_statement": "4:6"
   },
   "cooking": [
     {
       "id": 1,
-      "domain": "qualcomm.com",
-      "headline": "Qualcomm's Oryon 3 is finally proving that x86 doesn't have a monopoly on performance.",
-      "summary": "Qualcomm's latest chip is hitting performance peaks that make traditional processors look like they're still stuck in a morning meeting. It turns out that when you stop carrying thirty years of legacy baggage, you can actually run a bit faster.",
-      "plain_english": "Qualcomm's new Oryon 3 processor has achieved top-tier performance benchmarks, signaling a significant advancement for ARM-based chips.",
-      "source_url": "https://chipsandcheese.com/p/qualcomms-oryon-3-reaches-the-top"
+      "domain": "europa.eu",
+      "headline": "The EU is officially making browser competition its new favorite side quest",
+      "summary": "The European Commission has decided that the browser market needs a referee to stop the current players from hoarding all the traffic. It's like being forced to use the school's approved browser, only to realize the teacher is finally taking away the monopoly.",
+      "plain_english": "The European Commission has identified browser competition as a priority area for enforcement under the Digital Markets Act.",
+      "source_url": "https://open-web-advocacy.org/es/blog/commission-responds-declares-browser-competition-a-dma-priority/"
+    },
+    {
+      "id": 2,
+      "domain": "ca.gov",
+      "headline": "New York and California are trying to ID check the entire internet",
+      "summary": "New York and California are rolling out strict age-gating rules that effectively turn the internet into a club with an extremely grumpy bouncer. Good luck explaining to a government regulator that your backend doesn't actually know who is behind the keyboard.",
+      "plain_english": "New York and California are implementing new regulations in the coming year that require websites to verify the ages of their users.",
+      "source_url": "https://www.eff.org/deeplinks/2026/11/new-york-and-california-age-gating-rules-go-effect-new-year"
+    },
+    {
+      "id": 3,
+      "domain": "ladybird.org",
+      "headline": "Ladybird enters alpha, proving you can build a browser without a billionaire",
+      "summary": "The Ladybird browser has hit alpha, showing that you don't actually need a massive tech conglomerate to handle the absolute nightmare that is modern web standards. It is the software equivalent of building a custom car in your garage while everyone else is just complaining about the traffic.",
+      "plain_english": "The Ladybird web browser has reached the alpha testing stage, marking a significant milestone in the development of a new, independent browser engine.",
+      "source_url": "https://www.theregister.com/software/2026/11/26/indie-web-browser-ladybird-enters-alpha-testing/5311914"
+    },
+    {
+      "id": 4,
+      "domain": "google.com",
+      "headline": "DeepMind just assigned the group project to the AI agents",
+      "summary": "DeepMind is letting AI agents manage their own compute resources for Gemini experiments. It's like giving the interns the keys to the server room and hoping they don't accidentally delete the production database by lunch.",
+      "plain_english": "Google's DeepMind division is using automated AI programs to manage the computing power required to train and test its Gemini models.",
+      "source_url": "https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant/"
     }
   ],
   "cooked": [
     {
-      "id": 2,
-      "domain": "nvidia.com",
-      "headline": "Nvidia's supply chain is doing a speedrun of the 'global trade restrictions' level.",
-      "summary": "Nvidia is cutting off chip shipments to Southeast Asia to keep regulators happy. It turns out even the most powerful hardware on earth can't compute a workaround for international export laws.",
-      "plain_english": "Nvidia has stopped shipping its chips to Southeast Asia to comply with government export restrictions.",
-      "source_url": "https://www.ft.com/content/7838a715-07d4-4605-aa60-21f5af2b2370"
-    },
-    {
-      "id": 3,
-      "domain": "ibm.com",
-      "headline": "IBM is giving employees a three-week notice to move or find a new job.",
-      "summary": "IBM told staff on visas they have less than a month to relocate or pack their bags, which is a bold strategy for retaining institutional knowledge. It's the corporate equivalent of telling your roommates to move out three weeks before rent is due.",
-      "plain_english": "IBM has informed employees working on specific visas that they must relocate or leave the company by the end of the year.",
-      "source_url": "https://economictimes.indiatimes.com/nri/work/ibm-gives-h-1b-green-card-holders-3-weeks-to-relocate-from-us-or-leave-company-december-31-deadline-set/articleshow/136180168.cms?from=mdr"
-    },
-    {
-      "id": 4,
-      "domain": "nvidia.com",
-      "headline": "Nvidia's board is apparently just a group project where nobody trusts the team leader",
-      "summary": "The S&P is side-eyeing Nvidia's board, questioning if their governance is actually compromised or just incredibly chaotic. It's comforting to know that even trillion-dollar companies struggle with the same 'who actually runs this place' energy as a failing startup.",
-      "plain_english": "The S&P has raised concerns regarding the corporate governance and board independence of Nvidia.",
-      "source_url": "https://www.reuters.com/technology/us-finds-no-evidence-china-directed-executive-spy-nvidia-ceo-wsj-reports-2026-11-25/"
-    },
-    {
       "id": 5,
-      "domain": "google.com",
-      "headline": "Google released a Gmail AI agent that can't send emails, which is peak productivity",
-      "summary": "Google is forcing its AI agents to use the Model Context Protocol, but the Gmail version is strictly a 'read-only' experience. It's like hiring a personal assistant who can read your mail but refuses to touch the keyboard when you ask them to reply.",
-      "plain_english": "Google has integrated its AI agents with the Model Context Protocol, but the Gmail agent currently lacks the ability to compose or send emails.",
-      "source_url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/"
+      "domain": "af.mil",
+      "headline": "The Air Force's 'Cloud One' is now just 'Cloud None'",
+      "summary": "The US Air Force flagship computing platform got breached, proving that even a military-grade cloud isn't immune to the classic 'forgot to patch the server' energy. It turns out that when you name your infrastructure 'Cloud One,' hackers treat it like a scoreboard rather than a target.",
+      "plain_english": "The United States Air Force experienced a security breach involving its primary cloud computing platform.",
+      "source_url": "https://www.reuters.com/world/hackers-breach-us-air-force-flagship-cloud-one-computing-platform-2026-11-27/"
     },
     {
       "id": 6,
-      "domain": "1984.is",
-      "headline": "1984 Hosting is having a very un-Orwellian security crisis",
-      "summary": "The irony of a company named after a famous surveillance novel going dark due to a security incident is almost too perfect. I guess even the most privacy-focused providers aren't immune to the classic 'oops, we left the front door open' maneuver.",
-      "plain_english": "The web hosting company 1984 is currently offline following a security breach.",
-      "source_url": "https://status.1984.is/status/public"
+      "domain": "gov.uk",
+      "headline": "The UK government is currently experiencing a country-wide 'out of office' reply",
+      "summary": "The UK government had to pull services offline due to a cyber incident, effectively hitting the pause button on the entire nation's bureaucracy. It's the ultimate group project nightmare where one person messes up and the whole team has to stop working until IT clears the cache.",
+      "plain_english": "The United Kingdom government has temporarily taken several public services offline following a cyber security incident.",
+      "source_url": "https://www.bbc.co.uk/news/live/c6rrg94lgjrjt"
     },
     {
       "id": 7,
-      "domain": "ransomwarehelp.com",
-      "headline": "The CTO of 'RansomwareHelp' indicted for being the problem, not the solution",
-      "summary": "It turns out the company promising to help you with ransomware was allegedly just running the whole racket from the inside. It's like hiring a locksmith who is also the guy who keeps breaking into your house to drum up business.",
-      "plain_english": "The chief technology officer of a company that claimed to assist victims of ransomware has been charged with fraud.",
-      "source_url": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/"
+      "domain": "x.com",
+      "headline": "Grok is now generating the kind of content that gets your account banned",
+      "summary": "State attorneys are suing X because their AI model is apparently struggling to tell the difference between a prompt and a crime scene. It turns out that when you remove all the guardrails to be 'edgy,' you eventually end up in a legal deposition.",
+      "plain_english": "Several U.S.",
+      "source_url": "https://www.oag.state.va.us/media-center/news-releases/jay-jones/3162-attorneys-general-jones-and-rayfield-file-suit-against-spacex-parent-company-of-x-xai-and-grok-over-creation-and-promotion-of-child-exploitation-and-non-consensual-images-on-platform"
     },
     {
       "id": 8,
-      "domain": "openai.com",
-      "headline": "OpenAI's usage limits are the ultimate 'please stop using our product so much' notification.",
-      "summary": "OpenAI is throttling usage for Astra and Sol, effectively telling users that their AI is so popular it's starting to become a liability. It's the digital equivalent of a restaurant that gets too crowded and decides to start locking the doors during the dinner rush.",
-      "plain_english": "OpenAI has reduced the usage limits for its Astra and Sol models, causing them to reach capacity faster than before.",
-      "source_url": "https://twitter.com/thsottiaux/status/2125784147889393806"
+      "domain": "mathematics.org",
+      "headline": "Math experts realize our digital locks are basically screen doors",
+      "summary": "Mathematicians are warning that AI is getting so good at solving complex problems that it might soon brute-force our entire encryption infrastructure. It turns out that building the world's most secure digital vault is useless if you accidentally invent a locksmith that works at the speed of light.",
+      "plain_english": "Researchers are concerned that advancements in artificial intelligence will soon allow computers to break the encryption methods currently used to protect private online data.",
+      "source_url": "https://www.thetimes.com/uk/technology-uk/article/ai-making-online-security-useless-smr73d3n8"
     },
     {
       "id": 9,
-      "domain": "openai.com",
-      "headline": "OpenAI is trying to stop the server bill from eating the company",
-      "summary": "Building the future of intelligence is expensive, but apparently, the electricity bill is starting to look like a mid-life crisis. It turns out that even the company defining the industry has to learn the hard way that you can't just throw GPU cycles at every problem forever.",
-      "plain_english": "OpenAI is implementing measures to reduce its high operating costs associated with running its artificial intelligence models.",
-      "source_url": "https://micjm.com/blog/openai-is-in-cost-control-mode/"
+      "domain": "google.com",
+      "headline": "Google wants solo devs to do their own doxxing",
+      "summary": "Google is now requiring individual Android developers to publish their personal phone numbers and home addresses on the Play Store. It is a bold strategy to make 'indie dev' feel less like building an app and more like a high-stakes game of hide-and-seek with your own privacy.",
+      "plain_english": "Google now requires independent app developers to display their personal contact information and physical addresses publicly on the Google Play Store.",
+      "source_url": "https://support.google.com/googleplay/android-developer/answer/17594752?hl=en"
     },
     {
       "id": 10,
-      "domain": "notion.com",
-      "headline": "Notion's MCP is just a salesperson in a trench coat",
-      "summary": "Notion decided to sneak upsell prompts into the background context of their AI integration, because apparently, you can't even automate your own notes without a sales pitch. It's like asking your assistant to organize your files and having them suggest a premium subscription to the filing cabinet every three minutes.",
-      "plain_english": "Notion's official connector for AI agents includes hidden instructions that encourage users to upgrade their subscription plans.",
-      "source_url": "https://www.reddit.com/r/ClaudeCode/comments/1y4qm5o/heads_up_if_you_wire_notions_official_mcp_into/"
+      "domain": "london.edu",
+      "headline": "The AI bubble is looking less like a rocket and more like a screen door on a submarine",
+      "summary": "New research suggests the AI market is heading for a major collapse as the hype starts to outpace the actual utility. It turns out that when you spend billions on infrastructure, you eventually need to show someone a profit that isn't just another hallucination.",
+      "plain_english": "New research indicates that the current high level of investment in artificial intelligence may result in a significant market downturn.",
+      "source_url": "https://www.london.edu/think/ai-bubble-about-to-burst"
     }
   ]
 }
